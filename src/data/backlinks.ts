@@ -316,6 +316,9 @@ export const backlinks = {
     "2023-06-20": {
         "Project Heimdall": "## [[2023-06-20]]"
     },
+    "2023-09-19": {
+        "커피의 끝": "커피를 끊은지 한달 반이 넘었다. ([[2023-09-19]])."
+    },
     "2020-09-20": {
         "프로젝트 어덕행덕": "## [[2020-09-20]]의 메모"
     },
@@ -658,7 +661,7 @@ export const backlinks = {
         "Apple Newsroom 서체 따라하기": "[[2020-04-15]]"
     },
     "2023-01-13": {
-        "한민족은 해적되었다": "[[2023-01-13]]에 꾼 꿈에서 강력한 [[Text Message|메시지]]를 ..."
+        "한민족은 해적되었다": "[[2023-01-13]]에 꾼 꿈에서 강력한 메시지를 받았다."
     },
     "2023-02-09": {
         "0059 Spiral Matrix II": "Solved at: [[2023-02-09]]"
@@ -775,9 +778,9 @@ export const backlinks = {
     },
     "Winning America": {
         "2023-08-24": "- [[Winning America]]",
-        "Neo Korea": "- [[Winning America]]",
         "네오 코리안 르네상스": "... 국가적 브랜드를 쇄신할 수 있으며, [[Winning America|미국을 이길]] 수 있다.",
-        "학자 및 직계 가족의 의료보장제": "[[Winning America]]. 해외의 인재들이 [[United States of ..."
+        "학자 및 직계 가족의 의료보장제": "[[Winning America]]. 해외의 인재들이 [[United States of ...",
+        "한민족 멸종 방어": "- [[Winning America]]"
     },
     "ChatGPT": {
         "10x Technologist": "... and influential in their work. [[ChatGPT]]",
@@ -1311,9 +1314,9 @@ export const backlinks = {
         "2023-04-17": "- [[Stripe Sessions 2023]]"
     },
     "불가사리": {
-        "Neo Korea": "- [[불가사리]]",
         "불가사리 (기업)": "... 하기 위해서 설립한 1인 기업이다. [[불가사리]]의 영문명으로는 무엇이 좋을까?",
-        "불가사리 재단": "[[불가사리]]"
+        "불가사리 재단": "[[불가사리]]",
+        "한민족 멸종 방어": "- [[불가사리]]"
     },
     "Alternatives to After Effects": {
         "2023-01-22": "- [[Alternatives to After Effects]]",
@@ -1709,7 +1712,7 @@ export const backlinks = {
         "Neo Apps": "... of macOS Applications is changing. [[Neo]] Apps.",
         "Neo Block Economy": "[[Neo]] Block [[Economy]]",
         "Neo Email": "- [[Neo]] [[Mail|Email]]",
-        "Neo Korea": "[[Neo]] [[대한민국|Korea]]"
+        "한민족 멸종 방어": "[[Neo]] [[대한민국|Korea]]"
     },
     "SendGrid": {
         "2022-10-17": "- [[SendGrid]]",
@@ -2304,7 +2307,6 @@ export const backlinks = {
         "iMessage": "... that allows users to send [[Text Message|Texts]], photos, videos, and other information ...",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... Hooked와 같은 채팅형 소설 서비스는 [[Text Message|문자]] 버블의 모양과 느낌을 차용하여 이해하기 ...",
         "유난한 도전": "... 누군가 몸살이 나서 하루 쉬겠다고 [[Text Message|메시지]]를 남기면 완쾌해내세요 댓글이 달렸다.",
-        "한민족은 해적되었다": "2023-01-13에 꾼 꿈에서 강력한 [[Text Message|메시지]]를 받았다.",
         "혜성처럼 나타난 본디": "... 있다. 친구에게 사진을 찍어서 보내달라는 [[Text Message|메시지]]를 보낸다. 스냅챗과 똑같은 방식이지만, 처음 ..."
     },
     "AVCapture": {
@@ -2330,9 +2332,9 @@ export const backlinks = {
     },
     "태백산맥 계획": {
         "2022-12-11": "- [[태백산맥 계획]]",
-        "Neo Korea": "- [[태백산맥 계획]]",
         "Reddit Place for Korea": "한국판 Reddit Place. [[태백산맥 계획]]",
-        "Regulation of Fake News": "- [[태백산맥 계획]]"
+        "Regulation of Fake News": "- [[태백산맥 계획]]",
+        "한민족 멸종 방어": "- [[태백산맥 계획]]"
     },
     "Mutual Fund": {
         "Finance": "- [[Mutual Fund]]",
@@ -2630,7 +2632,7 @@ export const backlinks = {
     },
     "벌금과 물가": {
         "2022-10-21": "- [[벌금과 물가]]",
-        "Neo Korea": "- [[벌금과 물가]]"
+        "한민족 멸종 방어": "- [[벌금과 물가]]"
     },
     "Latency and Throughput": {
         "2022-11-03": "- [[Latency and Throughput]]",
@@ -3103,13 +3105,6 @@ export const backlinks = {
         "Proposal of Research 2023-01-10": "... dataset of image-to-text created by [[OpenAI]]. We need a CLIP inference ...",
         "Search AI": "... 필요 없어지는 것이지요. 엊그제 나온 [[OpenAI]]의 [[ChatGPT]]에 많은 사람들이 놀라고 있어요. ...",
         "hn.cho.sh 개발 기록": "[[OpenAI]]를 가지고 많이 놀았다."
-    },
-    "Neo Korea": {
-        "2022-12-20": "- [[Neo Korea]]",
-        "2023-01-09": "- [[Neo Korea]]",
-        "2023-09-14": "- [[Neo Korea]]",
-        "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[Neo Korea|네오 코리안]] [[르네상스]]가 필요하다.",
-        "의료 인공지능과 의대 쏠림": "[[Neo Korea]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
     },
     "Readings": {
         "2022-09-07": "- [[Readings]]",
@@ -4239,6 +4234,15 @@ export const backlinks = {
         "Using an iPad as my Ebook": "... lacks 대한민국|Korean titles. Knowing that [[Amazon]] loses money for each Kindle ...",
         "쿠팡": "... often referred to as the \"[[Amazon]] of South Korea.\" The company ..."
     },
+    "한민족 멸종 방어": {
+        "16세 수능론": "[[한민족 멸종 방어]]를 위한 하나의 아이디어이다.",
+        "2022-12-20": "- [[한민족 멸종 방어]]",
+        "2023-01-09": "- [[한민족 멸종 방어]]",
+        "2023-09-14": "- [[한민족 멸종 방어]]",
+        "2023-09-19": "- [[한민족 멸종 방어]]",
+        "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
+        "의료 인공지능과 의대 쏠림": "[[한민족 멸종 방어|신한국]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
+    },
     "Math-based Coding": {
         "2022-09-05": "- [[Math-based Coding]]",
         "Real Exams": "- 1 [[Math-based Coding]]"
@@ -4556,7 +4560,7 @@ export const backlinks = {
         "한국인": "대한민국의 국적자이다. [[한민족]]과 다르다.",
         "한민족은 해적되었다": "[[한민족]]은 해적되었다.",
         "한민족의 동족상잔": "- 이것은 전쟁 포로나 다른 [[한민족|민족]]을 노예로 삼았던 사례와 많은 차이를 ...",
-        "한민족의 문화": "[[한민족]]의 문화에 대해서 다룬다."
+        "한민족의 문화": "[[한민족]]의 문화에 대해서 다룬다. 좋든 싫든."
     },
     "벨로퍼트": {
         "Person 9078DC": "벨로그의 초기 성장에는 [[벨로퍼트]]님의 글이 가장 큰 역할을 했다. ..."
@@ -4849,7 +4853,7 @@ export const backlinks = {
     },
     "네오 코리안 르네상스": {
         "2023-09-09": "- [[네오 코리안 르네상스]]",
-        "Neo Korea": "- [[네오 코리안 르네상스]]"
+        "한민족 멸종 방어": "- [[네오 코리안 르네상스]]"
     },
     "Chrome": {
         "2022-09-30": "### [[Chrome]] `renderBlockingStatus`",
@@ -5718,7 +5722,6 @@ export const backlinks = {
         "Letter to Mr. Matt Rickard on 2022-12-24": "... from 서울|Seoul to Daejeon in [[대한민국|Korea]], and I just got this ...",
         "Metadream": "... data centers in Singapore, 일본|Japan, [[대한민국|Korea]], and the [[United States of ...",
         "Naver": "... Naver (Hangul: 네이버) is a [[대한민국|Korean]] online platform operated by the ...",
-        "Neo Korea": "Neo [[대한민국|Korea]]",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... home country, the Republic of [[대한민국|Korea]]. As a student, I feel ...",
         "Person 1E6ABA": "Why would the [[대한민국|Korean]] Govs and 대한민국|Korean Banks promote ...",
         "Person 960D1D": "- possible market expansion outside [[대한민국|Korea]], garnering uncharted markets, leveraging the ...",
@@ -5780,6 +5783,7 @@ export const backlinks = {
         "한국인": "[[대한민국]]의 국적자이다. [[한민족]]과 다르다.",
         "한국통사": "엄청난 Superbrain|지식인이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 몸부림을 서서히 하지만 고약하게 ...",
         "한민족": "한민족은 [[대한민국]]과 [[북한]]의 주류가 되는 민족으로,",
+        "한민족 멸종 방어": "Neo [[대한민국|Korea]]",
         "한민족의 동족상잔": "... 이영훈 전 서울대 교수를 비롯한 [[대한민국|한국]] 학자들은 노비가 양인과 결혼을 할 ...",
         "한반도": "... Asia shared by 북한|North and [[대한민국|South Korea]]. The peninsula is 750 miles ...",
         "헤이그 특사": "... 가지의 전쟁목적이 있다고 공언하였다. 첫째는 [[대한민국|한국]]의 독립유지와 영토보전이요, 둘째는 극동의 교역을 ...",
@@ -6347,8 +6351,8 @@ export const backlinks = {
     },
     "UBI for Scholars": {
         "2022-07-18": "- [[UBI For Scholars]]",
-        "Neo Korea": "- [[UBI For Scholars]]",
-        "이공계": "[[UBI For Scholars|과학자연금]]이 있다면 어떨까?"
+        "이공계": "[[UBI For Scholars|과학자연금]]이 있다면 어떨까?",
+        "한민족 멸종 방어": "- [[UBI For Scholars]]"
     },
     "phash.wasm": {
         "Stable Alternative": "... ] Perceptual Hashing On-Device|On Device. [[phash.wasm]]"
@@ -6379,7 +6383,7 @@ export const backlinks = {
     },
     "학자 및 직계 가족의 의료보장제": {
         "2023-08-24": "- [[학자 및 직계 가족의 의료보장제]]",
-        "Neo Korea": "- [[학자 및 직계 가족의 의료보장제]]"
+        "한민족 멸종 방어": "- [[학자 및 직계 가족의 의료보장제]]"
     },
     "Data Capturers": {
         "Rauno": "Interesting Extracranial Tools for Thought ([[Data Capturers]])",
@@ -6823,6 +6827,9 @@ export const backlinks = {
         "퍼블리시티권": "... 평가, 지명도 등으로부터 생기는 독립한 [[Economy|경제]]적 이익 또는 가치는 그 자체로 ...",
         "프로젝트 어덕행덕": "- 적은 돈으로 (제작) 큰 [[Economy|경제]]적 효과 (팬들에게 홍보 효과) 를 ..."
     },
+    "깍두기": {
+        "2023-09-19": "- [[깍두기]]"
+    },
     "한반도": {
         "2023-08-24": "- [[한반도]]",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 그러나 이러한 위험에도 불구하고 대한민국|한국은 [[한반도]] 내 평화와 안정을 증진하겠다는 의지를 ...",
@@ -6890,7 +6897,7 @@ export const backlinks = {
     "Neo Block Economy": {
         "2022-12-08": "- [[Neo Block Economy]]",
         "MetroPunk": "... 고갈, Economy|경제 붕괴, 새로운 시대의 [[Neo Block Economy|블록경제]], 부패한 정치인, 개인의 무력감을 묘사하는 ...",
-        "Neo Korea": "- [[Neo Block Economy|신블록경제에 오신 것을 환영합니다]]"
+        "한민족 멸종 방어": "- [[Neo Block Economy|신블록경제에 오신 것을 환영합니다]]"
     },
     "Safari is the new Internet Explorer": {
         "2022-12-28": "- [[Safari is the new Internet Explorer]]"
@@ -6906,7 +6913,7 @@ export const backlinks = {
         "Commonplace Book": "... 일종의 개인 일기장이다. 이 관행은 [[르네상스]] 시대부터 사용되어 왔으며, 개인이 시간이 ...",
         "Renaissance": "[[르네상스]]",
         "과거의 영광 (2016-2018)": "... 전환에는 수많은 고통과 역경이 있었다. [[르네상스]]를 공부하며 비슷하게 복잡한 감정을 느꼈다.",
-        "네오 코리안 르네상스": "... 뽑아내기 위해선 Neo Korea|네오 코리안 [[르네상스]]가 필요하다.",
+        "네오 코리안 르네상스": "... 위해선 한민족 멸종 방어|네오 코리안 [[르네상스]]가 필요하다.",
         "역사의 종말 오류": "... 주제 중 하나이다. 중세를 바라보는 [[르네상스]]적 관점과 르네상스를 바라보는 현대적 관점 ..."
     },
     "Open Graph Image as a Service": {
@@ -6976,7 +6983,7 @@ export const backlinks = {
         "헤이그 특사": "... 또 장기집권으로 인한 부패, 과도한 [[Tax|세금]]징수와 가혹한 행정에 허덕여왔던 대한민국|한국 국민과 ..."
     },
     "간판법": {
-        "Neo Korea": "- [[간판법]]"
+        "한민족 멸종 방어": "- [[간판법]]"
     },
     "Better Hacker News": {
         "2022-07-12": "- [[Better Hacker News]]",
@@ -7638,7 +7645,7 @@ export const backlinks = {
     },
     "이무기 기업, 청룡 기업": {
         "30-Day Tweet Test (Harry Stebbings)": "... and Dragon Company <br/> 🇰🇷 [[이무기 기업, 청룡 기업]]      ...",
-        "Neo Korea": "- [[이무기 기업, 청룡 기업]]"
+        "한민족 멸종 방어": "- [[이무기 기업, 청룡 기업]]"
     },
     "Born of this Land - The Founding Story of Hyundai": {
         "2023-02-23": "- [[Born of this Land - The Founding Story of Hyundai]]",
@@ -7902,10 +7909,13 @@ export const backlinks = {
         "한국통사": "엄청난 [[Superbrain|지식인]]이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 ..."
     },
     "한민족의 문화": {
-        "Neo Korea": "- [[한민족의 문화]]",
+        "깍두기": "[[한민족의 문화]]이다. 깍두기는 어릴 때의 놀이에서 자주 ...",
         "서낭당": "서낭당은 [[한민족의 문화]] 건축물로 마을의 수호신인 서낭신을 모신 ...",
         "솟대": "[[한민족의 문화]] 건축물로,",
-        "장승": "[[한민족의 문화]] 건축물로,"
+        "장승": "[[한민족의 문화]] 건축물로,",
+        "한민족 멸종 방어": "- [[한민족의 문화]]",
+        "한민족은 해적되었다": "한민족|민족의 영리함이 [[한민족의 문화|빛을 발하지 못하고 수탈되고 악용되고 제 값을 받지 못한다는 맥락]]이었다.",
+        "한민족의 동족상잔": "[[한민족의 문화|현대에는 다른가?]]"
     },
     "SharedArrayBuffer": {
         "2022-06-22": "...  - WorkerDOM will harness [[SharedArrayBuffer]].",
@@ -8085,9 +8095,9 @@ export const backlinks = {
     },
     "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": {
         "2022-12-11": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]",
-        "Neo Korea": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]",
         "공기 청정 비행선": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]].",
-        "태백산맥 계획": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]."
+        "태백산맥 계획": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]].",
+        "한민족 멸종 방어": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]"
     },
     "Apple-like Block Interface": {
         "2022-12-16": "- [[Apple-like Block Interface]]",
@@ -8112,6 +8122,7 @@ export const backlinks = {
         "2023-01-25": "- [[Preprocessor]]"
     },
     "United States of America": {
+        "16세 수능론": "... 알아듣는데 그렇게 오래 걸리지도 않는다. [[United States of America|미국]]의 공교육 수학을 봐라. 우리나라 중학교 ...",
         "2022-06-10": "... ranges in all of its [[United States of America|U.S.]] job listings, a move that ...",
         "2022-06-14": "... shows how resumes differ in [[United States of America|US]] and [[대한민국|Korea]].",
         "2022-07-05": "- [[United States of America|미국]] 국적이지만 [[대한민국|한국]] 수학자로서는 최초 수상이다. ...",
@@ -8359,6 +8370,9 @@ export const backlinks = {
     },
     "HTML 텍스트 위에 덧말 강조점 쓰기": {
         "2022-11-19": "  - [[HTML 텍스트 위에 덧말 강조점 쓰기]]"
+    },
+    "16세 수능론": {
+        "2023-09-19": "- [[16세 수능론]]"
     },
     "Deepfake": {
         "Digital Signature for Videos": "- Potential countermeasure to [[Deepfake]]."
@@ -8667,7 +8681,7 @@ export const backlinks = {
     },
     "공기 청정 비행선": {
         "2022-12-17": "- [[공기 청정 비행선]]",
-        "Neo Korea": "- [[공기 청정 비행선]]"
+        "한민족 멸종 방어": "- [[공기 청정 비행선]]"
     },
     "Prompt Engineering": {
         "2022-09-03": "- [[Prompt Engineering]]",
@@ -9090,12 +9104,12 @@ export const backlinks = {
         "Antipreneur": "- 강기업이 목표다. 가급적이면 [[Small yet Powerful|강소기업]].",
         "Cut the Fat": "- [[Small yet Powerful]]",
         "Era of Invites": "... software companies are primarily elite [[Small yet Powerful|small yet mighty]] teams. So why don't big ...",
-        "Neo Korea": "- [[Small yet Powerful|작지만 강력한]]",
         "Zenly Playbook": "... So how did this French [[Small yet Powerful|hidden champion]] flourish and vanish? And what ...",
         "強力反權": "- [[Small yet Powerful]]",
         "강기업": "우리의 목표는 [[Small yet Powerful|강소]]기업이다.",
         "젠리의 성공 공식": "... 시작해 3천억에 스냅에 인수된 기술 [[Small yet Powerful|강소]] 기업은 어떻게 성장하고 어떻게 사라졌을까. ...",
-        "초대장의 시대": "... 초대장 기반 소프트웨어 기업은 대부분 [[Small yet Powerful|소수정예]] 엘리트 팀이라는 점이다. 빅테크들은 왜 ..."
+        "초대장의 시대": "... 초대장 기반 소프트웨어 기업은 대부분 [[Small yet Powerful|소수정예]] 엘리트 팀이라는 점이다. 빅테크들은 왜 ...",
+        "한민족 멸종 방어": "- [[Small yet Powerful|작지만 강력한]]"
     },
     "Vertex Buffer": {
         "2023-01-23": "- [[Vertex Buffer]]"
@@ -9198,6 +9212,9 @@ export const backlinks = {
         "Threads (Service)": "... PR show to enter the [[EU]] market with minimum regulations. [[Meta ...",
         "Universal Chat App": "In the [[EU]], it's slightly more complicated. Most ..."
     },
+    "커피의 끝": {
+        "2023-09-19": "- [[커피의 끝]]"
+    },
     "Standard Cauchy": {
         "2023-03-07": "- [[Standard Cauchy]]"
     },
@@ -9264,7 +9281,7 @@ export const backlinks = {
     "強力反權": {
         "2023-01-09": "- [[強力反權]]",
         "Antipreneur": "- [[強力反權|강력반권]]",
-        "Neo Korea": "- [[強力反權]]"
+        "한민족 멸종 방어": "- [[強力反權]]"
     },
     "CSS에서 언어마다 다른 글씨체를 설정하는 방법": {
         "2022-11-19": "  - [[CSS에서 언어마다 다른 글씨체를 설정하는 방법]]",
@@ -9519,7 +9536,7 @@ export const backlinks = {
     },
     "의료 인공지능과 의대 쏠림": {
         "2023-02-15": "- [[의료 인공지능과 의대 쏠림]]",
-        "Neo Korea": "- [[의료 인공지능과 의대 쏠림]]"
+        "한민족 멸종 방어": "- [[의료 인공지능과 의대 쏠림]]"
     },
     "Enduring Question of Cicada": {
         "2023-03-16": "- [[Enduring Question of Cicada]]"
@@ -10154,8 +10171,8 @@ export const backlinks = {
         "Grammarly Work Note 2023-06-23": "- [[Sample Ratio Mismatch]]"
     },
     "I just want it fixed": {
-        "Neo Korea": "- [[I just want it fixed|그냥 고치면 좋겠다]]",
-        "공기 청정 비행선": "... 제공했든, 그런 것을 다 떠나서 [[I just want it fixed|그냥 고치면 좋겠다]]."
+        "공기 청정 비행선": "... 제공했든, 그런 것을 다 떠나서 [[I just want it fixed|그냥 고치면 좋겠다]].",
+        "한민족 멸종 방어": "- [[I just want it fixed|그냥 고치면 좋겠다]]"
     },
     "AI replaces expensive jobs first": {
         "2022-10-20": "- [[AI replaces expensive jobs first]]",
@@ -10165,6 +10182,7 @@ export const backlinks = {
         "2023-01-26": "- [[Great Schism]]"
     },
     "한국의 입시와 거짓된 명예": {
+        "16세 수능론": "1. 상위권에겐 — 허황된 승리감. [[한국의 입시와 거짓된 명예]]. 수능의 가장 큰 문제는 어린 ...",
         "2022-11-25": "- [[한국의 입시와 거짓된 명예]]",
         "개성은 쟁취하는 것": "- [[한국의 입시와 거짓된 명예]]"
     },
@@ -10395,19 +10413,19 @@ export const backlinks = {
     },
     "이공계": {
         "2023-02-15": "- [[이공계]]",
-        "Neo Korea": "- [[이공계]]",
         "민사고와 쇼비니즘": "[[이공계]] 문제와 [[의대 쏠림]] 문제, 그리고 ...",
         "의대 쏠림": "... 인식되면서 의대는 이 씨와 같은 [[이공계]] 인재들까지 블랙홀처럼 빨아들이고 있다. 종로학원 ...",
-        "의료 인공지능과 의대 쏠림": "Neo Korea으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 지원이 필요하다.",
-        "일본 과학기술 총력전": "[[이공계]] 학자 대부분은 연구비가 윤택하던 전시 ..."
+        "의료 인공지능과 의대 쏠림": "한민족 멸종 방어|신한국으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 지원이 필요하다.",
+        "일본 과학기술 총력전": "[[이공계]] 학자 대부분은 연구비가 윤택하던 전시 ...",
+        "한민족 멸종 방어": "- [[이공계]]"
     },
     "Nextra": {
         "Apple-like Block Interface": "## [[Nextra]]"
     },
     "Small Government vs Big Government": {
         "2022-10-27": "- [[Small Government vs Big Government]]",
-        "Neo Korea": "- [[Small Government vs Big Government]]",
-        "Small yet Powerful": "... be a potential answer to [[Small Government vs Big Government]]"
+        "Small yet Powerful": "... be a potential answer to [[Small Government vs Big Government]]",
+        "한민족 멸종 방어": "- [[Small Government vs Big Government]]"
     },
     "Database": {
         "2022-06-05": "... friction. I strongly dislike slow [[Database|DB]] queries and slow web-based admin ...",
