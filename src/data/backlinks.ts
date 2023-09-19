@@ -2830,7 +2830,7 @@ export const backlinks = {
     "Front-end": {
         "2022-12-28": "- [[Front-end|Frontend]] web framework: [[Next.js|NextJS]]/[[Vercel]] (Past: Ruby ...",
         "Architecture of Mastodon": "... harder. Containerization, Kubernetes, and modern [[front-end]] stacks are challenging to work ...",
-        "Cloudflare Pages": "- Cloudflare Edge [[Front-end]] Front-end",
+        "Cloudflare Pages": "- Cloudflare Edge [[Front-end]]",
         "Generalist": "... in various domains, such as [[front-end]] and [[back-end]] development, mobile app ...",
         "Geohot-Twitter Mayhem": "... Then looked for a one-liner [[front-end]] solution for \"fixing the search ...",
         "Ghost 테마를 자동 배포하는 방법": "... 머리가 없다는 뜻으로, Back-end|백엔드는 존재하지만 [[Front-end|프론트엔드]] (헤드)는 내가 원하는 대로 제작할 ...",
@@ -3122,6 +3122,8 @@ export const backlinks = {
         "2023-03-08": "- [[Readings]]",
         "2023-04-24": "- [[Readings]]",
         "2023-08-31": "- [[Readings]]",
+        "2023-09-18": "- [[Readings]]",
+        "2023-09-19": "- [[Readings]]",
         "Building a Second Brain": "... it into Projects, Research, and [[Readings]].",
         "Displaying exact datetimes on Ghost": "## Further [[Readings]]",
         "Everything Is Figureoutable": "future [[readings]]. like the title.",
@@ -3563,7 +3565,7 @@ export const backlinks = {
     },
     "Optimized Simulations": {
         "2022-09-05": "- [[Optimized Simulations]]",
-        "Real Exams": "- 1 [[Optimized Simulations]] (prefix array)",
+        "Real Exams": "... minimum element after $k$ decrements. [[Optimized Simulations]]",
         "Simulations": "... are time-space restrictions, look into [[Optimized Simulations]]s."
     },
     "Obsidian Ava": {
@@ -4531,6 +4533,7 @@ export const backlinks = {
         "2023-02-15": "- [[한민족]]",
         "2023-06-23": "- [[한민족]]이라는 관념을 사랑했던 것일까.",
         "2023-09-07": "... 고민을 하지 않고 LiNK를 선택했다. [[한민족|민족]]에 대한 내 복잡한 심경과 걱정을 ...",
+        "2023-09-18": "- [[한민족]]",
         "Born of this Land - The Founding Story of Hyundai": "... project would have prevented other [[한민족|Korean]] construction companies from entering overseas ...",
         "Brunch violates SF terms of use": "- [[한민족|Korean]] writing service [[Brunch]] violates [[Apple]]'s ...",
         "Doheny East Asian Book Stacks": "... have a huge collection of [[한민족|Korean]] texts, especially from the 20th ...",
@@ -4712,6 +4715,10 @@ export const backlinks = {
     },
     "Indirect Information Leakage": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Indirect Information Leakage]]"
+    },
+    "미국적 엣지": {
+        "2023-09-18": "- [[미국적 엣지]]",
+        "2023-09-19": "- [[미국적 엣지]]"
     },
     "GitHub Copilot Investigation": {
         "Copilot": "- [[GitHub Copilot Investigation]]"
@@ -5001,6 +5008,7 @@ export const backlinks = {
         "Wikipedia": "... by the Wikimedia Foundation, an [[American]] non-profit organization funded mainly through ...",
         "Y Combinator": "... Y Combinator (YC) is an [[American]] technology startup accelerator launched in ...",
         "너 주식 해": "... 흔하지 않다는 것이다. 몇 가지 [[American|미국인]]들에 대한 관찰:",
+        "미국적 엣지": "나는 [[American|미국인]]이 되고 싶은가 아니면 [[United States ...",
         "이 땅에 태어나서": "... 있는 것은 모조리 배우겠다는 자세로 [[American|미국인]] 기술자들에게서 많은 것을 배웠다."
     },
     "Mac을 Command+L로 잠그는 방법": {
@@ -5177,7 +5185,7 @@ export const backlinks = {
     "J. Robert Oppenheimer": {
         "2023-07-23": "Watched [[J. Robert Oppenheimer|Oppenheimer]]. I was continuously disturbed by ...",
         "Jiro Horikoshi": "... point in history, just like [[J. Robert Oppenheimer]]. [[Robert Oppenheimer and Jiro Horikoshi]]",
-        "Readings": "- [ ] [[J. Robert Oppenheimer]]",
+        "Readings": "- [[J. Robert Oppenheimer]]",
         "Robert Oppenheimer and Jiro Horikoshi": "Both Jiro Horikoshi and [[J. Robert Oppenheimer]] were influential figures during World ...",
         "Watchings": "- [[J. Robert Oppenheimer|Oppenheimer]]",
         "서당개 3년이면 풍월을 읊는다": "... 않았다. 어떤 회사에서든 태생부터 남다른 [[J. Robert Oppenheimer|오펜하이머]]급 [[Superbrain|슈퍼브레인]]은 얼마 되지 않는 듯했다. ..."
@@ -5321,6 +5329,7 @@ export const backlinks = {
         "Doheny East Asian Book Stacks": "However, many [[한국인|Koreans]] don't know or care about ...",
         "국가와 민족": "- 한민족|한국계와 [[한국인]]이 다르다. 한민족|한국계는 [한민족]을 뜻하며, 한국인은 ...",
         "도로명주소": "[[한국인]]에게 무슨 일이 일어나거나 생활하는 단위는 ...",
+        "미국적 엣지": "... States of America|미국적 엣지를 가진 [[한국인]]으로 남고 싶은가?",
         "민사고": "... 높으신 분들은 자기가 친한 '본토 [[한국인]]'들만 요직에 앉혔다고. 그로 인해 학교에 ...",
         "박정희": "> 박정희의 가장 큰 공은 [[한국인]]에게 '우리도 할 수 있다'는 희망을 ...",
         "예맥": "[[한국인|Modern Koreans]] are believed to be descended ...",
@@ -5739,6 +5748,7 @@ export const backlinks = {
         "네오 코리안 르네상스": "... 재료는 충분하지만 중국과 일본에 비해서 [[대한민국|한국]]의 문화가 '재탐색'되지 않았다.",
         "대한민국의 저출산": "[[대한민국|Korea]]'s fertility rate has dropped to ...",
         "드디어, 한국 애플페이": "... 3일자 Finance|금융위원회에서 Apple|애플페이 도입을 승인했다. [[대한민국|한국]]은 선진국 중 유일하게 Apple|애플페이가 지원되지 ...",
+        "미국적 엣지": "하지만 그러기에 [[대한민국|한국]]은 더이상 무시할 수 없다.",
         "민사고": "... 누군가를 정말 알고 지내는 사회다. [[대한민국|한국]] 학연 사회의 정점이다.",
         "벨로그": "벨로그는 [[대한민국]]의 블로깅 서비스이다.",
         "빙글": "... 서비스로, 비키닷컴의 매각 후 창업한 [[대한민국|한국]] 스타트업이다. 이 서비스는 관심사를 중심으로 ...",
@@ -5916,7 +5926,7 @@ export const backlinks = {
         "2023-04-21": "- [[Edge]]",
         "Architecture of Mastodon": "... hard to serve at the [[edge]]. [[CDN]] can host static assets, ...",
         "Brave Browser": "... for Chrome and Microsoft for [[Edge]]. Brave automatically blocks some ads ...",
-        "Cloudflare Pages": "- Cloudflare [[Edge]] [[Front-end]] [[Front-end]]",
+        "Cloudflare Pages": "- Cloudflare [[Edge]] [[Front-end]]",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... could be abstracted to an [[edge]]-served [[Front-end]] and [[back-end]] as edge-replicated ...",
         "Satori": "... existing solutions by using Vercel [[Edge]] Functions, [[WebAssembly]], and a brand ...",
         "Super App is a Universal Chat App": "... Economy, Closed vs. (fairly) Open, [[Edge]]-first [[AI]] vs. Cloud-first [[AI]], etc.",
@@ -6555,6 +6565,9 @@ export const backlinks = {
         "2022-09-24": "- [[Real Exams]]",
         "2022-09-26": "- [[Real Exams]]",
         "2022-10-12": "  - [x] [[Real Exams]]",
+        "2023-09-14": "- [[Real Exams]]",
+        "2023-09-16": "- [[Real Exams]]",
+        "2023-09-17": "- [[Real Exams]]",
         "Coding Tests": "- [[Real Exams]]",
         "Real Interviews": "See also: [[Real Exams]]"
     },
@@ -6892,6 +6905,7 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "... | 🇬🇧 Renaissance <br/> 🇰🇷 [[르네상스]]      ...",
         "Commonplace Book": "... 일종의 개인 일기장이다. 이 관행은 [[르네상스]] 시대부터 사용되어 왔으며, 개인이 시간이 ...",
         "Renaissance": "[[르네상스]]",
+        "과거의 영광 (2016-2018)": "... 전환에는 수많은 고통과 역경이 있었다. [[르네상스]]를 공부하며 비슷하게 복잡한 감정을 느꼈다.",
         "네오 코리안 르네상스": "... 뽑아내기 위해선 Neo Korea|네오 코리안 [[르네상스]]가 필요하다.",
         "역사의 종말 오류": "... 주제 중 하나이다. 중세를 바라보는 [[르네상스]]적 관점과 르네상스를 바라보는 현대적 관점 ..."
     },
@@ -7086,7 +7100,7 @@ export const backlinks = {
     },
     "한자 타자기": {
         "2022-09-29": "- [[한자 타자기]]",
-        "Readings": "- [x] [[한자 타자기]]"
+        "Readings": "- [[한자 타자기]]"
     },
     "Dogfooding": {
         "Stories Behind Satori": "The Vercel team [[Dogfooding|dogfooded]] this for a while."
@@ -8152,6 +8166,7 @@ export const backlinks = {
         "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": "> [[United States of America|미국]], [[일본]]의 기술 수준을 따라갈 수 ...",
         "도로명주소": "[[United States of America|미국]]에서의 흥미로운 관찰이다. 도로명 주소와 함께 ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... 누른 뒤 다운로드를 시작한다. (팁: [[United States of America|미국]] VPN 서버를 사용하면 다운로드 속도가 ...",
+        "미국적 엣지": "나는 American|미국인이 되고 싶은가 아니면 [[United States of America|미국]]적 엣지를 가진 [[한국인]]으로 남고 싶은가?",
         "민사고": "... 책을 읽고 분석하는 시간을 가지며 [[United States of America|미국]]사의 여러 인물들을 분석했다. 해당 작품은 ...",
         "벌금과 물가": "## [[United States of America|미국]]",
         "새로운 부동산은 지적 재산이다": "... 고수익을 위해 해외 부동산, 특히 [[United States of America|미국]]과 유럽의 부동산에 재투자했다.",
@@ -8443,7 +8458,7 @@ export const backlinks = {
         "AMP": "... such as Microsoft Bing or [[Cloudflare]]'s AMP caches, which allows pages ...",
         "Aldehyde Outage (January 2023)": "## Vercel and [[Cloudflare]] Build Errors",
         "CELLO (Product)": "- [[Cloudflare]] for serving high-res images",
-        "Cloudflare Pages": "- [[Cloudflare]] [[Edge]] [[Front-end]] [[Front-end]]",
+        "Cloudflare Pages": "- [[Cloudflare]] [[Edge]] [[Front-end]]",
         "Edge Network": "- [[Cloudflare]] Pages & Cloudflare Functions",
         "IDOL Stack": "... Database|DB, Supabase Auth, Supabase Storage, [[CloudFlare]], Chakra",
         "Person 9078DC": "... 핫링킹으로 인한 과금이 많이 발생했다. [[Cloudflare]]와 [[Backblaze]]로 Bandwidth Alliance를 설정하고, 이미지 ...",
@@ -8497,7 +8512,7 @@ export const backlinks = {
         "Monte Carlo Algorithm": "... the technique performs numerous random [[simulations]] to estimate the desired outcome. ...",
         "Optimized Simulations": "- Optimized [[Simulations]] programming problem is when you ...",
         "Person 5DBDAE": "I create functional [[Simulations]] models for semiconductors. For fabless ...",
-        "Real Exams": "- 1 [[Simulations]]"
+        "Real Exams": "... timestamp)`, `getLogs (self)`, `getLogCount (self)` [[Simulations]], some sort of sliding window"
     },
     "Pieter Levels": {
         "Antipreneur": "... The Indie Maker Handbook, by [[Pieter Levels]].",
@@ -8817,7 +8832,7 @@ export const backlinks = {
         "Grammarly Work Note 2023-05-31": "... of data ingestion is called '[[Sungari]].' The data ingestion process follows ..."
     },
     "지구 끝의 온실": {
-        "Readings": "- [x] [[지구 끝의 온실]]"
+        "Readings": "- [[지구 끝의 온실]]"
     },
     "Grammarly Work Note 2023-05-25": {
         "2023-05-25": "- [[Grammarly Work Note 2023-05-25]]"
@@ -9599,7 +9614,7 @@ export const backlinks = {
     },
     "하얼빈": {
         "2022-12-21": "- Readings. 이 땅에 태어나서, [[하얼빈]]",
-        "Readings": "- [ ] [[하얼빈]]"
+        "Readings": "- [[하얼빈]]"
     },
     "Packet Sniffing": {
         "Internetworking": "- [[Packet Sniffing]]"
