@@ -1320,7 +1320,7 @@ export const backlinks = {
     },
     "Alternatives to After Effects": {
         "2023-01-22": "- [[Alternatives to After Effects]]",
-        "Adobe After Effects": "[[Alternatives to After Effects]]",
+        "Adobe After Effects": "... keying, tracking, compositing, and animation. [[Alternatives to After Effects]]",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "### [[Alternatives to After Effects]]"
     },
     "The Empires of the Future are the Empires of the Mind": {
@@ -1362,7 +1362,7 @@ export const backlinks = {
         "Project Florence": "- [ ] [[Jose Luis Ambite et al. Secure & Private Federated Neuroimaging]]"
     },
     "Jira": {
-        "Linear": "... service, like Height (App), or [[Jira]]"
+        "Linear (Software)": "... service, like Height (App), or [[Jira]]"
     },
     "ElonPet": {
         "2023-02-06": "- [[ElonPet]]"
@@ -2513,7 +2513,7 @@ export const backlinks = {
         "2022-11-21": "- [[Animation]]",
         "2022-11-23": "- Rive Use Cases: [[Animation]]",
         "2022-12-24": "- Add easing to your [[Animation]] to help add a responsive ...",
-        "Adobe After Effects": "... for keying, tracking, compositing, and [[animation]]. After Effects is available on ...",
+        "Adobe After Effects": "... for keying, tracking, compositing, and [[animation]]. [[Alternatives to After Effects]]",
         "Are Computers Psychotropic Substances": "Vibrant colors, popping vibrations, smooth [[Animation]], and constant notifications relentlessly demand ...",
         "Dynamic Island on the Web": "- Optimize [[Animation|Animations]] (css `will-change`)",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "- [[Animation]] are way more fluid and ...",
@@ -5147,6 +5147,7 @@ export const backlinks = {
         "2023-08-29": "- [[LaTeX]]",
         "2023-09-06": "- [[LaTeX]]",
         "2023-09-07": "- [[LaTeX]]",
+        "2023-09-19": "- [[LaTeX]]",
         "Space in LaTeX": "Space in [[LaTeX]]",
         "Useful ChatGPT Prompts": "## Use [[LaTeX]]",
         "latexify.cho.sh": "... convert the equation into $\\TeX$ [[LaTeX]]"
@@ -5203,7 +5204,6 @@ export const backlinks = {
     },
     "3D": {
         "2022-10-21": "- [[3D]]",
-        "Adobe After Effects": "... working knowledge of linear video, [[3D]] animation, and special effects before ...",
         "Bondee": "... also create and customize their [[3D]] characters and design rooms resembling ...",
         "Canvas (HTML5)": "... the WebGL API to allow [[3D]] rendering with OpenGL ES.",
         "Graphic Renderer": "... image from a 2D or [[3D]] model by means of a ...",
@@ -6183,7 +6183,6 @@ export const backlinks = {
     "macOS": {
         "2022-06-05": "... one command on Linux (and [[macOS]] very soon). This software does ...",
         "2023-02-08": "... various potential issues in a [[macOS]]/[[iOS]] application",
-        "Adobe After Effects": "... Effects is available on both [[macOS|Mac OS]] and Windows computers. Users can ...",
         "AirDrop": "... a feature in iOS and [[macOS]] that lets you wirelessly share ...",
         "Chrome": "... and mobile devices, including Windows, [[macOS]], [[Linux]], [[Android]], and [[iOS]].",
         "Disable Screenshot Drop Shadow in macOS": "[[macOS]]",
@@ -6530,7 +6529,7 @@ export const backlinks = {
         "2022-08-23": "- [[Apple Earth]]"
     },
     "Height (App)": {
-        "Linear": "... An issue tracking service, like [[Height (App)]], or [[Jira]]"
+        "Linear (Software)": "... An issue tracking service, like [[Height (App)]], or [[Jira]]"
     },
     "Cooperative Multitasking": {
         "2022-07-11": "We aim to build [[Cooperative Multitasking]].",
@@ -6572,6 +6571,7 @@ export const backlinks = {
         "2023-09-14": "- [[Real Exams]]",
         "2023-09-16": "- [[Real Exams]]",
         "2023-09-17": "- [[Real Exams]]",
+        "2023-09-19": "- [[Real Exams]]",
         "Coding Tests": "- [[Real Exams]]",
         "Real Interviews": "See also: [[Real Exams]]"
     },
@@ -7619,6 +7619,9 @@ export const backlinks = {
         "2023-05-29": "- [[PNPM]]",
         "Redwood.js": "While I prefer [[PNPM]] over [[Yarn]], due to the ..."
     },
+    "Linear (Software)": {
+        "2022-10-14": "  - [[Linear (Software)]] has been popping up on ..."
+    },
     "Geohot-Twitter Mayhem": {
         "Person 648442": "... — Twitter's Non-existent Search Engine. [[Geohot-Twitter Mayhem]]"
     },
@@ -8526,7 +8529,7 @@ export const backlinks = {
         "Monte Carlo Algorithm": "... the technique performs numerous random [[simulations]] to estimate the desired outcome. ...",
         "Optimized Simulations": "- Optimized [[Simulations]] programming problem is when you ...",
         "Person 5DBDAE": "I create functional [[Simulations]] models for semiconductors. For fabless ...",
-        "Real Exams": "... timestamp)`, `getLogs (self)`, `getLogCount (self)` [[Simulations]], some sort of sliding window"
+        "Real Exams": "... timestamp)`, `getLogs (self)`, `getLogCount (self)` [[Simulations]], sliding window"
     },
     "Pieter Levels": {
         "Antipreneur": "... The Indie Maker Handbook, by [[Pieter Levels]].",
@@ -9522,11 +9525,6 @@ export const backlinks = {
         "2023-03-21": "- [[Prettier]]",
         "Better Obsidian": "- [[Prettier]] for Code Blocks",
         "Grammarly Work Note 2023-05-26": "... enforced, discovered by running npx [[prettier]] --write. On par with [[Prettier]], ..."
-    },
-    "Linear": {
-        "2022-10-14": "  - [[Linear]] has been popping up on ...",
-        "Adobe After Effects": "... have a working knowledge of [[linear]] video, [[3D]] animation, and special ...",
-        "Git": "... integrity, and support for distributed, non-[[linear]] workflows (thousands of parallel branches ..."
     },
     "Sliding Panes": {
         "Andy Matuschak": "Introduced novel concepts, such as [[Sliding Panes]], [[Backlink|links to this note]], and ...",
