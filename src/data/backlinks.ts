@@ -4720,10 +4720,6 @@ export const backlinks = {
     "Indirect Information Leakage": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Indirect Information Leakage]]"
     },
-    "미국적 엣지": {
-        "2023-09-18": "- [[미국적 엣지]]",
-        "2023-09-19": "- [[미국적 엣지]]"
-    },
     "GitHub Copilot Investigation": {
         "Copilot": "- [[GitHub Copilot Investigation]]"
     },
@@ -5012,7 +5008,7 @@ export const backlinks = {
         "Wikipedia": "... by the Wikimedia Foundation, an [[American]] non-profit organization funded mainly through ...",
         "Y Combinator": "... Y Combinator (YC) is an [[American]] technology startup accelerator launched in ...",
         "너 주식 해": "... 흔하지 않다는 것이다. 몇 가지 [[American|미국인]]들에 대한 관찰:",
-        "미국적 엣지": "나는 [[American|미국인]]이 되고 싶은가 아니면 [[United States ...",
+        "미국물": "나는 [[American|미국인]]이 되고 싶은가 아니면 미국물 먹은 ...",
         "이 땅에 태어나서": "... 있는 것은 모조리 배우겠다는 자세로 [[American|미국인]] 기술자들에게서 많은 것을 배웠다."
     },
     "Mac을 Command+L로 잠그는 방법": {
@@ -5333,7 +5329,7 @@ export const backlinks = {
         "Doheny East Asian Book Stacks": "However, many [[한국인|Koreans]] don't know or care about ...",
         "국가와 민족": "- 한민족|한국계와 [[한국인]]이 다르다. 한민족|한국계는 [한민족]을 뜻하며, 한국인은 ...",
         "도로명주소": "[[한국인]]에게 무슨 일이 일어나거나 생활하는 단위는 ...",
-        "미국적 엣지": "... States of America|미국적 엣지를 가진 [[한국인]]으로 남고 싶은가?",
+        "미국물": "... 되고 싶은가 아니면 미국물 먹은 [[한국인]]으로 남고 싶은가?",
         "민사고": "... 높으신 분들은 자기가 친한 '본토 [[한국인]]'들만 요직에 앉혔다고. 그로 인해 학교에 ...",
         "박정희": "> 박정희의 가장 큰 공은 [[한국인]]에게 '우리도 할 수 있다'는 희망을 ...",
         "예맥": "[[한국인|Modern Koreans]] are believed to be descended ...",
@@ -5751,7 +5747,7 @@ export const backlinks = {
         "네오 코리안 르네상스": "... 재료는 충분하지만 중국과 일본에 비해서 [[대한민국|한국]]의 문화가 '재탐색'되지 않았다.",
         "대한민국의 저출산": "[[대한민국|Korea]]'s fertility rate has dropped to ...",
         "드디어, 한국 애플페이": "... 3일자 Finance|금융위원회에서 Apple|애플페이 도입을 승인했다. [[대한민국|한국]]은 선진국 중 유일하게 Apple|애플페이가 지원되지 ...",
-        "미국적 엣지": "하지만 그러기에 [[대한민국|한국]]은 더이상 무시할 수 없다.",
+        "미국물": "하지만 그러기에 [[대한민국|한국]]은 더이상 무시할 수 없다.",
         "민사고": "... 누군가를 정말 알고 지내는 사회다. [[대한민국|한국]] 학연 사회의 정점이다.",
         "벨로그": "벨로그는 [[대한민국]]의 블로깅 서비스이다.",
         "빙글": "... 서비스로, 비키닷컴의 매각 후 창업한 [[대한민국|한국]] 스타트업이다. 이 서비스는 관심사를 중심으로 ...",
@@ -6713,6 +6709,10 @@ export const backlinks = {
         "Readings": "- [x] [[이완용]] 평전 (윤덕한 저)",
         "동아일보 1926년 2월 13일 이완용 사망 기사 검열 처리에 대한 사건": "[[이완용]]에 대한 자료를 조사하던 중 묘하게 ...",
         "한국통사": "... 수많은 잔재와 구시대적 사고관들이 남아있다. [[이완용|결국 자기반성을 해야할 뿐이다.]]"
+    },
+    "미국물": {
+        "2023-09-18": "- [[미국물]]",
+        "2023-09-19": "- [[미국물]]"
     },
     "Buttondown": {
         "2022-10-19": "- [[Buttondown]]",
@@ -8006,6 +8006,7 @@ export const backlinks = {
     },
     "Useful ChatGPT Prompts": {
         "2023-04-10": "- [[Useful ChatGPT Prompts]]",
+        "2023-09-20": "- [[Useful ChatGPT Prompts]]",
         "Make GPT Print LaTeX": "[[Useful ChatGPT Prompts]]"
     },
     "P-series Test": {
@@ -8180,7 +8181,7 @@ export const backlinks = {
         "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": "> [[United States of America|미국]], [[일본]]의 기술 수준을 따라갈 수 ...",
         "도로명주소": "[[United States of America|미국]]에서의 흥미로운 관찰이다. 도로명 주소와 함께 ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... 누른 뒤 다운로드를 시작한다. (팁: [[United States of America|미국]] VPN 서버를 사용하면 다운로드 속도가 ...",
-        "미국적 엣지": "나는 American|미국인이 되고 싶은가 아니면 [[United States of America|미국]]적 엣지를 가진 [[한국인]]으로 남고 싶은가?",
+        "미국물": "즉, 정체성을 완전히 뛰어넘어 [[United States of America|미국]]의 환경에 동화되는 것인가?",
         "민사고": "... 책을 읽고 분석하는 시간을 가지며 [[United States of America|미국]]사의 여러 인물들을 분석했다. 해당 작품은 ...",
         "벌금과 물가": "## [[United States of America|미국]]",
         "새로운 부동산은 지적 재산이다": "... 고수익을 위해 해외 부동산, 특히 [[United States of America|미국]]과 유럽의 부동산에 재투자했다.",
