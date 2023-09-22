@@ -1842,7 +1842,8 @@ export const backlinks = {
         "2023-08-28": "- [[Project Florence]]",
         "2023-09-07": "- [[Project Florence]]",
         "2023-09-12": "- [[Project Florence]]",
-        "2023-09-14": "- [[Project Florence]]"
+        "2023-09-14": "- [[Project Florence]]",
+        "2023-09-22": "- [[Project Florence]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -11100,6 +11101,9 @@ export const backlinks = {
     },
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
+    },
+    "9A6626.png": {
+        "Aldehyde Landing Page 2023": "![[9A6626.png]]"
     },
     "351A7A.png": {
         "Aldehyde Landing Page 2023": "![[351A7A.png]]",
