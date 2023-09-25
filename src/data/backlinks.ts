@@ -63,6 +63,9 @@ export const backlinks = {
     "2016-07-01": {
         "식영부원의 관점에서 바라본 치킨데이": "[[2016-07-01]]에 게재된 [[재학생일기]]이다."
     },
+    "2023-09-22": {
+        "Project Florence": "## [[2023-09-22]]"
+    },
     "2020-02-17": {
         "프로젝트 어덕행덕": "- [[2020-02-17]]"
     },
@@ -4037,6 +4040,9 @@ export const backlinks = {
         "Threads (Service)": "... with the AT protocol (Bluesky), [[ActivityPub]] protocol ([[Mastodon]]), and the [[Matrix ...",
         "Universal Chat App": "- [[ActivityPub]] protocol: Backed by [[Threads (Service)]] ..."
     },
+    "洪兔雜記": {
+        "2023-09-24": "- 洪民憙雜記 [[洪兔雜記]]"
+    },
     "Case Study": {
         "Rauno": "- [[Case Study]]",
         "SVB Debacle": "... will look like the WaMu [[case study]].",
@@ -4243,10 +4249,6 @@ export const backlinks = {
         "2023-09-19": "- [[한민족 멸종 방어]]",
         "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
         "의료 인공지능과 의대 쏠림": "[[한민족 멸종 방어|신한국]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
-    },
-    "Math-based Coding": {
-        "2022-09-05": "- [[Math-based Coding]]",
-        "Real Exams": "- 1 [[Math-based Coding]]"
     },
     "Profiling": {
         "2023-02-01": "- [[Profiling]]"
@@ -6132,7 +6134,8 @@ export const backlinks = {
         "Internetworking": "- [[Checksum]]"
     },
     "洪民憙雜記": {
-        "2022-10-25": "- [[洪民憙雜記]]"
+        "2022-10-25": "- [[洪民憙雜記]]",
+        "2023-09-24": "- [[洪民憙雜記]] [[洪兔雜記]]"
     },
     "Vocab": {
         "Aesthete": "... beautiful stuff—incredibly exquisite mechanical property. [[vocab]]",
@@ -6569,6 +6572,7 @@ export const backlinks = {
         "2023-09-16": "- [[Real Exams]]",
         "2023-09-17": "- [[Real Exams]]",
         "2023-09-19": "- [[Real Exams]]",
+        "2023-09-24": "- [[Real Exams]]",
         "Coding Tests": "- [[Real Exams]]",
         "Real Interviews": "See also: [[Real Exams]]"
     },
@@ -8527,7 +8531,7 @@ export const backlinks = {
         "2022-11-16": "- [[Configuring Jest for React Native]]"
     },
     "Simulations": {
-        "Math-based Coding": "... - conducting a bare metal [[Simulations]] takes too long",
+        "Mathematic Programming": "... - conducting a bare metal [[Simulations]] takes too long",
         "Monte Carlo Algorithm": "... the technique performs numerous random [[simulations]] to estimate the desired outcome. ...",
         "Optimized Simulations": "- Optimized [[Simulations]] programming problem is when you ...",
         "Person 5DBDAE": "I create functional [[Simulations]] models for semiconductors. For fabless ...",
@@ -10297,6 +10301,10 @@ export const backlinks = {
         "2022-11-19": "  - [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]",
         "Opening external links in a new tab by default on Ghost": "- [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]"
     },
+    "Mathematic Programming": {
+        "2022-09-05": "- [[Mathematic Programming]]",
+        "Real Exams": "- [[Mathematic Programming]]"
+    },
     "ChromeOS Packer": {
         "2023-03-06": "- [[ChromeOS Packer]]"
     },
@@ -11474,6 +11482,12 @@ export const backlinks = {
     },
     "9A3C8D.png": {
         "UI AI": "![[9A3C8D.png]]"
+    },
+    "13AA49.png": {
+        "洪兔雜記": "![[13AA49.png]]"
+    },
+    "67123E.png": {
+        "洪兔雜記": "![[67123E.png]]"
     },
     "CE4381.png": {
         "Roam Research": "![[CE4381.png]]",
