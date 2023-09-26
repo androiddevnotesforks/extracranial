@@ -5476,6 +5476,9 @@ export const backlinks = {
     "Sending Notifications on Chrome Extension": {
         "2022-11-19": "  - [[Sending Notifications on Chrome Extension]]"
     },
+    "anaclumos": {
+        "2023-09-26": "- [[anaclumos]]"
+    },
     "Jetbrains Fleet": {
         "2022-10-12": "- [[Jetbrains Fleet]] is [[GA]]. Introducing the Fleet ..."
     },
@@ -6028,6 +6031,9 @@ export const backlinks = {
         "Search AI": "- [[Search in a Latent Space]]",
         "Thesephist Work Case Study": "### [[Search in a Latent Space]]"
     },
+    "WWDC Scholarship": {
+        "2023-09-26": "- [[WWDC Scholarship]]"
+    },
     "Spatial Computer": {
         "2023-06-05": "... or \"Headset\" anywhere. It's a [[Spatial Computer]].",
         "Apple Vision Pro": "... the Apple Vision Pro, a [[Spatial Computer]] that seamlessly combines digital content ..."
@@ -6483,7 +6489,8 @@ export const backlinks = {
         "Project Prepare for Grammarly": "Project to prepare for my [[Grammarly Experimentations Team]] team employment."
     },
     "자아는 발굴되는 것이다": {
-        "2023-03-08": "- [[자아는 발굴되는 것이다]]"
+        "2023-03-08": "- [[자아는 발굴되는 것이다]]",
+        "anaclumos": "- A good example of [[자아는 발굴되는 것이다|Excavating Egos]]."
     },
     "DoS": {
         "Internetworking": "- [[DoS]]"
@@ -10340,6 +10347,9 @@ export const backlinks = {
         "2022-11-11": "- [[Simulated Annealing for Designs]]",
         "Repeated Designs": "[[Simulated Annealing for Designs]]. Good Design"
     },
+    "도고상인": {
+        "2023-09-26": "- [[도고상인]]"
+    },
     "Line": {
         "Universal Chat App": "3. [[Line]] ([[일본|Japan]]). Developed by [[Naver]], a ..."
     },
@@ -11807,6 +11817,9 @@ export const backlinks = {
     "CD4751.png": {
         "San Francisco": "![[CD4751.png]]",
         "Satoshi": "![[CD4751.png]]"
+    },
+    "B4EED6.png": {
+        "WWDC Scholarship": "![[B4EED6.png]]"
     },
     "AAA36B.jpg": {
         "Spatial Computer": "![[AAA36B.jpg]]"
