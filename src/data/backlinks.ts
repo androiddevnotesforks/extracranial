@@ -783,7 +783,7 @@ export const backlinks = {
         "2023-08-24": "- [[Winning America]]",
         "네오 코리안 르네상스": "... 국가적 브랜드를 쇄신할 수 있으며, [[Winning America|미국을 이길]] 수 있다.",
         "학자 및 직계 가족의 의료보장제": "[[Winning America]]. 해외의 인재들이 [[United States of ...",
-        "한민족 멸종 방어": "- [[Winning America]]"
+        "한민족의 멸종 방어": "- [[Winning America]]"
     },
     "ChatGPT": {
         "10x Technologist": "... and influential in their work. [[ChatGPT]]",
@@ -1015,11 +1015,11 @@ export const backlinks = {
         "Cross-Origin Embedder Policy": "[[HTTP]] `Cross-Origin-Embedder-Policy` (COEP) 응답 헤더는 명시적으로 ...",
         "Cross-Origin Opener Policy": "[[HTTP]] `Cross-Origin-Opener-Policy` 응답 헤더는 최상위 문서가 ...",
         "DASH Protocol": "## Dynamic, Adaptive Streaming over [[HTTP]]",
+        "Data Preservation": "- Try using [[HTTP]]/2 to keep connections open. Does ...",
         "HTMX": "... on this button, issue an [[HTTP]] POST request to '/clicked' and ...",
         "IDOL Stack": "  - [[HTTP]] [[content negotiation]]",
         "Internet Protocol Stack": "- Application. FTP, SMTP, [[HTTP]]. Handles Messages. SSL belongs here",
         "Internetworking": "- [[HTTP]]",
-        "Preservation of Data": "- Try using [[HTTP]]/2 to keep connections open. Does ...",
         "Proposal of Research 2023-01-10": "... embeddable JavaScript libraries or an [[HTTP]] API layer.",
         "Techs Actually Simple": "... Not to mention plaintext protocols. [[HTTP]], [[SMTP]], FTP, and Redis Serialization ...",
         "http 없는 http 서버 만들기": "... 모듈 (당연히 `express` 모듈도) 없이 [[http]] 서버를 구현하는 Project|프로젝트가 있었다. 인터넷에 ...",
@@ -1155,12 +1155,12 @@ export const backlinks = {
         "AIs.txt": "... goes against the fundamentals of [[IP|intellectual property]].",
         "Across the Sprachraums": "- The detachment of [[IP|Intellectual Property]] and [[Language]].",
         "Cartography": "... maps can sometimes involve privacy, [[IP|intellectual property]], and data ownership issues.",
+        "Data Preservation": "- Find another [[IP]] without the restrictions you are ...",
         "IP Spoofing": "- Faking an [[IP]] by sending packet with false ...",
         "IP is the new Real Estate": "[[IP|Intellectual property]] ([[IP]]) is a new form ...",
         "Internet Protocol Stack": "- Network. [[IP]]. Routing Protocols. Handles Datagrams.",
         "Internetworking": "- [[IP]]",
         "Metadream": "... aggregator. Metadream also acquired the [[IP|intellectual property]] rights of the app True.ly ...",
-        "Preservation of Data": "- Find another [[IP]] without the restrictions you are ...",
         "Protocol Wars": "... was an early adopter of TCP/[[IP]]",
         "http 없는 http 서버 만들기": "http 자체도 기본적으로는 tcp/[[ip]] 프로토콜을 사용하기 때문에 `net` 모듈을 ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "또한 이 글에서 [[IP]] 주소와 디바이스 고유 주소 등은 ...",
@@ -1319,7 +1319,7 @@ export const backlinks = {
     "불가사리": {
         "불가사리 (기업)": "... 하기 위해서 설립한 1인 기업이다. [[불가사리]]의 영문명으로는 무엇이 좋을까?",
         "불가사리 재단": "[[불가사리]]",
-        "한민족 멸종 방어": "- [[불가사리]]"
+        "한민족의 멸종 방어": "- [[불가사리]]"
     },
     "Alternatives to After Effects": {
         "2023-01-22": "- [[Alternatives to After Effects]]",
@@ -1715,7 +1715,7 @@ export const backlinks = {
         "Neo Apps": "... of macOS Applications is changing. [[Neo]] Apps.",
         "Neo Block Economy": "[[Neo]] Block [[Economy]]",
         "Neo Email": "- [[Neo]] [[Mail|Email]]",
-        "한민족 멸종 방어": "[[Neo]] [[대한민국|Korea]]"
+        "한민족의 멸종 방어": "[[Neo]] [[대한민국|Korea]]"
     },
     "SendGrid": {
         "2022-10-17": "- [[SendGrid]]",
@@ -1856,7 +1856,7 @@ export const backlinks = {
         "2023-09-11": "OpenBB를 이용해서 [[Macroeconomics]]를 더 공부해보기 시작했다. 기능이 무지하게 ...",
         "Microeconomics": "... It should be distinct from [[macroeconomics]], which takes a broader view ...",
         "과목우수상": "딱 하나 유일하게 받은 과목우수상은 [[Macroeconomics|거시경제학]]이었는데, 이것도 좀 오해의 소지가 있는데 ...",
-        "장보고 프로젝트": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다."
+        "도고계획": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다."
     },
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
@@ -1936,12 +1936,12 @@ export const backlinks = {
         "2022-11-07": "- [[Extracranial]]",
         "2023-01-27": "I had to migrate [[Extracranial]] to [[Cloudflare Pages]] for [[Vercel]] ...",
         "2023-03-04": "- [[Extracranial]]",
+        "Data Preservation": "... important concept for Memex and [[Extracranial]]",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... Memex or, in my term, [[Extracranial]] at https://cho.sh.",
         "Memex": "Synonym with [[Extracranial]], [[Second Brain|Digital Brain]], [[Second Brain]], ...",
         "Nextra": "- Potential [[Extracranial]]",
         "Paracosm": "... an experimental documentation toolkit & [[Extracranial]] [[Tools for Thought]] that aims ...",
         "Plateau of Latent Potential": "... could be a form of [[Extracranial]], a [[Memex]], or even [[Conversational ...",
-        "Preservation of Data": "... important concept for Memex and [[Extracranial]]",
         "Rauno": "Interesting [[Extracranial]] [[Tools for Thought]] ([[Data Capturers]])",
         "Stephan Ango": "- [[extracranial]] @ Stephan Ango"
     },
@@ -2338,7 +2338,7 @@ export const backlinks = {
         "2022-12-11": "- [[태백산맥 계획]]",
         "Reddit Place for Korea": "한국판 Reddit Place. [[태백산맥 계획]]",
         "Regulation of Fake News": "- [[태백산맥 계획]]",
-        "한민족 멸종 방어": "- [[태백산맥 계획]]"
+        "한민족의 멸종 방어": "- [[태백산맥 계획]]"
     },
     "Mutual Fund": {
         "Finance": "- [[Mutual Fund]]",
@@ -2636,7 +2636,7 @@ export const backlinks = {
     },
     "벌금과 물가": {
         "2022-10-21": "- [[벌금과 물가]]",
-        "한민족 멸종 방어": "- [[벌금과 물가]]"
+        "한민족의 멸종 방어": "- [[벌금과 물가]]"
     },
     "Latency and Throughput": {
         "2022-11-03": "- [[Latency and Throughput]]",
@@ -2718,6 +2718,7 @@ export const backlinks = {
         "Chrome": "Chrome is a [[web browser]] developed by [[Google]]. It was ...",
         "Confectionery": "> A minimalistic [[Web Browser|browser]] without the clutter of standard ...",
         "DRM": "... the instance of Chrome, the [[Web Browser|browser]] doesn't implement the DRM itself, ...",
+        "Data Preservation": "... and perhaps using a particular [[web Browser|browser]] sessions (or even a different ...",
         "Downloading Any Recordings from Zoom": "... through the chat list—open the [[Web Browser|browser]] console.",
         "Dynamic Viewport Units": "... update at 60fps. In all [[Web Browser|browsers]] updating is throttled as the ...",
         "Finding out Ghost version with JS": "... before responding to the client [[Web Browser|browser]], but I figured that there ...",
@@ -2730,7 +2731,6 @@ export const backlinks = {
         "Next.js": "... their content in the client-side [[Web Browser|browser]], Next.js extends this functionality to ...",
         "Pensieve": "... as the intermediary bridge between [[web browser]] data stream (ephemeral) and long-term ...",
         "Porting a Chrome Extension to Firefox Add-on": "... Firefox are two very different [[Web Browser|browsers]], Chrome [[WebExtension|Extension]] and Firefox Add-on ...",
-        "Preservation of Data": "... and perhaps using a particular [[web Browser|browser]] sessions (or even a different ...",
         "Project Heimdall": "... to interact with a headless [[Web Browser|browser]] built in top of Puppeteer.",
         "Proposal of Research 2023-01-10": "... and is used if the [[Web Browser|browser]] cannot display the picture. Alt ...",
         "Ruffle": "... content running safely in modern [[Web Browser|web browsers]] via [[Rust]] and [[WebAssembly]]",
@@ -2896,6 +2896,10 @@ export const backlinks = {
     "Letter to Mr. Matt Rickard on 2022-12-21": {
         "2022-12-21": "- [[Letter to Mr. Matt Rickard on 2022-12-21]]"
     },
+    "소셜엔지니어링 금지법": {
+        "2023-09-26": "- [[소셜엔지니어링 금지법]]",
+        "한민족의 멸종 방어": "- [[소셜엔지니어링 금지법]]"
+    },
     "Pretendard": {
         "Apple Newsroom 서체 따라하기": "2022년 기준, 그냥 [[Pretendard]]를 사용하면 된다.",
         "Font Features": "- San Francisco, Inter, and [[Pretendard]] has awesome support.",
@@ -2989,6 +2993,11 @@ export const backlinks = {
         "2022-12-08": "- [[Person ECC2CB]]",
         "Project PEOPLE": "- [[Person ECC2CB]]"
     },
+    "도고계획": {
+        "2023-09-09": "- [[도고계획]]",
+        "2023-09-10": "- [[도고계획]]",
+        "2023-09-26": "- [[도고계획]]"
+    },
     "Computational Linguistics": {
         "2023-02-16": "- [[Computational Linguistics]]",
         "ACL 60-60": "The Association for [[Computational Linguistics]] (ACL) recently announced the \"60-60\" ..."
@@ -3013,10 +3022,6 @@ export const backlinks = {
     },
     "네오상평통보": {
         "2023-08-22": "- [[네오상평통보]]"
-    },
-    "장보고 프로젝트": {
-        "2023-09-09": "- [[장보고 프로젝트]]",
-        "2023-09-10": "- [[장보고 프로젝트]]"
     },
     "UIUX": {
         "2022-11-30": "... at some build tools, but [[UIUX|UI]] components or other libraries usually ...",
@@ -3514,6 +3519,17 @@ export const backlinks = {
     "Brave Browser": {
         "2023-08-07": "- Interestingly [[Brave Browser]] is blocklisted at [[Grammarly]] for ..."
     },
+    "한민족의 멸종 방어": {
+        "16세 수능론": "[[한민족의 멸종 방어]]를 위한 하나의 아이디어이다.",
+        "2022-12-20": "- [[한민족의 멸종 방어]]",
+        "2023-01-09": "- [[한민족의 멸종 방어]]",
+        "2023-09-14": "- [[한민족의 멸종 방어]]",
+        "2023-09-19": "- [[한민족의 멸종 방어]]",
+        "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족의 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
+        "소셜엔지니어링 금지법": "[[한민족의 멸종 방어]]를 위한 필수. 소셜 엔지니어링은 마약성 ...",
+        "연암 박지원 그리고 전국수도권화": "[[한민족의 멸종 방어]].",
+        "의료 인공지능과 의대 쏠림": "[[한민족의 멸종 방어|신한국]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
+    },
     "UUID": {
         "Heimdall Bogus Subscribers Attack Incident": "... bogus subscribers had something like [[UUID]].",
         "NanoID": "... it's not as well-known as [[UUID]], NanoID has recently expanded and ...",
@@ -3534,10 +3550,6 @@ export const backlinks = {
     },
     "Text Graphics": {
         "2022-11-07": "- [[Text Graphics]]"
-    },
-    "Preservation of Data": {
-        "2022-10-18": "- [[Preservation of Data]]",
-        "Reddit-Apollo Mayhem": "... is priceless, and users can [[Preservation of Data|archive]] their data using a Python ..."
     },
     "Antifragile": {
         "Antifragily": "In an [[antifragile]] manner. [[anti]]fragily",
@@ -3758,6 +3770,9 @@ export const backlinks = {
     },
     "Lombok": {
         "2023-07-24": "... also had to look into [[Lombok]] and [[Twitter Recommendation Algorithms]]."
+    },
+    "Homo Photosynthesis": {
+        "2023-09-26": "- [[Homo Photosynthesis]]"
     },
     "물총싸움 (2014)": {
         "2023-09-05": "- [[물총싸움 (2014)]]",
@@ -4063,6 +4078,10 @@ export const backlinks = {
         "Finally, Apple Pay in Korea": "... becomes a new stimulus for [[Why Korean Banks Suck|troubled Korean banking system]].",
         "드디어, 한국 애플페이": "... 있지만, 오늘 할 이야기는 아니다. [[Why Korean Banks Suck|한국 은행계]]에 새로운 자극이 되기를 바란다."
     },
+    "Nuclear Fusion Edible Capsule": {
+        "2023-09-26": "- [[Nuclear Fusion Edible Capsule]]",
+        "Nuclear Fusion Terrarium": "... so, can we create a [[Nuclear Fusion Edible Capsule]] that would emit some of ..."
+    },
     "식영부원의 관점에서 바라본 치킨데이": {
         "2016-07-01": "- [[식영부원의 관점에서 바라본 치킨데이]]"
     },
@@ -4206,6 +4225,10 @@ export const backlinks = {
         "Memex": "Synonym with Extracranial, [[Second Brain|Digital Brain]], [[Second Brain]], etc.",
         "PKM": "| [[Second Brain]]   | Implementation for ..."
     },
+    "Nuclear Fusion Terrarium": {
+        "2023-09-26": "- [[Nuclear Fusion Terrarium]]",
+        "Nuclear Fusion Edible Capsule": "... a micro nuclear fusion reactor ([[nuclear fusion terrarium]]) into our body, emitting a ..."
+    },
     "Imagining WebNPU API": {
         "2023-02-14": "- [[Imagining WebNPU API]]",
         "2023-02-18": "- [[Imagining WebNPU API]]",
@@ -4240,15 +4263,6 @@ export const backlinks = {
         "Person CC8297": "  - Capstone at [[Amazon]] Robotics.",
         "Using an iPad as my Ebook": "... lacks 대한민국|Korean titles. Knowing that [[Amazon]] loses money for each Kindle ...",
         "쿠팡": "... often referred to as the \"[[Amazon]] of South Korea.\" The company ..."
-    },
-    "한민족 멸종 방어": {
-        "16세 수능론": "[[한민족 멸종 방어]]를 위한 하나의 아이디어이다.",
-        "2022-12-20": "- [[한민족 멸종 방어]]",
-        "2023-01-09": "- [[한민족 멸종 방어]]",
-        "2023-09-14": "- [[한민족 멸종 방어]]",
-        "2023-09-19": "- [[한민족 멸종 방어]]",
-        "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
-        "의료 인공지능과 의대 쏠림": "[[한민족 멸종 방어|신한국]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
     },
     "Profiling": {
         "2023-02-01": "- [[Profiling]]"
@@ -4345,6 +4359,7 @@ export const backlinks = {
         "Confession in Slack": "Someday [[Project]] idea",
         "Cube": "Someday [[Project]]. [[Instagram|인스타]] 스토리/포스트 글 업로드용 글쓰기 ...",
         "Daniele Romanini et al. PyVertical": "... been launched as an open-source [[project]] to help further research in ...",
+        "Data Preservation": "... of Copies Keep Stuff Safe\") [[project]], under the auspices of Stanford ...",
         "Developing Review Notes for Obsidian": "... 공허한 느낌이 들어 미뤄왔던 사이드 [[Project|프로젝트]]를 해본다.",
         "Digital Bookmarks for Physical Books": "Someday [[Project]]. Can we bookmark physical books ...",
         "Dynamic Island on the Web": "- Done [[Project]]",
@@ -4380,7 +4395,6 @@ export const backlinks = {
         "PKM": "... needs are different from a [[project]] base.",
         "Person 1B5A5B": "- Junior = [[Project]] Executors.",
         "PineApple Pay": "Someday [[Project]].",
-        "Preservation of Data": "... of Copies Keep Stuff Safe\") [[project]], under the auspices of Stanford ...",
         "Problem": "Leads to a Someday [[Project]].",
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project Florence": "[[Project]] Florence is a research [[project]] ...",
@@ -4454,6 +4468,10 @@ export const backlinks = {
     "한민족은 해적되었다": {
         "2023-01-26": "- [[한민족은 해적되었다]]",
         "서당개 3년이면 풍월을 읊는다": "... 우리의 능력은 발현되지 못하고 있다. [[한민족은 해적되었다]]."
+    },
+    "연암 박지원 그리고 전국수도권화": {
+        "2023-09-26": "- [[연암 박지원 그리고 전국수도권화]]",
+        "한민족의 멸종 방어": "- [[연암 박지원 그리고 전국수도권화]]"
     },
     "Case-Sensitivity": {
         "0409 Longest Palindrome": "Letters are [[Case-Sensitivity|case sensitive]], for example, `\"Aa\"` is not ...",
@@ -4702,6 +4720,9 @@ export const backlinks = {
         "Desire-Compatible Growth & Preservation": "- [[Nuclear Fusion]]",
         "MetroPunk": "... 등장하지만, 사이버펑크에서 등장하는 상용화된 AI|인공지능, [[Nuclear Fusion|핵융합]], 사이버네틱스, [[Metaverse|메타버스]] 등의 미래적 기술 ...",
         "Nuclear Fission": "... nuclear projects, such as the [[nuclear fusion]] startup Helion.",
+        "Nuclear Fusion Edible Capsule": "Can we embed a micro [[nuclear fusion]] reactor ([[nuclear fusion terrarium]]) into ...",
+        "Nuclear Fusion Molecule 3D Printer": "... to 3D-print any molecules with [[nuclear fusion]]?",
+        "Nuclear Fusion Terrarium": "... create a Terrarium with a [[nuclear fusion]] core inside to create an ...",
         "불가사리": "[[Nuclear Fusion|핵융합]]"
     },
     "MAGI": {
@@ -4852,7 +4873,7 @@ export const backlinks = {
     },
     "네오 코리안 르네상스": {
         "2023-09-09": "- [[네오 코리안 르네상스]]",
-        "한민족 멸종 방어": "- [[네오 코리안 르네상스]]"
+        "한민족의 멸종 방어": "- [[네오 코리안 르네상스]]"
     },
     "Chrome": {
         "2022-09-30": "### [[Chrome]] `renderBlockingStatus`",
@@ -5625,6 +5646,11 @@ export const backlinks = {
     "Multiplexing": {
         "Internetworking": "- [[Multiplexing]]"
     },
+    "Attention Settings": {
+        "2022-07-29": "- [[Attention Settings]]",
+        "Digital Addiction": "- [[Attention Settings]]",
+        "소셜엔지니어링 금지법": "... Addiction & Dopamine Detox|Digital Detox. [[Attention Settings]] 참고"
+    },
     "Digital Signature for Videos": {
         "Digital Signature": "- [[Digital Signature for Videos]]"
     },
@@ -5785,8 +5811,8 @@ export const backlinks = {
         "한국인": "[[대한민국]]의 국적자이다. [[한민족]]과 다르다.",
         "한국통사": "엄청난 Superbrain|지식인이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 몸부림을 서서히 하지만 고약하게 ...",
         "한민족": "한민족은 [[대한민국]]과 [[북한]]의 주류가 되는 민족으로,",
-        "한민족 멸종 방어": "Neo [[대한민국|Korea]]",
         "한민족의 동족상잔": "... 이영훈 전 서울대 교수를 비롯한 [[대한민국|한국]] 학자들은 노비가 양인과 결혼을 할 ...",
+        "한민족의 멸종 방어": "Neo [[대한민국|Korea]]",
         "한반도": "... Asia shared by 북한|North and [[대한민국|South Korea]]. The peninsula is 750 miles ...",
         "헤이그 특사": "... 가지의 전쟁목적이 있다고 공언하였다. 첫째는 [[대한민국|한국]]의 독립유지와 영토보전이요, 둘째는 극동의 교역을 ...",
         "혜성처럼 나타난 본디": "Bondee|본디는 [[대한민국|한국]], [[일본]], [[Singapore|싱가포르]], [[대만|타이완]] 등에서 [[App ..."
@@ -6002,12 +6028,12 @@ export const backlinks = {
     },
     "Metadata": {
         "Book Metadata as a Service": "... Open API that returns Book [[Metadata]] when given an ISBN.",
+        "Data Preservation": "### [[Metadata]] Scraping",
         "Developing Review Notes for Obsidian": "`manifest.json`에는 다음과 같이 플러그인의 [[Metadata|메타데이터]]를 넣을 수 있다.",
         "Grammarly Work Note 2023-06-02": "... in our Datahouse and index [[metadata]]. Our system is built on ...",
         "Hive Metastore": "... is the central repository for [[Metadata]] within [[Apache Hive]]",
         "Link (Computer Systems)": "... (`.o`): Code + Data + [[Metadata]]",
         "Meta": "- [[Metadata]]",
-        "Preservation of Data": "### [[Metadata]] Scraping",
         "Project Core ML Inference": "... hand in hand with processing [[metadata]] for hundreds of titles?",
         "QA.json": "... pairs, each accompanied by related [[metadata]].",
         "Screenshot as an API": "...    - other [[metadata]] (formatting, fonts, etc.)"
@@ -6357,7 +6383,7 @@ export const backlinks = {
     "UBI for Scholars": {
         "2022-07-18": "- [[UBI For Scholars]]",
         "이공계": "[[UBI For Scholars|과학자연금]]이 있다면 어떨까?",
-        "한민족 멸종 방어": "- [[UBI For Scholars]]"
+        "한민족의 멸종 방어": "- [[UBI For Scholars]]"
     },
     "phash.wasm": {
         "Stable Alternative": "... ] Perceptual Hashing On-Device|On Device. [[phash.wasm]]"
@@ -6388,7 +6414,7 @@ export const backlinks = {
     },
     "학자 및 직계 가족의 의료보장제": {
         "2023-08-24": "- [[학자 및 직계 가족의 의료보장제]]",
-        "한민족 멸종 방어": "- [[학자 및 직계 가족의 의료보장제]]"
+        "한민족의 멸종 방어": "- [[학자 및 직계 가족의 의료보장제]]"
     },
     "Data Capturers": {
         "Rauno": "Interesting Extracranial Tools for Thought ([[Data Capturers]])",
@@ -6904,12 +6930,13 @@ export const backlinks = {
         "Dopamine Detox": "- [[Digital Addiction]]",
         "Dumb Phone": "- [[Digital Addiction]]",
         "Letter to Modos team on 2023-03-16": "I tried to combat [[digital addiction]] by using an old iPhone ...",
-        "Using an iPad as my Ebook": "... matter — essentially solving the [[Digital Addiction]]."
+        "Using an iPad as my Ebook": "... matter — essentially solving the [[Digital Addiction]].",
+        "소셜엔지니어링 금지법": "... 개발하는 것과 다를 바가 없다. [[Digital Addiction]] & [[Dopamine Detox|Digital Detox]]. [[Attention ..."
     },
     "Neo Block Economy": {
         "2022-12-08": "- [[Neo Block Economy]]",
         "MetroPunk": "... 고갈, Economy|경제 붕괴, 새로운 시대의 [[Neo Block Economy|블록경제]], 부패한 정치인, 개인의 무력감을 묘사하는 ...",
-        "한민족 멸종 방어": "- [[Neo Block Economy|신블록경제에 오신 것을 환영합니다]]"
+        "한민족의 멸종 방어": "- [[Neo Block Economy|신블록경제에 오신 것을 환영합니다]]"
     },
     "Safari is the new Internet Explorer": {
         "2022-12-28": "- [[Safari is the new Internet Explorer]]"
@@ -6925,7 +6952,7 @@ export const backlinks = {
         "Commonplace Book": "... 일종의 개인 일기장이다. 이 관행은 [[르네상스]] 시대부터 사용되어 왔으며, 개인이 시간이 ...",
         "Renaissance": "[[르네상스]]",
         "과거의 영광 (2016-2018)": "... 전환에는 수많은 고통과 역경이 있었다. [[르네상스]]를 공부하며 비슷하게 복잡한 감정을 느꼈다.",
-        "네오 코리안 르네상스": "... 위해선 한민족 멸종 방어|네오 코리안 [[르네상스]]가 필요하다.",
+        "네오 코리안 르네상스": "... 위해선 한민족의 멸종 방어|네오 코리안 [[르네상스]]가 필요하다.",
         "역사의 종말 오류": "... 주제 중 하나이다. 중세를 바라보는 [[르네상스]]적 관점과 르네상스를 바라보는 현대적 관점 ..."
     },
     "Open Graph Image as a Service": {
@@ -6995,7 +7022,7 @@ export const backlinks = {
         "헤이그 특사": "... 또 장기집권으로 인한 부패, 과도한 [[Tax|세금]]징수와 가혹한 행정에 허덕여왔던 대한민국|한국 국민과 ..."
     },
     "간판법": {
-        "한민족 멸종 방어": "- [[간판법]]"
+        "한민족의 멸종 방어": "- [[간판법]]"
     },
     "Better Hacker News": {
         "2022-07-12": "- [[Better Hacker News]]",
@@ -7660,7 +7687,7 @@ export const backlinks = {
     },
     "이무기 기업, 청룡 기업": {
         "30-Day Tweet Test (Harry Stebbings)": "... and Dragon Company <br/> 🇰🇷 [[이무기 기업, 청룡 기업]]      ...",
-        "한민족 멸종 방어": "- [[이무기 기업, 청룡 기업]]"
+        "한민족의 멸종 방어": "- [[이무기 기업, 청룡 기업]]"
     },
     "Born of this Land - The Founding Story of Hyundai": {
         "2023-02-23": "- [[Born of this Land - The Founding Story of Hyundai]]",
@@ -7928,9 +7955,9 @@ export const backlinks = {
         "서낭당": "서낭당은 [[한민족의 문화]] 건축물로 마을의 수호신인 서낭신을 모신 ...",
         "솟대": "[[한민족의 문화]] 건축물로,",
         "장승": "[[한민족의 문화]] 건축물로,",
-        "한민족 멸종 방어": "- [[한민족의 문화]]",
         "한민족은 해적되었다": "한민족|민족의 영리함이 [[한민족의 문화|빛을 발하지 못하고 수탈되고 악용되고 제 값을 받지 못한다는 맥락]]이었다.",
-        "한민족의 동족상잔": "[[한민족의 문화|현대에는 다른가?]]"
+        "한민족의 동족상잔": "[[한민족의 문화|현대에는 다른가?]]",
+        "한민족의 멸종 방어": "- [[한민족의 문화]]"
     },
     "SharedArrayBuffer": {
         "2022-06-22": "...  - WorkerDOM will harness [[SharedArrayBuffer]].",
@@ -8007,6 +8034,14 @@ export const backlinks = {
     },
     "Extended Reality": {
         "Spatial Computer": "[[Extended Reality]]"
+    },
+    "Nuclear Fusion Molecule 3D Printer": {
+        "2023-09-26": "- [[Nuclear Fusion Molecule 3D Printer]]"
+    },
+    "Data Preservation": {
+        "2022-10-18": "- [[Data Preservation]]",
+        "Attention Settings": "... this page is only for [[Data Preservation]] purposes.",
+        "Reddit-Apollo Mayhem": "... is priceless, and users can [[Data Preservation|archive]] their data using a Python ..."
     },
     "Manakin": {
         "Grammarly Work Note 2023-05-25": "- [[Manakin]] has 4 versions: `Dev`, `QA`, ...",
@@ -8113,7 +8148,7 @@ export const backlinks = {
         "2022-12-11": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]",
         "공기 청정 비행선": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]].",
         "태백산맥 계획": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]].",
-        "한민족 멸종 방어": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]"
+        "한민족의 멸종 방어": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]"
     },
     "Apple-like Block Interface": {
         "2022-12-16": "- [[Apple-like Block Interface]]",
@@ -8388,7 +8423,8 @@ export const backlinks = {
         "2022-11-19": "  - [[HTML 텍스트 위에 덧말 강조점 쓰기]]"
     },
     "16세 수능론": {
-        "2023-09-19": "- [[16세 수능론]]"
+        "2023-09-19": "- [[16세 수능론]]",
+        "한민족의 멸종 방어": "- [[16세 수능론]]"
     },
     "Deepfake": {
         "Digital Signature for Videos": "- Potential countermeasure to [[Deepfake]]."
@@ -8669,12 +8705,12 @@ export const backlinks = {
         "2022-10-17": "- [[Memex]]",
         "2023-09-14": "- [[Memex]]",
         "As We May Think": "... with his concept of the [[memex]] that would make knowledge more ...",
+        "Data Preservation": "- An important concept for [[Memex]] and [[Extracranial]]",
         "In-house and Free Market": "... should be more accessible. This [[Memex]] is one branch of that ...",
         "Letter to Mr. Stephan Ango on 2022-10-19": "I also have a [[Memex]] or, in my term, [[Extracranial]] ...",
         "Memex is more than a Memex": "- [[Memex]] is more than a Memex",
         "Person 648442": "- Make a full [[Memex]] with [[Twitter]]",
         "Plateau of Latent Potential": "... a form of Extracranial, a [[Memex]], or even [[Conversational AI Tools ...",
-        "Preservation of Data": "- An important concept for [[Memex]] and [[Extracranial]]",
         "Vannevar Bush": "... 추진한 주역 중 한 사람이었으며 메멕스([[Memex]])라고 불리는 기억 확장기 개념을 최초로 ...",
         "인하우스와 자유경쟁": "... 것이 더 쉬워져야 한다. 이 [[Memex]]는 그 생각의 한 걸음이다."
     },
@@ -8697,7 +8733,7 @@ export const backlinks = {
     },
     "공기 청정 비행선": {
         "2022-12-17": "- [[공기 청정 비행선]]",
-        "한민족 멸종 방어": "- [[공기 청정 비행선]]"
+        "한민족의 멸종 방어": "- [[공기 청정 비행선]]"
     },
     "Prompt Engineering": {
         "2022-09-03": "- [[Prompt Engineering]]",
@@ -8998,7 +9034,10 @@ export const backlinks = {
         "Yarn": "... efficient and reliable alternative to [[npm]]. It was released in 2016, ..."
     },
     "Malthusian Trap": {
-        "2023-08-19": "- [[Malthusian Trap]]"
+        "2023-08-19": "- [[Malthusian Trap]]",
+        "Homo Photosynthesis": "... enable photosynthesis for human beings? [[Malthusian Trap|Neo-Malthusian Trap]]",
+        "Nuclear Fusion Edible Capsule": "... energy to break through the [[Malthusian Trap|Neo-Malthusian]] trap?",
+        "Nuclear Fusion Terrarium": "... form to break through the [[Malthusian Trap|Neo-Malthusian Trap]]?"
     },
     "Docker": {
         "2022-06-15": "... as code like Terraform or [[Docker]] images for science labs.",
@@ -9125,7 +9164,7 @@ export const backlinks = {
         "강기업": "우리의 목표는 [[Small yet Powerful|강소]]기업이다.",
         "젠리의 성공 공식": "... 시작해 3천억에 스냅에 인수된 기술 [[Small yet Powerful|강소]] 기업은 어떻게 성장하고 어떻게 사라졌을까. ...",
         "초대장의 시대": "... 초대장 기반 소프트웨어 기업은 대부분 [[Small yet Powerful|소수정예]] 엘리트 팀이라는 점이다. 빅테크들은 왜 ...",
-        "한민족 멸종 방어": "- [[Small yet Powerful|작지만 강력한]]"
+        "한민족의 멸종 방어": "- [[Small yet Powerful|작지만 강력한]]"
     },
     "Vertex Buffer": {
         "2023-01-23": "- [[Vertex Buffer]]"
@@ -9297,7 +9336,7 @@ export const backlinks = {
     "強力反權": {
         "2023-01-09": "- [[強力反權]]",
         "Antipreneur": "- [[強力反權|강력반권]]",
-        "한민족 멸종 방어": "- [[強力反權]]"
+        "한민족의 멸종 방어": "- [[強力反權]]"
     },
     "CSS에서 언어마다 다른 글씨체를 설정하는 방법": {
         "2022-11-19": "  - [[CSS에서 언어마다 다른 글씨체를 설정하는 방법]]",
@@ -9547,7 +9586,7 @@ export const backlinks = {
     },
     "의료 인공지능과 의대 쏠림": {
         "2023-02-15": "- [[의료 인공지능과 의대 쏠림]]",
-        "한민족 멸종 방어": "- [[의료 인공지능과 의대 쏠림]]"
+        "한민족의 멸종 방어": "- [[의료 인공지능과 의대 쏠림]]"
     },
     "Enduring Question of Cicada": {
         "2023-03-16": "- [[Enduring Question of Cicada]]"
@@ -10110,6 +10149,9 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "[[Project Heimdall]]",
         "일일일": "NewsGPT Model. A competitor to [[Project Heimdall]]."
     },
+    "역사적 리셋": {
+        "2023-09-26": "- [[역사적 리셋]]"
+    },
     "Freedom of Speech and Regulation of Fake News": {
         "Regulation of Fake News": "- [[Freedom of Speech and Regulation of Fake News]]"
     },
@@ -10150,13 +10192,13 @@ export const backlinks = {
         "CSS": "... a markup language such as [[HTML]] or XML (including XML dialects ...",
         "CUID": "... CUID can be used as [[HTML|HyperText Markup Language]] ([[HTML]]), element identifiers, and server-side ...",
         "DOM": "... that treats an XML or [[HTML]] document as a tree structure ...",
+        "Data Preservation": "Save the raw [[HTML]] and process it later.",
         "HTML 텍스트 위에 덧말 강조점 쓰기": "... 위에 글자를 어떻게 적는지 궁금했는데 [[HTML]]의 기본 기능 만으로도 해결 가능하다는 ...",
         "JSX": "... is similar in appearance to [[HTML]]. React components are typically written ...",
         "JavaScript": "... the World Wide Web, alongside [[HTML]] and CSS. As of 2022, ...",
         "Markdown Email Client": "... as a beautiful and clean [[HTML]] Mail|email!",
         "Mini App": "... Apps using web-based technologies like [[HTML]], [[CSS]], and [[JavaScript]] hosted by ...",
         "Open Graph Image as a Service": "... vercel/satori: Enlightened library to convert [[HTML]] and [[CSS]] to [[SVG]]",
-        "Preservation of Data": "Save the raw [[HTML]] and process it later.",
         "Proposal of Research 2023-01-10": "... shortened to iframe, is an [[HTML]] element that allows you to ...",
         "Protocol Wars": "... automatically converted Gopher menus into [[HTML]]",
         "Satori": "... new core library for converting [[HTML]]/[[CSS]] into SVGs.",
@@ -10183,7 +10225,7 @@ export const backlinks = {
     },
     "I just want it fixed": {
         "공기 청정 비행선": "... 제공했든, 그런 것을 다 떠나서 [[I just want it fixed|그냥 고치면 좋겠다]].",
-        "한민족 멸종 방어": "- [[I just want it fixed|그냥 고치면 좋겠다]]"
+        "한민족의 멸종 방어": "- [[I just want it fixed|그냥 고치면 좋겠다]]"
     },
     "AI replaces expensive jobs first": {
         "2022-10-20": "- [[AI replaces expensive jobs first]]",
@@ -10289,6 +10331,7 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "해커뉴스를 읽고 있다가 이걸 [[AI]]에게 요약해보고 있었다.",
         "기술 발전의 속도": "2022년 여름의 [[AI|인공지능]] 업계를 대표적으로 나타내는 글이다",
         "슈퍼자판기": "... 환경을 실시간으로 촬영. 이러한 카메라는 [[AI]] 기반 행동 분석 시스템과 통합되어 ...",
+        "역사적 리셋": "... 않으며 현재의 이익에 맞게 움직이는 [[AI|인공지능]]의 Autonomous Agent와 비슷하다는 생각이 들었다. ...",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "- 일러스트레이션. 일러스트레이터를 고용하거나 생성 [[AI]]를 사용하여 일러스트레이션을 만든다.",
         "의료 인공지능과 의대 쏠림": "만약 의료 [[AI|인공지능]]이 대규모로 보급된다면 어떨까? 의대를 가려는 ...",
         "이루다": "## [[AI|인공지능]]",
@@ -10433,9 +10476,9 @@ export const backlinks = {
         "2023-02-15": "- [[이공계]]",
         "민사고와 쇼비니즘": "[[이공계]] 문제와 [[의대 쏠림]] 문제, 그리고 ...",
         "의대 쏠림": "... 인식되면서 의대는 이 씨와 같은 [[이공계]] 인재들까지 블랙홀처럼 빨아들이고 있다. 종로학원 ...",
-        "의료 인공지능과 의대 쏠림": "한민족 멸종 방어|신한국으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 지원이 필요하다.",
+        "의료 인공지능과 의대 쏠림": "한민족의 멸종 방어|신한국으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 지원이 필요하다.",
         "일본 과학기술 총력전": "[[이공계]] 학자 대부분은 연구비가 윤택하던 전시 ...",
-        "한민족 멸종 방어": "- [[이공계]]"
+        "한민족의 멸종 방어": "- [[이공계]]"
     },
     "Nextra": {
         "Apple-like Block Interface": "## [[Nextra]]"
@@ -10443,7 +10486,7 @@ export const backlinks = {
     "Small Government vs Big Government": {
         "2022-10-27": "- [[Small Government vs Big Government]]",
         "Small yet Powerful": "... be a potential answer to [[Small Government vs Big Government]]",
-        "한민족 멸종 방어": "- [[Small Government vs Big Government]]"
+        "한민족의 멸종 방어": "- [[Small Government vs Big Government]]"
     },
     "Database": {
         "2022-06-05": "... friction. I strongly dislike slow [[Database|DB]] queries and slow web-based admin ...",
@@ -10452,6 +10495,7 @@ export const backlinks = {
         "2023-02-02": "... end. It uses a PostgreSQL [[database]] for storage and Algolia to ...",
         "AI는 고가 노동부터 점령한다": "... 딱지 위반)로 시작한다. 하지만 점차 [[Database|데이터베이스]]화하는 사건량을 늘린 뒤, 법률가들이 \"[[Google|구글]] ...",
         "Cookie": "... that corresponds to the Back-end|backend [[database]].",
+        "Data Preservation": "... scripts, sometimes curl, and MySQL [[database]] to store the results.",
         "Database vs Datalake": "## [[Database]]:",
         "Digital Bookmarks for Physical Books": "... to collect it as a [[database]] on your phone? Reference: Why ...",
         "FIRE": "... has turned into a colossal [[database]] of everything on the internet",
@@ -10465,7 +10509,6 @@ export const backlinks = {
         "Link Coefficient": "Given a [[database]], how interconnected is the database?",
         "Listmonk": "... Uses a PostgreSQL (⩾ 12) [[database]] as its data store",
         "Now Page": "... rather keep improving my back-end [[database]] work.\"",
-        "Preservation of Data": "... scripts, sometimes curl, and MySQL [[database]] to store the results.",
         "Prisma": "Prisma is an open-source [[database]] toolkit developed to make it ...",
         "Proposal of Research 2023-01-10": "... the pixel combinations on the [[database]]. So, I explored clamping the ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### Federated [[Database]] Systems",
@@ -10509,7 +10552,8 @@ export const backlinks = {
     },
     "Dopamine Detox": {
         "Dopamine Addiction": "[[Dopamine Detox]]",
-        "Watch is the Greatest Dumb Phone": "... Phone in the context of [[Dopamine Detox]]. While most of the dumb ..."
+        "Watch is the Greatest Dumb Phone": "... Phone in the context of [[Dopamine Detox]]. While most of the dumb ...",
+        "소셜엔지니어링 금지법": "... 바가 없다. Digital Addiction & [[Dopamine Detox|Digital Detox]]. [[Attention Settings]] 참고"
     },
     "Love Firefox": {
         "2023-02-26": "- [[Love Firefox]]",
@@ -11779,6 +11823,33 @@ export const backlinks = {
     },
     "2E6CEB.mp4": {
         "Linkflags": "![[2E6CEB.mp4]]"
+    },
+    "E9DA32.png": {
+        "Attention Settings": "![[E9DA32.png]]"
+    },
+    "6DE1DE.png": {
+        "Attention Settings": "![[6DE1DE.png]]"
+    },
+    "346C75.png": {
+        "Attention Settings": "![[346C75.png]]"
+    },
+    "58745C.png": {
+        "Attention Settings": "![[58745C.png]]"
+    },
+    "8DE1B4.png": {
+        "Attention Settings": "![[8DE1B4.png]]"
+    },
+    "8F9A20.png": {
+        "Attention Settings": "![[8F9A20.png]]"
+    },
+    "ACCDE7.png": {
+        "Attention Settings": "![[ACCDE7.png]]"
+    },
+    "EEC7D4.png": {
+        "Attention Settings": "![[EEC7D4.png]]"
+    },
+    "5DBEEF.png": {
+        "Attention Settings": "![[5DBEEF.png]]"
     },
     "2A2DC6.png": {
         "프로젝트 어덕행덕": "![[2A2DC6.png]]"
