@@ -6305,6 +6305,9 @@ export const backlinks = {
         "서비스 시밍": "- 테슬라도 비슷하다. [[Elon Musk|일론]]은 항상 과감한 데드라인을 정해놓지만 그 ...",
         "잡스와 생존 편향": "최소한 [[Elon Musk|머스크]], 게이츠, 저커버그는 대학 수업이 무의미하다고 ..."
     },
+    "Regression": {
+        "2023-09-27": "- [[Regression]]"
+    },
     "Browser Company": {
         "Arc Browser": "[[Browser Company]]",
         "Browser Company Hackathon": "- [[Browser Company]]"
