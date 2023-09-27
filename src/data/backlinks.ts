@@ -12152,9 +12152,6 @@ export const backlinks = {
     "A9751C.png": {
         "민사고 앱": "![[A9751C.png]]"
     },
-    "A0314B.png": {
-        "민사고 앱": "![[A0314B.png]]"
-    },
     "FC60E6.png": {
         "민사고 앱": "![[FC60E6.png]]"
     },
@@ -12178,6 +12175,9 @@ export const backlinks = {
     },
     "BEFFDF.png": {
         "민사고 앱": "![[BEFFDF.png]]"
+    },
+    "A0314B.png": {
+        "민사고 앱": "![[A0314B.png]]"
     },
     "webserver": {
         "Port": "- [[webserver]] → 80"
