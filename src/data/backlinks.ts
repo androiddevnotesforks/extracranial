@@ -1274,6 +1274,11 @@ export const backlinks = {
         "Vertical Federated Learning": "... employing advanced cryptographic techniques like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]) or [[Homomorphic ...",
         "honest-but-curious": "... Learning|FL) and cryptographic protocols like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]). In this ..."
     },
+    "소셜 엔지니어링 금지": {
+        "2023-09-26": "- [[소셜 엔지니어링 금지]]",
+        "민사고 앱": "... 소프트웨어는 온전히 사람을 보조할 것. [[소셜 엔지니어링 금지]]",
+        "한민족의 멸종 방어": "- [[소셜 엔지니어링 금지]]"
+    },
     "Markdown": {
         "2022-07-09": "... plugin for converting wikilinks to [[Markdown]] links. For example, this is ...",
         "ContentLayer": "... your content data (such as [[Markdown]] files or CMS) into type-safe ...",
@@ -2174,7 +2179,8 @@ export const backlinks = {
         "2022-11-28": "- Matt Rickard. [[Demise of Chatbots in 2017]], [[Generative Databases]]",
         "Generative AI": "... make a similar trajectory like [[Demise of Chatbots in 2017]]?",
         "Matt Rickard": "- [[Demise of Chatbots in 2017]]",
-        "Search AI": "We will never see [[Demise of Chatbots in 2017]] again."
+        "Search AI": "We will never see [[Demise of Chatbots in 2017]] again.",
+        "민사고 앱": "... Assistant라는 챗봇으로 만들 생각을 하다가 ([[Demise of Chatbots in 2017]]) 2018년에는 웹 혹은 플러터 버전으로 ..."
     },
     "CSS": {
         "2023-01-23": "... seems like Wikipedia updated its [[CSS]]...",
@@ -2896,10 +2902,6 @@ export const backlinks = {
     "Letter to Mr. Matt Rickard on 2022-12-21": {
         "2022-12-21": "- [[Letter to Mr. Matt Rickard on 2022-12-21]]"
     },
-    "소셜엔지니어링 금지법": {
-        "2023-09-26": "- [[소셜엔지니어링 금지법]]",
-        "한민족의 멸종 방어": "- [[소셜엔지니어링 금지법]]"
-    },
     "Pretendard": {
         "Apple Newsroom 서체 따라하기": "2022년 기준, 그냥 [[Pretendard]]를 사용하면 된다.",
         "Font Features": "- San Francisco, Inter, and [[Pretendard]] has awesome support.",
@@ -3336,6 +3338,7 @@ export const backlinks = {
         "국가와 민족": "- [[민사고|민족사관고등학교]]에서 배운 것 중 하나이다.",
         "국제 계열과 계열 변경 이야기": "... 계열을 변경했습니다. 많은 분들이 아시다시피 [[민사고]]는 국제계열과 국내계열로 나뉘어 있습니다. 오늘은 ...",
         "기숙사 생활과 방 배정": "... 또 다른 학교생활을 직면하게 됩니다. [[민사고|민족사관고등학교]] 기숙사인 덕고관은 또 다른 배움의 ...",
+        "민사고 앱": "그 이후에도 수많은 시도가 있었다. [[민사고]]에는 KMLA Online이라는 인트라넷이 있는데, 처음에는 ...",
         "민사고와 쇼비니즘": "1998년 발간된 [[민사고]] 영문 잡지 최초 호 첫 ...",
         "바이올린 켜면 바이올레이션": "... 제도는 어느 학교에나 있는 제도입니다. [[민사고|민족사관고등학교]]도 마찬가지입니다. 오늘은 민사고|민족사관고등학교의 상벌점 제도에 ...",
         "불가사리": "[[민사고]] 재학 시절 만들었던 아트워크",
@@ -3526,7 +3529,7 @@ export const backlinks = {
         "2023-09-14": "- [[한민족의 멸종 방어]]",
         "2023-09-19": "- [[한민족의 멸종 방어]]",
         "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족의 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
-        "소셜엔지니어링 금지법": "[[한민족의 멸종 방어]]를 위한 필수. 소셜 엔지니어링은 마약성 ...",
+        "소셜 엔지니어링 금지": "[[한민족의 멸종 방어]]를 위해 금지가 필수. [[Social Engineering]]은 ...",
         "연암 박지원 그리고 전국수도권화": "[[한민족의 멸종 방어]].",
         "의료 인공지능과 의대 쏠림": "[[한민족의 멸종 방어|신한국]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
     },
@@ -4079,8 +4082,7 @@ export const backlinks = {
         "드디어, 한국 애플페이": "... 있지만, 오늘 할 이야기는 아니다. [[Why Korean Banks Suck|한국 은행계]]에 새로운 자극이 되기를 바란다."
     },
     "Nuclear Fusion Edible Capsule": {
-        "2023-09-26": "- [[Nuclear Fusion Edible Capsule]]",
-        "Nuclear Fusion Terrarium": "... so, can we create a [[Nuclear Fusion Edible Capsule]] that would emit some of ..."
+        "2023-09-26": "- [[Nuclear Fusion Edible Capsule]]"
     },
     "식영부원의 관점에서 바라본 치킨데이": {
         "2016-07-01": "- [[식영부원의 관점에서 바라본 치킨데이]]"
@@ -4722,7 +4724,6 @@ export const backlinks = {
         "Nuclear Fission": "... nuclear projects, such as the [[nuclear fusion]] startup Helion.",
         "Nuclear Fusion Edible Capsule": "Can we embed a micro [[nuclear fusion]] reactor ([[nuclear fusion terrarium]]) into ...",
         "Nuclear Fusion Molecule 3D Printer": "... to 3D-print any molecules with [[nuclear fusion]]?",
-        "Nuclear Fusion Terrarium": "... create a Terrarium with a [[nuclear fusion]] core inside to create an ...",
         "불가사리": "[[Nuclear Fusion|핵융합]]"
     },
     "MAGI": {
@@ -5649,7 +5650,8 @@ export const backlinks = {
     "Attention Settings": {
         "2022-07-29": "- [[Attention Settings]]",
         "Digital Addiction": "- [[Attention Settings]]",
-        "소셜엔지니어링 금지법": "... Addiction & Dopamine Detox|Digital Detox. [[Attention Settings]] 참고"
+        "민사고 앱": "어쨌든, [[Attention Settings]]과 비슷한 나만의 프레임워크를 만들기 위해서 ...",
+        "소셜 엔지니어링 금지": "... Addiction & Dopamine Detox|Digital Detox. [[Attention Settings]] 참고"
     },
     "Digital Signature for Videos": {
         "Digital Signature": "- [[Digital Signature for Videos]]"
@@ -6931,7 +6933,8 @@ export const backlinks = {
         "Dumb Phone": "- [[Digital Addiction]]",
         "Letter to Modos team on 2023-03-16": "I tried to combat [[digital addiction]] by using an old iPhone ...",
         "Using an iPad as my Ebook": "... matter — essentially solving the [[Digital Addiction]].",
-        "소셜엔지니어링 금지법": "... 개발하는 것과 다를 바가 없다. [[Digital Addiction]] & [[Dopamine Detox|Digital Detox]]. [[Attention ..."
+        "민사고 앱": "... 기술은 별개라는 사실을 점차 깨달았다. [[Digital Addiction|디지털 중독]] 참고.",
+        "소셜 엔지니어링 금지": "... 개발하는 것과 다를 바가 없다. [[Digital Addiction]] & [[Dopamine Detox|Digital Detox]]. [[Attention ..."
     },
     "Neo Block Economy": {
         "2022-12-08": "- [[Neo Block Economy]]",
@@ -7413,6 +7416,9 @@ export const backlinks = {
         "일본 과학기술 총력전": "... 통일되며 대학 강의가 Foreign Language|외국어에서 [[일본어]]로 변경되었다.",
         "헤이그 특사": "... 설치되었다. 교육기관의 설치는 한국어를 근절시키고 [[일본어]]를 대신 가르치려는 것이며, [[한국인]]의 해외유학은 ..."
     },
+    "Social Engineering": {
+        "소셜 엔지니어링 금지": "... 멸종 방어를 위해 금지가 필수. [[Social Engineering]]은 마약성 상품을 개발하는 것과 다를 ..."
+    },
     "Grammarly AI-NLP Club": {
         "2023-03-23": "- Attended [[Grammarly AI-NLP Club]]."
     },
@@ -7521,6 +7527,9 @@ export const backlinks = {
         "2023-08-18": "- [[Commonplace Book]]",
         "Building a Second Brain": "... origin goes back to the [[commonplace book]] used by ancient scholars.",
         "두 번째 뇌": "... 기원은 과거 수많은 학자들이 사용한 [[Commonplace Book]]로 거슬러 올라간다."
+    },
+    "민사고 앱": {
+        "2023-09-26": "- [[민사고 앱]]"
     },
     "인하우스와 자유경쟁": {
         "2023-02-22": "- [[인하우스와 자유경쟁]]",
@@ -9036,8 +9045,7 @@ export const backlinks = {
     "Malthusian Trap": {
         "2023-08-19": "- [[Malthusian Trap]]",
         "Homo Photosynthesis": "... enable photosynthesis for human beings? [[Malthusian Trap|Neo-Malthusian Trap]]",
-        "Nuclear Fusion Edible Capsule": "... energy to break through the [[Malthusian Trap|Neo-Malthusian]] trap?",
-        "Nuclear Fusion Terrarium": "... form to break through the [[Malthusian Trap|Neo-Malthusian Trap]]?"
+        "Nuclear Fusion Edible Capsule": "... energy to break through the [[Malthusian Trap|Neo-Malthusian]] trap?"
     },
     "Docker": {
         "2022-06-15": "... as code like Terraform or [[Docker]] images for science labs.",
@@ -10553,7 +10561,7 @@ export const backlinks = {
     "Dopamine Detox": {
         "Dopamine Addiction": "[[Dopamine Detox]]",
         "Watch is the Greatest Dumb Phone": "... Phone in the context of [[Dopamine Detox]]. While most of the dumb ...",
-        "소셜엔지니어링 금지법": "... 바가 없다. Digital Addiction & [[Dopamine Detox|Digital Detox]]. [[Attention Settings]] 참고"
+        "소셜 엔지니어링 금지": "... 바가 없다. Digital Addiction & [[Dopamine Detox|Digital Detox]]. [[Attention Settings]] 참고"
     },
     "Love Firefox": {
         "2023-02-26": "- [[Love Firefox]]",
@@ -12137,6 +12145,36 @@ export const backlinks = {
     },
     " -f package-lock. json ": {
         "Naroo": "\telif [[ -f package-lock. json ]]; then"
+    },
+    "A9751C.png": {
+        "민사고 앱": "![[A9751C.png]]"
+    },
+    "A0314B.png": {
+        "민사고 앱": "![[A0314B.png]]"
+    },
+    "FC60E6.png": {
+        "민사고 앱": "![[FC60E6.png]]"
+    },
+    "D13070.png": {
+        "민사고 앱": "![[D13070.png]]"
+    },
+    "B55B1C.png": {
+        "민사고 앱": "![[B55B1C.png]]"
+    },
+    "D9A6F1.png": {
+        "민사고 앱": "![[D9A6F1.png]]"
+    },
+    "196886.png": {
+        "민사고 앱": "![[196886.png]]"
+    },
+    "552CE3.png": {
+        "민사고 앱": "![[552CE3.png]]"
+    },
+    "FCC18C.png": {
+        "민사고 앱": "![[FCC18C.png]]"
+    },
+    "BEFFDF.png": {
+        "민사고 앱": "![[BEFFDF.png]]"
     },
     "webserver": {
         "Port": "- [[webserver]] → 80"
