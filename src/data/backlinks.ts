@@ -4082,7 +4082,8 @@ export const backlinks = {
         "드디어, 한국 애플페이": "... 있지만, 오늘 할 이야기는 아니다. [[Why Korean Banks Suck|한국 은행계]]에 새로운 자극이 되기를 바란다."
     },
     "Nuclear Fusion Edible Capsule": {
-        "2023-09-26": "- [[Nuclear Fusion Edible Capsule]]"
+        "2023-09-26": "- [[Nuclear Fusion Edible Capsule]]",
+        "Nuclear Fusion Terrarium": "... so, can we create a [[Nuclear Fusion Edible Capsule]] that would emit some of ..."
     },
     "식영부원의 관점에서 바라본 치킨데이": {
         "2016-07-01": "- [[식영부원의 관점에서 바라본 치킨데이]]"
@@ -4724,6 +4725,7 @@ export const backlinks = {
         "Nuclear Fission": "... nuclear projects, such as the [[nuclear fusion]] startup Helion.",
         "Nuclear Fusion Edible Capsule": "Can we embed a micro [[nuclear fusion]] reactor ([[nuclear fusion terrarium]]) into ...",
         "Nuclear Fusion Molecule 3D Printer": "... to 3D-print any molecules with [[nuclear fusion]]?",
+        "Nuclear Fusion Terrarium": "... create a Terrarium with a [[nuclear fusion]] core inside to create an ...",
         "불가사리": "[[Nuclear Fusion|핵융합]]"
     },
     "MAGI": {
@@ -9045,7 +9047,8 @@ export const backlinks = {
     "Malthusian Trap": {
         "2023-08-19": "- [[Malthusian Trap]]",
         "Homo Photosynthesis": "... enable photosynthesis for human beings? [[Malthusian Trap|Neo-Malthusian Trap]]",
-        "Nuclear Fusion Edible Capsule": "... energy to break through the [[Malthusian Trap|Neo-Malthusian]] trap?"
+        "Nuclear Fusion Edible Capsule": "... energy to break through the [[Malthusian Trap|Neo-Malthusian]] trap?",
+        "Nuclear Fusion Terrarium": "... form to break through the [[Malthusian Trap|Neo-Malthusian Trap]]?"
     },
     "Docker": {
         "2022-06-15": "... as code like Terraform or [[Docker]] images for science labs.",
