@@ -934,6 +934,9 @@ export const backlinks = {
         "2023-07-10": "- [[Impact over Performance]]",
         "IDOL Stack": "- [[Impact over Performance]]"
     },
+    "Universal Approximation Theorem": {
+        "2023-09-27": "- [[Universal Approximation Theorem]]"
+    },
     "Supergravity Product": {
         "2022-11-07": "- [[Supergravity Product]]",
         "2023-07-07": "- [[Supergravity Product]]",
@@ -2756,6 +2759,10 @@ export const backlinks = {
     },
     "Local ChatGPT": {
         "2023-03-12": "- [[Local ChatGPT]]"
+    },
+    "Feedforward Neural Network": {
+        "2023-09-27": "- [[Feedforward Neural Network]]",
+        "Universal Approximation Theorem": "Given a function, a [[feedforward neural network]] with just one hidden layer ..."
     },
     "A Massive Mystery": {
         "2023-02-07": "- [[A Massive Mystery]]",
@@ -8068,6 +8075,7 @@ export const backlinks = {
     "Useful ChatGPT Prompts": {
         "2023-04-10": "- [[Useful ChatGPT Prompts]]",
         "2023-09-20": "- [[Useful ChatGPT Prompts]]",
+        "2023-09-27": "- [[Useful ChatGPT Prompts]]",
         "Make GPT Print LaTeX": "[[Useful ChatGPT Prompts]]"
     },
     "P-series Test": {
@@ -8574,6 +8582,9 @@ export const backlinks = {
         "3D": "- [[glTF]] for [[Android]]",
         "Things (3D)": "... the edge on Things over [[glTF]] and [[USDZ]]?<br/>",
         "USDZ vs glTF": "USDZ and [[glTF]] are two [[3D]] file formats ..."
+    },
+    "Multiclass Classification": {
+        "2023-09-27": "- [[Multiclass Classification]]"
     },
     "GitHub Package Manager": {
         "Matt Rickard": "- [[GitHub Package Manager]]"
