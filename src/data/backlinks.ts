@@ -1864,7 +1864,7 @@ export const backlinks = {
         "2023-09-11": "OpenBB를 이용해서 [[Macroeconomics]]를 더 공부해보기 시작했다. 기능이 무지하게 ...",
         "Microeconomics": "... It should be distinct from [[macroeconomics]], which takes a broader view ...",
         "과목우수상": "딱 하나 유일하게 받은 과목우수상은 [[Macroeconomics|거시경제학]]이었는데, 이것도 좀 오해의 소지가 있는데 ...",
-        "도고계획": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다."
+        "도고계획": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다. 어원은 ..."
     },
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
@@ -3005,7 +3005,8 @@ export const backlinks = {
     "도고계획": {
         "2023-09-09": "- [[도고계획]]",
         "2023-09-10": "- [[도고계획]]",
-        "2023-09-26": "- [[도고계획]]"
+        "2023-09-26": "- [[도고계획]]",
+        "2023-09-29": "[[도고계획]]"
     },
     "Computational Linguistics": {
         "2023-02-16": "- [[Computational Linguistics]]",
@@ -10416,7 +10417,8 @@ export const backlinks = {
         "Repeated Designs": "[[Simulated Annealing for Designs]]. Good Design"
     },
     "도고상인": {
-        "2023-09-26": "- [[도고상인]]"
+        "2023-09-26": "- [[도고상인]]",
+        "도고계획": "... 인공지능을 독자 개발하는 프로젝트이다. 어원은 [[도고상인]]."
     },
     "Line": {
         "Universal Chat App": "3. [[Line]] ([[일본|Japan]]). Developed by [[Naver]], a ..."
