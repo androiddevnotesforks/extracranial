@@ -160,6 +160,9 @@ export const backlinks = {
     "2023-01-21": {
         "하늘땅사람 업데이트 기록": "## 1.0.5 [[2023-01-21]]"
     },
+    "2023-10-03": {
+        "Project Florence": "## [[2023-10-03]]"
+    },
     "2023-01-15": {
         "하늘땅사람 개발 기록": "... 이중모음까지는 조합이 가능하도록 만들어야겠다. ← [[2023-01-15]] 해결"
     },
@@ -1854,7 +1857,10 @@ export const backlinks = {
         "2023-09-07": "- [[Project Florence]]",
         "2023-09-12": "- [[Project Florence]]",
         "2023-09-14": "- [[Project Florence]]",
-        "2023-09-22": "- [[Project Florence]]"
+        "2023-09-22": "- [[Project Florence]]",
+        "2023-10-03": "- [[Project Florence]]",
+        "2023-10-04": "- [[Project Florence]]",
+        "Project Fiesole": "Subproject of [[Project Florence]]."
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -2085,6 +2091,11 @@ export const backlinks = {
     "Now Runs On": {
         "2022-11-20": "- [[Now Runs On]]"
     },
+    "Project Fiesole": {
+        "2023-10-03": "- [[Project Fiesole]]",
+        "2023-10-04": "- [[Project Fiesole]]",
+        "Project Florence": "- [[Project Fiesole]]"
+    },
     "초상권 vs 저작권": {
         "CELLO": "- [[초상권 vs 저작권]]",
         "퍼블리시티권": "- [[초상권 vs 저작권]]"
@@ -2145,6 +2156,9 @@ export const backlinks = {
     "서울 프로": {
         "2022-08-01": "- [[서울 프로]]",
         "Pretendard의 아쉬운 점": "이는 자세하게 확인하지 못했으나 [[서울 프로]]를 개발할 때 알아보고 고려하려고 했던 ..."
+    },
+    "First 1000": {
+        "2023-10-02": "- [[First 1000]]"
     },
     "드디어, 한국 애플페이": {
         "2023-02-04": "- [[드디어, 한국 애플페이]]",
@@ -2526,6 +2540,7 @@ export const backlinks = {
         "2022-11-21": "- [[Animation]]",
         "2022-11-23": "- Rive Use Cases: [[Animation]]",
         "2022-12-24": "- Add easing to your [[Animation]] to help add a responsive ...",
+        "2023-09-30": "... macOS Sonoma is the changed [[animation]] curve of the notification banner...",
         "Adobe After Effects": "... for keying, tracking, compositing, and [[animation]]. [[Alternatives to After Effects]]",
         "Are Computers Psychotropic Substances": "Vibrant colors, popping vibrations, smooth [[Animation]], and constant notifications relentlessly demand ...",
         "Dynamic Island on the Web": "- Optimize [[Animation|Animations]] (css `will-change`)",
@@ -2811,6 +2826,11 @@ export const backlinks = {
         "Reddit-Apollo Mayhem": "## Summarizations from [[hn.cho.sh]]",
         "Vercel Incident Report (April 2023)": "... with two projects: lovearc.net and [[hn.cho.sh]].",
         "hn.cho.sh 개발 기록": "... 아마도 사이드바 채팅 AI를 추가하고 [[hn.cho.sh]]에 대한 셀프 프로모션을 추가해야겠다."
+    },
+    "Towards Ambient Computing": {
+        "2023-10-03": "- [[Towards Ambient Computing]]",
+        "2023-10-04": "- [[Towards Ambient Computing]]",
+        "Search Engine Indexing Your Life": "[[Towards Ambient Computing]]"
     },
     "Internetworking": {
         "2022-08-28": "- [[Internetworking]]",
@@ -5179,6 +5199,7 @@ export const backlinks = {
         "2023-09-06": "- [[LaTeX]]",
         "2023-09-07": "- [[LaTeX]]",
         "2023-09-19": "- [[LaTeX]]",
+        "2023-09-30": "[[LaTeX]]",
         "Space in LaTeX": "Space in [[LaTeX]]",
         "Useful ChatGPT Prompts": "## Use [[LaTeX]]",
         "latexify.cho.sh": "... convert the equation into $\\TeX$ [[LaTeX]]"
@@ -6227,6 +6248,7 @@ export const backlinks = {
     "macOS": {
         "2022-06-05": "... one command on Linux (and [[macOS]] very soon). This software does ...",
         "2023-02-08": "... various potential issues in a [[macOS]]/[[iOS]] application",
+        "2023-09-30": "The best feature of [[macOS]] Sonoma is the changed [[animation]] ...",
         "AirDrop": "... a feature in iOS and [[macOS]] that lets you wirelessly share ...",
         "Chrome": "... and mobile devices, including Windows, [[macOS]], [[Linux]], [[Android]], and [[iOS]].",
         "Disable Screenshot Drop Shadow in macOS": "[[macOS]]",
@@ -9274,6 +9296,7 @@ export const backlinks = {
         "조선왕조실록": "[[Someday]] [[Project]]. Fast and Modern version ..."
     },
     "Feature": {
+        "2023-09-30": "The best [[feature]] of [[macOS]] Sonoma is the ...",
         "Daniele Romanini et al. PyVertical": "... that different entities own different [[Feature|features]] of the same dataset. Private ...",
         "Federated Transfer Learning": "... differ in their samples and [[feature]] space.",
         "Horizontal Federated Learning": "... points) but share the same [[feature]] set.",
@@ -9422,6 +9445,10 @@ export const backlinks = {
     "기술 발전의 속도": {
         "2023-02-20": "- [[기술 발전의 속도]]"
     },
+    "Towns in Florence": {
+        "2023-10-03": "- [[Towns in Florence]]",
+        "2023-10-04": "- [[Towns in Florence]]"
+    },
     "Engine Equation (Metapage)": {
         "2023-03-06": "- [[Engine Equation (Metapage)]]",
         "Tech Now Pay Later": "... to create utility. Interestingly, this [[Engine Equation (Metapage)]] is a function that takes ..."
@@ -9547,6 +9574,7 @@ export const backlinks = {
     },
     "일본": {
         "2023-02-16": "- [[일본]]",
+        "2023-09-30": "... Van Gogh was so into [[일본|Japanese]] culture.",
         "Biden-Harris Administration National Security Strategy 2022": "... commitment to the defense of [[일본|Japan]] under the mutual security treaty, ...",
         "Bing Chat for All Browsers in Japan": "Still very dominant from [[일본|Japan]]",
         "Finally, Apple Pay in Korea": "... standard in 대한민국|Korea, such as [[일본|Japan]]'s Suica. But they never succeeded.) ...",
@@ -11341,6 +11369,28 @@ export const backlinks = {
     "Vector Graphics": {
         "SVG": "> Scalable [[Vector Graphics]] (SVG) is an XML-based vector ..."
     },
+    "5426B0.png": {
+        "Memex": "![[5426B0.png]]",
+        "Towards Ambient Computing": "![[5426B0.png]]"
+    },
+    "A38ADA.png": {
+        "Towards Ambient Computing": "![[A38ADA.png]]"
+    },
+    "C1D591.png": {
+        "Towards Ambient Computing": "![[C1D591.png]]"
+    },
+    "A98330.png": {
+        "Towards Ambient Computing": "![[A98330.png]]"
+    },
+    "2FC7CE.png": {
+        "Towards Ambient Computing": "![[2FC7CE.png]]"
+    },
+    "853594.png": {
+        "Towards Ambient Computing": "![[853594.png]]"
+    },
+    "E45497.png": {
+        "Towards Ambient Computing": "![[E45497.png]]"
+    },
     "C42C4E.png": {
         "Pretendard": "![[C42C4E.png]]",
         "San Francisco": "![[C42C4E.png]]"
@@ -12417,9 +12467,6 @@ export const backlinks = {
     },
     "F52E67.png": {
         "Text-based Tools for Thought": "![[F52E67.png]]"
-    },
-    "89B469.png": {
-        "Memex": "![[89B469.png]]"
     },
     "FC87FE.png": {
         "Ignoring $ for copy-pasting online resources to terminal": "![[FC87FE.png]]"
