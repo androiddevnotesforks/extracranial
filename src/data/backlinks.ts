@@ -1860,7 +1860,7 @@ export const backlinks = {
         "2023-09-22": "- [[Project Florence]]",
         "2023-10-03": "- [[Project Florence]]",
         "2023-10-04": "- [[Project Florence]]",
-        "Project Fiesole": "Subproject of [[Project Florence]]."
+        "Project Fiesole": "... dataset might miss. Subproject of [[Project Florence]]."
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -11277,6 +11277,9 @@ export const backlinks = {
     },
     "56155E.png": {
         "WebAssembly": "![[56155E.png]]"
+    },
+    "4EE7F9.png": {
+        "Project Fiesole": "![[4EE7F9.png]]"
     },
     "B9AA95.png": {
         "Web Graphics": "![[B9AA95.png]]"
