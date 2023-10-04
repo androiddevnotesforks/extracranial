@@ -2827,11 +2827,6 @@ export const backlinks = {
         "Vercel Incident Report (April 2023)": "... with two projects: lovearc.net and [[hn.cho.sh]].",
         "hn.cho.sh 개발 기록": "... 아마도 사이드바 채팅 AI를 추가하고 [[hn.cho.sh]]에 대한 셀프 프로모션을 추가해야겠다."
     },
-    "Towards Ambient Computing": {
-        "2023-10-03": "- [[Towards Ambient Computing]]",
-        "2023-10-04": "- [[Towards Ambient Computing]]",
-        "Search Engine Indexing Your Life": "[[Towards Ambient Computing]]"
-    },
     "Internetworking": {
         "2022-08-28": "- [[Internetworking]]",
         "2022-08-29": "- [[Internetworking]]",
@@ -10401,6 +10396,11 @@ export const backlinks = {
     "Convergence of Power Series": {
         "2023-01-31": "- [[Convergence of Power Series]]"
     },
+    "앰비언트 컴퓨팅을 향해": {
+        "2023-10-03": "- [[앰비언트 컴퓨팅을 향해]]",
+        "2023-10-04": "- [[앰비언트 컴퓨팅을 향해]]",
+        "Search Engine Indexing Your Life": "[[앰비언트 컴퓨팅을 향해]]"
+    },
     "Ghost에서 외부 링크를 새로운 창에서 여는 방법": {
         "2022-11-19": "  - [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]",
         "Opening external links in a new tab by default on Ghost": "- [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]"
@@ -11371,28 +11371,6 @@ export const backlinks = {
     },
     "Vector Graphics": {
         "SVG": "> Scalable [[Vector Graphics]] (SVG) is an XML-based vector ..."
-    },
-    "5426B0.png": {
-        "Memex": "![[5426B0.png]]",
-        "Towards Ambient Computing": "![[5426B0.png]]"
-    },
-    "A38ADA.png": {
-        "Towards Ambient Computing": "![[A38ADA.png]]"
-    },
-    "C1D591.png": {
-        "Towards Ambient Computing": "![[C1D591.png]]"
-    },
-    "A98330.png": {
-        "Towards Ambient Computing": "![[A98330.png]]"
-    },
-    "2FC7CE.png": {
-        "Towards Ambient Computing": "![[2FC7CE.png]]"
-    },
-    "853594.png": {
-        "Towards Ambient Computing": "![[853594.png]]"
-    },
-    "E45497.png": {
-        "Towards Ambient Computing": "![[E45497.png]]"
     },
     "C42C4E.png": {
         "Pretendard": "![[C42C4E.png]]",
@@ -12471,6 +12449,10 @@ export const backlinks = {
     "F52E67.png": {
         "Text-based Tools for Thought": "![[F52E67.png]]"
     },
+    "5426B0.png": {
+        "Memex": "![[5426B0.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[5426B0.png]]"
+    },
     "FC87FE.png": {
         "Ignoring $ for copy-pasting online resources to terminal": "![[FC87FE.png]]"
     },
@@ -12806,6 +12788,24 @@ export const backlinks = {
     },
     "1E54F8.png": {
         "Database vs Datalake": "![[1E54F8.png]]"
+    },
+    "A38ADA.png": {
+        "앰비언트 컴퓨팅을 향해": "![[A38ADA.png]]"
+    },
+    "C1D591.png": {
+        "앰비언트 컴퓨팅을 향해": "![[C1D591.png]]"
+    },
+    "A98330.png": {
+        "앰비언트 컴퓨팅을 향해": "![[A98330.png]]"
+    },
+    "2FC7CE.png": {
+        "앰비언트 컴퓨팅을 향해": "![[2FC7CE.png]]"
+    },
+    "853594.png": {
+        "앰비언트 컴퓨팅을 향해": "![[853594.png]]"
+    },
+    "E45497.png": {
+        "앰비언트 컴퓨팅을 향해": "![[E45497.png]]"
     },
     "E1AF2F.png": {
         "Simulated Annealing for Designs": "![[E1AF2F.png]]"
