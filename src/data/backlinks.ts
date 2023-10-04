@@ -2827,6 +2827,9 @@ export const backlinks = {
         "Vercel Incident Report (April 2023)": "... with two projects: lovearc.net and [[hn.cho.sh]].",
         "hn.cho.sh 개발 기록": "... 아마도 사이드바 채팅 AI를 추가하고 [[hn.cho.sh]]에 대한 셀프 프로모션을 추가해야겠다."
     },
+    "Towards Ambient Computing": {
+        "2023-10-04": "- [[Towards Ambient Computing]]"
+    },
     "Internetworking": {
         "2022-08-28": "- [[Internetworking]]",
         "2022-08-29": "- [[Internetworking]]",
@@ -10028,7 +10031,8 @@ export const backlinks = {
         "Rauno": "... as if it is finding [[Information among Data]]",
         "Search AI": "- [[Information among Data]]",
         "Search in a Latent Space": "- Finding [[Information among Data]].",
-        "개성은 쟁취하는 것": "수많은 [[Information among Data|데이터 중 정보]]만이 중요한 세상입니다."
+        "개성은 쟁취하는 것": "수많은 [[Information among Data|데이터 중 정보]]만이 중요한 세상입니다.",
+        "앰비언트 컴퓨팅을 향해": "... 사진이 나오게 된다는 단점이 있었다. [[Information among Data|데이터 홍수 속 유의미한 정보를 찾기가 어렵다는 것이다.]] 2016년, 조금 더 발전한 형태의 ..."
     },
     "0278 First Bad Version": {
         "Coding Tests": "- [x] [[0278 First Bad Version]]"
@@ -11372,6 +11376,35 @@ export const backlinks = {
     "Vector Graphics": {
         "SVG": "> Scalable [[Vector Graphics]] (SVG) is an XML-based vector ..."
     },
+    "5426B0.png": {
+        "Memex": "![[5426B0.png]]",
+        "Towards Ambient Computing": "![[5426B0.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[5426B0.png]]"
+    },
+    "A38ADA.png": {
+        "Towards Ambient Computing": "![[A38ADA.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[A38ADA.png]]"
+    },
+    "C1D591.png": {
+        "Towards Ambient Computing": "![[C1D591.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[C1D591.png]]"
+    },
+    "A98330.png": {
+        "Towards Ambient Computing": "![[A98330.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[A98330.png]]"
+    },
+    "2FC7CE.png": {
+        "Towards Ambient Computing": "![[2FC7CE.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[2FC7CE.png]]"
+    },
+    "853594.png": {
+        "Towards Ambient Computing": "![[853594.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[853594.png]]"
+    },
+    "E45497.png": {
+        "Towards Ambient Computing": "![[E45497.png]]",
+        "앰비언트 컴퓨팅을 향해": "![[E45497.png]]"
+    },
     "C42C4E.png": {
         "Pretendard": "![[C42C4E.png]]",
         "San Francisco": "![[C42C4E.png]]"
@@ -12449,10 +12482,6 @@ export const backlinks = {
     "F52E67.png": {
         "Text-based Tools for Thought": "![[F52E67.png]]"
     },
-    "5426B0.png": {
-        "Memex": "![[5426B0.png]]",
-        "앰비언트 컴퓨팅을 향해": "![[5426B0.png]]"
-    },
     "FC87FE.png": {
         "Ignoring $ for copy-pasting online resources to terminal": "![[FC87FE.png]]"
     },
@@ -12788,24 +12817,6 @@ export const backlinks = {
     },
     "1E54F8.png": {
         "Database vs Datalake": "![[1E54F8.png]]"
-    },
-    "A38ADA.png": {
-        "앰비언트 컴퓨팅을 향해": "![[A38ADA.png]]"
-    },
-    "C1D591.png": {
-        "앰비언트 컴퓨팅을 향해": "![[C1D591.png]]"
-    },
-    "A98330.png": {
-        "앰비언트 컴퓨팅을 향해": "![[A98330.png]]"
-    },
-    "2FC7CE.png": {
-        "앰비언트 컴퓨팅을 향해": "![[2FC7CE.png]]"
-    },
-    "853594.png": {
-        "앰비언트 컴퓨팅을 향해": "![[853594.png]]"
-    },
-    "E45497.png": {
-        "앰비언트 컴퓨팅을 향해": "![[E45497.png]]"
     },
     "E1AF2F.png": {
         "Simulated Annealing for Designs": "![[E1AF2F.png]]"
