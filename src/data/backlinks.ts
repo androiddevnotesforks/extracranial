@@ -746,6 +746,7 @@ export const backlinks = {
         "Canary Trap": "... the prose of the unique [[language]] in the hopes that the ...",
         "Native Language": "Native [[Language]]",
         "QA.json": "... metadata (like date added, source, [[language]]), augmented data, and data balance.",
+        "Towards Ambient Computing": "... universe, the invention of written [[language]] caused a significant shift in ...",
         "hreflang": "... RFC 8288. Hreflang specifies the [[language]] and optional geographic restrictions for ...",
         "예맥": "The Yemaek [[language]], also known as Ye-Maek, was ..."
     },
@@ -823,9 +824,11 @@ export const backlinks = {
         "Search AI": "... ways, one might say that [[ChatGPT]] never \"truly understands\" things; it ...",
         "Search AI와 인터넷의 한국어": "장승에 대한 정보를 찾아보려고 Bing [[ChatGPT]]에 검색을 해보았다.",
         "Text AI and Information Density": "Text AI, for example [[ChatGPT]], tends to have low [[Entropy|information ...",
+        "Towards Ambient Computing": "... then, as we all know, [[ChatGPT]] came along.",
         "Unsemantic": "... lived for a while 😁 [[ChatGPT]] is very unsemantic",
         "Wolfram Alpha": "## Wolfram's [[ChatGPT]] prompt",
         "기술 발전의 속도": "그런데 고작 3개월도 되지 않아 [[ChatGPT]]가 등장하며... 모든 것을 뒤바꾸어 놓았다. ...",
+        "앰비언트 컴퓨팅을 향해": "... 없었기 때문이다. 그리고 모두가 알다시피 [[ChatGPT]]가 등장했다.",
         "초대장의 시대": "... 전혀 들지 못한다. 예를 들어, [[ChatGPT]]가 초대장이 필요했는가? 완전 아니다."
     },
     "containerBackground": {
@@ -1001,6 +1004,7 @@ export const backlinks = {
         "2023-05-10": "- [[Prehistoric]]",
         "Project FFMpeg for iPad": "## [[Prehistoric]]",
         "Project Heimdall Initial Planning": "## [[Prehistoric]]",
+        "Towards Ambient Computing": "## [[Prehistoric]] Lifelogging",
         "hn.cho.sh 개발 기록": "## [[Prehistoric]]"
     },
     "One and Only (Social App)": {
@@ -1888,7 +1892,9 @@ export const backlinks = {
     },
     "Ted Chiang": {
         "ChatGPT는 흐릿한 이미지이지만 필요합니다": "Blurry JPEG은 SF계의 거장 [[Ted Chiang|테드 창]]이 작성한 훌륭한 글입니다.",
-        "Exhalation": "Very impressive. Surely [[Ted Chiang]] is a genius. I especially ..."
+        "Exhalation": "Very impressive. Surely [[Ted Chiang]] is a genius. I especially ...",
+        "Towards Ambient Computing": "A renowned science fiction writer, [[Ted Chiang]], created a unique memory aid ...",
+        "앰비언트 컴퓨팅을 향해": "... SF 작가 중 한 명인 [[Ted Chiang|테드 창]]은 자신의 소설 \"사실적 진실, 감정적 ..."
     },
     "Unexpected number value in conditional. An explicit zero NaN check is required": {
         "2023-06-02": "- [[Unexpected number value in conditional. An explicit zero NaN check is required]]"
@@ -2166,7 +2172,9 @@ export const backlinks = {
     },
     "Rewind": {
         "2022-12-24": "- [[Rewind]] is [[GA]]",
-        "Search Engine Indexing Your Life": "## [[Rewind]]"
+        "Search Engine Indexing Your Life": "## [[Rewind]]",
+        "Towards Ambient Computing": "... the Rewind team released the [[Rewind]] pendant.",
+        "앰비언트 컴퓨팅을 향해": "... Rewind 팀에서는 비슷한 기능을 하는 [[Rewind]] 팬던트를 공개했다."
     },
     "tabOS": {
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "- Current works: [[tabOS]]"
@@ -2828,7 +2836,8 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "... 아마도 사이드바 채팅 AI를 추가하고 [[hn.cho.sh]]에 대한 셀프 프로모션을 추가해야겠다."
     },
     "Towards Ambient Computing": {
-        "2023-10-04": "- [[Towards Ambient Computing]]"
+        "2023-10-04": "- [[Towards Ambient Computing]]",
+        "Newtonian Correspondence": "...     `EN` [[Towards Ambient Computing]] `KO` [[앰비언트 컴퓨팅을 향해]]  ..."
     },
     "Internetworking": {
         "2022-08-28": "- [[Internetworking]]",
@@ -3141,7 +3150,9 @@ export const backlinks = {
         "Personal Training Corpus": "... the files are processed with [[OpenAi]]'s Whisper and transformed into text ...",
         "Proposal of Research 2023-01-10": "... dataset of image-to-text created by [[OpenAI]]. We need a CLIP inference ...",
         "Search AI": "... 필요 없어지는 것이지요. 엊그제 나온 [[OpenAI]]의 [[ChatGPT]]에 많은 사람들이 놀라고 있어요. ...",
-        "hn.cho.sh 개발 기록": "[[OpenAI]]를 가지고 많이 놀았다."
+        "Towards Ambient Computing": "Three pendant AI devices utilize [[OpenAI]] Whisper and [[Generative Pre-trained Transformer|GPT]] ...",
+        "hn.cho.sh 개발 기록": "[[OpenAI]]를 가지고 많이 놀았다.",
+        "앰비언트 컴퓨팅을 향해": "세 제품 모두 [[OpenAI]] Whisper와 [[Generative Pre-trained Transformer|GPT]] 기술을 ..."
     },
     "Readings": {
         "2022-09-07": "- [[Readings]]",
@@ -3207,7 +3218,9 @@ export const backlinks = {
         "React": "... components. It is maintained by [[Meta (Company)|Meta]] (formerly [[Facebook]]) and a community ...",
         "React Native": "... UIUX|UI software framework created by [[Meta (Company)|Meta]] Platforms, Inc. It is used ...",
         "Threads (Service)": "... EU market with minimum regulations. [[Meta (Company)|FB]] will Meta (Company)|FB anyways, which ...",
-        "Universal Chat App": "1. WhatsApp. Owned by [[Meta (Company)|Facebook]], WhatsApp is a free messaging ..."
+        "Towards Ambient Computing": "... social media companies, such as [[Meta (Company)|Facebook]], employ teams to enhance the ...",
+        "Universal Chat App": "1. WhatsApp. Owned by [[Meta (Company)|Facebook]], WhatsApp is a free messaging ...",
+        "앰비언트 컴퓨팅을 향해": "... 또한 가치 중립적이지 않은 영역이다. [[Meta (Company)|페이스북]] 등의 SNS 팀에는 제품을 더 ..."
     },
     "Optimistic Nihilism": {
         "2022-08-04": "### [[Optimistic Nihilism]]",
@@ -3224,7 +3237,9 @@ export const backlinks = {
         "IDOL Stack": "- Non-[[Generative Pre-trained Transformer|GPT]]-able, since v1 came out mid ...",
         "LavaLab Cohort of Spring 2023": "With the recent advent of [[Generative Pre-trained Transformer|GPT]] APIs, people can now [[Generative ...",
         "NewsGPT": "News, but [[Generative Pre-trained Transformer|GPT]]-powered",
-        "TermsGPT": "... if there is a fine-tuned [[Generative Pre-trained Transformer|GPT]] model that will check if ..."
+        "TermsGPT": "... if there is a fine-tuned [[Generative Pre-trained Transformer|GPT]] model that will check if ...",
+        "Towards Ambient Computing": "... devices utilize OpenAI Whisper and [[Generative Pre-trained Transformer|GPT]] technology to record and respond ...",
+        "앰비언트 컴퓨팅을 향해": "세 제품 모두 OpenAI Whisper와 [[Generative Pre-trained Transformer|GPT]] 기술을 활용해 모든 것을 녹음해 ..."
     },
     "Dear AIs, I have a question.": {
         "2023-03-16": "- [[Dear AIs, I have a question.]]",
@@ -3483,6 +3498,7 @@ export const backlinks = {
         "Super App": "... the mobile search partnership between [[Apple]] and [[Google]]",
         "Super App is a Universal Chat App": "... of America|United States are vague. [[Apple]] and [[Google]] divide the tech ...",
         "Swift": "- Programming Language for [[Apple]] platforms",
+        "Towards Ambient Computing": "## Road towards the Next [[Apple]]",
         "USDZ vs glTF": "... by Pixar and operated by [[Apple]] for [[iOS]] [[Augmented Reality]] applications. ...",
         "Universal Chat App": "... a built-in messaging service on [[Apple]] devices, including iPhones, iPads, and ...",
         "VP9 vs HEVC": "- [[Apple]] only supports HEVC, while [[Google]] ...",
@@ -3496,6 +3512,7 @@ export const backlinks = {
         "서당개 3년이면 풍월을 읊는다": "... 어떤 방식으로 얻었든 말이죠. — [[Apple|애플]]의 채용 문구",
         "서울 프로": "본 목적은 Pretendard와 비슷하게 [[Apple]]의 [[San Francisco]] 폰트와 유사한 오픈 ...",
         "아이폰 천지인 자판 프로젝트의 실현 가능성 연구": "[[Apple|애플]] 아이폰의 국내 인기는 점점 상승하고 ...",
+        "앰비언트 컴퓨팅을 향해": "## 새로운 [[Apple|애플]]이 될 기회",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... 홈 피드, Facebook|페이스북의 추천 피드, [[Apple|애플]]의 뉴스 앱처럼 개인화된 뉴스 피드를 ...",
         "잡스와 생존 편향": "대학을 중퇴하고 [[Apple|애플]]을 무작정 시작할 때, 워즈니악이 없었다면 ...",
         "하늘땅사람 개발 기록": "[[Apple]] QuickType과 비슷한 자동완성 기능은 필수적인데, ..."
@@ -4566,7 +4583,9 @@ export const backlinks = {
         "2023-09-14": "- [[Vannevar Bush]]",
         "As We May Think": "... is a 1945 essay by [[Vannevar Bush]], described as visionary and influential, ...",
         "Memex": "... supplement to his memory. — [[Vannevar Bush]].",
-        "Tools Must Vanish": "... the Zettelkasten of the next [[Vannevar Bush]]; it's always a setup with ..."
+        "Tools Must Vanish": "... the Zettelkasten of the next [[Vannevar Bush]]; it's always a setup with ...",
+        "Towards Ambient Computing": "In 1945, American scientist [[Vannevar Bush]] developed a concept called the ...",
+        "앰비언트 컴퓨팅을 향해": "... United States of America|미국의 과학자 [[Vannevar Bush|버니바 부시]]는 자신의 에세이 As You May ..."
     },
     "Era of Invites": {
         "2023-02-05": "- [[Era of Invites]]",
@@ -4679,7 +4698,7 @@ export const backlinks = {
         "Are Computers Psychotropic Substances": "Try out [[accessibility]] features such as Color Filters ...",
         "Cartography": "... legal and ethical considerations, and [[accessibility]] and usability.",
         "Project Core ML Inference": "... terms of data flow and [[accessibility]], how do you measure success ...",
-        "Proposal of Research 2023-01-10": "... other assistive technology to provide [[accessibility]] to visually impaired users. Search ...",
+        "Proposal of Research 2023-01-10": "... other assistive technology to provide [[accessibility]] to visually impaired users. [[Search ...",
         "Proposal of Research 2023-03-28": "## Enhancing Web [[Accessibility]]. Utilizing [[Generative AI]] to Generate ...",
         "QA.json": "2. Enhanced [[Accessibility]] ([[Accessibility|a11y]]). The proposed QA pairs ...",
         "Sungari": "... jobs and further increasing data [[accessibility]].",
@@ -5054,6 +5073,7 @@ export const backlinks = {
         "Person A3BA1A": "An [[American]] company, Carta, already dominates the ...",
         "Ted Chiang": "> Ted Chiang is an [[American]] science fiction writer. His work ...",
         "Torvalds": "Linus Benedict Torvalds is a Finnish-[[American]] software engineer who is the ...",
+        "Towards Ambient Computing": "In 1945, [[American]] scientist [[Vannevar Bush]] developed a ...",
         "United States of America": "[[American]]",
         "Vannevar Bush": "... June 28, 1974) was an [[American]] engineer, inventor, and science administrator ...",
         "Veil of Ignorance": "... a thought experiment introduced by [[American]] philosopher John Rawls in his ...",
@@ -6965,6 +6985,7 @@ export const backlinks = {
         "Dopamine Detox": "- [[Digital Addiction]]",
         "Dumb Phone": "- [[Digital Addiction]]",
         "Letter to Modos team on 2023-03-16": "I tried to combat [[digital addiction]] by using an old iPhone ...",
+        "Towards Ambient Computing": "... the negative side effect of [[digital addiction]] that modern smartphones often cause. ...",
         "Using an iPad as my Ebook": "... matter — essentially solving the [[Digital Addiction]].",
         "민사고 앱": "... 기술은 별개라는 사실을 점차 깨달았다. [[Digital Addiction|디지털 중독]] 참고.",
         "소셜 엔지니어링 금지": "... 개발하는 것과 다를 바가 없다. [[Digital Addiction]] & [[Dopamine Detox|Digital Detox]]. [[Attention ..."
@@ -7450,7 +7471,9 @@ export const backlinks = {
         "헤이그 특사": "... 설치되었다. 교육기관의 설치는 한국어를 근절시키고 [[일본어]]를 대신 가르치려는 것이며, [[한국인]]의 해외유학은 ..."
     },
     "Social Engineering": {
-        "소셜 엔지니어링 금지": "... 멸종 방어를 위해 금지가 필수. [[Social Engineering]]은 마약성 상품을 개발하는 것과 다를 ..."
+        "Towards Ambient Computing": "[[Social engineering]], so prevalent in the modern ...",
+        "소셜 엔지니어링 금지": "... 멸종 방어를 위해 금지가 필수. [[Social Engineering]]은 마약성 상품을 개발하는 것과 다를 ...",
+        "앰비언트 컴퓨팅을 향해": "현대 시대에 만연한 [[Social Engineering|소셜 엔지니어링]] 또한 가치 중립적이지 않은 영역이다. ..."
     },
     "Grammarly AI-NLP Club": {
         "2023-03-23": "- Attended [[Grammarly AI-NLP Club]]."
@@ -7935,11 +7958,17 @@ export const backlinks = {
     },
     "Search Engine": {
         "2023-07-25": "- [[Search Engine]]",
+        "Blurry JPEG": "... applications of these models in [[Search Engine|search engines]], web content generation, and assisting ...",
+        "Exhalation": "... of writing: first books, then [[Search Engine|search engines]]. By contrast, we've historically resisted ...",
         "Inspiring Open Source Projects": "- meilisearch/meilisearch A lightning-fast [[search engine]] that fits effortlessly into your ...",
+        "Proposal of Research 2023-01-10": "... accessibility to visually impaired users. [[Search Engine|Search engines]] also use it to understand ...",
         "QA.json": "... is primarily a directive for [[search engine]] crawlers, specifying which parts of ...",
         "Search Engine Indexing Your Life": "- thesephist/monocle: Universal personal [[search engine]], powered by a full-text search ...",
+        "Towards Ambient Computing": "... of writing: first books, then [[Search Engine|search engines]]. By contrast, we've historically resisted ...",
         "hn.cho.sh 개발 기록": "... 심마니라는 이름이 들려왔다. 근데 심마니는 [[Search Engine|검색 엔진]]이었잖아?",
-        "sitemap.xml": "... and change frequency. This helps [[search engine]] crawlers navigate and index the ..."
+        "hreflang": "... geographic restrictions for a document. [[Search Engine|Search engines]] interpret Hreflang and can be ...",
+        "sitemap.xml": "A sitemap.xml file provides [[Search Engine|search engines]] with a roadmap of a ...",
+        "앰비언트 컴퓨팅을 향해": "... 활용해왔다. 처음에는 책, 그 뒤에는 [[Search Engine|검색 엔진]]이었다. 그와 대조적으로, 일화 기억에 대해 ..."
     },
     "Ensemble learning": {
         "MAGI": "... 무엇보다 현대 AI의 학습 기법인 [[Ensemble learning|앙상블 학습]]과 유사점이 많다. [[Karrot|당근마켓]]에서 처음 알게 ..."
@@ -8276,6 +8305,7 @@ export const backlinks = {
         "벌금과 물가": "## [[United States of America|미국]]",
         "새로운 부동산은 지적 재산이다": "... 고수익을 위해 해외 부동산, 특히 [[United States of America|미국]]과 유럽의 부동산에 재투자했다.",
         "서당개 3년이면 풍월을 읊는다": "... 방해받는 요소가 전혀 없었다. 그리고 [[United States of America|미국]]에서는 그런 기회가 적지 않았다. 노력을 ...",
+        "앰비언트 컴퓨팅을 향해": "1945년 [[United States of America|미국]]의 과학자 [[Vannevar Bush|버니바 부시]]는 자신의 ...",
         "이완용": "더군다나 [[United States of America|미국]]을 답사한 관리들이 악취로 가득했다는 점이 ...",
         "일본 과학기술 총력전": "패전 당시 [[United States of America|미국]]의 점령 정책이 완전한 비군사화에서 [[Economy|경제]] ...",
         "젠리의 성공 공식": "... 나는 스냅의 큰 실수라고 생각한다. [[United States of America|미국]] 대학생 사이에서도 더 이상 스냅을 ...",
@@ -8369,7 +8399,9 @@ export const backlinks = {
         "Generative Databases": "- If you squint, [[LLM|LLMs]] resemble something like a vector ...",
         "P vs NP": "- Before [[LLM|LLMs]], generating the associated image took ...",
         "Proposal of Research 2023-03-28": "Large Language Models ([[LLM|LLMs]]) have demonstrated impressive capabilities in ...",
-        "Vector DB": "... used for Long-Term Memory for [[LLM|LLMs]]."
+        "Towards Ambient Computing": "## The emergence of [[LLM]] Lifelogging",
+        "Vector DB": "... used for Long-Term Memory for [[LLM|LLMs]].",
+        "앰비언트 컴퓨팅을 향해": "## [[LLM]] 라이프로깅의 시작"
     },
     "Point-E": {
         "2022-12-27": "- [[Point-E]]"
@@ -8439,6 +8471,7 @@ export const backlinks = {
         "Super App is a Universal Chat App": "... States are vague. Apple and [[Google]] divide the tech market into ...",
         "Synonym-based Fuzzy Search": "... Search in PDF/Databases. Just like [[Google]]",
         "Tools for Thought": "... make a post and let [[Google]] do the job.",
+        "Towards Ambient Computing": "... and takes a photo accordingly. [[Google]] Clip faded despite being quietly ...",
         "Universal Chat App": "- MLS. Backed by [[Google]] and IETF.",
         "Universal Identity": "- [[Google]] Account is the de facto ...",
         "VP9 vs HEVC": "... Apple only supports HEVC, while [[Google]] only supports VP9.",
@@ -8447,6 +8480,7 @@ export const backlinks = {
         "도메인 찾아 삼만리": "... 고른 것 같았다. 1년 뒤 [[Google|구글]]이 `.dev` 도메인을 [[GA|공개]]했고, `cho.dev`을 사려 ...",
         "배달의민족 FE 개발자가 일하는 법 발표": "- [[Google]], Line",
         "식영부원의 관점에서 바라본 치킨데이": "... 그룹인 민사고|KMLA 전체공지를 이용해서 공지하고, [[Google]] Form의 설문지를 이용해 설문을 하게 ...",
+        "앰비언트 컴퓨팅을 향해": "... 발전한 형태의 Google Clip이 등장했다. [[Google|구글]]의 [[AI|인공지능]]으로 \"기록할 만한\" 순간이 지나간다면 ...",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... 점에서 텍스트 틱톡으로 홍보되고 있다. [[Google|구글]]의 홈 피드, [[Facebook|페이스북]]의 추천 피드, ...",
         "인하우스와 자유경쟁": "... 년 앞서 있다. 예를 들어, [[Google]]의 내부 연구소는 경쟁 우위를 유지하기 ..."
     },
@@ -8678,7 +8712,8 @@ export const backlinks = {
         "Virtual Address Space and Physical Address Space": "... memory is big enough, the [[OS]] uses the physical memory (RAM)",
         "dub.sh": "... each link's clicks (incl. location, device/[[os]]) with airbnb/visx: 🐯 visx",
         "macOS": "... a proprietary, graphical operating system ([[OS]]) that powers [[Apple]]'s Mac computers. ...",
-        "라즈베리 파이로 스마트 오디오 시스템 만들기": "... Device 버튼을 누르면 다음과 같이 [[OS]]를 다운로드할 수 있는 창이 나타난다."
+        "라즈베리 파이로 스마트 오디오 시스템 만들기": "... Device 버튼을 누르면 다음과 같이 [[OS]]를 다운로드할 수 있는 창이 나타난다.",
+        "앰비언트 컴퓨팅을 향해": "... 결론은 전용 기기를 만들거나, 스마트폰 [[OS]]에 네이티브하게 통합되는 일 밖에 없었다."
     },
     "Curve Fitting for Charts": {
         "2022-10-21": "- [[Curve Fitting for Charts]]"
@@ -8757,7 +8792,8 @@ export const backlinks = {
         "Memex is more than a Memex": "- [[Memex]] is more than a Memex",
         "Person 648442": "- Make a full [[Memex]] with [[Twitter]]",
         "Plateau of Latent Potential": "... a form of Extracranial, a [[Memex]], or even [[Conversational AI Tools ...",
-        "Vannevar Bush": "... 추진한 주역 중 한 사람이었으며 메멕스([[Memex]])라고 불리는 기억 확장기 개념을 최초로 ...",
+        "Towards Ambient Computing": "... developed a concept called the [[Memex]] in his essay As You ...",
+        "앰비언트 컴퓨팅을 향해": "... 기록들을 재빨리 불러올 수 있다면 [[Memex|메멕스]]를 통해 기억의 확장이자 증강으로 사용할 ...",
         "인하우스와 자유경쟁": "... 것이 더 쉬워져야 한다. 이 [[Memex]]는 그 생각의 한 걸음이다."
     },
     "Ignoring $ for copy-pasting online resources to terminal": {
@@ -8829,7 +8865,8 @@ export const backlinks = {
     "Newtonian Correspondence": {
         "2023-03-16": "- [[Newtonian Correspondence]]",
         "2023-03-19": "- [[Newtonian Correspondence]]",
-        "2023-03-31": "- [[Newtonian Correspondence]]"
+        "2023-03-31": "- [[Newtonian Correspondence]]",
+        "2023-10-04": "- [[Newtonian Correspondence]]"
     },
     "쿠팡": {
         "2022-05-31": "... 않지만, Karrot|당근마켓 + 배달의민족 + [[쿠팡]]이라고 생각하면 됩니다. -",
@@ -10379,11 +10416,13 @@ export const backlinks = {
         "Super App is a Universal Chat App": "... Closed vs. (fairly) Open, Edge-first [[AI]] vs. Cloud-first AI, etc.",
         "Text AI and Information Density": "Text [[AI]], for example [[ChatGPT]], tends to ...",
         "Tome": "It's like Text-based Presentations, but [[AI]] will draw & layout stuff ...",
+        "Towards Ambient Computing": "... was released. This camera uses [[AI|artificial intelligence]] to determine when a moment ...",
         "Unsemantic": "... we must create an unsemantic [[AI]] (i.e., rigorous.)",
         "WebNPU API를 상상하다": "Someday|언젠가 [[AI]] 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 표준이 ...",
         "hn.cho.sh 개발 기록": "해커뉴스를 읽고 있다가 이걸 [[AI]]에게 요약해보고 있었다.",
         "기술 발전의 속도": "2022년 여름의 [[AI|인공지능]] 업계를 대표적으로 나타내는 글이다",
         "슈퍼자판기": "... 환경을 실시간으로 촬영. 이러한 카메라는 [[AI]] 기반 행동 분석 시스템과 통합되어 ...",
+        "앰비언트 컴퓨팅을 향해": "... 형태의 Google Clip이 등장했다. Google|구글의 [[AI|인공지능]]으로 \"기록할 만한\" 순간이 지나간다면 사진을 ...",
         "역사적 리셋": "... 않으며 현재의 이익에 맞게 움직이는 [[AI|인공지능]]의 Autonomous Agent와 비슷하다는 생각이 들었다. ...",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "- 일러스트레이션. 일러스트레이터를 고용하거나 생성 [[AI]]를 사용하여 일러스트레이션을 만든다.",
         "의료 인공지능과 의대 쏠림": "만약 의료 [[AI|인공지능]]이 대규모로 보급된다면 어떨까? 의대를 가려는 ...",
@@ -10403,6 +10442,7 @@ export const backlinks = {
     "앰비언트 컴퓨팅을 향해": {
         "2023-10-03": "- [[앰비언트 컴퓨팅을 향해]]",
         "2023-10-04": "- [[앰비언트 컴퓨팅을 향해]]",
+        "Newtonian Correspondence": "... `EN` Towards Ambient Computing `KO` [[앰비언트 컴퓨팅을 향해]]      ...",
         "Search Engine Indexing Your Life": "[[앰비언트 컴퓨팅을 향해]]"
     },
     "Ghost에서 외부 링크를 새로운 창에서 여는 방법": {
