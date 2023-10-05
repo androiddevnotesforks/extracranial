@@ -3150,9 +3150,9 @@ export const backlinks = {
         "Personal Training Corpus": "... the files are processed with [[OpenAi]]'s Whisper and transformed into text ...",
         "Proposal of Research 2023-01-10": "... dataset of image-to-text created by [[OpenAI]]. We need a CLIP inference ...",
         "Search AI": "... 필요 없어지는 것이지요. 엊그제 나온 [[OpenAI]]의 [[ChatGPT]]에 많은 사람들이 놀라고 있어요. ...",
-        "Towards Ambient Computing": "Three pendant AI devices utilize [[OpenAI]] Whisper and [[Generative Pre-trained Transformer|GPT]] ...",
+        "Towards Ambient Computing": "Two pendant AI devices utilize [[OpenAI]] Whisper and [[Generative Pre-trained Transformer|GPT]] ...",
         "hn.cho.sh 개발 기록": "[[OpenAI]]를 가지고 많이 놀았다.",
-        "앰비언트 컴퓨팅을 향해": "세 제품 모두 [[OpenAI]] Whisper와 [[Generative Pre-trained Transformer|GPT]] 기술을 ..."
+        "앰비언트 컴퓨팅을 향해": "두 제품 모두 [[OpenAI]] Whisper와 [[Generative Pre-trained Transformer|GPT]] 기술을 ..."
     },
     "Readings": {
         "2022-09-07": "- [[Readings]]",
@@ -3239,7 +3239,7 @@ export const backlinks = {
         "NewsGPT": "News, but [[Generative Pre-trained Transformer|GPT]]-powered",
         "TermsGPT": "... if there is a fine-tuned [[Generative Pre-trained Transformer|GPT]] model that will check if ...",
         "Towards Ambient Computing": "... devices utilize OpenAI Whisper and [[Generative Pre-trained Transformer|GPT]] technology to record and respond ...",
-        "앰비언트 컴퓨팅을 향해": "세 제품 모두 OpenAI Whisper와 [[Generative Pre-trained Transformer|GPT]] 기술을 활용해 모든 것을 녹음해 ..."
+        "앰비언트 컴퓨팅을 향해": "두 제품 모두 OpenAI Whisper와 [[Generative Pre-trained Transformer|GPT]] 기술을 활용해 모든 것을 녹음해 ..."
     },
     "Dear AIs, I have a question.": {
         "2023-03-16": "- [[Dear AIs, I have a question.]]",
@@ -11432,10 +11432,6 @@ export const backlinks = {
     "A98330.png": {
         "Towards Ambient Computing": "![[A98330.png]]",
         "앰비언트 컴퓨팅을 향해": "![[A98330.png]]"
-    },
-    "2FC7CE.png": {
-        "Towards Ambient Computing": "![[2FC7CE.png]]",
-        "앰비언트 컴퓨팅을 향해": "![[2FC7CE.png]]"
     },
     "853594.png": {
         "Towards Ambient Computing": "![[853594.png]]",
