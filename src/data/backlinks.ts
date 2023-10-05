@@ -2837,7 +2837,7 @@ export const backlinks = {
     },
     "Towards Ambient Computing": {
         "2023-10-04": "- [[Towards Ambient Computing]]",
-        "Newtonian Correspondence": "...     `EN` [[Towards Ambient Computing]] `KO` [[앰비언트 컴퓨팅을 향해]]  ..."
+        "Newtonian Correspondence": "| 10-04 | `EN` [[Towards Ambient Computing]] `KO` [[앰비언트 컴퓨팅을 향해]]  ..."
     },
     "Internetworking": {
         "2022-08-28": "- [[Internetworking]]",
