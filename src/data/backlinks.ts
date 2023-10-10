@@ -325,6 +325,9 @@ export const backlinks = {
     "2023-09-19": {
         "커피의 끝": "커피를 끊은지 한달 반이 넘었다. ([[2023-09-19]])."
     },
+    "2023-10-09": {
+        "Off The Record": "## [[2023-10-09]]"
+    },
     "2020-09-20": {
         "프로젝트 어덕행덕": "## [[2020-09-20]]의 메모"
     },
@@ -1002,6 +1005,7 @@ export const backlinks = {
     },
     "Prehistoric": {
         "2023-05-10": "- [[Prehistoric]]",
+        "Off The Record": "## [[Prehistoric]]",
         "Project FFMpeg for iPad": "## [[Prehistoric]]",
         "Project Heimdall Initial Planning": "## [[Prehistoric]]",
         "Towards Ambient Computing": "## [[Prehistoric]] Lifelogging",
@@ -3961,7 +3965,10 @@ export const backlinks = {
     },
     "Off The Record": {
         "2022-09-11": "- [[Off The Record]]",
-        "2023-01-09": "- [[Off The Record]]"
+        "2023-01-09": "- [[Off The Record]]",
+        "2023-10-08": "- [[Off The Record]]",
+        "2023-10-09": "- [[Off The Record]]",
+        "2023-10-10": "- [[Off The Record]]"
     },
     "Set Theory": {
         "Probability": "- [[Set Theory]]"
@@ -4432,7 +4439,7 @@ export const backlinks = {
         "Neo ArXiv": "Someday [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "Someday [[Project]]. `img loading=lazy`, but if the ...",
         "Notion": "> Notion is a [[project]] management and note-taking software platform ...",
-        "Off The Record": "Someday [[Project]]. Disappearing message for [[iMessage]].",
+        "Off The Record": "- [[Project]]. Disappearing message for [[iMessage]].",
         "Old Fashioned Camera": "Someday [[Project]]. iPhone 4 시절 그 구진 ...",
         "One and Only (Social App)": "Someday [[Project]]. Ideated during [[Person 648442]]",
         "One and Only WebExtension": "- Someday [[Project]]",
@@ -7142,7 +7149,6 @@ export const backlinks = {
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "... build it one day and [[Fiercely Overpriced|paywall]] it to install more than ...",
         "Letter to the Heptabase Team on 2022-10-11": "... considering there is still a [[Fiercely Overpriced|paywall]] upfront. However, I would love ...",
         "Love Software": "- ([[Fiercely Overpriced|paywalled]]) [[Texts (Service)]]",
-        "Off The Record": "- [[Fiercely Overpriced]]. disappears after opening. max 10 ...",
         "Open Graph Image as a Service": "## How would it be [[Fiercely Overpriced]]?",
         "sem.sh": "... Your data, your own (no [[Fiercely Overpriced|paywall]] if self-hosted)"
     },
@@ -8808,7 +8814,7 @@ export const backlinks = {
     },
     "iMessage": {
         "Beeper": "... (Service). A better approach with [[iMessage]], given that it logs into ...",
-        "Off The Record": "Someday Project. Disappearing message for [[iMessage]].",
+        "Off The Record": "- Project. Disappearing message for [[iMessage]].",
         "RCS": "... Message|SMS and is similar to [[iMessage]], WhatsApp, and [[Facebook Messenger]]. RCS ...",
         "Send Separately": "Someday Project. \"Send Separately\" for [[iMessage]].",
         "Universal Chat App": "... chat app. Younger generations use [[iMessage]], while elderlies use WhatsApp. Or ..."
@@ -9294,7 +9300,6 @@ export const backlinks = {
         "Naroo": "[[Someday]] [[Project]]. A higher wrapper of ...",
         "Neo ArXiv": "[[Someday]] [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "[[Someday]] [[Project]]. `img loading=lazy`, but if ...",
-        "Off The Record": "[[Someday]] [[Project]]. Disappearing message for [[iMessage]].",
         "Old Fashioned Camera": "[[Someday]] [[Project]]. iPhone 4 시절 그 ...",
         "One and Only (Social App)": "[[Someday]] [[Project]]. Ideated during [[Person 648442]]",
         "One and Only WebExtension": "- [[Someday]] [[Project]]",
@@ -11645,6 +11650,9 @@ export const backlinks = {
     "D26259.png": {
         "ChatGPT is a Blurry JPEG and We Need That": "![[D26259.png]]",
         "ChatGPT는 흐릿한 이미지이지만 필요합니다": "![[D26259.png]]"
+    },
+    "B89B94.gif": {
+        "Off The Record": "![[B89B94.gif]]"
     },
     "6ECA95.mp4": {
         "UI Designs for Editing Messages": "![[6ECA95.mp4]]"
