@@ -34,6 +34,9 @@ export const backlinks = {
     "2022-10-12": {
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... to Mr. Alexander Obenauer on [[2022-10-12]]"
     },
+    "2023-10-12": {
+        "Project Ganymede": "## [[2023-10-12]]"
+    },
     "2020-08-01": {
         "YCLF 주간 사용자 1000명": "[[2020-08-01]]"
     },
@@ -326,7 +329,7 @@ export const backlinks = {
         "커피의 끝": "커피를 끊은지 한달 반이 넘었다. ([[2023-09-19]])."
     },
     "2023-10-09": {
-        "Off The Record": "## [[2023-10-09]]"
+        "Project Ganymede": "## [[2023-10-09]]"
     },
     "2020-09-20": {
         "프로젝트 어덕행덕": "## [[2020-09-20]]의 메모"
@@ -1005,8 +1008,8 @@ export const backlinks = {
     },
     "Prehistoric": {
         "2023-05-10": "- [[Prehistoric]]",
-        "Off The Record": "## [[Prehistoric]]",
         "Project FFMpeg for iPad": "## [[Prehistoric]]",
+        "Project Ganymede": "## [[Prehistoric]]",
         "Project Heimdall Initial Planning": "## [[Prehistoric]]",
         "Towards Ambient Computing": "## [[Prehistoric]] Lifelogging",
         "hn.cho.sh 개발 기록": "## [[Prehistoric]]"
@@ -3849,6 +3852,15 @@ export const backlinks = {
     "Vector DB": {
         "2023-05-11": "- [[Vector DB]]"
     },
+    "Project Ganymede": {
+        "2022-09-11": "- [[Project Ganymede]]",
+        "2023-01-09": "- [[Project Ganymede]]",
+        "2023-10-08": "- [[Project Ganymede]]",
+        "2023-10-09": "- [[Project Ganymede]]",
+        "2023-10-10": "- [[Project Ganymede]]",
+        "2023-10-12": "- [[Project Ganymede]]",
+        "2023-10-13": "- [[Project Ganymede]]"
+    },
     "서당개 3년이면 풍월을 읊는다": {
         "2023-06-19": "- [[서당개 3년이면 풍월을 읊는다]]"
     },
@@ -3967,13 +3979,6 @@ export const backlinks = {
     "Why is Swift String Manipulation like that": {
         "2023-02-15": "- [[Why is Swift String Manipulation like that]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-15 | 🇬🇧 [[Why is Swift String Manipulation like that]] <br/> 🇰🇷 [[Swift String 조작은 ..."
-    },
-    "Off The Record": {
-        "2022-09-11": "- [[Off The Record]]",
-        "2023-01-09": "- [[Off The Record]]",
-        "2023-10-08": "- [[Off The Record]]",
-        "2023-10-09": "- [[Off The Record]]",
-        "2023-10-10": "- [[Off The Record]]"
     },
     "Set Theory": {
         "Probability": "- [[Set Theory]]"
@@ -4444,7 +4449,6 @@ export const backlinks = {
         "Neo ArXiv": "Someday [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "Someday [[Project]]. `img loading=lazy`, but if the ...",
         "Notion": "> Notion is a [[project]] management and note-taking software platform ...",
-        "Off The Record": "- [[Project]]. Disappearing message for [[iMessage]].",
         "Old Fashioned Camera": "Someday [[Project]]. iPhone 4 시절 그 구진 ...",
         "One and Only (Social App)": "Someday [[Project]]. Ideated during [[Person 648442]]",
         "One and Only WebExtension": "- Someday [[Project]]",
@@ -4456,6 +4460,7 @@ export const backlinks = {
         "Problem": "Leads to a Someday [[Project]].",
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project Florence": "[[Project]] Florence is a research [[project]] ...",
+        "Project Ganymede": "- [[Project]]. Disappearing message for [[iMessage]].",
         "Project Heimdall": "... conventional Docusaurus with Listmonk. Consider [[Project]] [[Done]].",
         "Project Linguine": "[[Project]] Linguine is an initiative to ...",
         "Project MAGI": "Someday [[Project]]. Use Multiple Artificial Generative Intelligence ...",
@@ -4863,6 +4868,9 @@ export const backlinks = {
     },
     "Guestbook": {
         "2022-10-15": "- [[Guestbook]]"
+    },
+    "The Paradoxical Moon Philosophy": {
+        "Project Ganymede": "- [[The Paradoxical Moon Philosophy]]"
     },
     "Apple Easter Egg": {
         "2022-11-19": "  - [[Apple Easter Egg]]"
@@ -7659,8 +7667,11 @@ export const backlinks = {
         "Coding Tests": "- [x] [[0021 Merge Two Sorted Lists]]"
     },
     "Aesthete": {
+        "Almost Monospaced": "... you still retain the typewriter [[Aesthete|aesthetic]] with a bit more legibility. ...",
         "Impact over Performance": "... too much of a technophile [[aesthete]]... so I have devised the ...",
-        "Simian과 심미안": "[[Aesthete|심미안]] (審美眼) 은 아름다움을 살펴 볼 ..."
+        "Simian과 심미안": "[[Aesthete|심미안]] (審美眼) 은 아름다움을 살펴 볼 ...",
+        "The Paradoxical Moon Philosophy": "... I think Ganymede is more [[Aesthete|aesthetic]]. Maybe Remora was more straightforward ...",
+        "UIUX": "... and test results rather than [[Aesthete|aesthetic]] preferences and opinions. Unlike user ..."
     },
     "무제한번역": {
         "2023-05-30": "- [[무제한번역]]",
@@ -8820,7 +8831,7 @@ export const backlinks = {
     },
     "iMessage": {
         "Beeper": "... (Service). A better approach with [[iMessage]], given that it logs into ...",
-        "Off The Record": "- Project. Disappearing message for [[iMessage]].",
+        "Project Ganymede": "- Project. Disappearing message for [[iMessage]].",
         "RCS": "... Message|SMS and is similar to [[iMessage]], WhatsApp, and [[Facebook Messenger]]. RCS ...",
         "Send Separately": "Someday Project. \"Send Separately\" for [[iMessage]].",
         "Universal Chat App": "... chat app. Younger generations use [[iMessage]], while elderlies use WhatsApp. Or ..."
@@ -11675,6 +11686,9 @@ export const backlinks = {
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
     },
+    "B89B94.gif": {
+        "Project Ganymede": "![[B89B94.gif]]"
+    },
     "60F80D.png": {
         "Collaboration-based Tools for Thought": "![[60F80D.png]]",
         "Notion": "![[60F80D.png]]",
@@ -11701,9 +11715,6 @@ export const backlinks = {
     "D26259.png": {
         "ChatGPT is a Blurry JPEG and We Need That": "![[D26259.png]]",
         "ChatGPT는 흐릿한 이미지이지만 필요합니다": "![[D26259.png]]"
-    },
-    "B89B94.gif": {
-        "Off The Record": "![[B89B94.gif]]"
     },
     "6ECA95.mp4": {
         "UI Designs for Editing Messages": "![[6ECA95.mp4]]"
