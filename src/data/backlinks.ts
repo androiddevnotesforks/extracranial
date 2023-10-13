@@ -2112,6 +2112,7 @@ export const backlinks = {
         "2023-10-04": "- [[Project Fiesole]]",
         "2023-10-10": "- [[Project Fiesole]]",
         "2023-10-12": "- [[Project Fiesole]]",
+        "2023-10-13": "- [[Project Fiesole]]",
         "Project Florence": "- [[Project Fiesole]]"
     },
     "초상권 vs 저작권": {
@@ -6843,7 +6844,8 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- V LIVE - [[HYBE|하이브]]가 구매했기에 Weverse와의 통합을 기대함"
     },
     "Send Separately": {
-        "2023-08-09": "- [[Send Separately]]"
+        "2023-08-09": "- [[Send Separately]]",
+        "Project Ganymede": "- [[Send Separately]]"
     },
     "Neo ArXiv": {
         "2023-08-18": "- [[Neo ArXiv]]",
