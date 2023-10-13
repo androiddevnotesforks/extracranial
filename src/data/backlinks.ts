@@ -1617,6 +1617,9 @@ export const backlinks = {
         "Second Brain": "### [[Andy Matuschak]]",
         "Sliding Panes": "... it was first introduced by [[Andy Matuschak]], at least his version made ..."
     },
+    "Catastrophic Forgetting": {
+        "2023-10-11": "- [[Catastrophic Forgetting]]"
+    },
     "Apollo (GraphQL)": {
         "Redwood.js": "... API built with Prisma and [[Apollo (GraphQL)]] Server. Prisma is used for ..."
     },
@@ -1868,7 +1871,7 @@ export const backlinks = {
         "2023-09-22": "- [[Project Florence]]",
         "2023-10-03": "- [[Project Florence]]",
         "2023-10-04": "- [[Project Florence]]",
-        "Project Fiesole": "... dataset might miss. Subproject of [[Project Florence]]."
+        "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]]."
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -2104,6 +2107,8 @@ export const backlinks = {
     "Project Fiesole": {
         "2023-10-03": "- [[Project Fiesole]]",
         "2023-10-04": "- [[Project Fiesole]]",
+        "2023-10-10": "- [[Project Fiesole]]",
+        "2023-10-12": "- [[Project Fiesole]]",
         "Project Florence": "- [[Project Fiesole]]"
     },
     "초상권 vs 저작권": {
@@ -8335,6 +8340,7 @@ export const backlinks = {
         "2023-03-08": "- [[Watchings]]",
         "2023-03-24": "- [[Watchings]]",
         "2023-08-31": "- [[Watchings]]",
+        "2023-10-12": "- [[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]]."
     },
     "Reminder Tools": {
@@ -11327,8 +11333,53 @@ export const backlinks = {
     "56155E.png": {
         "WebAssembly": "![[56155E.png]]"
     },
-    "4EE7F9.png": {
-        "Project Fiesole": "![[4EE7F9.png]]"
+    "63E892.png": {
+        "Project Fiesole": "![[63E892.png]]"
+    },
+    "E0ED4F.png": {
+        "Project Fiesole": "![[E0ED4F.png]]"
+    },
+    "2289D2.png": {
+        "Project Fiesole": "![[2289D2.png]]"
+    },
+    "EC12E1.png": {
+        "Project Fiesole": "![[EC12E1.png]]"
+    },
+    "7147C6.png": {
+        "Project Fiesole": "![[7147C6.png]]"
+    },
+    "AB6E91.png": {
+        "Project Fiesole": "![[AB6E91.png]]"
+    },
+    "C6F843.png": {
+        "Project Fiesole": "![[C6F843.png]]"
+    },
+    "EEF724.png": {
+        "Project Fiesole": "![[EEF724.png]]"
+    },
+    "E2D67A.png": {
+        "Project Fiesole": "![[E2D67A.png]]"
+    },
+    "DFF919.png": {
+        "Project Fiesole": "![[DFF919.png]]"
+    },
+    "A1DAA5.png": {
+        "Project Fiesole": "![[A1DAA5.png]]"
+    },
+    "BC3839.png": {
+        "Project Fiesole": "![[BC3839.png]]"
+    },
+    "DA87AB.png": {
+        "Project Fiesole": "![[DA87AB.png]]"
+    },
+    "3674F2.png": {
+        "Project Fiesole": "- 4 ![[3674F2.png]]"
+    },
+    "E9C47C.png": {
+        "Project Fiesole": "- 5 ![[E9C47C.png]]"
+    },
+    "D7DC98.png": {
+        "Project Fiesole": "- ![[D7DC98.png]]"
     },
     "B9AA95.png": {
         "Web Graphics": "![[B9AA95.png]]"
