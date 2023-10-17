@@ -109,6 +109,9 @@ export const backlinks = {
     "2022-10-16": {
         "Dynamic Island on the Web": "## [[2022-10-16]]"
     },
+    "2023-10-16": {
+        "Project Ganymede": "## [[2023-10-16]]"
+    },
     "2021-06-23": {
         "개성은 쟁취하는 것": "— [[2021-06-23]]에 작성된 기록 중 발췌."
     },
@@ -191,6 +194,9 @@ export const backlinks = {
     },
     "2020-02-12": {
         "프로젝트 어덕행덕": "- [[2020-02-12]]"
+    },
+    "2023-10-13": {
+        "Project Ganymede": "## [[2023-10-13]]"
     },
     "2023-03-25": {
         "hn.cho.sh 개발 기록": "## [[2023-03-25]]"
@@ -3860,7 +3866,8 @@ export const backlinks = {
         "2023-10-09": "- [[Project Ganymede]]",
         "2023-10-10": "- [[Project Ganymede]]",
         "2023-10-12": "- [[Project Ganymede]]",
-        "2023-10-13": "- [[Project Ganymede]]"
+        "2023-10-13": "- [[Project Ganymede]]",
+        "2023-10-16": "[[Project Ganymede]]"
     },
     "서당개 3년이면 풍월을 읊는다": {
         "2023-06-19": "- [[서당개 3년이면 풍월을 읊는다]]"
@@ -10761,6 +10768,10 @@ export const backlinks = {
     "AA04D0.mp4": {
         "2022-10-16": "![[AA04D0.mp4]]",
         "Dynamic Island on the Web": "![[AA04D0.mp4]]"
+    },
+    "885554.png": {
+        "2023-10-16": "![[885554.png]]",
+        "Project Ganymede": "![[885554.png]]"
     },
     "BE2951.png": {
         "2023-09-07": "![[BE2951.png]]"
