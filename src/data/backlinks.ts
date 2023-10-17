@@ -856,6 +856,9 @@ export const backlinks = {
     "Datahouse": {
         "Grammarly Work Note 2023-06-02": "... query the data in our [[Datahouse]] and index [[metadata]]. Our system ..."
     },
+    "기술낙관론자 선언문": {
+        "2023-10-17": "[[기술낙관론자 선언문]]"
+    },
     "Styled Components": {
         "Grammarly Work Note 2023-05-26": "5. Ad-hoc [[Styled Components]]. While we have a `components` ...",
         "배달의민족 FE 개발자가 일하는 법 Q&A": "... 아까 코드를 잠깐 보니 리액트와 [[Styled Components|스타일드 컴포넌트]]를 사용하시는 것 같은데, 리액트를 메인스트림으로 ..."
