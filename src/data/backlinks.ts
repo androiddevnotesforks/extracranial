@@ -160,6 +160,9 @@ export const backlinks = {
         "Better Obsidian": "- Functional Templating (Done on [[2022-10-17]])",
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "## Reply on [[2022-10-17]]"
     },
+    "2023-10-17": {
+        "Project Florence": "## [[2023-10-17]]"
+    },
     "2020-05-29": {
         "Sending Notifications on Chrome Extension": "[[2020-05-29]]"
     },
@@ -857,7 +860,7 @@ export const backlinks = {
         "Grammarly Work Note 2023-06-02": "... query the data in our [[Datahouse]] and index [[metadata]]. Our system ..."
     },
     "기술낙관론자 선언문": {
-        "2023-10-17": "[[기술낙관론자 선언문]]"
+        "2023-10-17": "- [[기술낙관론자 선언문]]"
     },
     "Styled Components": {
         "Grammarly Work Note 2023-05-26": "5. Ad-hoc [[Styled Components]]. While we have a `components` ...",
@@ -1335,7 +1338,7 @@ export const backlinks = {
         "일일일": "  - Ex) domain, [[kakaotalk]], website..."
     },
     "Yang Liu et al. Vertical Federated Learning": {
-        "Project Florence": "- [ ] [[Yang Liu et al. Vertical Federated Learning]]"
+        "Project Florence Literature Review": "- [ ] [[Yang Liu et al. Vertical Federated Learning]]"
     },
     "0104 Maximum Depth of Binary Tree": {
         "Coding Tests": "- [x] [[0104 Maximum Depth of Binary Tree]]"
@@ -1393,7 +1396,7 @@ export const backlinks = {
         "2022-10-20": "- [[Memex is more than a Memex]]"
     },
     "Jose Luis Ambite et al. Secure & Private Federated Neuroimaging": {
-        "Project Florence": "- [ ] [[Jose Luis Ambite et al. Secure & Private Federated Neuroimaging]]"
+        "Project Florence Literature Review": "- [ ] [[Jose Luis Ambite et al. Secure & Private Federated Neuroimaging]]"
     },
     "Jira": {
         "Linear (Software)": "... service, like Height (App), or [[Jira]]"
@@ -1770,7 +1773,7 @@ export const backlinks = {
         "Thesephist Work Case Study": "### Monocle: [[Search Engine Indexing Your Life]]"
     },
     "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
-        "Project Florence": "- [ ] [[Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning]]"
+        "Project Florence Literature Review": "- [ ] [[Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning]]"
     },
     "Person 1E6ABA": {
         "2022-11-24": "- [[Person 1E6ABA]]",
@@ -1883,7 +1886,8 @@ export const backlinks = {
         "2023-09-22": "- [[Project Florence]]",
         "2023-10-03": "- [[Project Florence]]",
         "2023-10-04": "- [[Project Florence]]",
-        "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]]."
+        "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
+        "Project Malmantile": "Malmantile is a subproject of [[Project Florence]]. Supercedes [[Project Fiesole]]"
     },
     "Believer Plan": {
         "2023-05-22": "- [[Believer Plan]]"
@@ -2122,7 +2126,9 @@ export const backlinks = {
         "2023-10-10": "- [[Project Fiesole]]",
         "2023-10-12": "- [[Project Fiesole]]",
         "2023-10-13": "- [[Project Fiesole]]",
-        "Project Florence": "- [[Project Fiesole]]"
+        "2023-10-17": "- [[Project Fiesole]]",
+        "Project Florence": "- [[Project Fiesole]]",
+        "Project Malmantile": "... subproject of Project Florence. Supercedes [[Project Fiesole]]"
     },
     "초상권 vs 저작권": {
         "CELLO": "- [[초상권 vs 저작권]]",
@@ -2149,6 +2155,11 @@ export const backlinks = {
         "2022-09-03": "- [[Monolithic Model]]",
         "Game Programming": "- [[Monolithic Model]]",
         "Pure Component Model": "- Alternative approach to [[Monolithic Model]]"
+    },
+    "Project Malmantile": {
+        "2023-10-17": "- [[Project Malmantile]]",
+        "Project Fiesole": "Superseded by anaclumos/malmantile [[Project Malmantile]]",
+        "Project Florence": "- [[Project Malmantile]]"
     },
     "Tailwind": {
         "2022-11-29": "- [[Tailwind]]",
@@ -2542,7 +2553,7 @@ export const backlinks = {
     },
     "The Techno-optimist Manifesto": {
         "2023-10-16": "[[The Techno-optimist Manifesto]]",
-        "2023-10-17": "[[The Techno-optimist Manifesto]]"
+        "2023-10-17": "- [[The Techno-optimist Manifesto]]"
     },
     "Federated Transfer Learning": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Federated Transfer Learning]]"
@@ -2729,7 +2740,7 @@ export const backlinks = {
         "2022-08-24": "- [[Separation of Computer Scientists and Computer Technologists]]"
     },
     "Kang Wei et al. Vertical Federated Learning, Challenges, Methodologies and Experiments": {
-        "Project Florence": "- [ ] [[Kang Wei et al. Vertical Federated Learning, Challenges, Methodologies and Experiments]]"
+        "Project Florence Literature Review": "- [ ] [[Kang Wei et al. Vertical Federated Learning, Challenges, Methodologies and Experiments]]"
     },
     "Twitter": {
         "2022-06-21": "[[Twitter]] implemented a more strict agile ...",
@@ -2878,6 +2889,7 @@ export const backlinks = {
     "Vertical Federated Learning": {
         "Daniele Romanini et al. PyVertical": "... introduces the PyVertical framework for [[vertical federated learning]] using split neural networks (SplitNNs). ...",
         "Project Florence": "... is a research project on [[Vertical Federated Learning|VFL]]",
+        "Project Florence Literature Review": "... Learning Framework: Did they implement [[Vertical Federated Learning|VFL]]. Yes. FATE/doc/2.0/fate/ml/heterosecureboosttutorial.ipynb at v2.0.0-beta · ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Vertical Federated Learning]]. [[feature]]-based [[Federated Machine Learning|FL]]"
     },
     "Privacy Policy for My Chrome Extensions": {
@@ -4474,7 +4486,7 @@ export const backlinks = {
         "PineApple Pay": "Someday [[Project]].",
         "Problem": "Leads to a Someday [[Project]].",
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
-        "Project Florence": "[[Project]] Florence is a research [[project]] ...",
+        "Project Florence": "- [[Project]] Florence is a research [[project]] ...",
         "Project Ganymede": "- [[Project]]. Disappearing message for [[iMessage]].",
         "Project Heimdall": "... conventional Docusaurus with Listmonk. Consider [[Project]] [[Done]].",
         "Project Linguine": "[[Project]] Linguine is an initiative to ...",
@@ -5066,7 +5078,7 @@ export const backlinks = {
         "Write Once Run Everywhere": "... with a Java virtual machines ([[JVM]]). Installing a JVM or Java ..."
     },
     "Nicola Rieke et al. The future of digital health with federated learning": {
-        "Project Florence": "- [ ] [[Nicola Rieke et al. The future of digital health with federated learning]]"
+        "Project Florence Literature Review": "- [ ] [[Nicola Rieke et al. The future of digital health with federated learning]]"
     },
     "Catherine the Great": {
         "2023-02-21": "- [[Catherine the Great]]"
@@ -5215,7 +5227,7 @@ export const backlinks = {
         "Person A3BA1A": "Some customers require [[on-premise]] hardware, requiring us to adapt ..."
     },
     "Yang Liu et al. Asymmetrical Vertical Federated Learning": {
-        "Project Florence": "- [ ] [[Yang Liu et al. Asymmetrical Vertical Federated Learning]]"
+        "Project Florence Literature Review": "- [ ] [[Yang Liu et al. Asymmetrical Vertical Federated Learning]]"
     },
     "Updating Listmonk": {
         "2023-08-11": "- [[Updating Listmonk]]"
@@ -5305,7 +5317,7 @@ export const backlinks = {
         "Wael AbdAlmageed": "- [[Researcher]] at [[University of Southern California]]"
     },
     "Qiang Yang et al. Chapter 5 Vertical Federated Learning": {
-        "Project Florence": "- [ ] [[Qiang Yang et al. Chapter 5 Vertical Federated Learning]]"
+        "Project Florence Literature Review": "- [ ] [[Qiang Yang et al. Chapter 5 Vertical Federated Learning]]"
     },
     "3D": {
         "2022-10-21": "- [[3D]]",
@@ -7186,7 +7198,7 @@ export const backlinks = {
         "Elo Rating": "- Matching players in online [[multiplayer]] games"
     },
     "Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection": {
-        "Project Florence": "- [ ] [[Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection]]"
+        "Project Florence Literature Review": "- [ ] [[Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection]]"
     },
     "You can do everything on computers but you really should not": {
         "2023-03-28": "- [[You can do everything on computers but you really should not]]",
@@ -7464,7 +7476,7 @@ export const backlinks = {
         "Project Heimdall": "- [[Project Heimdall Random Names]]"
     },
     "Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning": {
-        "Project Florence": "- [ ] [[Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning]]"
+        "Project Florence Literature Review": "- [ ] [[Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning]]"
     },
     "Apple vs Spotify": {
         "2022-10-27": "### [[Apple vs Spotify]]"
@@ -7557,7 +7569,7 @@ export const backlinks = {
         "2022-12-20": "- [[elevatorpitch.com]]"
     },
     "Daniele Romanini et al. PyVertical": {
-        "Project Florence": "- [x] [[Daniele Romanini et al. PyVertical]]"
+        "Project Florence Literature Review": "- [x] [[Daniele Romanini et al. PyVertical]]"
     },
     "Rauno": {
         "2022-12-04": "- [[Rauno]]",
@@ -7849,7 +7861,7 @@ export const backlinks = {
         "Tailwind CSS 톺아보기": "... `className`의 순서가 섞인다. 이 문제는 [[Visual Studio Code|VS Code]]를 사용할 경우 Headwind라는 확장 프로그램으로 ..."
     },
     "Yuncheng Wu et al. Privacy-Preserving Vertical Federated Learning for Tree-based Models": {
-        "Project Florence": "- [ ] [[Yuncheng Wu et al. Privacy-Preserving Vertical Federated Learning for Tree-based Models]]"
+        "Project Florence Literature Review": "- [ ] [[Yuncheng Wu et al. Privacy-Preserving Vertical Federated Learning for Tree-based Models]]"
     },
     "Jest": {
         "Configuring Jest for React Native": "- Configuring [[Jest]] for [[React Native]]",
@@ -8133,7 +8145,7 @@ export const backlinks = {
         "하늘땅사람 업데이트 기록": "- [[iOS]] 15에서도 하늘땅사람 키보드를 사용할 수 ..."
     },
     "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": {
-        "Project Florence": "- [x] [[Tian Li et al. Federated Learning Challenges, Methods, and Future Directions]]"
+        "Project Florence Literature Review": "- [x] [[Tian Li et al. Federated Learning Challenges, Methods, and Future Directions]]"
     },
     "Ghost 테마를 자동 배포하는 방법": {
         "2022-11-19": "  - [[Ghost 테마를 자동 배포하는 방법]]"
@@ -8250,6 +8262,9 @@ export const backlinks = {
     },
     "Space Terraforming": {
         "2023-02-16": "- [[Space Terraforming]]"
+    },
+    "Project Florence Literature Review": {
+        "Project Florence": "- [[Project Florence Literature Review]]"
     },
     "Principles of Inclusion": {
         "2022-11-04": "- [[Principles of Inclusion]]"
@@ -8886,7 +8901,7 @@ export const backlinks = {
         "Matt Rickard": "- [[Programmable Web]]"
     },
     "Siwei Feng et al. Multi-Participant Multi-Class Vertical Federated Learning": {
-        "Project Florence": "- [ ] [[Siwei Feng et al. Multi-Participant Multi-Class Vertical Federated Learning]]"
+        "Project Florence Literature Review": "- [ ] [[Siwei Feng et al. Multi-Participant Multi-Class Vertical Federated Learning]]"
     },
     "App Store": {
         "Bondee": "... 2023, and has topped multiple [[app store]] charts across Asia.",
@@ -9222,7 +9237,7 @@ export const backlinks = {
         "하늘땅사람 개발 기록": "다음과 같이 기술 [[Proof of Concept|개념 증명]] 완료."
     },
     "Peter Kairouz et al. Advances and Open Problems in Federated Learning": {
-        "Project Florence": "- [ ] [[Peter Kairouz et al. Advances and Open Problems in Federated Learning]]"
+        "Project Florence Literature Review": "- [ ] [[Peter Kairouz et al. Advances and Open Problems in Federated Learning]]"
     },
     "0542 01 Matrix": {
         "Coding Tests": "- [x] [[0542 01 Matrix]]"
@@ -9439,7 +9454,7 @@ export const backlinks = {
         "Dynamic Island on the Web": "- [[Dynamic Island]] on the Web"
     },
     "Shengwen Yang et al. Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator": {
-        "Project Florence": "- [ ] [[Shengwen Yang et al. Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator]]"
+        "Project Florence Literature Review": "- [ ] [[Shengwen Yang et al. Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator]]"
     },
     "Requesting Review in Swift": {
         "2023-01-22": "- [[Requesting Review in Swift]]"
@@ -10011,7 +10026,7 @@ export const backlinks = {
     },
     "Qiang Yang et al. Federated Machine Learning Concept and Applications": {
         "2023-08-28": "- [[Qiang Yang et al. Federated Machine Learning Concept and Applications]]",
-        "Project Florence": "- [x] [[Qiang Yang et al. Federated Machine Learning Concept and Applications]]"
+        "Project Florence Literature Review": "- [x] [[Qiang Yang et al. Federated Machine Learning Concept and Applications]]"
     },
     "Proebsting": {
         "2022-12-28": "- [[Proebsting]]"
