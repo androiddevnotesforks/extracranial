@@ -2538,7 +2538,8 @@ export const backlinks = {
         "드디어, 한국 애플페이": "[[Finally, Apple Pay in Korea]]"
     },
     "The Techno-optimist Manifesto": {
-        "2023-10-16": "[[The Techno-optimist Manifesto]]"
+        "2023-10-16": "[[The Techno-optimist Manifesto]]",
+        "2023-10-17": "[[The Techno-optimist Manifesto]]"
     },
     "Federated Transfer Learning": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Federated Transfer Learning]]"
