@@ -11436,6 +11436,9 @@ export const backlinks = {
     "5F2C47.png": {
         "Project Malmantile": "![[5F2C47.png]]"
     },
+    "BF8EAF.png": {
+        "Project Malmantile": "![[BF8EAF.png]]"
+    },
     "B9AA95.png": {
         "Web Graphics": "![[B9AA95.png]]"
     },
