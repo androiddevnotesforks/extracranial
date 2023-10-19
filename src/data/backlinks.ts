@@ -350,6 +350,9 @@ export const backlinks = {
     "2022-10-19": {
         "Letter to Mr. Stephan Ango on 2022-10-19": "... to Mr. Stephan Ango on [[2022-10-19]]"
     },
+    "2023-10-19": {
+        "Project Ganymede": "## [[2023-10-19]]"
+    },
     "2023-02-21": {
         "Bing Chat for All Browsers in Japan": "## [[2023-02-21]]"
     },
@@ -3890,7 +3893,8 @@ export const backlinks = {
         "2023-10-10": "- [[Project Ganymede]]",
         "2023-10-12": "- [[Project Ganymede]]",
         "2023-10-13": "- [[Project Ganymede]]",
-        "2023-10-16": "[[Project Ganymede]]"
+        "2023-10-16": "[[Project Ganymede]]",
+        "2023-10-19": "[[Project Ganymede]]"
     },
     "서당개 3년이면 풍월을 읊는다": {
         "2023-06-19": "- [[서당개 3년이면 풍월을 읊는다]]"
@@ -11901,6 +11905,12 @@ export const backlinks = {
     },
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
+    },
+    "E19673.png": {
+        "Project Ganymede": "![[E19673.png]]"
+    },
+    "A09B56.png": {
+        "Project Ganymede": "![[A09B56.png]]"
     },
     "B89B94.gif": {
         "Project Ganymede": "![[B89B94.gif]]"
