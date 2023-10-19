@@ -2158,6 +2158,7 @@ export const backlinks = {
     },
     "Project Malmantile": {
         "2023-10-17": "- [[Project Malmantile]]",
+        "2023-10-18": "- [[Project Malmantile]]",
         "Project Fiesole": "Superseded by anaclumos/malmantile [[Project Malmantile]]",
         "Project Florence": "- [[Project Malmantile]]"
     },
@@ -11430,17 +11431,26 @@ export const backlinks = {
     "D7DC98.png": {
         "Project Fiesole": "- ![[D7DC98.png]]"
     },
-    "6A41A2.png": {
-        "Project Malmantile": "![[6A41A2.png]]"
+    "FC9A54.png": {
+        "Project Malmantile": "![[FC9A54.png]]"
     },
-    "9AA9AA.png": {
-        "Project Malmantile": "![[9AA9AA.png]]"
+    "48A860.png": {
+        "Project Malmantile": "![[48A860.png]]"
     },
-    "5F2C47.png": {
-        "Project Malmantile": "![[5F2C47.png]]"
+    "C9D658.png": {
+        "Project Malmantile": "![[C9D658.png]]"
     },
-    "BF8EAF.png": {
-        "Project Malmantile": "![[BF8EAF.png]]"
+    "E9BBF9.png": {
+        "Project Malmantile": "![[E9BBF9.png]]"
+    },
+    "10E084.png": {
+        "Project Malmantile": "![[10E084.png]]"
+    },
+    "A0705F.png": {
+        "Project Malmantile": "![[A0705F.png]]"
+    },
+    "D5D8B8.png": {
+        "Project Malmantile": "![[D5D8B8.png]]"
     },
     "B9AA95.png": {
         "Web Graphics": "![[B9AA95.png]]"
