@@ -1889,11 +1889,13 @@ export const backlinks = {
         "2023-09-22": "- [[Project Florence]]",
         "2023-10-03": "- [[Project Florence]]",
         "2023-10-04": "- [[Project Florence]]",
+        "Project": "- [[Project Florence]] and its subprojects",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
         "Project Malmantile": "Malmantile is a subproject of [[Project Florence]]. Supercedes [[Project Fiesole]]"
     },
     "Believer Plan": {
-        "2023-05-22": "- [[Believer Plan]]"
+        "2023-05-22": "- [[Believer Plan]]",
+        "Project Starfish": "Advertising project for hn.cho.sh. [[Believer Plan]]."
     },
     "Macroeconomics": {
         "2023-09-10": "- [[Macroeconomics]]",
@@ -2875,6 +2877,7 @@ export const backlinks = {
         "Project Heimdall Initial Planning": "Where would [[hn.cho.sh]] lead us? An [[AI]]-powered news ...",
         "Project Heimdall Locale Transition Strategy": "Project Heimdall's predecessor [[hn.cho.sh]] operated on DeepL's 29 languages. ...",
         "Project Linguine": "... into the subscriber lists of [[hn.cho.sh]], I did notice that there ...",
+        "Project Starfish": "Advertising project for [[hn.cho.sh]]. [[Believer Plan]].",
         "Reddit-Apollo Mayhem": "## Summarizations from [[hn.cho.sh]]",
         "Vercel Incident Report (April 2023)": "... with two projects: lovearc.net and [[hn.cho.sh]].",
         "hn.cho.sh 개발 기록": "... 아마도 사이드바 채팅 AI를 추가하고 [[hn.cho.sh]]에 대한 셀프 프로모션을 추가해야겠다."
@@ -3894,7 +3897,8 @@ export const backlinks = {
         "2023-10-12": "- [[Project Ganymede]]",
         "2023-10-13": "- [[Project Ganymede]]",
         "2023-10-16": "[[Project Ganymede]]",
-        "2023-10-19": "[[Project Ganymede]]"
+        "2023-10-19": "- [[Project Ganymede]]",
+        "Project": "- [[Project Ganymede]]"
     },
     "서당개 3년이면 풍월을 읊는다": {
         "2023-06-19": "- [[서당개 3년이면 풍월을 읊는다]]"
@@ -5581,6 +5585,10 @@ export const backlinks = {
     },
     "Internet Protocol Stack": {
         "Internetworking": "- [[Internet Protocol Stack]]"
+    },
+    "Project Starfish": {
+        "2023-10-19": "- [[Project Starfish]]",
+        "Project": "- [[Project Starfish]]"
     },
     "Time-Space Continuum (Physics)": {
         "2023-04-12": "- [[Time-Space Continuum (Physics)]]"
@@ -9231,6 +9239,9 @@ export const backlinks = {
     "Sigma Alpha": {
         "Probability": "- [[Sigma Alpha]]"
     },
+    "Linux Device that keenly follows MacBook": {
+        "2023-10-20": "- [[Linux Device that keenly follows MacBook]]"
+    },
     "Fast": {
         "2023-09-05": "- [[Fast]]"
     },
@@ -10079,6 +10090,9 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "... do not Inherit <br/> 🇰🇷 [[개성은 쟁취하는 것]]      ...",
         "딱 봐도 조성현": "- [[개성은 쟁취하는 것]]",
         "자아는 발굴되는 것이다": "[[개성은 쟁취하는 것]]."
+    },
+    "File Over App": {
+        "2023-10-20": "- [[File Over App]]"
     },
     "Remembering that Disarmed Bomb": {
         "2023-02-06": "- [[Remembering that Disarmed Bomb]]",
