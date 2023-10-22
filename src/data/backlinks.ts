@@ -601,6 +601,9 @@ export const backlinks = {
         "0242 Valid Anagram": "Solved at: [[2022-09-04]]",
         "0704 Binary Search": "Solved at: [[2022-09-04]]"
     },
+    "2023-10-20": {
+        "Project Ganymede": "## [[2023-10-20]]"
+    },
     "2022-10-20": {
         "Dynamic Island on the Web": "## [[2022-10-20]]",
         "Letter to Mr. Stephan Ango on 2022-10-19": "## Update on [[2022-10-20]]"
@@ -1356,6 +1359,7 @@ export const backlinks = {
     "불가사리": {
         "불가사리 (기업)": "... 하기 위해서 설립한 1인 기업이다. [[불가사리]]의 영문명으로는 무엇이 좋을까?",
         "불가사리 재단": "[[불가사리]]",
+        "코리안 르네상스": "- [[불가사리]]",
         "한민족의 멸종 방어": "- [[불가사리]]"
     },
     "Alternatives to After Effects": {
@@ -3898,6 +3902,7 @@ export const backlinks = {
         "2023-10-13": "- [[Project Ganymede]]",
         "2023-10-16": "[[Project Ganymede]]",
         "2023-10-19": "- [[Project Ganymede]]",
+        "2023-10-20": "- [[Project Ganymede]]",
         "Project": "- [[Project Ganymede]]"
     },
     "서당개 3년이면 풍월을 읊는다": {
@@ -4365,6 +4370,9 @@ export const backlinks = {
         "Person CC8297": "  - Capstone at [[Amazon]] Robotics.",
         "Using an iPad as my Ebook": "... lacks 대한민국|Korean titles. Knowing that [[Amazon]] loses money for each Kindle ...",
         "쿠팡": "... often referred to as the \"[[Amazon]] of South Korea.\" The company ..."
+    },
+    "Project Hocrux": {
+        "2023-10-20": "- [[Project Hocrux]]"
     },
     "Profiling": {
         "2023-02-01": "- [[Profiling]]"
@@ -4980,6 +4988,7 @@ export const backlinks = {
     },
     "네오 코리안 르네상스": {
         "2023-09-09": "- [[네오 코리안 르네상스]]",
+        "코리안 르네상스": "- [[네오 코리안 르네상스]]",
         "한민족의 멸종 방어": "- [[네오 코리안 르네상스]]"
     },
     "Chrome": {
@@ -6103,6 +6112,9 @@ export const backlinks = {
         "AMP": "Uses [[WorkerDOM]] under the hood.",
         "Treehouse": "... a Web Worker. Later affected [[WorkerDOM]] and [[Brane]].",
         "iiframe": "- Does not extend [[WorkerDOM]]."
+    },
+    "한국의 식민지 근대성": {
+        "2023-10-21": "- [[한국의 식민지 근대성]]"
     },
     "Geometric Series": {
         "2023-01-31": "- [[Geometric Series]]"
@@ -8272,6 +8284,9 @@ export const backlinks = {
     },
     "Companies are Economic Organisms": {
         "2023-07-25": "- [[Companies are Economic Organisms]]"
+    },
+    "코리안 르네상스": {
+        "한국의 식민지 근대성": "## 신채호와 첫 [[코리안 르네상스]]"
     },
     "Databricks AI Summit 2023": {
         "2023-06-27": "- [[Databricks AI Summit 2023]]"
@@ -11922,6 +11937,9 @@ export const backlinks = {
     },
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
+    },
+    "8A52BA.png": {
+        "Project Ganymede": "![[8A52BA.png]]"
     },
     "E19673.png": {
         "Project Ganymede": "![[E19673.png]]"
