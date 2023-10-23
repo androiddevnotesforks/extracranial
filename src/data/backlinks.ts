@@ -866,7 +866,8 @@ export const backlinks = {
         "Grammarly Work Note 2023-06-02": "... query the data in our [[Datahouse]] and index [[metadata]]. Our system ..."
     },
     "기술낙관론자 선언문": {
-        "2023-10-17": "- [[기술낙관론자 선언문]]"
+        "2023-10-17": "- [[기술낙관론자 선언문]]",
+        "The Techno-optimist Manifesto": "[[기술낙관론자 선언문|한국어 🇰🇷]]"
     },
     "Styled Components": {
         "Grammarly Work Note 2023-05-26": "5. Ad-hoc [[Styled Components]]. While we have a `components` ...",
@@ -2136,6 +2137,7 @@ export const backlinks = {
         "2023-10-12": "- [[Project Fiesole]]",
         "2023-10-13": "- [[Project Fiesole]]",
         "2023-10-17": "- [[Project Fiesole]]",
+        "2023-10-23": "- [[Project Fiesole]]",
         "Project Florence": "- [[Project Fiesole]]",
         "Project Malmantile": "... subproject of Project Florence. Supercedes [[Project Fiesole]]"
     },
@@ -2168,6 +2170,7 @@ export const backlinks = {
     "Project Malmantile": {
         "2023-10-17": "- [[Project Malmantile]]",
         "2023-10-18": "- [[Project Malmantile]]",
+        "2023-10-22": "- [[Project Malmantile]]",
         "Project Fiesole": "Superseded by anaclumos/malmantile [[Project Malmantile]]",
         "Project Florence": "- [[Project Malmantile]]"
     },
@@ -2566,7 +2569,8 @@ export const backlinks = {
     },
     "The Techno-optimist Manifesto": {
         "2023-10-16": "[[The Techno-optimist Manifesto]]",
-        "2023-10-17": "- [[The Techno-optimist Manifesto]]"
+        "2023-10-17": "- [[The Techno-optimist Manifesto]]",
+        "기술낙관론자 선언문": "[[The Techno-optimist Manifesto|English 🇺🇸]]"
     },
     "Federated Transfer Learning": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Federated Transfer Learning]]"
@@ -11467,6 +11471,9 @@ export const backlinks = {
     "D7DC98.png": {
         "Project Fiesole": "- ![[D7DC98.png]]"
     },
+    "F6FFBC.png": {
+        "Project Fiesole": "- ![[F6FFBC.png]]"
+    },
     "FC9A54.png": {
         "Project Malmantile": "![[FC9A54.png]]"
     },
@@ -12758,6 +12765,9 @@ export const backlinks = {
     },
     "BF3441.png": {
         "Adding a Verified Mark on Apple Mail and Gmail": "![[BF3441.png]]"
+    },
+    "47A128.png": {
+        "Apple-like Block Interface": "![[47A128.png]]"
     },
     "6F64BE.png": {
         "Toss Product Sans": "![[6F64BE.png]]"
