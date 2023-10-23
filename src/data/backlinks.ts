@@ -6118,7 +6118,8 @@ export const backlinks = {
         "iiframe": "- Does not extend [[WorkerDOM]]."
     },
     "한국의 식민지 근대성": {
-        "2023-10-21": "- [[한국의 식민지 근대성]]"
+        "2023-10-21": "- [[한국의 식민지 근대성]]",
+        "2023-10-23": "- [[한국의 식민지 근대성]]"
     },
     "Geometric Series": {
         "2023-01-31": "- [[Geometric Series]]"
