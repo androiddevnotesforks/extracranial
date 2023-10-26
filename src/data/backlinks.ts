@@ -9504,6 +9504,7 @@ export const backlinks = {
         "2022-10-24": "- [[Real Interviews]]",
         "2022-11-07": "- [[Real Interviews]]",
         "2023-01-31": "- [[Real Interviews]]",
+        "2023-10-23": "- [[Real Interviews]]",
         "Coding Tests": "- [[Real Interviews]]"
     },
     "Prototyper": {
@@ -10543,6 +10544,9 @@ export const backlinks = {
     "Ghost에서 외부 링크를 새로운 창에서 여는 방법": {
         "2022-11-19": "  - [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]",
         "Opening external links in a new tab by default on Ghost": "- [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]"
+    },
+    "Stale While Revalidate": {
+        "2023-10-26": "- [[Stale While Revalidate]]"
     },
     "Mathematic Programming": {
         "2022-09-05": "- [[Mathematic Programming]]",
