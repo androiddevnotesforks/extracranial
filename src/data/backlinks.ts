@@ -3164,6 +3164,9 @@ export const backlinks = {
         "2023-08-23": "- [[sssss]]",
         "Shortcuts": "Superseded by [[sssss]]"
     },
+    "Mymind.com": {
+        "Fabric.so": "Looks similar to [[Mymind.com]] [[Visual-based Tools for Thought]]"
+    },
     "1046 Last Stone Weight": {
         "2022-08-30": "- [[1046 Last Stone Weight]]",
         "Coding Tests": "- [[1046 Last Stone Weight]]"
@@ -3490,6 +3493,7 @@ export const backlinks = {
         "2022-07-26": "- Given this, simonbs/InfiniteCanvas: [[Infinite canvas]] using PencilKit, it seems relatively ...",
         "2022-10-10": "- [[Infinite Canvas]]",
         "Intracranial": "Someday Project. [[Infinite Canvas]] for Zettlekasten.",
+        "Mymind.com": "[[Infinite Canvas]] [[Visual-based Tools for Thought]]",
         "Rauno": "- Clipboard goes into [[Infinite Canvas]]",
         "Spacial Cognition": "- Key reason of [[Infinite Canvas]]. Gives spacial understanding & relevancy",
         "Tools for Thought": "... Visual-based Tools for Thought. add [[infinite canvas]] to text-based versions. involves and ...",
@@ -3705,6 +3709,8 @@ export const backlinks = {
         "Intracranial": "  - [[Atomic Notes]]"
     },
     "Visual-based Tools for Thought": {
+        "Fabric.so": "Looks similar to Mymind.com [[Visual-based Tools for Thought]]",
+        "Mymind.com": "Infinite Canvas [[Visual-based Tools for Thought]]",
         "Tools for Thought": "- [[Visual-based Tools for Thought]]. add [[infinite canvas]] to text-based ..."
     },
     "Alexander I": {
@@ -4607,6 +4613,9 @@ export const backlinks = {
         "기술 할부 결제": "이는 서비스의 [[Time to Market|출시 시기]]를 기하급수적으로 앞당기는데, 이는 스타트업에서 완전무결한 ...",
         "서비스 시밍": "... 그보다 더 중요한 것은 시장까지의 시간([[Time to Market|Time-to-market]])이다. 이런 사례는 기업의 운영에 있어서 ..."
     },
+    "Fabric.so": {
+        "2023-10-27": "- [[Fabric.so]]"
+    },
     "Augmented Reality": {
         "Apple Vision Pro": "... cases in various fields, including [[Augmented Reality]]‐based instruction, home decoration, and watching ...",
         "Extended Reality": "Virtual Reality|VR + [[Augmented Reality|AR]]",
@@ -4705,6 +4714,9 @@ export const backlinks = {
     },
     "벨로퍼트": {
         "Person 9078DC": "벨로그의 초기 성장에는 [[벨로퍼트]]님의 글이 가장 큰 역할을 했다. ..."
+    },
+    "Personal Finance AI": {
+        "Era.app": "[[Personal Finance AI]]"
     },
     "GitHub": {
         "2023-01-09": "- Can we use [[GitHub]]'s subscribe feature as a [[Newsletter]]?",
@@ -10302,6 +10314,9 @@ export const backlinks = {
     "To Kill a Night Owl": {
         "2022-10-24": "- [[To Kill a Night Owl]]"
     },
+    "Era.app": {
+        "2023-10-27": "- [[Era.app]]"
+    },
     "Maximum Likelihood Estimation": {
         "2023-03-27": "[[Maximum Likelihood Estimation]]",
         "Maximum A Posteriori": "... be thought of as \"regularized\" [[Maximum Likelihood Estimation|MLE]] (?)",
@@ -11864,6 +11879,9 @@ export const backlinks = {
     "5FDEF2.png": {
         "sssss": "![[5FDEF2.png]]"
     },
+    "7D878D.gif": {
+        "Mymind.com": "![[7D878D.gif]]"
+    },
     "8B08CD.png": {
         "Retroactive (Software)": "![[8B08CD.png]]"
     },
@@ -12077,6 +12095,9 @@ export const backlinks = {
     },
     "FF32E1.png": {
         "Bing Chat for All Browsers Widespread Unavailability Incident (April 2023)": "![[FF32E1.png]]"
+    },
+    "224F73.png": {
+        "Fabric.so": "![[224F73.png]]"
     },
     "Int": {
         "0015 3Sum": "... func threeSum( numsOriginal: [Int]) -> [[Int]] {",
@@ -13176,6 +13197,9 @@ export const backlinks = {
     },
     "ABCEC0.png": {
         "To Kill a Night Owl": "![[ABCEC0.png]]"
+    },
+    "50E33A.png": {
+        "Era.app": "![[50E33A.png]]"
     },
     "F7BA33.png": {
         "Project Heimdall": "![[F7BA33.png]]"
