@@ -1912,6 +1912,9 @@ export const backlinks = {
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
     },
+    "Squircled App Icon Generator": {
+        "2023-10-26": "- [[Squircled App Icon Generator]]"
+    },
     "HQ Proximity": {
         "2023-01-13": "- [[HQ Proximity]]"
     },
@@ -2171,6 +2174,7 @@ export const backlinks = {
         "2023-10-17": "- [[Project Malmantile]]",
         "2023-10-18": "- [[Project Malmantile]]",
         "2023-10-22": "- [[Project Malmantile]]",
+        "2023-10-26": "- [[Project Malmantile]]",
         "Project Fiesole": "Superseded by anaclumos/malmantile [[Project Malmantile]]",
         "Project Florence": "- [[Project Malmantile]]"
     },
@@ -5869,7 +5873,7 @@ export const backlinks = {
         "HYBE": "HYBE is a [[대한민국|Korean]] entertainment company founded in 2005 ...",
         "IP is the new Real Estate": "... why Naver and Kakao, two [[대한민국|Korean]] Google, are so paranoid about ...",
         "KakaoTalk": "... and is primarily used in [[대한민국|Korea]]. KakaoTalk was launched in 2010 ...",
-        "Karrot": "> 당근마켓(Karrot)은 [[대한민국]]의 중고 거래, 소상공인 홍보 등 ...",
+        "Karrot": "> 당근(Karrot)은 [[대한민국]]의 중고 거래, 소상공인 홍보 등 ...",
         "Korean Discount": "The [[대한민국|Korea]] discount is a term that ...",
         "Krafton Way": "좁은 [[대한민국|한국]] 시장에서 벗어나, 해외 시장에 곧바로 ...",
         "LAH Case Study": "흥미롭다. 아마 [[대한민국]]에서 스타트업을 하는 사람들은 대부분 이런 ...",
@@ -6231,15 +6235,15 @@ export const backlinks = {
         "Project Core ML Inference": "... transfer data from one Hadoop [[Clustering|cluster]] to another?"
     },
     "Karrot": {
-        "2022-05-31": "... 레거시 기업들에 빗대고 싶진 않지만, [[Karrot|당근마켓]] + [[배달의민족]] + [[쿠팡]]이라고 생각하면 ...",
+        "2022-05-31": "... 레거시 기업들에 빗대고 싶진 않지만, [[Karrot|당근]] + [[배달의민족]] + [[쿠팡]]이라고 생각하면 ...",
         "2022-06-14": "- [[Karrot|당근]] 베타 [[Project|프로젝트]]에서 [[Karrot]] Frame 데모 ...",
         "2022-08-03": "... to get an internship at [[Karrot]] four months ago.",
         "2023-02-21": "- [[Karrot]]",
         "2023-04-17": "- hn.cho.sh 개발 기록. [[Karrot|당근]] PM 론과의 대화",
         "Height (App)": "- Used at [[Karrot]]",
         "Jira": "- Used at [[Karrot]]",
-        "Karrot NX Team Mission Statement": "> [[Karrot|당근마켓]]에 Notifications Experience 팀이라고 있는데요. 그런데 ...",
-        "MAGI": "... Ensemble learning|앙상블 학습과 유사점이 많다. [[Karrot|당근마켓]]에서 처음 알게 된 이 학습 ...",
+        "Karrot NX Team Mission Statement": "> [[Karrot|당근]]에 Notifications Experience 팀이라고 있는데요. 그런데 ...",
+        "MAGI": "... Ensemble learning|앙상블 학습과 유사점이 많다. [[Karrot|당근]]에서 처음 알게 된 이 학습 ...",
         "Project Heimdall Initial Planning": "At [[Karrot]], scraping the news over the ...",
         "hn.cho.sh 개발 기록": "### [[Karrot|당근]] PM 론과의 대화",
         "당근미니 케이스 스터디": "[[Karrot|당근]][[Mini App|미니]] Console [[Case Study|케이스 스터디]]",
@@ -8054,7 +8058,7 @@ export const backlinks = {
         "앰비언트 컴퓨팅을 향해": "... 활용해왔다. 처음에는 책, 그 뒤에는 [[Search Engine|검색 엔진]]이었다. 그와 대조적으로, 일화 기억에 대해 ..."
     },
     "Ensemble learning": {
-        "MAGI": "... 무엇보다 현대 AI의 학습 기법인 [[Ensemble learning|앙상블 학습]]과 유사점이 많다. [[Karrot|당근마켓]]에서 처음 알게 ..."
+        "MAGI": "... 무엇보다 현대 AI의 학습 기법인 [[Ensemble learning|앙상블 학습]]과 유사점이 많다. [[Karrot|당근]]에서 처음 알게 ..."
     },
     "hn.cho.sh 개발 기록": {
         "2023-03-20": "- [[hn.cho.sh 개발 기록]]",
@@ -8959,7 +8963,7 @@ export const backlinks = {
         "2023-10-04": "- [[Newtonian Correspondence]]"
     },
     "쿠팡": {
-        "2022-05-31": "... 않지만, Karrot|당근마켓 + 배달의민족 + [[쿠팡]]이라고 생각하면 됩니다. -",
+        "2022-05-31": "... 않지만, Karrot|당근 + 배달의민족 + [[쿠팡]]이라고 생각하면 됩니다. -",
         "2023-07-17": "- [[쿠팡]]",
         "Blitzscaling": "... market with platform power like [[쿠팡]] or [[배달의민족]]."
     },
@@ -9528,7 +9532,7 @@ export const backlinks = {
         "Simple Analytics": "- GDPR, PECR, [[CCPA]] Compliant"
     },
     "배달의민족": {
-        "2022-05-31": "... 빗대고 싶진 않지만, Karrot|당근마켓 + [[배달의민족]] + [[쿠팡]]이라고 생각하면 됩니다. -",
+        "2022-05-31": "... 빗대고 싶진 않지만, Karrot|당근 + [[배달의민족]] + [[쿠팡]]이라고 생각하면 됩니다. -",
         "2023-07-17": "- [[배달의민족]]",
         "Blitzscaling": "... platform power like 쿠팡 or [[배달의민족]].",
         "Service Shimming": "- [[배달의민족|Woowa Bros]] (≈ [[대한민국|Korean]] Doordash) failed to ...",
@@ -11499,6 +11503,9 @@ export const backlinks = {
     },
     "D5D8B8.png": {
         "Project Malmantile": "![[D5D8B8.png]]"
+    },
+    "65C5FE.png": {
+        "Project Malmantile": "![[65C5FE.png]]"
     },
     "B9AA95.png": {
         "Web Graphics": "![[B9AA95.png]]"
