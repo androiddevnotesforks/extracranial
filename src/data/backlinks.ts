@@ -765,6 +765,8 @@ export const backlinks = {
         "ACL 60-60": "... The intent is to eliminate [[language]] barriers that may hinder scientific ...",
         "Across the Sprachraums": "... detachment of IP|Intellectual Property and [[Language]].",
         "Canary Trap": "... the prose of the unique [[language]] in the hopes that the ...",
+        "Computational Linguistics": "... can process and analyze human [[language]]. It involves applying computational methods ...",
+        "HTML": "> The HyperText Markup [[Language]] or HTML is the standard ...",
         "Native Language": "Native [[Language]]",
         "QA.json": "... metadata (like date added, source, [[language]]), augmented data, and data balance.",
         "Towards Ambient Computing": "... universe, the invention of written [[language]] caused a significant shift in ...",
@@ -836,7 +838,7 @@ export const backlinks = {
         "Local ChatGPT": "... GPT-3 that power tools like [[ChatGPT]] are a lot larger and ...",
         "Microsoft": "- The [[ChatGPT]] owner hopes to garner $1 ...",
         "OpenAI enthroned as the Levis of Tech": "OpenAI has launched its [[ChatGPT]] API service, powered by the ...",
-        "OpenAI가 새로운 테크 리바이스로 등극하다": "... 방금 GPT-3.5-터보 모델을 기반으로 한 [[ChatGPT]] API 서비스를 출시했다.",
+        "OpenAI가 새로운 테크 리바이스로 등극하다": "... Pre-trained Transformer|GPT-3.5-터보 모델을 기반으로 한 [[ChatGPT]] API 서비스를 출시했다.",
         "Problems of ChatGPT": "- [[ChatGPT]] writes believable scientific abstracts",
         "Proposal of Research 2023-01-10": "... AIs, such as the recent [[ChatGPT]] (i.e., we now have the ...",
         "Proposal of Research 2023-03-28": "... generative AI technologies, such as [[ChatGPT]]. Given infinite monkeys making infinite ...",
@@ -990,6 +992,7 @@ export const backlinks = {
         "Project PEOPLE": "- [[Person A480C6]]"
     },
     "BFS": {
+        "0104 Maximum Depth of Binary Tree": "We can also use [[BFS]] to traverse the tree",
         "0733 Flood Fill": "I did [[BFS]], but it seems possible to ...",
         "Real Exams": "- 1 [[BFS]]",
         "Real Interviews": "  - 1 conditional [[BFS]] problem"
@@ -1020,6 +1023,7 @@ export const backlinks = {
         "2022-12-04": "- [[Aldehyde]]",
         "2023-02-16": "On [[Aldehyde]], one user wrote, When you ...",
         "2023-03-28": "- [[Aldehyde]]",
+        "2023-10-31": "... Project Heimdall|Heimdall updates OK, but [[Aldehyde]] gives some errors, most likely ...",
         "Aldehyde SaaS": "Someday Project. It's this [[Aldehyde]].",
         "Better Aldehyde": "- [[Aldehyde]]",
         "Developing Review Notes for Obsidian": "- [[Aldehyde]]의 기술적 발전으로 인해 옵시디언 내부보다 ...",
@@ -1476,13 +1480,20 @@ export const backlinks = {
         "2023-09-10": "- [[Microeconomics]]"
     },
     "Software as a Service": {
+        "2023-06-14": "사실... 이거를 [[Software as a Service|SaaS]]로 개발해 제공하고 싶다는 생각도 했었다. ...",
         "2023-09-09": "- [[Software as a Service|SaaS]]",
+        "Battle of Flow and Asana": "... amount to give them access ([[Software as a Service|SaaS]]) assuming others had the same ...",
+        "Decoy Effect": "- [[Software as a Service|SaaS]] companies sometimes use the decoy ...",
         "FIRE": "## Payment Infra for [[Software as a Service]]",
         "FIRE Engine": "- [[Software as a Service]] that drives revenue streams for ...",
         "Fiercely Overpriced": "... we have previously explored that [[Software as a Service]] would be one way to ...",
+        "Palantir Apollo": "... deployment across all environments. Their [[Software as a Service|SaaS]] is one of five offerings ...",
+        "Person A3BA1A": "... specializes in B2B Equity management [[Software as a Service|SaaS]] tools for Asia.",
         "Powerfully Powerless Tools": "... in the Tools for Thought [[Software as a Service]] market.",
         "Social Coding": "- [[Software as a Service]] businesses with network effects are ...",
         "Software as a Service": "... expect to attain FIRE through [[Software as a Service]].",
+        "Supergravity Product": "- [[Software as a Service|SaaS]]",
+        "hn.cho.sh 개발 기록": "... 나는 것을 일주일 째 방치하는 [[Software as a Service|SaaS]] 기업이라니.",
         "강력하게 미약한 도구들": "현 Tools for Thought [[Software as a Service|SaaS]] 시장에는 반복적인 패러다임이 있다. 도구들이 ..."
     },
     "그게 뭐라고": {
@@ -1658,11 +1669,6 @@ export const backlinks = {
         "2022-11-19": "  - [[Node.js 앱을 AWS EB에서 Heroku로 옮기기]]",
         "Migrating Node.js apps from AWS EB to Heroku": "- [[Node.js 앱을 AWS EB에서 Heroku로 옮기기]]"
     },
-    "dub.sh": {
-        "2022-09-29": "- [[dub.sh]]",
-        "2022-12-26": "- [[dub.sh]]",
-        "AGPL": "## [[dub.sh]]"
-    },
     "Unchained Bing": {
         "2023-03-10": "- [[Unchained Bing]]"
     },
@@ -1715,6 +1721,7 @@ export const backlinks = {
         "2023-01-27": "... out to be it was [[Docusaurus]]'s recent bug: Using Tabs will ...",
         "2023-02-16": "... publishing workflow with Obsidian and [[Docusaurus]], please count me as one ...",
         "2023-04-19": "- [[Docusaurus]]",
+        "2023-10-31": "I tried to update [[Docusaurus]] to 3.0. [[Project Heimdall|Heimdall]] updates ...",
         "Aldehyde Outage (January 2023)": "## [[Docusaurus]] 2.3.0 `useSyncExternalStore` Bug",
         "Better Docusaurus": "... I currently don't like about [[Docusaurus]]",
         "In search of my domain": "... from WordPress to Ghost to [[Docusaurus]], making several contributions and almost ...",
@@ -1869,6 +1876,7 @@ export const backlinks = {
         "Ghost 테마를 자동 배포하는 방법": "... 말 그대로 머리가 없다는 뜻으로, [[Back-end|백엔드]]는 존재하지만 [[Front-end|프론트엔드]] (헤드)는 내가 원하는 ...",
         "Grammarly Work Note 2023-05-26": "2. The Lack of Local [[Back-end]] Testings. The [[back-end]], written in ...",
         "Grammarly Work Note 2023-05-31": "... interfaces are controlled by the [[back-end]] and gradually enabled throughout the ...",
+        "Grammarly Work Note 2023-06-02": "... growth engineer's specialization is in [[back-end]] development, which includes creating integrations ...",
         "IDOL Stack": "... Sometimes lack of a proper [[back-end]] sucks",
         "Inspiring Open Source Projects": "- bitwarden/server The core infrastructure [[Back-end|backend]] (API, database, [[Docker]], etc).",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... to an edge-served Front-end and [[back-end]] as edge-replicated simple data storage. ...",
@@ -2186,7 +2194,7 @@ export const backlinks = {
         "Satori": "- [[Tailwind]] [[CSS]] with the `tw` prop",
         "Shopify Analyzes CSS Frameworks": "- Winner: [[Tailwind]]",
         "Tailwind CSS 톺아보기": "- [[Tailwind]] [[CSS]]를 임의의 [[Next.js|TypeScript Next]] [[Project|프로젝트]]에 ...",
-        "dub.sh": "  - [[Tailwind]] [[CSS]]",
+        "dub.co": "  - [[Tailwind]] [[CSS]]",
         "henrymakesapps": "3. [[Tailwind]] [[CSS]]. Reduces time spent on ..."
     },
     "SMIME": {
@@ -2266,7 +2274,7 @@ export const backlinks = {
         "Chrome": "... of web technologies, including HTML5, [[CSS]], and [[JavaScript]]. In addition, it ...",
         "Chromium": "- \"The integration with the [[CSS]] [[engine]] leads to some extraordinary ...",
         "Font Features": "- [[CSS]] property to enhance legibilities of ...",
-        "HTML": "... such as Cascading Style Sheets ([[CSS]]) and scripting languages such as ...",
+        "HTML": "... assisted by technologies such as [[CSS|Cascading Style Sheets]] ([[CSS]]) and scripting languages such ...",
         "Markdown Email Client": "... Markdown. Before sending, select one [[CSS]]. Then... it sends as a ...",
         "Mini App": "... using web-based technologies like HTML, [[CSS]], and [[JavaScript]] hosted by the ...",
         "Open Graph Image as a Service": "... library to convert HTML and [[CSS]] to [[SVG]]",
@@ -2280,7 +2288,7 @@ export const backlinks = {
         "Tailwind CSS 톺아보기": "- Tailwind [[CSS]]를 임의의 [[Next.js|TypeScript Next]] [[Project|프로젝트]]에 적용",
         "Web Typography": "... would be used. The first [[CSS|Cascading Style Sheets]] specification was published in 1996 ...",
         "WebExtension": "... web technologies such as HTML, [[CSS]], and JavaScript. They can interact ...",
-        "dub.sh": "  - Tailwind [[CSS]]",
+        "dub.co": "  - Tailwind [[CSS]]",
         "henrymakesapps": "3. Tailwind [[CSS]]. Reduces time spent on styling ...",
         "hn.cho.sh 개발 기록": "라고 하는데 [[CSS]] 같은거로 간단하게 처리할 수 있는지 ...",
         "배달의민족 FE 개발자가 일하는 법 Q&A": "... 재사용성에 집중하는 것이다. 예를 들어 [[CSS]]는 큰 [[Project|프로젝트]]에서 깨지기가 너무 쉽다. ...",
@@ -2946,8 +2954,8 @@ export const backlinks = {
         "Letter to Mr. Matt Rickard on 2022-12-21": "... be abstracted to an edge-served [[Front-end]] and [[back-end]] as edge-replicated simple ...",
         "Listmonk": "... written in Go, and the [[front-end]] is Vue with Buefy for ...",
         "Old Fashioned Camera": "- Back-end|백엔드와 [[Front-end|프론트]]가 모두 필요 없기에 [[FIRE Engine]]을 ...",
-        "React": "... is a free and open-source [[Front-end|front-end]] JavaScript library for building user ...",
-        "Redwood.js": "- The [[front-end]] is built with React, a ...",
+        "React": "... is a free and open-source [[Front-end|front-end]] [[JavaScript]] library for building user ...",
+        "Redwood.js": "- The [[front-end]] is built with [[React]], a ...",
         "Render.com": "... Ruby. Instead, Cloudflare excels at [[front-end]] tasks through its Workers and ...",
         "Satori": "... Works with any framework or [[Front-end|frontend]] application",
         "Svelte": "... is a free and open-source [[Front-end|front-end]] compiler created by Rich Harris ...",
@@ -3211,7 +3219,7 @@ export const backlinks = {
         "Elon Musk": "... and co-founder of Neuralink and [[OpenAI]]. With an estimated net worth ...",
         "Nuclear Fission": "... The SPAC was co-founded by [[OpenAI]] CEO Sam Altman, who also ...",
         "OpenAI enthroned as the Levis of Tech": "[[OpenAI]] has launched its [[ChatGPT]] API ...",
-        "OpenAI가 새로운 테크 리바이스로 등극하다": "[[OpenAI]]가 방금 GPT-3.5-터보 모델을 기반으로 한 ...",
+        "OpenAI가 새로운 테크 리바이스로 등극하다": "[[OpenAI]]가 방금 [[Generative Pre-trained Transformer|GPT]]-3.5-터보 모델을 ...",
         "Personal Training Corpus": "... the files are processed with [[OpenAi]]'s Whisper and transformed into text ...",
         "Proposal of Research 2023-01-10": "... dataset of image-to-text created by [[OpenAI]]. We need a CLIP inference ...",
         "Search AI": "... 필요 없어지는 것이지요. 엊그제 나온 [[OpenAI]]의 [[ChatGPT]]에 많은 사람들이 놀라고 있어요. ...",
@@ -3291,6 +3299,10 @@ export const backlinks = {
         "2022-08-04": "### [[Optimistic Nihilism]]",
         "2022-08-10": "- [[Optimistic Nihilism]]"
     },
+    "KMLA Online": {
+        "2023-10-31": "[[KMLA Online]]",
+        "민사고 앱": "... 이후에도 수많은 시도가 있었다. 민사고에는 [[KMLA Online]]이라는 인트라넷이 있는데, 처음에는 거기에 합류해서 ..."
+    },
     "De Morgan Law": {
         "Probability": "- [[De Morgan Law]]"
     },
@@ -3302,6 +3314,7 @@ export const backlinks = {
         "IDOL Stack": "- Non-[[Generative Pre-trained Transformer|GPT]]-able, since v1 came out mid ...",
         "LavaLab Cohort of Spring 2023": "With the recent advent of [[Generative Pre-trained Transformer|GPT]] APIs, people can now [[Generative ...",
         "NewsGPT": "News, but [[Generative Pre-trained Transformer|GPT]]-powered",
+        "OpenAI가 새로운 테크 리바이스로 등극하다": "OpenAI가 방금 [[Generative Pre-trained Transformer|GPT]]-3.5-터보 모델을 기반으로 한 [[ChatGPT]] API ...",
         "TermsGPT": "... if there is a fine-tuned [[Generative Pre-trained Transformer|GPT]] model that will check if ...",
         "Towards Ambient Computing": "... devices utilize OpenAI Whisper and [[Generative Pre-trained Transformer|GPT]] technology to record and respond ...",
         "앰비언트 컴퓨팅을 향해": "두 제품 모두 OpenAI Whisper와 [[Generative Pre-trained Transformer|GPT]] 기술을 활용해 모든 것을 녹음해 ..."
@@ -3439,12 +3452,13 @@ export const backlinks = {
         "Macroeconomics": "[[민사고]] 재학 시절 전교 1등을 했다...라고 ...",
         "Migrating Node.js apps from AWS EB to Heroku": "... my AWS EB app called [[민사고|KMLA]] Forms to Heroku. For your ...",
         "Node.js 앱을 AWS EB에서 Heroku로 옮기기": "... 것을 알게 되었다. 예전에 개발했던 [[민사고]] 공문서 모음집을 Heroku로 옮겼다.",
+        "WWDC Scholarship": "... 심사 기준은 기술적 성취도와 창의성이다. [[민사고|민족사관고등학교]] 2학년에 재학 중인 조성현 씨는 ...",
         "공강에서 보내는 공강 활용법": "... 이상하게 들리는 말인 것 같습니다. [[민사고|민족사관고등학교]]에서 공강은 두 가지 의미를 가지고 ...",
         "과거의 영광 (2016-2018)": "하지만 여느 사다리가 그렇듯이, [[민사고]]에 진학하면서 나는 별볼일 없는 또래1이 ...",
         "국가와 민족": "- [[민사고|민족사관고등학교]]에서 배운 것 중 하나이다.",
         "국제 계열과 계열 변경 이야기": "... 계열을 변경했습니다. 많은 분들이 아시다시피 [[민사고]]는 국제계열과 국내계열로 나뉘어 있습니다. 오늘은 ...",
         "기숙사 생활과 방 배정": "... 또 다른 학교생활을 직면하게 됩니다. [[민사고|민족사관고등학교]] 기숙사인 덕고관은 또 다른 배움의 ...",
-        "민사고 앱": "그 이후에도 수많은 시도가 있었다. [[민사고]]에는 KMLA Online이라는 인트라넷이 있는데, 처음에는 ...",
+        "민사고 앱": "그 이후에도 수많은 시도가 있었다. [[민사고]]에는 [[KMLA Online]]이라는 인트라넷이 있는데, 처음에는 ...",
         "민사고와 쇼비니즘": "1998년 발간된 [[민사고]] 영문 잡지 최초 호 첫 ...",
         "바이올린 켜면 바이올레이션": "... 제도는 어느 학교에나 있는 제도입니다. [[민사고|민족사관고등학교]]도 마찬가지입니다. 오늘은 민사고|민족사관고등학교의 상벌점 제도에 ...",
         "불가사리": "[[민사고]] 재학 시절 만들었던 아트워크",
@@ -4071,9 +4085,9 @@ export const backlinks = {
         "Tailwind CSS 톺아보기": "- Tailwind CSS를 임의의 [[Next.js|TypeScript Next]] [[Project|프로젝트]]에 적용",
         "Vercel": "... company. The company maintains the [[Next.js]] web development framework. Vercel's architecture ...",
         "Wildcard Image Domain on Next.js": "- [[Next.js]]",
-        "dub.sh": "  - [[Next.js]] framework",
+        "dub.co": "  - [[Next.js]] framework",
         "henrymakesapps": "1. [[Next.js]]. Used for both [[front-end]] and ...",
-        "hn.cho.sh 개발 기록": "... The SaaS starter template for [[Next.js]] and [[Supabase]] 살펴보기"
+        "hn.cho.sh 개발 기록": "... a Service|SaaS starter template for [[Next.js]] and [[Supabase]] 살펴보기"
     },
     "Jupyter": {
         "Deepnote": "- [[Jupyter]] compatible"
@@ -4218,6 +4232,7 @@ export const backlinks = {
         "2022-06-10": "... future security work on all [[ARM Architecture|ARM]] systems with pointer authentication enabled, ...",
         "2022-11-03": "- [[ARM Architecture]]",
         "Computer Systems": "- [[ARM Architecture]]",
+        "DRM": "... Widevine on Asahi-flavoured Arch Linux [[ARM Architecture|ARM]]",
         "How is WebAssembly cross-platform when Assembly is not": "... WebAssembly|WASM to ASM targeting x86, [[ARM Architecture|ARM]], and RISC-V, is comparably easy, ...",
         "Meltdown": "... IBM POWER processors, and some [[ARM Architecture|ARM]]-based microprocessors. It allows a rogue ..."
     },
@@ -4576,7 +4591,8 @@ export const backlinks = {
         "코드클럽": "... 세계에서 인증한 만국 공통 코드클럽 [[Project|프로젝트]] 커리큘럼으로 활동",
         "프로젝트 어덕행덕": "- 텐션이 많이 떨어지고 있다. [[Project|프로젝트]]가 점점 장기화되어가며 활력을 잃어간다. 너무 ...",
         "하늘땅사람": "... 할 수 있도록 키보드를 제작하는 [[Project|프로젝트]]. [[Done]].",
-        "하늘땅사람 개발 기록": "활자 [[Project|프로젝트]]에 대해 이성광 님께서 \"NFD로 문자열 ..."
+        "하늘땅사람 개발 기록": "활자 [[Project|프로젝트]]에 대해 이성광 님께서 \"NFD로 문자열 ...",
+        "한국통사": "... 있게 분투하는 기개가 없어 모든 [[Project|사업]]이 위축되고, 산을 옮길 [[Project|계획]]을 감행하지 ..."
     },
     "Bing Chat for All Browsers Widespread Unavailability Incident (April 2023)": {
         "2023-04-19": "- [[Bing Chat for All Browsers Widespread Unavailability Incident (April 2023)]]"
@@ -4710,6 +4726,7 @@ export const backlinks = {
         "일민주의": "... 만들어져 갔다. 동질성이 강조된 일민으로서 [[한민족|민족]]과 우상화된 영도자 이승만이 결국 동일시(identification)의 ...",
         "한국어": "[[한민족]]과 [[대한민국]]의 [[Native Language|모국어]]이다.",
         "한국인": "대한민국의 국적자이다. [[한민족]]과 다르다.",
+        "한국통사": "... 한 것이다. 자랑스러운 기개와 별개로 [[한민족]]은 치욕스럽게 미개한 거버넌스를 가지고 있었다. ...",
         "한민족은 해적되었다": "[[한민족]]은 해적되었다.",
         "한민족의 동족상잔": "- 이것은 전쟁 포로나 다른 [[한민족|민족]]을 노예로 삼았던 사례와 많은 차이를 ...",
         "한민족의 문화": "[[한민족]]의 문화에 대해서 다룬다. 좋든 싫든."
@@ -4732,6 +4749,7 @@ export const backlinks = {
         "IDOL Stack": "... Inlang + Across the Sprachraums, [[GitHub]] CI/CD",
         "Letter to Mr. Matt Rickard on 2022-10-03": "I'm at @anaclumos on [[GitHub]], [[Twitter]], and any other platform.",
         "Neo ArXiv": "- SourceForge, not [[GitHub]]",
+        "Redwood.js": "... 2020 by Tom Preston-Werner, a [[GitHub]] co-founder. Redwood uses a unique ...",
         "Setting different images for Light & Dark mode": "- Using `#gh-dark-mode-only` for [[GitHub]]",
         "Snowpack으로 WASM 시작하기": "## [[GitHub]] Pages에 Snowpack App 호스팅 및 ...",
         "Social Coding": "- [[GitHub]] is removing the trending tab ...",
@@ -4810,6 +4828,7 @@ export const backlinks = {
         "Configuring Jest for React Native": "- Configuring Jest for [[React Native]]",
         "Hyperview": "... a new hypermedia format and [[React Native]] client for developing server-driven mobile ...",
         "Project FFMpeg for iPad": "... Android, Flutter, iOS, Linux, macOS, [[React Native]] and tvOS. Supersedes MobileFFmpeg, flutterffmpeg ...",
+        "Storybook": "... applications. Storybook supports HTML, React, [[React Native]], Vue.js, Angular, Svelte, and many ...",
         "Write Once Run Everywhere": "- React and [[React Native]]"
     },
     "Person 5DBDAE": {
@@ -5181,6 +5200,7 @@ export const backlinks = {
         "2023-04-24": "- [[Neuroplasticity]]"
     },
     "Done": {
+        "Better Aldehyde": "## [[Done]]",
         "Dynamic Island on the Web": "- [[Done]] [[Project]]",
         "Project Heimdall": "... Docusaurus with Listmonk. Consider Project [[Done]].",
         "TossFace Playground": "- Project [[Done]]",
@@ -5408,12 +5428,15 @@ export const backlinks = {
         "ESLint": "ESLint is an open-source [[JavaScript]] linting utility. The primary objective ...",
         "Fast": "... created the first prototype of [[JavaScript]] in just 10 days and ...",
         "Ghost에서 외부 링크를 새로운 창에서 여는 방법": "물론 이렇게 매번 [[JavaScript]]를 통해 링크를 조작하는 방법은 웹 ...",
+        "HTML": "... and scripting languages such as [[JavaScript]]. HTML",
         "HTMX": "- Implementation itself is [[JavaScript]]",
         "Mini App": "... technologies like HTML, CSS, and [[JavaScript]] hosted by the Super App, ...",
         "NPM": "... default package manager for the [[JavaScript]] runtime environment [[Node.js]]. NPM is ...",
         "NanoID": "... unique string ID generator for [[JavaScript]]. It's 130 bytes minified, has ...",
         "Node.js": "Node.js is an open-source, server-side [[JavaScript]] runtime environment allowing developers to ...",
         "Project Heimdall": "... we scrape the web with [[JavaScript]] enabled? Problems are Access Restricted ...",
+        "React": "... a free and open-source Front-end|front-end [[JavaScript]] library for building user interfaces ...",
+        "Redwood.js": "RedwoodJS is a full-stack, open-source [[JavaScript]] framework for building web applications. ...",
         "Safari": "... technologies, including HTML5, CSS, and [[JavaScript]]. It includes features such as ...",
         "Separation of Computer Scientists and Computer Technologists": "... to make a cool-looking Single-Page-App [[JavaScript]] [[e-commerce]] website...",
         "TypeScript": "- Typed [[JavaScript]].",
@@ -5470,7 +5493,8 @@ export const backlinks = {
         "데이터베이스권": "- [[서울]]중앙지법 민사합의62부(부장 이영광)는 \"방픽은 크롤링으로 얻은 ...",
         "유난한 도전": "팀원들이 [[서울]] 각지로 흩어져 새로운 아이템을 찾아보기로 ...",
         "조선의 노비제도에 관한 보고": "[[서울]],",
-        "퍼블리시티권": "- 대한민국|한국에서는 지난 1982년 [[서울]] 민사지방법원에서 본인의 동의 없이 사진을 ..."
+        "퍼블리시티권": "- 대한민국|한국에서는 지난 1982년 [[서울]] 민사지방법원에서 본인의 동의 없이 사진을 ...",
+        "한국통사": "> 당시 나는 [[서울]]에 있다가 청국에 원병을 요청했다는 소식을 ..."
     },
     "Simple Analytics War Room": {
         "Project Heimdall": "- [[Simple Analytics War Room]] on [[Hacker News]]"
@@ -5861,7 +5885,7 @@ export const backlinks = {
     },
     "Supastarter": {
         "2023-05-20": "... investigating. This is similar to [[Supastarter]] but better packaged. At the ...",
-        "hn.cho.sh 개발 기록": "- [[supastarter]] - The SaaS starter template ..."
+        "hn.cho.sh 개발 기록": "- [[supastarter]] - The [[Software as a ..."
     },
     "Maximum A Posteriori": {
         "2023-03-27": "[[Maximum A Posteriori]]",
@@ -5954,7 +5978,7 @@ export const backlinks = {
         "한국어": "한민족과 [[대한민국]]의 [[Native Language|모국어]]이다.",
         "한국의 입시와 거짓된 명예": "[[대한민국|한국]]의 입시가 물론 시간을 낭비하는 것은 ...",
         "한국인": "[[대한민국]]의 국적자이다. [[한민족]]과 다르다.",
-        "한국통사": "엄청난 Superbrain|지식인이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 몸부림을 서서히 하지만 고약하게 ...",
+        "한국통사": "... 나라는 망하지 않는다. 오호라, 지금의 [[대한민국|한국]]은 이미 백은 죽었다고 할 수 ...",
         "한민족": "한민족은 [[대한민국]]과 [[북한]]의 주류가 되는 민족으로,",
         "한민족의 동족상잔": "... 이영훈 전 서울대 교수를 비롯한 [[대한민국|한국]] 학자들은 노비가 양인과 결혼을 할 ...",
         "한민족의 멸종 방어": "Neo [[대한민국|Korea]]",
@@ -6108,7 +6132,7 @@ export const backlinks = {
         "Satori": "... existing solutions by using Vercel [[Edge]] Functions, [[WebAssembly]], and a brand ...",
         "Super App is a Universal Chat App": "... Economy, Closed vs. (fairly) Open, [[Edge]]-first [[AI]] vs. Cloud-first [[AI]], etc.",
         "WasmEdge": "WasmEdge: [[Edge]] for [[WebAssembly]]",
-        "dub.sh": "- Built with Vercel [[Edge]] Functions + Upstash Redis"
+        "dub.co": "- Built with Vercel [[Edge]] Functions + Upstash Redis"
     },
     "CBR vs VBR": {
         "Internetworking": "- [[CBR vs VBR]]"
@@ -6161,6 +6185,7 @@ export const backlinks = {
         "2023-08-24": "... 일들이 생긴다. 이번에 석사를 하면서 [[Computer Science|CS]] 3, 4학년 수업 조교를 하게 ...",
         "Are Computers Psychotropic Substances": "... bombs. Similarly, engineers attracted to [[computer science]] must not blindly support the ...",
         "Building a Second Brain": "... similar to Data Structures in [[Computer Science]].",
+        "Computational Linguistics": "Computational linguistics combines linguistics, [[computer science]], and [[AI|artificial intelligence]] to develop ...",
         "Computational Theory": "... to a branch of theoretical [[computer science]] that aims to understand, classify, ...",
         "Digital Addiction": "... new horizon of knowledge that [[Computer Science]] brings.",
         "LaTeX": "In [[computer science]], LaTeX is a software system ...",
@@ -6235,7 +6260,7 @@ export const backlinks = {
         "Satori": "... than existing solutions by using [[Vercel]] [[Edge]] Functions, [[WebAssembly]], and a ...",
         "Stories Behind Satori": "The [[Vercel]] team [[Dogfooding|dogfooded]] this for a ...",
         "Vercel Incident Report (April 2023)": "... this would cost $9,600 with [[Vercel]] and $2,017 in [[AWS]] CloudFront.",
-        "dub.sh": "- Built with [[Vercel]] [[Edge]] Functions + Upstash Redis",
+        "dub.co": "- Built with [[Vercel]] [[Edge]] Functions + Upstash Redis",
         "lovearc.net": "... much Image Proxy Bandwidth from [[Vercel]] that I turned off image ..."
     },
     "Wolfram Alpha": {
@@ -6580,6 +6605,7 @@ export const backlinks = {
         "2022-12-06": "- [[San Francisco]]",
         "Akzidenz": "- Akin to [[San Francisco|SF Pro]] and [[Inter]].",
         "Apple Newsroom 서체 따라하기": "## [[San Francisco]]를 사용하고 싶었다",
+        "Battle of Flow and Asana": "... me for a coffee in [[San Francisco]].",
         "Brunch violates SF terms of use": "... Terms of Use by using [[San Francisco|SF Pro]] as a [[Web Typography|Webfont]].",
         "Fast": "... Island — Back in 1935, [[San Francisco]] came up with a plan ...",
         "Font Features": "- [[San Francisco]], [[Inter]], and [[Pretendard]] has awesome ...",
@@ -7995,6 +8021,7 @@ export const backlinks = {
         "React App on GitHub Pages": "... the idea of publishing a [[React]] App on GitHub Pages. I ...",
         "React Native": "> [[React]] Native is an open-source [[UIUX|UI]] ...",
         "Real Exams": "- Get Job Done SQL, [[React]], [[Python]]",
+        "Redwood.js": "... The front-end is built with [[React]], a popular [[JavaScript]] library for ...",
         "Separation of Computer Scientists and Computer Technologists": "... can code a dang fantastic [[React]] shopping mall!",
         "Svelte": "... unlike traditional frameworks (such as [[React]] and Vue), which carry out ...",
         "WebGPU": "... TypeScript+Rust/WebAssembly|WASM library with its own [[React]]-like run-time. If you're familiar with ...",
@@ -8037,6 +8064,7 @@ export const backlinks = {
         "중국어": "[[중국]]",
         "중국인": "[[중국]]",
         "학자 및 직계 가족의 의료보장제": "특히 인도, [[중국]] 등에서 학자들이 [[United States of ...",
+        "한국통사": "... 진정시킬 수 있을 텐데 어찌 [[중국]]에 원병을 청했다는 말인가! 우리나라에서 구구하게 ...",
         "한민족": "[[중국]], [[United States of America|미국]], [[일본]] ...",
         "한민족의 동족상잔": "... States of America|미국 흑인노예나 혹은 [[중국]]과 [[일본]]에 있었던 노예보다는 자유로운 존재였다는 ...",
         "한반도": "한반도는 북쪽으로는 [[중국]], 북동쪽으로는 러시아와 국경을 접하고 있다.",
@@ -8511,6 +8539,11 @@ export const backlinks = {
         "Vector DB": "... used for Long-Term Memory for [[LLM|LLMs]].",
         "앰비언트 컴퓨팅을 향해": "## [[LLM]] 라이프로깅의 시작"
     },
+    "dub.co": {
+        "2022-09-29": "- [[dub.co]]",
+        "2022-12-26": "- [[dub.co]]",
+        "AGPL": "## [[dub.co]]"
+    },
     "Point-E": {
         "2022-12-27": "- [[Point-E]]"
     },
@@ -8818,7 +8851,7 @@ export const backlinks = {
         "Mathematics under The Library of Babel": "- Killed by the [[OS]] for using too much RAM",
         "Rauno": "- Resembles an [[OS]] with a magnifying dock at ...",
         "Virtual Address Space and Physical Address Space": "... memory is big enough, the [[OS]] uses the physical memory (RAM)",
-        "dub.sh": "... each link's clicks (incl. location, device/[[os]]) with airbnb/visx: 🐯 visx",
+        "dub.co": "... each link's clicks (incl. location, device/[[os]]) with airbnb/visx: 🐯 visx",
         "macOS": "... a proprietary, graphical operating system ([[OS]]) that powers [[Apple]]'s Mac computers. ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... Device 버튼을 누르면 다음과 같이 [[OS]]를 다운로드할 수 있는 창이 나타난다.",
         "앰비언트 컴퓨팅을 향해": "... 결론은 전용 기기를 만들거나, 스마트폰 [[OS]]에 네이티브하게 통합되는 일 밖에 없었다."
@@ -9194,6 +9227,7 @@ export const backlinks = {
     },
     "Stock": {
         "0121 Best Time to Buy and Sell Stock": "... the price of a given [[stock]] on the `ith` day.",
+        "Bloomberg Terminal": "... on multiple assets such as [[Stock|stocks]], bonds, currencies, and commodities. It ...",
         "Born of this Land - The Founding Story of Hyundai": "... the company, causing the company's [[stock]] price to be lower than ...",
         "Call Option": "... the right to buy a [[stock]] at a certain price before ...",
         "Employee Stock Purchase Program": "... you to buy your company's [[stock]] at a discount, usually 15%, ...",
@@ -9442,6 +9476,7 @@ export const backlinks = {
     },
     "Feature": {
         "2023-09-30": "The best [[feature]] of [[macOS]] Sonoma is the ...",
+        "Bloomberg Terminal": "The Bloomberg Terminal offers various [[Feature|features]], including financial market data, news, ...",
         "Daniele Romanini et al. PyVertical": "... that different entities own different [[Feature|features]] of the same dataset. Private ...",
         "Federated Transfer Learning": "... differ in their samples and [[feature]] space.",
         "Horizontal Federated Learning": "... points) but share the same [[feature]] set.",
@@ -9749,6 +9784,7 @@ export const backlinks = {
         "일본 과학기술 총력전": "... to 150 Years of Modern [[일본|Japan]]. The Bankruptcy of Science, Technology, ...",
         "일본어": "[[일본]] [[일본인]]",
         "젠리의 성공 공식": "... 관찰했다. 대만 대학에 유학 간 [[일본]] 학생들로부터 대만 전체로 앱이 퍼지는 ...",
+        "한국통사": "... 조정의 대신들은 결국 조금이라도 시원해보이는 [[일본]]을 파고들었다. 그 안에서 익어죽을 것을 ...",
         "한민족": "중국, United States of America|미국, [[일본]] 등에 많이 살고 있다.",
         "한민족의 동족상잔": "... of America|미국 흑인노예나 혹은 중국과 [[일본]]에 있었던 노예보다는 자유로운 존재였다는 점을 ...",
         "한반도": "... Strait separates the peninsula from [[일본|Japan]] to the southeast. The Korean ...",
@@ -9922,7 +9958,10 @@ export const backlinks = {
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... 다른 시도는 이미 충분히 있었다. [[곰단|나도 했었다.]] 하지만 틱톡만큼 매력적이고 중독성 있는 ..."
     },
     "Counting": {
-        "2023-01-24": "- [[Counting]]"
+        "0110 Balanced Binary Tree": "... to travel all nodes while [[counting]] their height with $O(n)$",
+        "2023-01-24": "- [[Counting]]",
+        "Service Shimming": "... a person inside a machine [[counting]] the money for you. The ...",
+        "Wolfram Alpha": "... corresponding equation without units; exclude [[counting]] units (e.g., books), include genuine ..."
     },
     "Playings": {
         "2023-03-24": "- [[Playings]]",
@@ -9945,6 +9984,9 @@ export const backlinks = {
     },
     "Accelerationism": {
         "Effective Accelerationism": "- [[Accelerationism]]"
+    },
+    "Heimdall Pro Open Alpha": {
+        "2023-10-31": "[[Heimdall Pro Open Alpha]]"
     },
     "Redirect": {
         "2022-09-17": "- [[Redirect]]",
@@ -9972,7 +10014,7 @@ export const backlinks = {
         "2023-04-06": "- [[AI로 변할 세상에 필요한 것]]"
     },
     "AGPL": {
-        "dub.sh": "  - [[AGPL]]"
+        "dub.co": "  - [[AGPL]]"
     },
     "Threads (Service)": {
         "2023-07-05": "[[Threads (Service)]] App is out! Sunghyun Cho ...",
@@ -10007,7 +10049,8 @@ export const backlinks = {
     },
     "Health": {
         "2023-08-30": "- [[Health]]",
-        "2023-08-31": "- [[Health]]"
+        "2023-08-31": "- [[Health]]",
+        "Cost of Engineering": "... company's overall budget and financial [[health]]. In general, it's critical for ..."
     },
     "Stirling Approximation": {
         "2023-01-26": "- [[Stirling Approximation]]"
@@ -10348,6 +10391,7 @@ export const backlinks = {
         "2023-07-16": "- [[Project Heimdall]]. Float UI - Free open ...",
         "2023-07-17": "- [[Project Heimdall]]",
         "2023-08-08": "[[Project Heimdall|Heimdall]]",
+        "2023-10-31": "... to update Docusaurus to 3.0. [[Project Heimdall|Heimdall]] updates OK, but [[Aldehyde]] gives ...",
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Heimdall]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Heimdall]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Heimdall]].",
@@ -10368,7 +10412,7 @@ export const backlinks = {
         "Animation": "### [[Framer Motion]]",
         "Dynamic Island on the Web": "- Applied Quick Clipping with [[Framer Motion]] for performance",
         "Framer": "- Creator of [[Framer Motion]]",
-        "dub.sh": "  - [[Framer Motion|Framer Animation]]"
+        "dub.co": "  - [[Framer Motion|Framer Animation]]"
     },
     "QA.json": {
         "2023-05-17": "... got an interesting AIs.txt proposal: [[QA.json]]"
@@ -10739,7 +10783,7 @@ export const backlinks = {
         "Tools Must Vanish": "... across your filesystem, Dropbox, and [[database]] rows in six different proprietary ...",
         "UUID": "... rows of data within a [[database]] table, where each row is ...",
         "Vector DB": "... lang=\"en\" dir=\"ltr\">Google killing all vector [[Database|db]] startups lmao <a href=\"https://t.co/CR0kD3eekD\">pic.twitter.com/CR0kD3eekD</a></p>&mdash; Techno-Dharma ...",
-        "dub.sh": "  - upstash [[database]]",
+        "dub.co": "  - upstash [[database]]",
         "henrymakesapps": "4. Supabase. Offers an easy-to-use [[database]] with PostgreSQL and type-injected clients.",
         "hn.cho.sh 개발 기록": "- 결국 [[Database|DB]] 기반으로 옮겨가야하는 것은 맞다. SPA ...",
         "데이터베이스권": "... 크롤링 분쟁이 늘어나는 가운데 법원이 '[[Database|데이터베이스]] ([[Database|DB]]) 권' 침해에 대해 엄격하게 ...",
@@ -11201,6 +11245,9 @@ export const backlinks = {
     "99EE18.png": {
         "2023-01-27": "![[99EE18.png]]"
     },
+    "A2CE1D.png": {
+        "2023-10-31": "![[A2CE1D.png]]"
+    },
     "1ED417.jpeg": {
         "2022-07-06": "- Merged! ![[1ED417.jpeg]]"
     },
@@ -11321,12 +11368,6 @@ export const backlinks = {
     },
     "4D2169.png": {
         "민사고와 쇼비니즘": "![[4D2169.png]]"
-    },
-    "31D530.png": {
-        "dub.sh": "![[31D530.png]]"
-    },
-    "D17CFC.png": {
-        "dub.sh": "![[D17CFC.png]]"
     },
     "FEA35E.png": {
         "Unchained Bing": "![[FEA35E.png]]"
@@ -12824,6 +12865,12 @@ export const backlinks = {
     },
     "Barbie": {
         "Watchings": "- [[Barbie]]"
+    },
+    "31D530.png": {
+        "dub.co": "![[31D530.png]]"
+    },
+    "D17CFC.png": {
+        "dub.co": "![[D17CFC.png]]"
     },
     "76BD99.png": {
         "Prompt Marketplace": "![[76BD99.png]]"
