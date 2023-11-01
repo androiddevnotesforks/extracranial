@@ -3300,7 +3300,7 @@ export const backlinks = {
         "2022-08-10": "- [[Optimistic Nihilism]]"
     },
     "KMLA Online": {
-        "2023-10-31": "[[KMLA Online]]",
+        "2023-10-31": "- [[KMLA Online]]",
         "민사고 앱": "... 이후에도 수많은 시도가 있었다. 민사고에는 [[KMLA Online]]이라는 인트라넷이 있는데, 처음에는 거기에 합류해서 ..."
     },
     "De Morgan Law": {
@@ -9986,7 +9986,8 @@ export const backlinks = {
         "Effective Accelerationism": "- [[Accelerationism]]"
     },
     "Heimdall Pro Open Alpha": {
-        "2023-10-31": "[[Heimdall Pro Open Alpha]]"
+        "2023-10-31": "- [[Heimdall Pro Open Alpha]]",
+        "2023-11-01": "- [[Heimdall Pro Open Alpha]]"
     },
     "Redirect": {
         "2022-09-17": "- [[Redirect]]",
