@@ -2175,6 +2175,8 @@ export const backlinks = {
         "2023-10-18": "- [[Project Malmantile]]",
         "2023-10-22": "- [[Project Malmantile]]",
         "2023-10-26": "- [[Project Malmantile]]",
+        "2023-10-28": "- [[Project Malmantile]]",
+        "2023-10-29": "[[Project Malmantile]]",
         "Project Fiesole": "Superseded by anaclumos/malmantile [[Project Malmantile]]",
         "Project Florence": "- [[Project Malmantile]]"
     },
@@ -11498,29 +11500,38 @@ export const backlinks = {
     "F6FFBC.png": {
         "Project Fiesole": "- ![[F6FFBC.png]]"
     },
-    "FC9A54.png": {
-        "Project Malmantile": "![[FC9A54.png]]"
+    "69EB87.png": {
+        "Project Malmantile": "![[69EB87.png]]"
     },
-    "48A860.png": {
-        "Project Malmantile": "![[48A860.png]]"
+    "678078.png": {
+        "Project Malmantile": "![[678078.png]]"
     },
-    "C9D658.png": {
-        "Project Malmantile": "![[C9D658.png]]"
+    "1A7FA1.png": {
+        "Project Malmantile": "![[1A7FA1.png]]"
     },
-    "E9BBF9.png": {
-        "Project Malmantile": "![[E9BBF9.png]]"
+    "59886D.png": {
+        "Project Malmantile": "![[59886D.png]]"
     },
-    "10E084.png": {
-        "Project Malmantile": "![[10E084.png]]"
+    "803F4A.png": {
+        "Project Malmantile": "![[803F4A.png]]"
     },
-    "A0705F.png": {
-        "Project Malmantile": "![[A0705F.png]]"
+    "27804D.png": {
+        "Project Malmantile": "![[27804D.png]]"
     },
-    "D5D8B8.png": {
-        "Project Malmantile": "![[D5D8B8.png]]"
+    "5E20D4.png": {
+        "Project Malmantile": "![[5E20D4.png]]"
     },
-    "65C5FE.png": {
-        "Project Malmantile": "![[65C5FE.png]]"
+    "A8DD8E.png": {
+        "Project Malmantile": "![[A8DD8E.png]]"
+    },
+    "4B7913.png": {
+        "Project Malmantile": "![[4B7913.png]]"
+    },
+    "CABECF.png": {
+        "Project Malmantile": "![[CABECF.png]]"
+    },
+    "26FE23.png": {
+        "Project Malmantile": "![[26FE23.png]]"
     },
     "B9AA95.png": {
         "Web Graphics": "![[B9AA95.png]]"
