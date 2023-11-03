@@ -9378,6 +9378,9 @@ export const backlinks = {
         "Neural Engine": "... ANE) is a type of [[NPU]], which stands for Neural Processing ...",
         "WebNPU API를 상상하다": "만약 이걸 [[NPU]]에도 똑같이 할 수 있다면 어떨까?"
     },
+    "Python Multiprocessing": {
+        "2023-11-02": "[[Python Multiprocessing]]"
+    },
     "Small yet Powerful": {
         "10x": "- [[Small yet Powerful]]",
         "10x Technologist": "... an exceptionally skilled and productive, [[small yet powerful]] group of software developers. It ...",
