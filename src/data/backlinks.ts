@@ -1904,6 +1904,7 @@ export const backlinks = {
         "2023-10-04": "- [[Project Florence]]",
         "Project": "- [[Project Florence]] and its subprojects",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
+        "Project Impruneta": "Impruneta is a subproject of [[Project Florence]]. Supercedes [[Project Malmantile]]",
         "Project Malmantile": "Malmantile is a subproject of [[Project Florence]]. Supercedes [[Project Fiesole]]"
     },
     "Believer Plan": {
@@ -2185,8 +2186,10 @@ export const backlinks = {
         "2023-10-26": "- [[Project Malmantile]]",
         "2023-10-28": "- [[Project Malmantile]]",
         "2023-10-29": "[[Project Malmantile]]",
+        "2023-11-03": "- [[Project Malmantile]]",
         "Project Fiesole": "Superseded by anaclumos/malmantile [[Project Malmantile]]",
-        "Project Florence": "- [[Project Malmantile]]"
+        "Project Florence": "- [[Project Malmantile]]",
+        "Project Impruneta": "... subproject of Project Florence. Supercedes [[Project Malmantile]]"
     },
     "Tailwind": {
         "2022-11-29": "- [[Tailwind]]",
@@ -5018,6 +5021,10 @@ export const backlinks = {
         "Vertex Buffer": "... pass instructions from CPU to [[GPU]].",
         "WebGPU": "- Use.[[GPU]] is a set of declarative, ...",
         "WebNPU API를 상상하다": "... 12, Metal, Vulkan과 같은 현대 [[GPU]] 기능에 접근할 수 있는 API이다."
+    },
+    "Project Impruneta": {
+        "2023-11-03": "- [[Project Impruneta]]",
+        "Project Malmantile": "Superceded by [[Project Impruneta]]"
     },
     "Clock skew detected": {
         "Internetworking": "- [[Clock skew detected]]"
@@ -9631,7 +9638,8 @@ export const backlinks = {
     },
     "Towns in Florence": {
         "2023-10-03": "- [[Towns in Florence]]",
-        "2023-10-04": "- [[Towns in Florence]]"
+        "2023-10-04": "- [[Towns in Florence]]",
+        "2023-11-03": "- [[Towns in Florence]]"
     },
     "Engine Equation (Metapage)": {
         "2023-03-06": "- [[Engine Equation (Metapage)]]",
