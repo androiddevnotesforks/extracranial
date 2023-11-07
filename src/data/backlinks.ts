@@ -234,6 +234,9 @@ export const backlinks = {
         "Safari is the new Internet Explorer": "  - At least [[2022-12-28]] now they do: Sending web ...",
         "하늘땅사람 개발 기록": "## [[2022-12-28]]"
     },
+    "2023-11-06": {
+        "Project Heimdall": "## [[2023-11-06]]"
+    },
     "2023-02-20": {
         "기술 발전의 속도": "[[2023-02-20]]에 작성한 에세이"
     },
@@ -309,6 +312,9 @@ export const backlinks = {
         "0002 Add Two Numbers": "Solved at: [[2022-08-27]]",
         "0199 Binary Tree Right Side View": "Solved at: [[2022-08-27]]",
         "1448 Count Good Nodes in Binary Tree": "Solved at: [[2022-08-27]]"
+    },
+    "2023-11-03": {
+        "Project Heimdall": "## [[2023-11-03]]"
     },
     "2020-09-24": {
         "프로젝트 어덕행덕": "## [[2020-09-24]]의 메모"
@@ -4942,6 +4948,9 @@ export const backlinks = {
         "Search in a Latent Space": "- [[Generative AI]]",
         "Tome": "Create presentation decks with [[Generative AI]]."
     },
+    "i18n with Next.js": {
+        "2023-11-06": "- [[i18n with Next.js]]"
+    },
     "Stable Diffusion": {
         "2022-11-29": "### [[Stable Diffusion]]",
         "2022-12-17": "... like Generative Pre-trained Transformer|GPT or [[Stable Diffusion]]... it just blows my mind. ...",
@@ -9394,6 +9403,7 @@ export const backlinks = {
         "10x Technopreneurs": "10x technoprenuers are [[Small yet Powerful]] people those who qualify as ...",
         "2022-10-27": "- [[Small yet Powerful]]",
         "2023-05-02": "... 있는 것과 완벽하게 합치한다. 나는 [[Small yet Powerful|강소]]기업을 만들고 싶다. 대기업이 아니라. [[Antipreneur|강소기업가]]가 ...",
+        "2023-11-03": "- [[Small yet Powerful]]",
         "Antipreneur": "- 강기업이 목표다. 가급적이면 [[Small yet Powerful|강소기업]].",
         "Cut the Fat": "- [[Small yet Powerful]]",
         "Era of Invites": "... software companies are primarily elite [[Small yet Powerful|small yet mighty]] teams. So why don't big ...",
@@ -9693,6 +9703,10 @@ export const backlinks = {
         "Normal Tables": "... table, also known as a [[standard normal]] table or a z-table, is ...",
         "Q Function": "... the tail probability of the [[standard normal]] [[distribution]], also known as the ..."
     },
+    "Super Mario Wonder": {
+        "2023-11-06": "[[Super Mario Wonder]] 다 했다 !!!",
+        "Playings": "- [[Super Mario Wonder]]"
+    },
     "도로명주소": {
         "2023-06-12": "- [[도로명주소]]"
     },
@@ -9977,7 +9991,8 @@ export const backlinks = {
     "Playings": {
         "2023-03-24": "- [[Playings]]",
         "2023-04-15": "- [[Playings]]",
-        "2023-04-30": "- [[Playings]]"
+        "2023-04-30": "- [[Playings]]",
+        "2023-11-06": "- [[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
@@ -10404,6 +10419,8 @@ export const backlinks = {
         "2023-07-17": "- [[Project Heimdall]]",
         "2023-08-08": "[[Project Heimdall|Heimdall]]",
         "2023-10-31": "... to update Docusaurus to 3.0. [[Project Heimdall|Heimdall]] updates OK, but [[Aldehyde]] gives ...",
+        "2023-11-03": "- [[Project Heimdall|Heimdall]]",
+        "2023-11-06": "- [[Project Heimdall|Heimdall]]",
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Heimdall]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Heimdall]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Heimdall]].",
@@ -10940,6 +10957,13 @@ export const backlinks = {
     },
     "642AA0.gif": {
         "2023-06-21": "![[642AA0.gif]]"
+    },
+    "893D53.png": {
+        "2023-11-06": "![[893D53.png]]"
+    },
+    "28B122.jpg": {
+        "2023-11-06": "![[28B122.jpg]]",
+        "Super Mario Wonder": "![[28B122.jpg]]"
     },
     "6DA217.png": {
         "2023-09-08": "![[6DA217.png]]",
@@ -13093,6 +13117,21 @@ export const backlinks = {
     },
     "3E4C69.png": {
         "Amie": "![[3E4C69.png]]"
+    },
+    "3BB27E.jpg": {
+        "Super Mario Wonder": "![[3BB27E.jpg]]"
+    },
+    "EC875D.jpg": {
+        "Super Mario Wonder": "![[EC875D.jpg]]"
+    },
+    "32928B.jpg": {
+        "Super Mario Wonder": "![[32928B.jpg]]"
+    },
+    "4C98CF.jpg": {
+        "Super Mario Wonder": "![[4C98CF.jpg]]"
+    },
+    "A0A843.jpg": {
+        "Super Mario Wonder": "![[A0A843.jpg]]"
     },
     "CCF7CC.png": {
         "SVB Debacle": "![[CCF7CC.png]]"
