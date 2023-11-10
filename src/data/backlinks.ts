@@ -2054,9 +2054,6 @@ export const backlinks = {
         "한민족": "한민족은 대한민국과 [[북한]]의 주류가 되는 민족으로,",
         "한반도": "... in East Asia shared by [[북한|North]] and [[대한민국|South Korea]]. The peninsula ..."
     },
-    "Wayfinding AI Pin": {
-        "2023-11-09": "- [[Wayfinding AI Pin]]"
-    },
     "Stephan Ango": {
         "2022-10-19": "- [[Stephan Ango]]",
         "2022-10-21": "- [[Stephan Ango]]. also created [[Obsidian]] Minimal Settings.",
@@ -2644,6 +2641,7 @@ export const backlinks = {
         "Replicating Balenciaga Harry Potter Advertisement": "... character design, voice generation, and [[animation]].",
         "Ridi": "... service into webcomic, web novel, [[animation]], etc.",
         "SVG": "... two-dimensional graphics, supporting interactivity, and [[animation]]. The SVG specification is an ...",
+        "Wayfinding with AI Pin": "### [[Animation|Animations]] and haptics",
         "glTF": "... appearance, scene graph hierarchy, and [[animation]]. It is intended to be ...",
         "jQuery": "... and manipulation, event handling, and [[animation]] much simpler with an easy-to-use ..."
     },
@@ -3179,6 +3177,7 @@ export const backlinks = {
         "Toss Product Sans": "... 쉼표, 더하기, 빼기, 화살표 등 [[UIUX|UI]] 요소로 활용되는 기호들의 가독성을 높여, ...",
         "UI AI": "- an [[UIUX]] experiment.",
         "Virtual DOM": "... the end being declarative, state-driven [[UIUX|UI]] development. Virtual DOM is valuable ...",
+        "Wayfinding with AI Pin": "... guidelines for positioning and scaling [[UIUX|UI]] elements.",
         "날씨 요정": "[[UIUX]]",
         "배달의민족 FE 개발자가 일하는 법 Q&A": "## Q. Front-end|프론트엔드 개발자가 [[UIUX|UI]]나 [[UIUX|UX]]에 대한 아이디어가 있다면 이를 ...",
         "빙글": "## [[UIUX|UI]]의 변경",
@@ -4224,6 +4223,7 @@ export const backlinks = {
         "Rauno": "- [[Case Study]]",
         "SVB Debacle": "... will look like the WaMu [[case study]].",
         "Tailwind CSS 톺아보기": "### 2\\. [[Case Study]] Card",
+        "Wayfinding with AI Pin": "[[Case Study]] of [[Humane Ai Pin]]",
         "당근미니 케이스 스터디": "Karrot|당근Mini App|미니 Console [[Case Study|케이스 스터디]]"
     },
     "CBOR": {
@@ -5597,7 +5597,8 @@ export const backlinks = {
     },
     "Iterative and Incremental Development": {
         "Project Core ML Foundation": "- [[Iterative and Incremental Development|Iterative]] DFS: Run DFS with level ...",
-        "Toss Product Sans": "- [[Iterative and Incremental Development|반복적 개발]]"
+        "Toss Product Sans": "- [[Iterative and Incremental Development|반복적 개발]]",
+        "Wayfinding with AI Pin": "### [[Iterative and Incremental Development|Iterative]] prototyping"
     },
     "Cache Conscious Programming": {
         "2022-11-04": "- [[Cache Conscious Programming]]"
@@ -6042,6 +6043,10 @@ export const backlinks = {
     },
     "0002 Add Two Numbers": {
         "Coding Tests": "- [[0002 Add Two Numbers]]"
+    },
+    "Accessing Remote Jupyter Notebooks and Setting Up GPUs at USC ISI": {
+        "2023-11-09": "- [[Accessing Remote Jupyter Notebooks and Setting Up GPUs at USC ISI]]",
+        "2023-11-10": "- [[Accessing Remote Jupyter Notebooks and Setting Up GPUs at USC ISI]]"
     },
     "Static (Computer Systems)": {
         "2022-12-08": "- [[Static (Computer Systems)]]",
@@ -8555,9 +8560,6 @@ export const backlinks = {
         "postcredit.info": "- Permalink for [[Search Engine Optimization|SEO]]",
         "sitemap.xml": "... crawl-ability, facilitates indexing, and enhances [[Search Engine Optimization|SEO]] by ensuring all pages are ..."
     },
-    "USC ISI Machine Learning GPU Server Guide": {
-        "2023-11-09": "- [[USC ISI Machine Learning GPU Server Guide]]"
-    },
     "LLM": {
         "2022-11-14": "... Generative Intelligence. LLMs for Code: [[LLM|LLMs]]",
         "2022-12-17": "... I see something made with [[LLM]] like [[Generative Pre-trained Transformer|GPT]] or ...",
@@ -8791,6 +8793,10 @@ export const backlinks = {
     "Ruby": {
         "Higher-Level Languages and Their Speeds": "## [[Ruby]]",
         "Render.com": "... various programming languages such as [[Ruby]], PHP, [[Python]], Node, and [[Java]]."
+    },
+    "Wayfinding with AI Pin": {
+        "2023-11-09": "- [[Wayfinding with AI Pin]]",
+        "2023-11-10": "- [[Wayfinding with AI Pin]]"
     },
     "Covariance": {
         "Probability": "- [[Covariance]]"
@@ -9175,6 +9181,9 @@ export const backlinks = {
     "Fediverse": {
         "2022-11-30": "- The [[Fediverse]] is designed for subsidiarity. People ...",
         "Threads (Service)": "... significant contributor would be the [[Fediverse]]. If they can interoperate with ..."
+    },
+    "Humane Ai Pin": {
+        "Wayfinding with AI Pin": "Case Study of [[Humane Ai Pin]]"
     },
     "Turing Machine": {
         "Assembly": "It follows how [[Turing Machine]]s would work in the real ...",
@@ -11532,27 +11541,6 @@ export const backlinks = {
     "EC7EEF.png": {
         "Python": "![[EC7EEF.png]]"
     },
-    "8CE4FB.gif": {
-        "Wayfinding AI Pin": "![[8CE4FB.gif]]"
-    },
-    "FB5B85.gif": {
-        "Wayfinding AI Pin": "![[FB5B85.gif]]"
-    },
-    "B47ACF.gif": {
-        "Wayfinding AI Pin": "![[B47ACF.gif]]"
-    },
-    "DEE740.gif": {
-        "Wayfinding AI Pin": "![[DEE740.gif]]"
-    },
-    "308AC8.gif": {
-        "Wayfinding AI Pin": "![[308AC8.gif]]"
-    },
-    "242382.gif": {
-        "Wayfinding AI Pin": "![[242382.gif]]"
-    },
-    "402F83.gif": {
-        "Wayfinding AI Pin": "![[402F83.gif]]"
-    },
     "D65958.png": {
         "Beehiiv": "![[D65958.png]]",
         "hn.cho.sh 개발 기록": "![[D65958.png]]"
@@ -12960,6 +12948,39 @@ export const backlinks = {
     "A01C1B.png": {
         "Hashflags": "![[A01C1B.png]]"
     },
+    "6A21D1.png": {
+        "Wayfinding with AI Pin": "![[6A21D1.png]]"
+    },
+    "A8FEC4.png": {
+        "Wayfinding with AI Pin": "![[A8FEC4.png]]"
+    },
+    "F7D97E.png": {
+        "Wayfinding with AI Pin": "![[F7D97E.png]]"
+    },
+    "FB5B85.gif": {
+        "Wayfinding with AI Pin": "![[FB5B85.gif]]"
+    },
+    "4CD57A.png": {
+        "Wayfinding with AI Pin": "![[4CD57A.png]]"
+    },
+    "DEE740.gif": {
+        "Wayfinding with AI Pin": "![[DEE740.gif]]"
+    },
+    "8CE4FB.gif": {
+        "Wayfinding with AI Pin": "![[8CE4FB.gif]]"
+    },
+    "B47ACF.gif": {
+        "Wayfinding with AI Pin": "![[B47ACF.gif]]"
+    },
+    "308AC8.gif": {
+        "Wayfinding with AI Pin": "![[308AC8.gif]]"
+    },
+    "402F83.gif": {
+        "Wayfinding with AI Pin": "![[402F83.gif]]"
+    },
+    "242382.gif": {
+        "Wayfinding with AI Pin": "![[242382.gif]]"
+    },
     "9BB870.png": {
         "Dynamic Viewport Units": "![[9BB870.png]]"
     },
@@ -13046,6 +13067,15 @@ export const backlinks = {
     },
     "57FF25.png": {
         "Grammarly Work Note 2023-05-25": "![[57FF25.png]]"
+    },
+    "3EED5E.png": {
+        "Humane Ai Pin": "![[3EED5E.png]]"
+    },
+    "1A19E9.png": {
+        "Humane Ai Pin": "![[1A19E9.png]]"
+    },
+    "57312D.png": {
+        "Humane Ai Pin": "![[57312D.png]]"
     },
     "123AA1.png": {
         "Aldehyde Outage (January 2023)": "![[123AA1.png]]"
