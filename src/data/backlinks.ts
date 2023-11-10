@@ -57,6 +57,9 @@ export const backlinks = {
     "2016-11-28": {
         "아웃 오브 사이트가 항상 사람을 멀게 하는 것은 아닙니다": "[[2016-11-28]]에 게재된 [[재학생일기]]이다."
     },
+    "2023-11-08": {
+        "Project Ganymede": "## [[2023-11-08]]"
+    },
     "2021-08-15": {
         "Mapping keys to set different input languages on macOS": "[[2021-08-15]]"
     },
@@ -760,6 +763,9 @@ export const backlinks = {
     },
     "ELF": {
         "Link (Computer Systems)": "Linux uses [[ELF]]"
+    },
+    "document.designMode": {
+        "2023-11-08": "[[document.designMode]]"
     },
     "Dilemmas of Free stuffs": {
         "2023-05-02": "- [[Dilemmas of Free stuffs]]",
@@ -2048,6 +2054,9 @@ export const backlinks = {
         "한민족": "한민족은 대한민국과 [[북한]]의 주류가 되는 민족으로,",
         "한반도": "... in East Asia shared by [[북한|North]] and [[대한민국|South Korea]]. The peninsula ..."
     },
+    "Wayfinding AI Pin": {
+        "2023-11-09": "- [[Wayfinding AI Pin]]"
+    },
     "Stephan Ango": {
         "2022-10-19": "- [[Stephan Ango]]",
         "2022-10-21": "- [[Stephan Ango]]. also created [[Obsidian]] Minimal Settings.",
@@ -3333,6 +3342,9 @@ export const backlinks = {
         "2023-03-18": "- [[Dear AIs, I have a question.]]. [[Generalist]]",
         "Generalist": "- A potential answer to [[Dear AIs, I have a question.]]"
     },
+    "Download All Videos in a Page": {
+        "2023-11-09": "- [[Download All Videos in a Page]]"
+    },
     "In-house and Free Market": {
         "2022-12-24": "- [[In-house and Free Market]]. Can independent scientists ever win ...",
         "2023-02-22": "- [[In-house and Free Market]]",
@@ -3426,6 +3438,9 @@ export const backlinks = {
     },
     "Modern MacPaint": {
         "Diagram (Company)": "- Creator of [[Modern MacPaint]]"
+    },
+    "Stitch Images": {
+        "2023-11-09": "- [[Stitch Images]]"
     },
     "본디는 사실 혜성이 아니다": {
         "2023-02-13": "- [[본디는 사실 혜성이 아니다]]",
@@ -3942,6 +3957,7 @@ export const backlinks = {
         "2023-10-16": "[[Project Ganymede]]",
         "2023-10-19": "- [[Project Ganymede]]",
         "2023-10-20": "- [[Project Ganymede]]",
+        "2023-11-08": "[[Project Ganymede]]",
         "Project": "- [[Project Ganymede]]"
     },
     "서당개 3년이면 풍월을 읊는다": {
@@ -8539,6 +8555,9 @@ export const backlinks = {
         "postcredit.info": "- Permalink for [[Search Engine Optimization|SEO]]",
         "sitemap.xml": "... crawl-ability, facilitates indexing, and enhances [[Search Engine Optimization|SEO]] by ensuring all pages are ..."
     },
+    "USC ISI Machine Learning GPU Server Guide": {
+        "2023-11-09": "- [[USC ISI Machine Learning GPU Server Guide]]"
+    },
     "LLM": {
         "2022-11-14": "... Generative Intelligence. LLMs for Code: [[LLM|LLMs]]",
         "2022-12-17": "... I see something made with [[LLM]] like [[Generative Pre-trained Transformer|GPT]] or ...",
@@ -10443,6 +10462,9 @@ export const backlinks = {
         "Framer": "- Creator of [[Framer Motion]]",
         "dub.co": "  - [[Framer Motion|Framer Animation]]"
     },
+    "Video to GIF": {
+        "2023-11-09": "- [[Video to GIF]]"
+    },
     "QA.json": {
         "2023-05-17": "... got an interesting AIs.txt proposal: [[QA.json]]"
     },
@@ -10927,9 +10949,9 @@ export const backlinks = {
         "2022-10-16": "![[5FB7C1.png]]",
         "Backlinking for Aldehyde": "![[5FB7C1.png]]"
     },
-    "AA04D0.mp4": {
-        "2022-10-16": "![[AA04D0.mp4]]",
-        "Dynamic Island on the Web": "![[AA04D0.mp4]]"
+    "AA04D0.gif": {
+        "2022-10-16": "![[AA04D0.gif]]",
+        "Dynamic Island on the Web": "![[AA04D0.gif]]"
     },
     "885554.png": {
         "2023-10-16": "![[885554.png]]",
@@ -10986,41 +11008,41 @@ export const backlinks = {
         "Love Wikipedia": "![[94861D.png]]",
         "Wikipedia": "![[94861D.png]]"
     },
-    "1c6908.mp4": {
-        "2023-06-01": "![[1c6908.mp4]]"
+    "1c6908.gif": {
+        "2023-06-01": "![[1c6908.gif]]"
     },
-    "2e4ae2.mp4": {
-        "2023-06-01": "![[2e4ae2.mp4]]"
+    "2e4ae2.gif": {
+        "2023-06-01": "![[2e4ae2.gif]]"
     },
-    "3c1863.mp4": {
-        "2023-06-01": "![[3c1863.mp4]]"
+    "3c1863.gif": {
+        "2023-06-01": "![[3c1863.gif]]"
     },
-    "3e6349.mp4": {
-        "2023-06-01": "![[3e6349.mp4]]"
+    "3e6349.gif": {
+        "2023-06-01": "![[3e6349.gif]]"
     },
-    "5a8157.mp4": {
-        "2023-06-01": "![[5a8157.mp4]]"
+    "5a8157.gif": {
+        "2023-06-01": "![[5a8157.gif]]"
     },
-    "5be90a.mp4": {
-        "2023-06-01": "![[5be90a.mp4]]"
+    "5be90a.gif": {
+        "2023-06-01": "![[5be90a.gif]]"
     },
-    "5c1df3.mp4": {
-        "2023-06-01": "![[5c1df3.mp4]]"
+    "5c1df3.gif": {
+        "2023-06-01": "![[5c1df3.gif]]"
     },
-    "39f935.mp4": {
-        "2023-06-01": "![[39f935.mp4]]"
+    "39f935.gif": {
+        "2023-06-01": "![[39f935.gif]]"
     },
-    "2096df.mp4": {
-        "2023-06-01": "![[2096df.mp4]]"
+    "2096df.gif": {
+        "2023-06-01": "![[2096df.gif]]"
     },
-    "170004.mp4": {
-        "2023-06-01": "![[170004.mp4]]"
+    "170004.gif": {
+        "2023-06-01": "![[170004.gif]]"
     },
-    "c2563c.mp4": {
-        "2023-06-01": "![[c2563c.mp4]]"
+    "c2563c.gif": {
+        "2023-06-01": "![[c2563c.gif]]"
     },
-    "f6bb1b.mp4": {
-        "2023-06-01": "![[f6bb1b.mp4]]"
+    "f6bb1b.gif": {
+        "2023-06-01": "![[f6bb1b.gif]]"
     },
     "30ADF3.png": {
         "2023-04-15": "![[30ADF3.png]]"
@@ -11081,45 +11103,45 @@ export const backlinks = {
     "B22093.png": {
         "2022-06-27": "![[B22093.png]]"
     },
-    "5A3846.mp4": {
-        "2022-11-10": "![[5A3846.mp4]]",
-        "Dynamic Island on the Web": "![[5A3846.mp4]]"
+    "5A3846.gif": {
+        "2022-11-10": "![[5A3846.gif]]",
+        "Dynamic Island on the Web": "![[5A3846.gif]]"
     },
-    "CCDCB3.mp4": {
-        "2022-11-10": "![[CCDCB3.mp4]]",
-        "Dynamic Island on the Web": "![[CCDCB3.mp4]]"
+    "CCDCB3.gif": {
+        "2022-11-10": "![[CCDCB3.gif]]",
+        "Dynamic Island on the Web": "![[CCDCB3.gif]]"
     },
-    "289F7E.mp4": {
-        "2022-11-10": "![[289F7E.mp4]]",
-        "Dynamic Island on the Web": "![[289F7E.mp4]]"
+    "289F7E.gif": {
+        "2022-11-10": "![[289F7E.gif]]",
+        "Dynamic Island on the Web": "![[289F7E.gif]]"
     },
-    "926E3C.mp4": {
-        "2022-11-10": "![[926E3C.mp4]]",
-        "Dynamic Island on the Web": "![[926E3C.mp4]]"
+    "926E3C.gif": {
+        "2022-11-10": "![[926E3C.gif]]",
+        "Dynamic Island on the Web": "![[926E3C.gif]]"
     },
-    "529667.mp4": {
-        "2022-11-10": "![[529667.mp4]]",
-        "Dynamic Island on the Web": "![[529667.mp4]]"
+    "529667.gif": {
+        "2022-11-10": "![[529667.gif]]",
+        "Dynamic Island on the Web": "![[529667.gif]]"
     },
-    "332758.mp4": {
-        "2022-11-10": "![[332758.mp4]]",
-        "Dynamic Island on the Web": "![[332758.mp4]]"
+    "332758.gif": {
+        "2022-11-10": "![[332758.gif]]",
+        "Dynamic Island on the Web": "![[332758.gif]]"
     },
-    "699391.mp4": {
-        "2022-11-10": "![[699391.mp4]]",
-        "Dynamic Island on the Web": "![[699391.mp4]]"
+    "699391.gif": {
+        "2022-11-10": "![[699391.gif]]",
+        "Dynamic Island on the Web": "![[699391.gif]]"
     },
-    "737F76.mp4": {
-        "2022-11-10": "![[737F76.mp4]]",
-        "Dynamic Island on the Web": "![[737F76.mp4]]"
+    "737F76.gif": {
+        "2022-11-10": "![[737F76.gif]]",
+        "Dynamic Island on the Web": "![[737F76.gif]]"
     },
-    "CDE11C.mp4": {
-        "2022-11-10": "![[CDE11C.mp4]]",
-        "Dynamic Island on the Web": "![[CDE11C.mp4]]"
+    "CDE11C.gif": {
+        "2022-11-10": "![[CDE11C.gif]]",
+        "Dynamic Island on the Web": "![[CDE11C.gif]]"
     },
-    "D0A35A.mp4": {
-        "2022-11-10": "![[D0A35A.mp4]]",
-        "Dynamic Island on the Web": "![[D0A35A.mp4]]"
+    "D0A35A.gif": {
+        "2022-11-10": "![[D0A35A.gif]]",
+        "Dynamic Island on the Web": "![[D0A35A.gif]]"
     },
     "FB4548.png": {
         "2023-05-19": "![[FB4548.png]]"
@@ -11175,17 +11197,17 @@ export const backlinks = {
         "2022-11-11": "![[D09A61.png]]",
         "Dynamic Island on the Web": "![[D09A61.png]]"
     },
-    "EAC31F.mp4": {
-        "2022-11-11": "![[EAC31F.mp4]]",
-        "Dynamic Island on the Web": "![[EAC31F.mp4]]"
+    "EAC31F.gif": {
+        "2022-11-11": "![[EAC31F.gif]]",
+        "Dynamic Island on the Web": "![[EAC31F.gif]]"
     },
-    "A2A1AF.mp4": {
-        "2022-11-11": "![[A2A1AF.mp4]]",
-        "Dynamic Island on the Web": "![[A2A1AF.mp4]]"
+    "A2A1AF.gif": {
+        "2022-11-11": "![[A2A1AF.gif]]",
+        "Dynamic Island on the Web": "![[A2A1AF.gif]]"
     },
-    "FA5FEC.mp4": {
-        "2022-11-11": "![[FA5FEC.mp4]]",
-        "Dynamic Island on the Web": "![[FA5FEC.mp4]]"
+    "FA5FEC.gif": {
+        "2022-11-11": "![[FA5FEC.gif]]",
+        "Dynamic Island on the Web": "![[FA5FEC.gif]]"
     },
     "E8341D.png": {
         "2023-02-08": "![[E8341D.png]]"
@@ -11202,9 +11224,9 @@ export const backlinks = {
     "6343BC.png": {
         "2023-04-29": "![[6343BC.png]]"
     },
-    "E91526.mp4": {
-        "2022-10-20": "![[E91526.mp4]]",
-        "Dynamic Island on the Web": "![[E91526.mp4]]"
+    "E91526.gif": {
+        "2022-10-20": "![[E91526.gif]]",
+        "Dynamic Island on the Web": "![[E91526.gif]]"
     },
     "0335E4.jpeg": {
         "2022-10-14": "![[0335E4.jpeg]]"
@@ -11215,9 +11237,9 @@ export const backlinks = {
     "D8D74F.png": {
         "2022-10-14": "![[D8D74F.png]]"
     },
-    "EAADF1.mp4": {
-        "2023-01-02": "![[EAADF1.mp4]]",
-        "하늘땅사람 개발 기록": "![[EAADF1.mp4]]"
+    "EAADF1.gif": {
+        "2023-01-02": "![[EAADF1.gif]]",
+        "하늘땅사람 개발 기록": "![[EAADF1.gif]]"
     },
     "E13484.png": {
         "2022-12-20": "![[E13484.png]]"
@@ -11310,9 +11332,9 @@ export const backlinks = {
     "1CE345.png": {
         "Party Planner": "![[1CE345.png]]"
     },
-    "339420.mp4": {
-        "Aldehyde Landing Page 2023": "![[339420.mp4]]",
-        "날씨 요정": "![[339420.mp4]]"
+    "339420.gif": {
+        "Aldehyde Landing Page 2023": "![[339420.gif]]",
+        "날씨 요정": "![[339420.gif]]"
     },
     "971BA5.png": {
         "Bing Chat for All Browsers in Japan": "![[971BA5.png]]"
@@ -11503,12 +11525,33 @@ export const backlinks = {
         "Aldehyde Landing Page 2023": "![[339CE9.png]]",
         "Apple-like Block Interface": "![[339CE9.png]]"
     },
-    "341F72.mp4": {
-        "Aldehyde Landing Page 2023": "![[341F72.mp4]]",
-        "Apple-like Block Interface": "![[341F72.mp4]]"
+    "341F72.gif": {
+        "Aldehyde Landing Page 2023": "![[341F72.gif]]",
+        "Apple-like Block Interface": "![[341F72.gif]]"
     },
     "EC7EEF.png": {
         "Python": "![[EC7EEF.png]]"
+    },
+    "8CE4FB.gif": {
+        "Wayfinding AI Pin": "![[8CE4FB.gif]]"
+    },
+    "FB5B85.gif": {
+        "Wayfinding AI Pin": "![[FB5B85.gif]]"
+    },
+    "B47ACF.gif": {
+        "Wayfinding AI Pin": "![[B47ACF.gif]]"
+    },
+    "DEE740.gif": {
+        "Wayfinding AI Pin": "![[DEE740.gif]]"
+    },
+    "308AC8.gif": {
+        "Wayfinding AI Pin": "![[308AC8.gif]]"
+    },
+    "242382.gif": {
+        "Wayfinding AI Pin": "![[242382.gif]]"
+    },
+    "402F83.gif": {
+        "Wayfinding AI Pin": "![[402F83.gif]]"
     },
     "D65958.png": {
         "Beehiiv": "![[D65958.png]]",
@@ -12016,9 +12059,9 @@ export const backlinks = {
     "1D64A6.png": {
         "Visual-based Tools for Thought": "![[1D64A6.png]]"
     },
-    "F414E3.mp4": {
-        "Heptabase": "![[F414E3.mp4]]",
-        "Visual-based Tools for Thought": "![[F414E3.mp4]]"
+    "F414E3.gif": {
+        "Heptabase": "![[F414E3.gif]]",
+        "Visual-based Tools for Thought": "![[F414E3.gif]]"
     },
     "B4ED9A.png": {
         "Visual-based Tools for Thought": "![[B4ED9A.png]]"
@@ -12095,18 +12138,18 @@ export const backlinks = {
     "133EBF.png": {
         "Collaboration-based Tools for Thought": "![[133EBF.png]]"
     },
-    "6A89D8.mp4": {
-        "Collaboration-based Tools for Thought": "![[6A89D8.mp4]]"
+    "6A89D8.gif": {
+        "Collaboration-based Tools for Thought": "![[6A89D8.gif]]"
     },
     "D26259.png": {
         "ChatGPT is a Blurry JPEG and We Need That": "![[D26259.png]]",
         "ChatGPT는 흐릿한 이미지이지만 필요합니다": "![[D26259.png]]"
     },
-    "6ECA95.mp4": {
-        "UI Designs for Editing Messages": "![[6ECA95.mp4]]"
+    "6ECA95.gif": {
+        "UI Designs for Editing Messages": "![[6ECA95.gif]]"
     },
-    "377FC7.mp4": {
-        "CMDK": "![[377FC7.mp4]]"
+    "377FC7.gif": {
+        "CMDK": "![[377FC7.gif]]"
     },
     "D6F77F.png": {
         "Squircle": "![[D6F77F.png]]"
@@ -12248,17 +12291,17 @@ export const backlinks = {
     "BC77D9.png": {
         "MAGI": "![[BC77D9.png]]"
     },
-    "227D79.mp4": {
-        "Visual ChatGPT": "![[227D79.mp4]]"
+    "227D79.gif": {
+        "Visual ChatGPT": "![[227D79.gif]]"
     },
-    "B92798.mp4": {
-        "Boring Report": "![[B92798.mp4]]"
+    "B92798.gif": {
+        "Boring Report": "![[B92798.gif]]"
     },
     "BD6DAB.png": {
         "Pretendard의 아쉬운 점": "![[BD6DAB.png]]"
     },
-    "EF6FE0.mp4": {
-        "Pretendard의 아쉬운 점": "![[EF6FE0.mp4]]"
+    "EF6FE0.gif": {
+        "Pretendard의 아쉬운 점": "![[EF6FE0.gif]]"
     },
     "Firefox                                                                            ": {
         "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": "... 5년 된 디펜더 버그 수정으로 [[Firefox                                                                            | 파이어폭스]] 관련 CPU 사용량 75% 감소 ..."
@@ -12377,8 +12420,8 @@ export const backlinks = {
     "EFC07C.png": {
         "Detroit Become Human": "![[EFC07C.png]]"
     },
-    "5E92AA.mp4": {
-        "Detroit Become Human": "![[5E92AA.mp4]]"
+    "5E92AA.gif": {
+        "Detroit Become Human": "![[5E92AA.gif]]"
     },
     "115932.png": {
         "Linkflags": "![[115932.png]]"
@@ -12407,8 +12450,8 @@ export const backlinks = {
     "C035D8.png": {
         "Linkflags": "![[C035D8.png]]"
     },
-    "2E6CEB.mp4": {
-        "Linkflags": "![[2E6CEB.mp4]]"
+    "2E6CEB.gif": {
+        "Linkflags": "![[2E6CEB.gif]]"
     },
     "E9DA32.png": {
         "Attention Settings": "![[E9DA32.png]]"
@@ -12550,9 +12593,9 @@ export const backlinks = {
     "9C8F45.png": {
         "Search-based Tools for Thought": "![[9C8F45.png]]"
     },
-    "C0147C.mp4": {
-        "Data Capturers": "![[C0147C.mp4]]",
-        "Rauno": "![[C0147C.mp4]]"
+    "C0147C.gif": {
+        "Data Capturers": "![[C0147C.gif]]",
+        "Rauno": "![[C0147C.gif]]"
     },
     "13ED2A.png": {
         "Data Capturers": "![[13ED2A.png]]",
@@ -12571,8 +12614,8 @@ export const backlinks = {
     "8F4764.png": {
         "Death Stranding": "![[8F4764.png]]"
     },
-    "901660.mp4": {
-        "Setting different images for Light & Dark mode": "![[901660.mp4]]"
+    "901660.gif": {
+        "Setting different images for Light & Dark mode": "![[901660.gif]]"
     },
     "2128CA.png": {
         "Edge Network": "![[2128CA.png]]"
@@ -12580,8 +12623,8 @@ export const backlinks = {
     "33434F.png": {
         "AMP Email": "![[33434F.png]]"
     },
-    "277486.mp4": {
-        "Link Preview for Arc": "![[277486.mp4]]"
+    "277486.gif": {
+        "Link Preview for Arc": "![[277486.gif]]"
     },
     "F21F1E.png": {
         "Neo ArXiv": "![[F21F1E.png]]"
@@ -12661,11 +12704,11 @@ export const backlinks = {
     "Graphic Window": {
         "Graphics Engine Process": "  - Create a [[Graphic Window]]"
     },
-    "CD52BB.mp4": {
-        "Rauno": "![[CD52BB.mp4]]"
+    "CD52BB.gif": {
+        "Rauno": "![[CD52BB.gif]]"
     },
-    "FDD149.mp4": {
-        "Rauno": "![[FDD149.mp4]]"
+    "FDD149.gif": {
+        "Rauno": "![[FDD149.gif]]"
     },
     "729C95.png": {
         "Rauno": "![[729C95.png]]"
@@ -12775,9 +12818,9 @@ export const backlinks = {
     "CFE15A.png": {
         "Debugging CSS": "![[CFE15A.png]]"
     },
-    "3CDD1D.mp4": {
-        "GrammarlyGO": "![[3CDD1D.mp4]]",
-        "Project Prepare for Grammarly": "![[3CDD1D.mp4]]"
+    "3CDD1D.gif": {
+        "GrammarlyGO": "![[3CDD1D.gif]]",
+        "Project Prepare for Grammarly": "![[3CDD1D.gif]]"
     },
     "BB5160.png": {
         "GrammarlyGO": "![[BB5160.png]]"
@@ -12911,8 +12954,8 @@ export const backlinks = {
     "76BD99.png": {
         "Prompt Marketplace": "![[76BD99.png]]"
     },
-    "4A4A25.mp4": {
-        "Hashflags": "![[4A4A25.mp4]]"
+    "4A4A25.gif": {
+        "Hashflags": "![[4A4A25.gif]]"
     },
     "A01C1B.png": {
         "Hashflags": "![[A01C1B.png]]"
@@ -13298,11 +13341,11 @@ export const backlinks = {
     "6BD54D.png": {
         "Three Column Design": "![[6BD54D.png]]"
     },
-    "900A33.mp4": {
-        "Tome": "![[900A33.mp4]]"
+    "900A33.gif": {
+        "Tome": "![[900A33.gif]]"
     },
-    "3735AF.mp4": {
-        "Menu Hover Effects": "![[3735AF.mp4]]"
+    "3735AF.gif": {
+        "Menu Hover Effects": "![[3735AF.gif]]"
     },
     "ABCEC0.png": {
         "To Kill a Night Owl": "![[ABCEC0.png]]"
@@ -13361,7 +13404,7 @@ export const backlinks = {
     "9A6171.png": {
         "Love Firefox": "![[9A6171.png]]"
     },
-    "9EA5FE.mp4": {
-        "Meta Theme Color for Spacial Cognition": "![[9EA5FE.mp4]]"
+    "9EA5FE.gif": {
+        "Meta Theme Color for Spacial Cognition": "![[9EA5FE.gif]]"
     }
 }
