@@ -6225,6 +6225,9 @@ export const backlinks = {
         "2022-10-17": "- [[Primary-Recency Effect]]",
         "2023-07-05": "- [[Primary-Recency Effect]]"
     },
+    "Backdrop Build Week 1 Update": {
+        "2023-11-11": "- [[Backdrop Build Week 1 Update]]"
+    },
     "WasmEdge": {
         "2022-11-30": "- [[WasmEdge]]",
         "Tools I will use one day": "- [[WasmEdge]]"
@@ -8327,7 +8330,8 @@ export const backlinks = {
         "i18n with Redwood": "... an opinionated guide of implementing [[Internationalization]] with [[Redwood.js]]"
     },
     "Ganymede Table Structure": {
-        "2023-11-11": "- [[Ganymede Table Structure]]"
+        "2023-11-11": "- [[Ganymede Table Structure]]",
+        "Project Ganymede": "... a simple server for the [[Ganymede Table Structure]]. Prisma layer makes 3 requests ..."
     },
     "남이사": {
         "2023-09-10": "[[남이사]]이지만서도 얼마나 힘들었길래... 하는 안타까운 마음이 ..."
