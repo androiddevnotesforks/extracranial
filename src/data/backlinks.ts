@@ -1740,6 +1740,7 @@ export const backlinks = {
         "2023-02-16": "... publishing workflow with Obsidian and [[Docusaurus]], please count me as one ...",
         "2023-04-19": "- [[Docusaurus]]",
         "2023-10-31": "I tried to update [[Docusaurus]] to 3.0. [[Project Heimdall|Heimdall]] updates ...",
+        "2023-11-12": "Updated this blog to [[Docusaurus]] v3! Had to fix a ...",
         "Aldehyde Outage (January 2023)": "## [[Docusaurus]] 2.3.0 `useSyncExternalStore` Bug",
         "Better Docusaurus": "... I currently don't like about [[Docusaurus]]",
         "In search of my domain": "... from WordPress to Ghost to [[Docusaurus]], making several contributions and almost ...",
