@@ -1143,6 +1143,9 @@ export const backlinks = {
     "jQuery": {
         "Impact over Performance": "... revenue every month but with [[jQuery]]. Who cares about the tech ..."
     },
+    "Vitess": {
+        "PlanetScale": "... on the open-source MySQL compatible [[Vitess]] framework, designed to handle the ..."
+    },
     "0067 Add Binary": {
         "Coding Tests": "- [x] [[0067 Add Binary]]"
     },
@@ -2131,6 +2134,7 @@ export const backlinks = {
         "2022-10-15": "- [[WebAssembly]]. paradust7/minetest-wasm: Experimental Minetest build for ...",
         "2023-01-13": "- [[WebAssembly|WASM]]",
         "2023-02-16": "... we announced WebContainers, a novel [[WebAssembly]]-based operating system that enables [[Node.js]] ...",
+        "Cloudflare Worker": "... create and deploy JavaScript or [[WebAssembly]] code at the [[edge network]] ...",
         "Deno Deploy": "- TypeScript, [[WebAssembly|Wasm]], ES Modules",
         "Dioxus": "Use [[WebAssembly|WASM]]",
         "How is WebAssembly cross-platform when Assembly is not": "- [[WebAssembly]] is like [[Assembly]], except that",
@@ -2421,16 +2425,22 @@ export const backlinks = {
         "Project PEOPLE": "- [[Person 960D1D]]"
     },
     "Text Message": {
+        "2022-07-05": "... Clever workaround for sending delayed [[Text Message|messages]] in iOS with [[Shortcuts]] and ...",
         "Believer Plan": "... 전달할 수 있는 간단한 감사 [[Text Message|메시지]]를 작성할 수 있는 기회가 주어집니다.",
+        "Project Ganymede": "... to name tests like \"A [[Text Message|texts]] B, then C tries to ...",
         "RCS": "... RCS is an alternative to [[Text Message|SMS]] and is similar to [[iMessage]], ...",
         "hn.cho.sh 개발 기록": "... 인터페이스 다 없애고 nudge처럼 100% [[Text Message|문자]] 기반?",
         "iMessage": "... that allows users to send [[Text Message|Texts]], photos, videos, and other information ...",
+        "iMessage App": "... apps to integrate with the [[Text Message|Messages]] app, enabling users to access ...",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... Hooked와 같은 채팅형 소설 서비스는 [[Text Message|문자]] 버블의 모양과 느낌을 차용하여 이해하기 ...",
         "유난한 도전": "... 누군가 몸살이 나서 하루 쉬겠다고 [[Text Message|메시지]]를 남기면 완쾌해내세요 댓글이 달렸다.",
         "혜성처럼 나타난 본디": "... 있다. 친구에게 사진을 찍어서 보내달라는 [[Text Message|메시지]]를 보낸다. 스냅챗과 똑같은 방식이지만, 처음 ..."
     },
     "AVCapture": {
         "WWDC23": "- [[AVCapture]] is faster and better → ..."
+    },
+    "Try Running Terminal Command If Exists": {
+        "2023-11-14": "- [[Try Running Terminal Command If Exists]]"
     },
     "Pure Component Model": {
         "2022-09-03": "- [[Pure Component Model]]",
@@ -2669,6 +2679,11 @@ export const backlinks = {
         "Super App and Democracy": "... to emulate the success of [[WeChat]], a [[중국|Chinese]] super-app.",
         "Universal Chat App": "1. [[WeChat]] (China). Developed by Tencent, WeChat ...",
         "본디는 사실 혜성이 아니다": "... 않아 190만 다운로드를 돌파하며 잠시나마 [[WeChat|위챗]]을 누르기도 했다."
+    },
+    "Prisma Accelerate": {
+        "2023-11-14": "- [[Prisma Accelerate]]",
+        "Prisma": "4. [[Prisma Accelerate]]",
+        "Project Ganymede": "Used Prisma, [[Prisma Accelerate]], [[PlanetScale]], and [[Cloudflare Worker|Cloudflare Workers]] ..."
     },
     "Cookie": {
         "Internetworking": "- [[Cookie]]"
@@ -3465,6 +3480,10 @@ export const backlinks = {
         "2023-07-05": "- 불가사리 (기업)|Starfish. Signed an [[NDA]] with [[Apple]], can't say anything ...",
         "불가사리 (기업)": "- 2023-07-05 업데이트 — Apple과 [[NDA]] 서약을 체결해 이제부터 관련 정보를 ..."
     },
+    "iMessage App": {
+        "2023-11-14": "- [[iMessage App]]",
+        "Project Ganymede": "... Apple Sign-In UUID from the [[iMessage App]] side: had to use App ..."
+    },
     "Journal is a Waypoint, nothing more": {
         "2022-11-20": "- [[Journal is a Waypoint, nothing more]]"
     },
@@ -3599,12 +3618,14 @@ export const backlinks = {
         "Person CC8297": "- Currently works at [[Apple]] as a mechanical engineer.",
         "PineApple Pay": "As [[Apple]] slowly moves to open up ...",
         "Project FFMpeg for iPad": "[[Apple]] announces [[Final Cut Pro]].",
+        "Project Ganymede": "... Ganymede. You can NEVER win [[Apple]]. It is the most massive ...",
         "Proposal of Research 2023-01-10": "... vendors (Google, Mozilla, Microsoft, and [[Apple]]) decided to disable SharedArrayBuffer by ...",
         "Reverse Engineering Apple Music API": "## Registering for [[Apple]] Developer Key",
         "Safari": "... a web browser developed by [[Apple]] Inc. It was first released ...",
         "Safari is the new Internet Explorer": "- [[Apple]] has a [[Web Browser|browser]] monopoly ...",
         "San Francisco": "- Font by [[Apple]]",
         "Screenshot as an API": "... from photos in the latest [[Apple]] [[iOS]] 16 update.",
+        "Sign in with Apple": "\"Sign in with [[Apple]]\" is a privacy-focused login feature ...",
         "Super App": "... the mobile search partnership between [[Apple]] and [[Google]]",
         "Super App is a Universal Chat App": "... of America|United States are vague. [[Apple]] and [[Google]] divide the tech ...",
         "Swift": "- Programming Language for [[Apple]] platforms",
@@ -3615,6 +3636,7 @@ export const backlinks = {
         "WWDC": "[[Apple]]'s Worldwide Developer Conference",
         "WebNPU API를 상상하다": "우리는 이미 [[Apple|애플]]의 [[Neural Engine]]으로 [[On-Device|온디바이스]] [[ML]] 기술의 ...",
         "iMessage": "iMessage is [[Apple]]'s secure instant messaging system that ...",
+        "iMessage App": "... a type of application within [[Apple]]'s Messages app that allows users ...",
         "iOS": "... system software that runs on [[Apple]]'s iPhone, iPad, iPod Touch, and ...",
         "macOS": "... operating system (OS) that powers [[Apple]]'s Mac computers. It's the primary ...",
         "드디어, 한국 애플페이": "10년의 기다림 끝에 [[Apple|애플]]페이가 들어온다. 2023년 2월 3일자 [[Finance|금융]]위원회에서 ...",
@@ -3689,6 +3711,7 @@ export const backlinks = {
     "UUID": {
         "Heimdall Bogus Subscribers Attack Incident": "... bogus subscribers had something like [[UUID]].",
         "NanoID": "... it's not as well-known as [[UUID]], NanoID has recently expanded and ...",
+        "Project Ganymede": "... Finished reading the Apple Sign-In [[UUID]] from the [[iMessage App]] side: ...",
         "UUIDs are Awesome": "... Only after generating 1 billion [[UUID|UUIDs]] every second for the next ..."
     },
     "Shim": {
@@ -3966,7 +3989,9 @@ export const backlinks = {
         "2023-11-08": "[[Project Ganymede]]",
         "2023-11-10": "- [[Project Ganymede]]",
         "2023-11-11": "- [[Project Ganymede]]",
-        "Project": "- [[Project Ganymede]]"
+        "2023-11-14": "- [[Project Ganymede]]",
+        "Project": "- [[Project Ganymede]]",
+        "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
     },
     "서당개 3년이면 풍월을 읊는다": {
         "2023-06-19": "- [[서당개 3년이면 풍월을 읊는다]]"
@@ -4198,6 +4223,9 @@ export const backlinks = {
         "Coding Tests": "- [x] [[0876 Middle of the Linked List]]"
     },
     "Prisma": {
+        "2023-11-14": "- [[Prisma]]",
+        "Prisma Accelerate": "[[Prisma]] Accelerate is a feature of ...",
+        "Project Ganymede": "- Implemented Vitest on [[Prisma]] and [[Cloudflare Worker|Cloudflare Workers]]",
         "Redwood.js": "- It utilizes [[Prisma]] as an Object-Relational Mapping (ORM) ..."
     },
     "Love Wikipedia": {
@@ -4397,6 +4425,9 @@ export const backlinks = {
         "Memex": "Synonym with Extracranial, [[Second Brain|Digital Brain]], [[Second Brain]], etc.",
         "PKM": "| [[Second Brain]]   | Implementation for ..."
     },
+    "Sequential GitHub Action Jobs": {
+        "2023-11-14": "- [[Sequential GitHub Action Jobs]]"
+    },
     "Nuclear Fusion Terrarium": {
         "2023-09-26": "- [[Nuclear Fusion Terrarium]]",
         "Nuclear Fusion Edible Capsule": "... a micro nuclear fusion reactor ([[nuclear fusion terrarium]]) into our body, emitting a ..."
@@ -4572,7 +4603,7 @@ export const backlinks = {
         "Problem": "Leads to a Someday [[Project]].",
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project Florence": "- [[Project]] Florence is a research [[project]] ...",
-        "Project Ganymede": "- [[Project]]. Disappearing message for [[iMessage]].",
+        "Project Ganymede": "- Therefore, we name it [[Project]] Ganymede. You can NEVER win ...",
         "Project Heimdall": "... conventional Docusaurus with Listmonk. Consider [[Project]] [[Done]].",
         "Project Linguine": "[[Project]] Linguine is an initiative to ...",
         "Project MAGI": "Someday [[Project]]. Use Multiple Artificial Generative Intelligence ...",
@@ -5468,6 +5499,7 @@ export const backlinks = {
         "Cartography": "... maps, while Maps, Mapbox GL [[JavaScript|JS]], Mobile Maps SDK, Static Maps, ...",
         "Chrome": "... technologies, including HTML5, CSS, and [[JavaScript]]. In addition, it includes features ...",
         "Classic Blogs": "... Bear Blog: No trackers, no [[JavaScript]], no stylesheets blog for hackers",
+        "Cloudflare Worker": "... users to create and deploy [[JavaScript]] or [[WebAssembly]] code at the ...",
         "Deno Deploy": "- Deploy [[JavaScript]] Globally",
         "ESLint": "ESLint is an open-source [[JavaScript]] linting utility. The primary objective ...",
         "Fast": "... created the first prototype of [[JavaScript]] in just 10 days and ...",
@@ -5478,12 +5510,14 @@ export const backlinks = {
         "NPM": "... default package manager for the [[JavaScript]] runtime environment [[Node.js]]. NPM is ...",
         "NanoID": "... unique string ID generator for [[JavaScript]]. It's 130 bytes minified, has ...",
         "Node.js": "Node.js is an open-source, server-side [[JavaScript]] runtime environment allowing developers to ...",
+        "Prisma": "... to manage a database like [[JavaScript]] objects, making interacting with the ...",
         "Project Heimdall": "... we scrape the web with [[JavaScript]] enabled? Problems are Access Restricted ...",
         "React": "... a free and open-source Front-end|front-end [[JavaScript]] library for building user interfaces ...",
         "Redwood.js": "RedwoodJS is a full-stack, open-source [[JavaScript]] framework for building web applications. ...",
         "Safari": "... technologies, including HTML5, CSS, and [[JavaScript]]. It includes features such as ...",
         "Separation of Computer Scientists and Computer Technologists": "... to make a cool-looking Single-Page-App [[JavaScript]] [[e-commerce]] website...",
         "TypeScript": "- Typed [[JavaScript]].",
+        "Vitest": "... fast unit test framework for [[JavaScript]] and [[TypeScript]], optimized for the ...",
         "Write Once Run Everywhere": "- [[JavaScript]]",
         "jQuery": "... popular, fast, small, and feature-rich [[JavaScript]] library. It makes things like ..."
     },
@@ -5571,6 +5605,10 @@ export const backlinks = {
     },
     "Apache Hive": {
         "Hive Metastore": "[[Apache Hive|Hive]] [[Metastore]] is the central repository ..."
+    },
+    "PlanetScale": {
+        "2023-11-14": "- [[PlanetScale]]",
+        "Project Ganymede": "Used Prisma, Prisma Accelerate, [[PlanetScale]], and [[Cloudflare Worker|Cloudflare Workers]] to ..."
     },
     "Spacial Cognition": {
         "2022-10-27": "- [[Spacial Cognition]]",
@@ -6156,6 +6194,10 @@ export const backlinks = {
     "One Bit Display": {
         "2023-01-13": "- [[One Bit Display]]"
     },
+    "Cloudflare Worker": {
+        "2023-11-14": "- [[Cloudflare Worker]]",
+        "Project Ganymede": "... Implemented Vitest on Prisma and [[Cloudflare Worker|Cloudflare Workers]]"
+    },
     "Bloomberg": {
         "2023-03-06": "- [[Bloomberg]]",
         "Bloomberg Terminal": "The [[Bloomberg]] Terminal, or Bloomberg Professional, is ...",
@@ -6323,7 +6365,8 @@ export const backlinks = {
         "2023-01-25": "- [[Clustering]]",
         "Grammarly Work Note 2023-05-30": "- Reduction of [[Clustering|Cluster]] Spinning for Non-[[GNAR]] Runtime Jobs. ...",
         "Project Core ML Foundation": "[[Clustering]].",
-        "Project Core ML Inference": "... transfer data from one Hadoop [[Clustering|cluster]] to another?"
+        "Project Core ML Inference": "... transfer data from one Hadoop [[Clustering|cluster]] to another?",
+        "Vitess": "Vitess is an open-source database [[clustering]] system for horizontal scaling of ..."
     },
     "Karrot": {
         "2022-05-31": "... 레거시 기업들에 빗대고 싶진 않지만, [[Karrot|당근]] + [[배달의민족]] + [[쿠팡]]이라고 생각하면 ...",
@@ -6626,11 +6669,12 @@ export const backlinks = {
         "Alternatives to After Effects": "## [[Letter to Mr. Gustav Ekerot on 2023-02-24]]"
     },
     "Shortcuts": {
-        "2022-07-05": "... delayed messages in iOS with [[Shortcuts]] and [[Automation]].",
+        "2022-07-05": "... Text Message|messages in iOS with [[Shortcuts]] and [[Automation]].",
         "2022-11-19": "  - [[Shortcuts]]",
         "Autosave Everything": "... autosave intervals or setting different [[shortcuts]] for each app.",
         "ChatGPT": "... voice assistant built entirely with [[Shortcuts]]",
         "Locking your Mac with Command+L": "2. Go to Keyboard → [[Shortcuts]] → App Shortcuts and press ...",
+        "Project Ganymede": "... out that in iOS 17, [[Shortcuts]] can send [[Text Message|messages]] without ...",
         "Visual Studio Code": "... can change the theme, keyboard [[shortcuts]], preferences, and install extensions that ...",
         "sssss": "Supersedes [[Shortcuts]]"
     },
@@ -6809,6 +6853,7 @@ export const backlinks = {
         "2022-10-21": "- [[Setting different images for Light & Dark mode]]"
     },
     "Edge Network": {
+        "Cloudflare Worker": "... or WebAssembly code at the [[edge network]] of Cloudflare's global network for ...",
         "Edge": "- [[Edge Network]]"
     },
     "Arc Browser": {
@@ -6981,6 +7026,10 @@ export const backlinks = {
         "Readings": "- [x] [[이완용]] 평전 (윤덕한 저)",
         "동아일보 1926년 2월 13일 이완용 사망 기사 검열 처리에 대한 사건": "[[이완용]]에 대한 자료를 조사하던 중 묘하게 ...",
         "한국통사": "... 수많은 잔재와 구시대적 사고관들이 남아있다. [[이완용|결국 자기반성을 해야할 뿐이다.]]"
+    },
+    "Sign in with Apple": {
+        "2023-11-14": "- [[Sign in with Apple]]",
+        "Project Ganymede": "- Solution: [[Sign in with Apple]]?!"
     },
     "미국물": {
         "2023-09-18": "- [[미국물]]",
@@ -7561,6 +7610,7 @@ export const backlinks = {
         "Search AI": "... ideas, translate, summarize text, compose [[Mail|emails]], and write code for you. ...",
         "Self-hosted SaaS Alternatives": "### Self-hosted [[Mail|Email]] newsletter platforms",
         "SendGrid": "... platform for transactional and marketing [[Mail|email]]. The company was founded by ...",
+        "Sign in with Apple": "... the ability to hide their [[Mail|email]] addresses.",
         "Universal Chat App": "... ubiquitous social media network or [[Mail|email]] service. It facilitates communication among ...",
         "YCLF 주간 사용자 1000명": "GitHub 이슈를 남겨준 분들도 계셨고 [[Mail|메일]]을 보내주신 분들도 계셨다. 유용한 피드백을 ...",
         "hn.cho.sh 개발 기록": "... 진출하기 위해 오랜만에 일본인 친구들에게 [[Mail|이메일]]을 조금 돌렸다. 얘기를 들어보니 Zenn을 ...",
@@ -7817,6 +7867,7 @@ export const backlinks = {
     },
     "Serverless": {
         "Cloud-Native": "... integration and deployment (CI/CD), and [[serverless]] computing. They leverage these practices ...",
+        "Cloudflare Worker": "Cloudflare Worker is a [[serverless]] execution environment that allows users ...",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... better to see a first-class [[serverless]] [[Mail|email]] API (as in doing ...",
         "OpenAI enthroned as the Levis of Tech": "... Rise of Microservices Architecture|MSA and [[Serverless]] — [[AWS]] made it easy ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "- [Microservices Architecture|마이크로서비스 아키텍처]와 [[Serverless|서버리스]]의 부상 — [[AWS]]는 소규모의 독립적인 ...",
@@ -7830,7 +7881,7 @@ export const backlinks = {
         "Almost Monospaced": "... you still retain the typewriter [[Aesthete|aesthetic]] with a bit more legibility. ...",
         "Impact over Performance": "... too much of a technophile [[aesthete]]... so I have devised the ...",
         "Simian과 심미안": "[[Aesthete|심미안]] (審美眼) 은 아름다움을 살펴 볼 ...",
-        "The Paradoxical Moon Philosophy": "... I think Ganymede is more [[Aesthete|aesthetic]]. Maybe Remora was more straightforward ...",
+        "The Paradoxical Moon Philosophy": "... think Project Ganymede|Ganymede is more [[Aesthete|aesthetic]]. Maybe Remora was more straightforward ...",
         "UIUX": "... and test results rather than [[Aesthete|aesthetic]] preferences and opinions. Unlike user ..."
     },
     "무제한번역": {
@@ -8275,6 +8326,7 @@ export const backlinks = {
         "Toss Product Sans": "- 안드로이드, [[iOS]], 윈도우, [[Chrome|크롬]], 사파리 등 다양한 ...",
         "USDZ vs glTF": "... and operated by Apple for [[iOS]] [[Augmented Reality]] applications. It is ...",
         "VP9 vs HEVC": "... videos on Apple Safari and [[iOS]] YouTube.",
+        "iMessage App": "... the capabilities of their existing [[iOS]] apps to integrate with the ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "AirPlay를 지원하는 [[iOS]] / [[iOS|iPadOS]] 기기를 사용하는 경우 ...",
         "하늘땅사람 업데이트 기록": "- [[iOS]] 15에서도 하늘땅사람 키보드를 사용할 수 ..."
     },
@@ -8731,6 +8783,7 @@ export const backlinks = {
         "Person 648442": "- Possible exit [[strategy]] — Twitter's Non-existent Search [[Engine]]. ...",
         "Person 9078DC": "... DEV.to와 경쟁 방안으로 Packt과 같은 [[Strategy|전략]]을 고려 중. 지적 자산의 보급과 ...",
         "Pivot": "... to a significant change in [[strategy]] or direction.",
+        "Project Ganymede": "... How do you store different [[Strategy|strategies]] (After 5 seconds? 10 seconds? ...",
         "Project Heimdall": "... Honestly, the Go To Market|GTM [[strategy]] for Heimdall is a considerable ...",
         "Proposal of Research 2023-03-28": "... PI attack techniques and mitigation [[Strategy|strategies]] to identify gaps in existing ...",
         "Quoridor Game": "... as well as a previous [[strategy]] using a GA.",
@@ -8801,6 +8854,7 @@ export const backlinks = {
         "Aldehyde Outage (January 2023)": "## Vercel and [[Cloudflare]] Build Errors",
         "CELLO (Product)": "- [[Cloudflare]] for serving high-res images",
         "Cloudflare Pages": "- [[Cloudflare]] [[Edge]] [[Front-end]]",
+        "Cloudflare Worker": "[[Cloudflare]] Worker is a [[serverless]] execution ...",
         "Edge Network": "- [[Cloudflare]] Pages & Cloudflare Functions",
         "IDOL Stack": "... Database|DB, Supabase Auth, Supabase Storage, [[CloudFlare]], Chakra",
         "Person 9078DC": "... 핫링킹으로 인한 과금이 많이 발생했다. [[Cloudflare]]와 [[Backblaze]]로 Bandwidth Alliance를 설정하고, 이미지 ...",
@@ -9011,10 +9065,11 @@ export const backlinks = {
     },
     "iMessage": {
         "Beeper": "... (Service). A better approach with [[iMessage]], given that it logs into ...",
-        "Project Ganymede": "- Project. Disappearing message for [[iMessage]].",
+        "Project Ganymede": "... It is possible to limit [[iMessage]] forwarding for [[iMessage App|iMessage Extensions]]",
         "RCS": "... Message|SMS and is similar to [[iMessage]], WhatsApp, and [[Facebook Messenger]]. RCS ...",
         "Send Separately": "Someday Project. \"Send Separately\" for [[iMessage]].",
-        "Universal Chat App": "... chat app. Younger generations use [[iMessage]], while elderlies use WhatsApp. Or ..."
+        "Universal Chat App": "... chat app. Younger generations use [[iMessage]], while elderlies use WhatsApp. Or ...",
+        "iMessage App": "An [[iMessage]] App is a type of ..."
     },
     "공기 청정 비행선": {
         "2022-12-17": "- [[공기 청정 비행선]]",
@@ -9678,6 +9733,7 @@ export const backlinks = {
     "GitHub Actions": {
         "Finding out Ghost version with JS": "... I automated theme deployment with [[GitHub Actions]] (you can find the post ...",
         "Ghost 테마를 자동 배포하는 방법": "... 경험 개선이다. 다행히도 Ghost 2.25.5부터 [[GitHub Actions]]를 이용해 다음과 같이 Ghost 테마 ...",
+        "Project Ganymede": "- Implemented CI on [[GitHub Actions]], so that",
         "Reverse Engineering Apple Music API": "## Making it into a [[GitHub Actions]]",
         "YAML": "... interested to know whether the [[GitHub Actions]] parser looks at `\"on\"` or ..."
     },
@@ -10166,6 +10222,7 @@ export const backlinks = {
         "Shopify Analyzes CSS Frameworks": "| [[Typescript]] support     ...",
         "Svelte": "... compiler itself is written in [[TypeScript]]. Its source code is licensed ...",
         "Tailwind CSS 톺아보기": "- 기초적인 [[TypeScript]] [[Next.js|Next]] App 설정",
+        "Vitest": "... test framework for JavaScript and [[TypeScript]], optimized for the Vite ecosystem, ...",
         "WebGPU": "- It's a stand-alone [[TypeScript]]+[[Rust]]/[[WebAssembly|WASM]] library with its own [[React]]-like ...",
         "배달의민족 FE 개발자가 일하는 법 Q&A": "Front-end|프론트엔드에는 리액트와 [[TypeScript|타입스크립트]]를 쓰고 있다. 하지만 권장 사항일 ..."
     },
@@ -10786,6 +10843,10 @@ export const backlinks = {
     "Pyrrhus and Cinéas": {
         "2023-07-11": "- [[Pyrrhus and Cinéas]]"
     },
+    "Vitest": {
+        "2023-11-14": "- [[Vitest]]",
+        "Project Ganymede": "- Implemented [[Vitest]] on [[Prisma]] and [[Cloudflare Worker|Cloudflare ..."
+    },
     "One and Only WebExtension": {
         "2023-02-26": "- [[One and Only WebExtension]]",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "... a shower-thought if there was \"[[One and Only WebExtension]]\" for [[Firefox]] and [[Safari]]. It ..."
@@ -10854,6 +10915,8 @@ export const backlinks = {
         "Listmonk": "... Uses a PostgreSQL (⩾ 12) [[database]] as its data store",
         "Now Page": "... rather keep improving my back-end [[database]] work.\"",
         "Prisma": "Prisma is an open-source [[database]] toolkit developed to make it ...",
+        "Prisma Accelerate": "... Platform that provides a global [[database]] cache across over 280 locations, ...",
+        "Project Ganymede": "... makes 3 requests to the [[Database|DB]] per 1 request to the ...",
         "Proposal of Research 2023-01-10": "... the pixel combinations on the [[database]]. So, I explored clamping the ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### Federated [[Database]] Systems",
         "React": "... functionality from UIUX|UI to the [[database]], with extra features such as ...",
@@ -10864,6 +10927,7 @@ export const backlinks = {
         "Tools Must Vanish": "... across your filesystem, Dropbox, and [[database]] rows in six different proprietary ...",
         "UUID": "... rows of data within a [[database]] table, where each row is ...",
         "Vector DB": "Google killing all vector [[Database|db]] startups lmao <a href=\"https://t.co/CR0kD3eekD\">pic.twitter.com/CR0kD3eekD</a>",
+        "Vitess": "Vitess is an open-source [[database]] [[clustering]] system for horizontal scaling ...",
         "dub.co": "  - upstash [[database]]",
         "henrymakesapps": "4. Supabase. Offers an easy-to-use [[database]] with PostgreSQL and type-injected clients.",
         "hn.cho.sh 개발 기록": "- 결국 [[Database|DB]] 기반으로 옮겨가야하는 것은 맞다. SPA ...",
@@ -12114,6 +12178,18 @@ export const backlinks = {
     },
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
+    },
+    "2023-11-13": {
+        "Project Ganymede": "## [[2023-11-13]]"
+    },
+    "FCAC15.png": {
+        "Project Ganymede": "![[FCAC15.png]]"
+    },
+    "656236.png": {
+        "Project Ganymede": "![[656236.png]]"
+    },
+    "C53193.png": {
+        "Project Ganymede": "![[C53193.png]]"
     },
     "7A1B12.png": {
         "Project Ganymede": "![[7A1B12.png]]"
