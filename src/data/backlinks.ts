@@ -4257,6 +4257,7 @@ export const backlinks = {
         "2023-09-24": "- 洪民憙雜記 [[洪兔雜記]]"
     },
     "Case Study": {
+        "LavaLab Cohort of Fall 2023": "## [[Case Study]]",
         "Rauno": "- [[Case Study]]",
         "SVB Debacle": "... will look like the WaMu [[case study]].",
         "Tailwind CSS 톺아보기": "### 2\\. [[Case Study]] Card",
@@ -5403,6 +5404,7 @@ export const backlinks = {
         "2023-09-07": "- [[LaTeX]]",
         "2023-09-19": "- [[LaTeX]]",
         "2023-09-30": "[[LaTeX]]",
+        "Make GPT Print LaTeX": "... succinct and accurate explanation. Use [[LaTex]] wherever possible with two dollar ...",
         "Space in LaTeX": "Space in [[LaTeX]]",
         "Useful ChatGPT Prompts": "## Use [[LaTeX]]",
         "latexify.cho.sh": "... convert the equation into $\\TeX$ [[LaTeX]]"
@@ -6093,10 +6095,6 @@ export const backlinks = {
     },
     "0002 Add Two Numbers": {
         "Coding Tests": "- [[0002 Add Two Numbers]]"
-    },
-    "Accessing Remote Jupyter Notebooks and Setting Up GPUs at USC ISI": {
-        "2023-11-09": "- [[Accessing Remote Jupyter Notebooks and Setting Up GPUs at USC ISI]]",
-        "2023-11-10": "- [[Accessing Remote Jupyter Notebooks and Setting Up GPUs at USC ISI]]"
     },
     "Static (Computer Systems)": {
         "2022-12-08": "- [[Static (Computer Systems)]]",
@@ -8392,6 +8390,11 @@ export const backlinks = {
     "Flamboyant": {
         "2023-05-03": "- [[Flamboyant]]"
     },
+    "Accessing Remote Jupyter at USC ISI": {
+        "2023-11-09": "- [[Accessing Remote Jupyter at USC ISI]]",
+        "2023-11-10": "- [[Accessing Remote Jupyter at USC ISI]]",
+        "2023-11-14": "- [[Accessing Remote Jupyter at USC ISI]]"
+    },
     "UUIDs are Awesome": {
         "2022-09-28": "- [[UUIDs are Awesome]]",
         "2022-11-29": "- [[UUIDs are Awesome]]. [[XUID]]?"
@@ -10268,6 +10271,9 @@ export const backlinks = {
     "Stock Option": {
         "Finance": "- [[Stock Option]]"
     },
+    "LavaLab Cohort of Fall 2023": {
+        "2023-11-15": "- [[LavaLab Cohort of Fall 2023]]"
+    },
     "Creating Next Keyboard Button in SwiftUI": {
         "2023-01-22": "- [[Creating Next Keyboard Button in SwiftUI]]"
     },
@@ -10818,6 +10824,7 @@ export const backlinks = {
         "Ghost 테마를 자동 배포하는 방법": "... 다음과 같이 Ghost 테마 개발을 [[Automation|자동화]]할 수 있게 되었다.",
         "GitHub Actions": "... platform that allows you to [[Automation|automate]] your build, test, and deployment ...",
         "Karrot": "- 찾고 연구하고 [[Automation|자동화]]하고 만들고 공개하고",
+        "LavaLab Cohort of Fall 2023": "- Company Event Planning [[Automation]]",
         "MAKE (Book)": "- [[Automation|automate]], but only things that are ...",
         "MetroPunk": "... 과한 상승으로 인해 반복 노동의 [[Automation|자동화]] 시작, 그로 인한 사회적 약자의 ...",
         "OpenAI enthroned as the Levis of Tech": "... cattle – they invested in [[automation]] tools that allowed them to ...",
@@ -12210,7 +12217,7 @@ export const backlinks = {
         "Project Ganymede": "![[A9C91C.png]]"
     },
     "2229DC.gif": {
-        "Project Ganymede": "- ![[2229DC.gif]]"
+        "Project Ganymede": "![[2229DC.gif]]"
     },
     "8A52BA.png": {
         "Project Ganymede": "![[8A52BA.png]]"
