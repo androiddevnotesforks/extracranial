@@ -109,6 +109,9 @@ export const backlinks = {
     "2020-04-26": {
         "Displaying exact datetimes on Ghost": "[[2020-04-26]]"
     },
+    "2023-11-18": {
+        "Project Ganymede": "## [[2023-11-18]]"
+    },
     "2022-10-16": {
         "Dynamic Island on the Web": "## [[2022-10-16]]"
     },
@@ -821,6 +824,7 @@ export const backlinks = {
         "Creating Next Keyboard Button in SwiftUI": "Creating Next Keyboard Button in [[SwiftUI]]",
         "Creating Observable Object in SwiftUI": "Creating Observable Object in [[SwiftUI]]",
         "Cube": "- [[SwiftUI]]",
+        "Dismiss Keyboard": "[[SwiftUI]]",
         "ULLO": "- Proof of Concept|PoC of [[SwiftUI]] Photo Widget App",
         "하늘땅사람 개발 기록": "... 분산시키고 좋은 품질을 유지하기 위해 [[SwiftUI]]를 사용하는 방안을 연구 중."
     },
@@ -2151,6 +2155,9 @@ export const backlinks = {
         "WebAssembly": "... convert this C code into [[WebAssembly]] with a build tool called ...",
         "WebGPU": "- It's a stand-alone TypeScript+Rust/[[WebAssembly|WASM]] library with its own [[React]]-like ...",
         "WebNPU API를 상상하다": "- [[WebAssembly]]는 웹에서 [[CPU]]의 온전한 성능을 개방한다."
+    },
+    "TroyLabs Cohort of Fall 2023": {
+        "2023-11-16": "- [[TroyLabs Cohort of Fall 2023]]"
     },
     "United Kingdom": {
         "2023-03-03": "- [[United Kingdom]]",
@@ -3990,6 +3997,7 @@ export const backlinks = {
         "2023-11-10": "- [[Project Ganymede]]",
         "2023-11-11": "- [[Project Ganymede]]",
         "2023-11-14": "- [[Project Ganymede]]",
+        "2023-11-18": "- [[Project Ganymede|Ganymede]]",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
     },
@@ -6539,6 +6547,9 @@ export const backlinks = {
     "Readwise Reader": {
         "2022-12-16": "- [[Readwise Reader]]"
     },
+    "Dismiss Keyboard": {
+        "2023-11-18": "- [[Dismiss Keyboard]]"
+    },
     "Partition": {
         "Probability": "- [[Partition]]"
     },
@@ -8393,7 +8404,8 @@ export const backlinks = {
     "Accessing Remote Jupyter at USC ISI": {
         "2023-11-09": "- [[Accessing Remote Jupyter at USC ISI]]",
         "2023-11-10": "- [[Accessing Remote Jupyter at USC ISI]]",
-        "2023-11-14": "- [[Accessing Remote Jupyter at USC ISI]]"
+        "2023-11-14": "- [[Accessing Remote Jupyter at USC ISI]]",
+        "2023-11-16": "- [[Accessing Remote Jupyter at USC ISI]]"
     },
     "UUIDs are Awesome": {
         "2022-09-28": "- [[UUIDs are Awesome]]",
@@ -10185,7 +10197,8 @@ export const backlinks = {
     "Health": {
         "2023-08-30": "- [[Health]]",
         "2023-08-31": "- [[Health]]",
-        "Cost of Engineering": "... company's overall budget and financial [[health]]. In general, it's critical for ..."
+        "Cost of Engineering": "... company's overall budget and financial [[health]]. In general, it's critical for ...",
+        "Economic Development": "... an indicator of the financial [[health]] of a country. Policies encouraging ..."
     },
     "Stirling Approximation": {
         "2023-01-26": "- [[Stirling Approximation]]"
@@ -12185,6 +12198,9 @@ export const backlinks = {
     },
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
+    },
+    "61B318.jpg": {
+        "Project Ganymede": "![[61B318.jpg]]"
     },
     "2023-11-13": {
         "Project Ganymede": "## [[2023-11-13]]"
