@@ -9959,6 +9959,9 @@ export const backlinks = {
         "Better Obsidian": "- [[Prettier]] for Code Blocks",
         "Grammarly Work Note 2023-05-26": "... enforced, discovered by running npx [[prettier]] --write. On par with [[Prettier]], ..."
     },
+    "3-SAT": {
+        "2023-11-19": "[[3-SAT]]"
+    },
     "Sliding Panes": {
         "Andy Matuschak": "Introduced novel concepts, such as [[Sliding Panes]], [[Backlink|links to this note]], and ...",
         "Horizontally Stacked Interface": "- [[Sliding Panes]]. Have multiple-scrollable columns.",
