@@ -930,7 +930,7 @@ export const backlinks = {
         "Tailwind": "... like a blog or a [[newsletter]]"
     },
     "Sequence Film": {
-        "Alternatives to After Effects": "... Cut Pro|Final Cut Pro X [[Sequence Film]]"
+        "Cloud-native Video Editor": "... Cut Pro|Final Cut Pro X [[Sequence Film]]"
     },
     "Party Planner": {
         "2023-09-09": "- [[Party Planner]]"
@@ -1293,6 +1293,9 @@ export const backlinks = {
         "2022-09-17": "  - [[Adding Space in Android]]",
         "Android": "- [[Adding Space in Android]]"
     },
+    "Bump": {
+        "2023-11-20": "- [[Bump]]"
+    },
     "Project Linguine": {
         "2023-06-15": "- [[Project Linguine]]",
         "2023-06-18": "- [[Project Linguine]]",
@@ -1391,11 +1394,6 @@ export const backlinks = {
         "불가사리 재단": "[[불가사리]]",
         "코리안 르네상스": "- [[불가사리]]",
         "한민족의 멸종 방어": "- [[불가사리]]"
-    },
-    "Alternatives to After Effects": {
-        "2023-01-22": "- [[Alternatives to After Effects]]",
-        "Adobe After Effects": "... keying, tracking, compositing, and animation. [[Alternatives to After Effects]]",
-        "Letter to Mr. Gustav Ekerot on 2023-02-24": "### [[Alternatives to After Effects]]"
     },
     "The Empires of the Future are the Empires of the Mind": {
         "2023-08-22": "- [[The Empires of the Future are the Empires of the Mind]]",
@@ -2656,7 +2654,7 @@ export const backlinks = {
         "2022-11-23": "- Rive Use Cases: [[Animation]]",
         "2022-12-24": "- Add easing to your [[Animation]] to help add a responsive ...",
         "2023-09-30": "... macOS Sonoma is the changed [[animation]] curve of the notification banner...",
-        "Adobe After Effects": "... for keying, tracking, compositing, and [[animation]]. [[Alternatives to After Effects]]",
+        "Adobe After Effects": "... for keying, tracking, compositing, and [[animation]]. [[Cloud-native Video Editor]]",
         "Are Computers Psychotropic Substances": "Vibrant colors, popping vibrations, smooth [[Animation]], and constant notifications relentlessly demand ...",
         "Dynamic Island on the Web": "- Optimize [[Animation|Animations]] (css `will-change`)",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "- [[Animation]] are way more fluid and ...",
@@ -2694,6 +2692,9 @@ export const backlinks = {
     },
     "Cookie": {
         "Internetworking": "- [[Cookie]]"
+    },
+    "Logo": {
+        "2023-11-20": "- [[Logo]]"
     },
     "Facebook": {
         "2022-07-18": "... part of the URL, as [[Facebook]] merged it with part of ...",
@@ -3663,7 +3664,7 @@ export const backlinks = {
         "Project PEOPLE": "- [[Person 88B488]]"
     },
     "Figma": {
-        "Alternatives to After Effects": "- Adobe XD → [[Figma]]",
+        "Cloud-native Video Editor": "- Adobe XD → [[Figma]]",
         "Magician": "- Magician is a [[Figma]] plugin that lets you design ...",
         "Prototyper": "... to life with code in [[Figma]].",
         "Social Coding": "... work, they grow huge (e.g., [[Figma]], Slack)"
@@ -3824,7 +3825,7 @@ export const backlinks = {
         "Browser Company": "... NY, tries to make the [[Internet Computer]]"
     },
     "Adobe After Effects": {
-        "Alternatives to After Effects": "What is the alternative to [[Adobe After Effects|After Effects]]?",
+        "Cloud-native Video Editor": "What is the alternative to [[Adobe After Effects|After Effects]]?",
         "Video Editor": "... Pro, Adobe Premiere Pro, and [[Adobe After Effects]]."
     },
     "빙글": {
@@ -5054,7 +5055,7 @@ export const backlinks = {
         "Era of Invites": "... last. For me, it was [[Notion]]. I first tried Notion in ...",
         "Intellisense for Knowledge Management": "... like Notion AI? What if [[Notion]] [[AI]] got super powerful, giving ...",
         "Letter to the Heptabase Team on 2022-10-11": "- API support ([[Notion]]-like?)",
-        "Neo Apps": "- Notes. [[Notion]] → [[Obsidian]] → Nota.",
+        "Neo Apps": "- Notes. [[Notion]] → [[Obsidian]]",
         "Nota": "> Love Child Between [[Notion]] and [[Obsidian]]",
         "Notion AI": "[[Notion]]'s [[Generative Intelligence]]",
         "Powerfully Powerless Tools": "Even [[Notion]] is too complicated for personal ...",
@@ -5086,6 +5087,9 @@ export const backlinks = {
     },
     "PaLM 2": {
         "MAGI": "3대 [AI|인공지능]|Meta]]의 LLaMA, 그리고 Google의 [[PaLM 2]])에게 다음과 같은 API를 제정한다: [[Project ..."
+    },
+    "Wope": {
+        "2023-11-20": "- [[Wope]]"
     },
     "GPU": {
         "Databricks AI Summit 2023 Block Session": "... allowing for swapping between CPU, [[GPU]], and models like MPT.",
@@ -5210,6 +5214,9 @@ export const backlinks = {
         "Zenly Playbook": "[[Zenly]], a popular Gen-Z location-sharing social ...",
         "젠리의 성공 공식": "어제 [[Zenly|젠리]]가 문을 닫았다. 프랑스의 한 개발자로부터 ..."
     },
+    "shots.so": {
+        "2023-11-20": "- [[shots.so]]"
+    },
     "0020 Valid Parentheses": {
         "2022-07-10": "- Solved [[0020 Valid Parentheses]]",
         "Coding Tests": "- [x] [[0020 Valid Parentheses]]"
@@ -5332,7 +5339,7 @@ export const backlinks = {
         "Letter to Mr. Stephan Ango on 2022-10-19": "... are wondering, yes, I use [[Obsidian]] for my [[Memex]], but I ...",
         "Letter to the Heptabase Team on 2022-10-11": "... (https://cho.sh/r/) runs on heavily customized [[Obsidian]], Nota, and [[Docusaurus]], serving as ...",
         "Love Obsidian": "i love [[obsidian]]",
-        "Neo Apps": "- Notes. Notion → [[Obsidian]] → Nota.",
+        "Neo Apps": "- Notes. Notion → [[Obsidian]]",
         "Nota": "Awesome alternative to [[Obsidian]].",
         "Obsidian Ava": "... Early Stage Synthography tool for [[Obsidian]]",
         "Our tools also shape us": "  - [[Obsidian]] makes you a connector + ...",
@@ -6468,6 +6475,9 @@ export const backlinks = {
         "이무기 기업, 청룡 기업": "Unicorn|유니콘 기업이라는 [[Vocab|단어]]는 마치 성공이 정해진 양 너무 ...",
         "한자": "... Hanja can help master enough [[Vocab|vocabulary]] to become fluent in 한국어|Korean."
     },
+    "Getting Featured on the App Store": {
+        "2023-11-20": "- [[Getting Featured on the App Store]]"
+    },
     "Classic Blogs": {
         "Medium": "Medium is a [[Classic Blogs]] service. There's also a premium ...",
         "Tools for Thought": "- [[Classic Blogs]]. just make a post and ..."
@@ -6483,6 +6493,9 @@ export const backlinks = {
     },
     "Diagram Labs": {
         "2022-12-16": "- [[Diagram Labs]]"
+    },
+    "The Web Can Do What!?": {
+        "2023-11-20": "- [[The Web Can Do What!?]]"
     },
     "Discuss on Social Media Button": {
         "2023-02-21": "- [[Discuss on Social Media Button]]"
@@ -6549,6 +6562,9 @@ export const backlinks = {
     },
     "Dismiss Keyboard": {
         "2023-11-18": "- [[Dismiss Keyboard]]"
+    },
+    "Y Combinator": {
+        "2023-11-20": "- [[Y Combinator]]"
     },
     "Partition": {
         "Probability": "- [[Partition]]"
@@ -6675,7 +6691,7 @@ export const backlinks = {
     },
     "Letter to Mr. Gustav Ekerot on 2023-02-24": {
         "2023-02-26": "- [[Letter to Mr. Gustav Ekerot on 2023-02-24]]",
-        "Alternatives to After Effects": "## [[Letter to Mr. Gustav Ekerot on 2023-02-24]]"
+        "Cloud-native Video Editor": "## [[Letter to Mr. Gustav Ekerot on 2023-02-24]]"
     },
     "Shortcuts": {
         "2022-07-05": "... Text Message|messages in iOS with [[Shortcuts]] and [[Automation]].",
@@ -7172,7 +7188,7 @@ export const backlinks = {
     },
     "Neo Apps": {
         "2022-09-29": "- [[Neo Apps]]",
-        "Alternatives to After Effects": "[[Neo Apps]]?"
+        "Cloud-native Video Editor": "[[Neo Apps]]?"
     },
     "ArXiv": {
         "Neo ArXiv": "The new [[ArXiv]]."
@@ -7477,6 +7493,7 @@ export const backlinks = {
         "Real Interviews": "### [[Grammarly]]",
         "Sungari": "... Schema Managed Data Ingestion at [[Grammarly]]. The old system at [[GNAR]] ...",
         "Truthiness of Empty Strings": "On 2023-06-27, our team at [[Grammarly]] found a bug where a ...",
+        "Workplace Search": "used at [[grammarly]]",
         "기술 발전의 속도": "그래서 [[Grammarly]] 등의 텍스트 [[AI|인공지능]] 회사에 열심히 ..."
     },
     "SHAP": {
@@ -7494,6 +7511,12 @@ export const backlinks = {
         "Final Cut Pro": "... Apple Inc. is a professional [[Video Editor|video editing software]] with timeline-based editing, multi-camera editing, ...",
         "Graphic Renderer": "... of calculating effects in a [[Video Editor|video editing program]] to produce the final video ...",
         "Sequence Film": "Cloud-Native [[Video Editor]]"
+    },
+    "Cloud-native Video Editor": {
+        "2023-01-22": "- [[Cloud-native Video Editor]]",
+        "2023-11-20": "- [[Cloud-native Video Editor]]",
+        "Adobe After Effects": "... keying, tracking, compositing, and animation. [[Cloud-native Video Editor]]",
+        "Letter to Mr. Gustav Ekerot on 2023-02-24": "### [[Cloud-native Video Editor]]"
     },
     "FIRE Engine": {
         "2022-07-18": "- [[FIRE Engine]]",
@@ -7907,6 +7930,9 @@ export const backlinks = {
         "EPUB": "... 2007, superseding the older Open [[eBook]] (OEB) standard. EPUB",
         "Ridi": "... a 대한민국|Korean Unicorn specializing in [[eBook]] [[distribution]], online contents & intellectual ...",
         "Using an iPad as my Ebook": "... ended to find the perfect [[ebook]]. Refer to this [[Hacker News]] ..."
+    },
+    "Michael Filipiuk": {
+        "2023-11-20": "- [[Michael Filipiuk]]"
     },
     "Musk-Twitter Incident": {
         "2022-10-27": "- [[Musk-Twitter Incident]]",
@@ -8491,6 +8517,7 @@ export const backlinks = {
         "2023-02-02": "- [[Apple-like Block Interface]]",
         "2023-02-18": "- [[Apple-like Block Interface]]",
         "2023-06-15": "- [[Apple-like Block Interface]]",
+        "2023-11-20": "- [[Apple-like Block Interface]]",
         "Aldehyde Landing Page 2023": "- [[Apple-like Block Interface]]"
     },
     "Toss Product Sans": {
@@ -8608,6 +8635,9 @@ export const backlinks = {
         "2022-07-26": "### [[Better Obsidian]]",
         "2022-10-17": "### [[Better Obsidian]]",
         "Developing Review Notes for Obsidian": "[[Better Obsidian]] 문서를 보면 알 수 있듯이 ..."
+    },
+    "Studio.Design": {
+        "2023-11-20": "- [[Studio.Design]]"
     },
     "Copenhagen Interpretation": {
         "2023-02-19": "- [[Copenhagen Interpretation|코펜하겐 효과]]",
@@ -8891,6 +8921,9 @@ export const backlinks = {
     "Covariance": {
         "Probability": "- [[Covariance]]"
     },
+    "Fey App": {
+        "2023-11-20": "- [[Fey App]]"
+    },
     "Kinesis": {
         "Is AWS a Dumb Pipe": "... can move up. Kafka → [[Kinesis]]. MongoDB → DocumentDB. Redis → ...",
         "Sungari": "... switch to Apache Kafka from [[Kinesis]], along with decoupling ingestion from ..."
@@ -9141,6 +9174,9 @@ export const backlinks = {
         "2023-03-31": "- [[Newtonian Correspondence]]",
         "2023-10-04": "- [[Newtonian Correspondence]]"
     },
+    "Workplace Search": {
+        "2023-11-20": "- [[Workplace Search]]"
+    },
     "쿠팡": {
         "2022-05-31": "... 않지만, Karrot|당근 + 배달의민족 + [[쿠팡]]이라고 생각하면 됩니다. -",
         "2023-07-17": "- [[쿠팡]]",
@@ -9149,12 +9185,12 @@ export const backlinks = {
     "Alternative": {
         "2022-12-07": "... and provide you with an [[alternative]] method of entering the building ...",
         "AT protocol": "... like Lexicon and XRPC over [[Alternative|alternatives]] like [[Resource Description Framework]] and ...",
-        "Alternatives to After Effects": "What is the [[alternative]] to [[Adobe After Effects|After Effects]]?",
         "Alternatives to Hacker News": "- [[Alternative]] to [[Hacker News]]",
         "Apple Newsroom 서체 따라하기": "... 웹 폰트를 사용하고 있다.) 그럼 [[Alternative|대안]]을 찾아보자.",
         "Beeper": "An [[alternative]] to [[Texts (Service)]]. A better ...",
         "ChatGPT": "... a model-written message, sampled several [[alternative]] completions, and had [[AI]] trainers ...",
         "ChatGPT is a Blurry JPEG and We Need That": "... to process. However, consider an [[alternative]] – a compressed version of ...",
+        "Cloud-native Video Editor": "What is the [[alternative]] to [[Adobe After Effects|After Effects]]?",
         "Google Analytics": "- [[Alternative]]. [[Simple Analytics]], [[Plausible Analytics]]",
         "Grammarly Work Note 2023-05-25": "... there were no suitable public [[Alternative|alternatives]] available. Additionally, the experimentation culture ...",
         "HEEx": "... of HTML. HEEx is an [[alternative]] to traditional HTML templates and ...",
@@ -10189,7 +10225,7 @@ export const backlinks = {
     },
     "Final Cut Pro": {
         "Adobe Premiere Pro": "... computers. It's comparable to Apple's [[Final Cut Pro]] [[Video Editor|video editing program]]. Many ...",
-        "Alternatives to After Effects": "- Adobe Premiere Pro → [[Final Cut Pro|Final Cut Pro X]] [[Sequence Film]]",
+        "Cloud-native Video Editor": "- Adobe Premiere Pro → [[Final Cut Pro|Final Cut Pro X]] [[Sequence Film]]",
         "Project FFMpeg for iPad": "Apple announces [[Final Cut Pro]].",
         "Retroactive (Software)": "... Xcode 11.7 on macOS Mojave. [[Final Cut Pro]] 7, Logic Pro 9, and ...",
         "Video Editor": "... editing software programs include iMovie, [[Final Cut Pro]], [[Adobe Premiere Pro]], and [[Adobe ..."
@@ -10422,7 +10458,7 @@ export const backlinks = {
     },
     "Adobe Premiere Pro": {
         "2023-08-07": "- [[Adobe Premiere Pro]]",
-        "Alternatives to After Effects": "- [[Adobe Premiere Pro]] → [[Final Cut Pro|Final Cut ...",
+        "Cloud-native Video Editor": "- [[Adobe Premiere Pro]] → [[Final Cut Pro|Final Cut ...",
         "Video Editor": "... include iMovie, Final Cut Pro, [[Adobe Premiere Pro]], and [[Adobe After Effects]]."
     },
     "Medium": {
@@ -10833,6 +10869,7 @@ export const backlinks = {
         "2022-07-05": "... in iOS with Shortcuts and [[Automation]].",
         "2023-02-02": "- [[Automation]]",
         "2023-03-19": "## Newsletter [[Automation]]",
+        "2023-11-20": "- [[Automation]]",
         "AI replaces expensive jobs first": "... freeing up money for implementing [[automation]]",
         "Buttondown": "... to write great Mail|emails; the [[automation]] acts like the editorial assistant ...",
         "Cloud-Native": "... building Microservices Architecture, containerization, and [[automation]] using tools like [[Kubernetes]], [[Docker]], ...",
@@ -11283,6 +11320,10 @@ export const backlinks = {
     "FE262D.png": {
         "2023-02-16": "![[FE262D.png]]"
     },
+    "61B2A4.gif": {
+        "2023-11-20": "- ![[61B2A4.gif]]",
+        "Apple-like Block Interface": "[[61B2A4.gif]]"
+    },
     "EC9948.png": {
         "2023-04-13": "![[EC9948.png]]",
         "hn.cho.sh 개발 기록": "![[EC9948.png]]"
@@ -11495,6 +11536,9 @@ export const backlinks = {
     },
     "801385.png": {
         "Interface (Jumpsite)": "![[801385.png]]"
+    },
+    "72F981.png": {
+        "Bump": "![[72F981.png]]"
     },
     "C8903B.png": {
         "Metadream": "![[C8903B.png]]"
@@ -12456,6 +12500,15 @@ export const backlinks = {
     "Firefox                                                                                                        ": {
         "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": "...   | 크롬과 비교하여 [[Firefox                                                                                                        | 파이어폭스]]의 높은 CPU 사용량에 대한 비판과 ..."
     },
+    "75EC25.png": {
+        "Wope": "![[75EC25.png]]"
+    },
+    "573F59.png": {
+        "Wope": "![[573F59.png]]"
+    },
+    "E73B24.png": {
+        "shots.so": "![[E73B24.png]]"
+    },
     "21D071.png": {
         "Sudden Rise of Bondee": "![[21D071.png]]",
         "혜성처럼 나타난 본디": "![[21D071.png]]"
@@ -12665,6 +12718,9 @@ export const backlinks = {
     "CE91F0.png": {
         "洪民憙雜記": "![[CE91F0.png]]"
     },
+    "BE9986.gif": {
+        "The Web Can Do What!?": "![[BE9986.gif]]"
+    },
     "8766D6.png": {
         "Discuss on Social Media Button": "![[8766D6.png]]"
     },
@@ -12803,6 +12859,9 @@ export const backlinks = {
     "D11FF4.png": {
         "SHAP": "![[D11FF4.png]]"
     },
+    "DE802B.png": {
+        "Cloud-native Video Editor": "![[DE802B.png]]"
+    },
     "3584FF.png": {
         "sem.sh": "![[3584FF.png]]"
     },
@@ -12931,6 +12990,9 @@ export const backlinks = {
     },
     "webserver": {
         "Port": "- [[webserver]] → 80"
+    },
+    "3B92E6.png": {
+        "Michael Filipiuk": "![[3B92E6.png]]"
     },
     "970206.png": {
         "이루다": "![[970206.png]]"
@@ -13065,6 +13127,33 @@ export const backlinks = {
     "47A128.png": {
         "Apple-like Block Interface": "![[47A128.png]]"
     },
+    "F88EC3.png": {
+        "Apple-like Block Interface": "![[F88EC3.png]]"
+    },
+    "1E26DF.png": {
+        "Apple-like Block Interface": "![[1E26DF.png]]"
+    },
+    "68AA5B.png": {
+        "Apple-like Block Interface": "![[68AA5B.png]]"
+    },
+    "CCCCFF.png": {
+        "Apple-like Block Interface": "![[CCCCFF.png]]"
+    },
+    "E1E4D5.png": {
+        "Apple-like Block Interface": "![[E1E4D5.png]]"
+    },
+    "3B51C9.png": {
+        "Apple-like Block Interface": "![[3B51C9.png]]"
+    },
+    "AEC6B7.png": {
+        "Apple-like Block Interface": "![[AEC6B7.png]]"
+    },
+    "F313C0.png": {
+        "Apple-like Block Interface": "![[F313C0.png]]"
+    },
+    "DF8990.png": {
+        "Apple-like Block Interface": "![[DF8990.png]]"
+    },
     "6F64BE.png": {
         "Toss Product Sans": "![[6F64BE.png]]"
     },
@@ -13076,6 +13165,9 @@ export const backlinks = {
     },
     "Barbie": {
         "Watchings": "- [[Barbie]]"
+    },
+    "847E2D.png": {
+        "Studio.Design": "![[847E2D.png]]"
     },
     "31D530.png": {
         "dub.co": "![[31D530.png]]"
@@ -13124,6 +13216,9 @@ export const backlinks = {
     },
     "242382.gif": {
         "Wayfinding with AI Pin": "![[242382.gif]]"
+    },
+    "BE4E51.png": {
+        "Fey App": "![[BE4E51.png]]"
     },
     "9BB870.png": {
         "Dynamic Viewport Units": "![[9BB870.png]]"
@@ -13205,6 +13300,9 @@ export const backlinks = {
     },
     "7D6146.png": {
         "공기 청정 비행선": "![[7D6146.png]]"
+    },
+    "BEE37C.png": {
+        "Workplace Search": "![[BEE37C.png]]"
     },
     "717AC9.png": {
         "designOS": "![[717AC9.png]]"
@@ -13562,6 +13660,9 @@ export const backlinks = {
     },
     "CCC92A.png": {
         "Simulated Annealing for Designs": "![[CCC92A.png]]"
+    },
+    "D79772.png": {
+        "Automation": "![[D79772.png]]"
     },
     "19F478.png": {
         "딱 봐도 조성현": "![[19F478.png]]"
