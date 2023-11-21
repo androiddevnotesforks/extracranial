@@ -1965,6 +1965,9 @@ export const backlinks = {
         "Towards Ambient Computing": "A renowned science fiction writer, [[Ted Chiang]], created a unique memory aid ...",
         "앰비언트 컴퓨팅을 향해": "... SF 작가 중 한 명인 [[Ted Chiang|테드 창]]은 자신의 소설 \"사실적 진실, 감정적 ..."
     },
+    "The Web Can Do What": {
+        "2023-11-20": "- [[The Web Can Do What]]"
+    },
     "Unexpected number value in conditional. An explicit zero NaN check is required": {
         "2023-06-02": "- [[Unexpected number value in conditional. An explicit zero NaN check is required]]"
     },
@@ -6493,9 +6496,6 @@ export const backlinks = {
     },
     "Diagram Labs": {
         "2022-12-16": "- [[Diagram Labs]]"
-    },
-    "The Web Can Do What!?": {
-        "2023-11-20": "- [[The Web Can Do What!?]]"
     },
     "Discuss on Social Media Button": {
         "2023-02-21": "- [[Discuss on Social Media Button]]"
@@ -11650,6 +11650,9 @@ export const backlinks = {
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
     },
+    "BE9986.gif": {
+        "The Web Can Do What": "![[BE9986.gif]]"
+    },
     "9A6626.png": {
         "Aldehyde Landing Page 2023": "![[9A6626.png]]"
     },
@@ -12717,9 +12720,6 @@ export const backlinks = {
     },
     "CE91F0.png": {
         "洪民憙雜記": "![[CE91F0.png]]"
-    },
-    "BE9986.gif": {
-        "The Web Can Do What!?": "![[BE9986.gif]]"
     },
     "8766D6.png": {
         "Discuss on Social Media Button": "![[8766D6.png]]"
