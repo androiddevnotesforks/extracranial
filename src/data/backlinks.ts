@@ -246,6 +246,9 @@ export const backlinks = {
     "2023-02-20": {
         "기술 발전의 속도": "[[2023-02-20]]에 작성한 에세이"
     },
+    "2023-11-22": {
+        "Project Ganymede": "## [[2023-11-22]]"
+    },
     "2022-11-22": {
         "2022년 11월 한 달간 일기 쓰기": "- [[2022-11-22]] 과제의 홍수"
     },
@@ -1279,6 +1282,10 @@ export const backlinks = {
     "Canvas (HTML5)": {
         "2023-08-10": "... found a noticeable drop in [[Canvas (HTML5)|canvas]] performance. It was very weird ...",
         "Stories Behind Satori": "- [[Canvas (HTML5)|Canvas]]-based solutions lacked dynamic behaviors (e.g., ..."
+    },
+    "산나비": {
+        "2023-11-22": "- [[산나비]]를 시작했다.",
+        "Playings": "- [[산나비]]"
     },
     "Tossface": {
         "Toss": "... of Toss Product Sans and [[Tossface]]",
@@ -4002,6 +4009,7 @@ export const backlinks = {
         "2023-11-11": "- [[Project Ganymede]]",
         "2023-11-14": "- [[Project Ganymede]]",
         "2023-11-18": "- [[Project Ganymede|Ganymede]]",
+        "2023-11-22": "- [[Project Ganymede]]",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
     },
@@ -10151,7 +10159,8 @@ export const backlinks = {
         "2023-03-24": "- [[Playings]]",
         "2023-04-15": "- [[Playings]]",
         "2023-04-30": "- [[Playings]]",
-        "2023-11-06": "- [[Playings]]"
+        "2023-11-06": "- [[Playings]]",
+        "2023-11-22": "- [[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
@@ -11140,6 +11149,18 @@ export const backlinks = {
     "28B122.jpg": {
         "2023-11-06": "![[28B122.jpg]]",
         "Super Mario Wonder": "![[28B122.jpg]]"
+    },
+    "4357A0.jpeg": {
+        "2023-11-22": "![[4357A0.jpeg]]",
+        "산나비": "![[4357A0.jpeg]]"
+    },
+    "F28983.jpeg": {
+        "2023-11-22": "![[F28983.jpeg]]",
+        "산나비": "![[F28983.jpeg]]"
+    },
+    "689D91.jpeg": {
+        "2023-11-22": "![[689D91.jpeg]]",
+        "산나비": "![[689D91.jpeg]]"
     },
     "6DA217.png": {
         "2023-09-08": "![[6DA217.png]]",
@@ -12248,6 +12269,9 @@ export const backlinks = {
     },
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
+    },
+    "D7D1B8.gif": {
+        "Project Ganymede": "![[D7D1B8.gif]]"
     },
     "61B318.jpg": {
         "Project Ganymede": "![[61B318.jpg]]"
