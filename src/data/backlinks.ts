@@ -9552,6 +9552,9 @@ export const backlinks = {
         "2023-04-10": "- [[Vercel Incident Report (April 2023)]]",
         "2023-05-03": "- [[Vercel Incident Report (April 2023)]]"
     },
+    "시간-돈": {
+        "2023-11-23": "- [[시간-돈]]"
+    },
     "NPU": {
         "Imagining WebNPU API": "... we could do this with [[NPU]]? I hereby suggest a hypothetical ...",
         "Neural Engine": "... ANE) is a type of [[NPU]], which stands for Neural Processing ...",
@@ -9808,7 +9811,8 @@ export const backlinks = {
         "Mac을 Command+L로 잠그는 방법": "- [[Locking your Mac with Command+L]]"
     },
     "기술 발전의 속도": {
-        "2023-02-20": "- [[기술 발전의 속도]]"
+        "2023-02-20": "- [[기술 발전의 속도]]",
+        "시간-돈": "어떤 일을 하고자 할때, [[기술 발전의 속도]]에 따라, 그 일은 시간이 지날수록 ..."
     },
     "Towns in Florence": {
         "2023-10-03": "- [[Towns in Florence]]",
@@ -11150,18 +11154,6 @@ export const backlinks = {
         "2023-11-06": "![[28B122.jpg]]",
         "Super Mario Wonder": "![[28B122.jpg]]"
     },
-    "4357A0.jpeg": {
-        "2023-11-22": "![[4357A0.jpeg]]",
-        "산나비": "![[4357A0.jpeg]]"
-    },
-    "F28983.jpeg": {
-        "2023-11-22": "![[F28983.jpeg]]",
-        "산나비": "![[F28983.jpeg]]"
-    },
-    "689D91.jpeg": {
-        "2023-11-22": "![[689D91.jpeg]]",
-        "산나비": "![[689D91.jpeg]]"
-    },
     "6DA217.png": {
         "2023-09-08": "![[6DA217.png]]",
         "Checkmark": "![[6DA217.png]]"
@@ -11266,6 +11258,18 @@ export const backlinks = {
     "613BFB.png": {
         "2023-02-02": "  ![[613BFB.png]]",
         "2023-02-21": "![[613BFB.png]]"
+    },
+    "4357A0.jpeg": {
+        "2023-11-23": "![[4357A0.jpeg]]",
+        "산나비": "![[4357A0.jpeg]]"
+    },
+    "F28983.jpeg": {
+        "2023-11-23": "![[F28983.jpeg]]",
+        "산나비": "![[F28983.jpeg]]"
+    },
+    "689D91.jpeg": {
+        "2023-11-23": "![[689D91.jpeg]]",
+        "산나비": "![[689D91.jpeg]]"
     },
     "B28551.png": {
         "2023-04-10": "> ![[B28551.png]]",
