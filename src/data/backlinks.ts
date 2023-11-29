@@ -243,6 +243,9 @@ export const backlinks = {
     "2023-11-06": {
         "Project Heimdall": "## [[2023-11-06]]"
     },
+    "2023-11-16": {
+        "Project Florence": "## [[2023-11-16]]"
+    },
     "2023-02-20": {
         "기술 발전의 속도": "[[2023-02-20]]에 작성한 에세이"
     },
@@ -1285,6 +1288,8 @@ export const backlinks = {
     },
     "산나비": {
         "2023-11-22": "- [[산나비]]를 시작했다.",
+        "2023-11-24": "- [[산나비]]를 대학생 5명이 만들었다고 한다.",
+        "2023-11-28": "- [[산나비]]를 끝냈다. [[네오 코리안 르네상스]]의 표본을 ...",
         "Playings": "- [[산나비]]"
     },
     "Tossface": {
@@ -5116,6 +5121,7 @@ export const backlinks = {
     },
     "Project Impruneta": {
         "2023-11-03": "- [[Project Impruneta]]",
+        "Project Florence": "## [[Project Impruneta]]",
         "Project Malmantile": "Superceded by [[Project Impruneta]]"
     },
     "Clock skew detected": {
@@ -5128,6 +5134,7 @@ export const backlinks = {
     },
     "네오 코리안 르네상스": {
         "2023-09-09": "- [[네오 코리안 르네상스]]",
+        "2023-11-28": "- 산나비를 끝냈다. [[네오 코리안 르네상스]]의 표본을 본 것 같아 정말 ...",
         "코리안 르네상스": "- [[네오 코리안 르네상스]]",
         "한민족의 멸종 방어": "- [[네오 코리안 르네상스]]"
     },
@@ -6697,6 +6704,9 @@ export const backlinks = {
     "PineApple Pay": {
         "2023-02-21": "- [[PineApple Pay]]"
     },
+    "BFCM": {
+        "2023-11-24": "- [[BFCM]]"
+    },
     "Letter to Mr. Gustav Ekerot on 2023-02-24": {
         "2023-02-26": "- [[Letter to Mr. Gustav Ekerot on 2023-02-24]]",
         "Cloud-native Video Editor": "## [[Letter to Mr. Gustav Ekerot on 2023-02-24]]"
@@ -7257,6 +7267,9 @@ export const backlinks = {
         "MetroPunk": "... 고갈, Economy|경제 붕괴, 새로운 시대의 [[Neo Block Economy|블록경제]], 부패한 정치인, 개인의 무력감을 묘사하는 ...",
         "한민족의 멸종 방어": "- [[Neo Block Economy|신블록경제에 오신 것을 환영합니다]]"
     },
+    "GitHub Admonition": {
+        "2023-11-24": "- [[GitHub Admonition]]"
+    },
     "Safari is the new Internet Explorer": {
         "2022-12-28": "- [[Safari is the new Internet Explorer]]"
     },
@@ -7435,6 +7448,7 @@ export const backlinks = {
         "2022-10-21": "- [[Lesser Known Trick]]",
         "2022-11-30": "- [[Lesser Known Trick]]. [[Sudo with Touch ID]]",
         "Adding a Verified Mark on Apple Mail and Gmail": "- [[Lesser Known Trick]]",
+        "GitHub Admonition": "[[Lesser Known Trick]]",
         "Ignoring $ for copy-pasting online resources to terminal": "[[Lesser Known Trick]].",
         "Menu Hover Effects": "- Cool UIUX [[Lesser Known Trick]].",
         "Redirecting READMEs": "[[Lesser Known Trick]]. It's a symlink. [[How does ...",
@@ -9516,6 +9530,7 @@ export const backlinks = {
         "2022-10-10": "- [[Transactional Globe]]",
         "2022-10-24": "- [[Transactional Globe]]",
         "3d Globe on the Web": "- [[Transactional Globe]]",
+        "BFCM": "... Stripe and Shopify showcased the [[Transactional Globe]]",
         "Better Aldehyde": "- [[Transactional Globe]]"
     },
     "Letter to Mr. Matt Rickard on 2022-11-28": {
@@ -10598,6 +10613,7 @@ export const backlinks = {
         "2023-10-31": "... to update Docusaurus to 3.0. [[Project Heimdall|Heimdall]] updates OK, but [[Aldehyde]] gives ...",
         "2023-11-03": "- [[Project Heimdall|Heimdall]]",
         "2023-11-06": "- [[Project Heimdall|Heimdall]]",
+        "2023-11-28": "- [[Project Heimdall]]의 이름은 naroo.ai로 하기로 했다. 나루.",
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Heimdall]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Heimdall]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Heimdall]].",
@@ -11672,6 +11688,9 @@ export const backlinks = {
         "Era of Invites": "![[1A746C.png]]",
         "초대장의 시대": "![[1A746C.png]]"
     },
+    "8C3CC0.png": {
+        "Project Florence": "![[8C3CC0.png]]"
+    },
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
     },
@@ -12537,6 +12556,9 @@ export const backlinks = {
     "573F59.png": {
         "Wope": "![[573F59.png]]"
     },
+    "EAC4BB.png": {
+        "Project Impruneta": "![[EAC4BB.png]]"
+    },
     "E73B24.png": {
         "shots.so": "![[E73B24.png]]"
     },
@@ -12805,6 +12827,12 @@ export const backlinks = {
     },
     "USC": {
         "LavaLab": "... I am attached to at [[USC]]."
+    },
+    "361EF9.gif": {
+        "BFCM": "![[361EF9.gif]]"
+    },
+    "1B4F60.gif": {
+        "BFCM": "![[1B4F60.gif]]"
     },
     "9C8F45.png": {
         "Search-based Tools for Thought": "![[9C8F45.png]]"
