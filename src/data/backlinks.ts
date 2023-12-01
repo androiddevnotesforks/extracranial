@@ -2440,6 +2440,9 @@ export const backlinks = {
     "Pascal Triangle": {
         "2023-01-24": "- [[Pascal Triangle]]"
     },
+    "Borrowing a Book from USC": {
+        "2023-11-29": "- [[Borrowing a Book from USC]]"
+    },
     "Person 960D1D": {
         "2023-03-03": "- [[Person 960D1D]]",
         "Project PEOPLE": "- [[Person 960D1D]]"
@@ -4015,6 +4018,7 @@ export const backlinks = {
         "2023-11-14": "- [[Project Ganymede]]",
         "2023-11-18": "- [[Project Ganymede|Ganymede]]",
         "2023-11-22": "- [[Project Ganymede]]",
+        "Person 4F439C": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
     },
@@ -5121,6 +5125,7 @@ export const backlinks = {
     },
     "Project Impruneta": {
         "2023-11-03": "- [[Project Impruneta]]",
+        "2023-11-29": "- [[Project Impruneta]]",
         "Project Florence": "## [[Project Impruneta]]",
         "Project Malmantile": "Superceded by [[Project Impruneta]]"
     },
@@ -9122,6 +9127,10 @@ export const backlinks = {
         "Towards Ambient Computing": "... developed a concept called the [[Memex]] in his essay As You ...",
         "앰비언트 컴퓨팅을 향해": "... 기록들을 재빨리 불러올 수 있다면 [[Memex|메멕스]]를 통해 기억의 확장이자 증강으로 사용할 ...",
         "인하우스와 자유경쟁": "... 것이 더 쉬워져야 한다. 이 [[Memex]]는 그 생각의 한 걸음이다."
+    },
+    "Person 4F439C": {
+        "2023-11-29": "- [[Person 4F439C]]",
+        "Project PEOPLE": "- [[Person 4F439C]]"
     },
     "Ignoring $ for copy-pasting online resources to terminal": {
         "2022-09-12": "- [[Ignoring $ for copy-pasting online resources to terminal]]"
