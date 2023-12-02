@@ -2093,6 +2093,9 @@ export const backlinks = {
         "Photoshop for Text": "### Photoshop for text — [[Stephan Ango]]",
         "Second Brain": "### [[Stephan Ango]] Link"
     },
+    "Discrete Mathematics": {
+        "2023-12-01": "- [[Discrete Mathematics]]"
+    },
     "Xcode Cloud": {
         "WWDC23": "- [[Xcode Cloud]]. 2x faster workflows. Share Tester ..."
     },
@@ -2140,6 +2143,7 @@ export const backlinks = {
     "P vs NP": {
         "2022-07-01": "- [[P vs NP]]",
         "2022-11-19": "  - [[P vs NP]]",
+        "Discrete Mathematics": "## [[P vs NP|P vs. NP]]",
         "Matt Rickard": "- [[P vs NP]]",
         "Monte Carlo and Las Vegas Algorithm": "... accurately is prohibited by the [[P vs NP|P-NP]] nature of the universe (at ...",
         "On National Crises and the Intellectuals — Focused on GB and KR": "## Conclusion — [[P vs NP|P vs. NP]] Problems",
@@ -2952,6 +2956,10 @@ export const backlinks = {
     "Agricultural Technology": {
         "2023-08-19": "- [[Agricultural Technology]]",
         "Malthusian Trap": "... but others remain hopeful that [[Agricultural Technology]] will prevent such a scenario."
+    },
+    "Person 4460DA": {
+        "2023-11-29": "- [[Person 4460DA]]",
+        "Project PEOPLE": "- [[Person 4460DA]]"
     },
     "Privacy Supply Chains": {
         "WWDC23": "- [[Privacy Supply Chains]]. Signature for third-party SDKs."
@@ -4018,7 +4026,7 @@ export const backlinks = {
         "2023-11-14": "- [[Project Ganymede]]",
         "2023-11-18": "- [[Project Ganymede|Ganymede]]",
         "2023-11-22": "- [[Project Ganymede]]",
-        "Person 4F439C": "... about a new messaging app ([[Project Ganymede]])",
+        "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
     },
@@ -6587,6 +6595,7 @@ export const backlinks = {
         "2023-11-20": "- [[Y Combinator]]"
     },
     "Partition": {
+        "Discrete Mathematics": "... is one part of the [[partition]]. Cut capacity $\\text{cap}(A, B) = ...",
         "Probability": "- [[Partition]]"
     },
     "Polymath": {
@@ -9128,10 +9137,6 @@ export const backlinks = {
         "앰비언트 컴퓨팅을 향해": "... 기록들을 재빨리 불러올 수 있다면 [[Memex|메멕스]]를 통해 기억의 확장이자 증강으로 사용할 ...",
         "인하우스와 자유경쟁": "... 것이 더 쉬워져야 한다. 이 [[Memex]]는 그 생각의 한 걸음이다."
     },
-    "Person 4F439C": {
-        "2023-11-29": "- [[Person 4F439C]]",
-        "Project PEOPLE": "- [[Person 4F439C]]"
-    },
     "Ignoring $ for copy-pasting online resources to terminal": {
         "2022-09-12": "- [[Ignoring $ for copy-pasting online resources to terminal]]"
     },
@@ -10032,7 +10037,8 @@ export const backlinks = {
         "Grammarly Work Note 2023-05-26": "... enforced, discovered by running npx [[prettier]] --write. On par with [[Prettier]], ..."
     },
     "3-SAT": {
-        "2023-11-19": "[[3-SAT]]"
+        "2023-11-19": "[[3-SAT]]",
+        "Discrete Mathematics": "- [[3-SAT]]. Each clause has at most ..."
     },
     "Sliding Panes": {
         "Andy Matuschak": "Introduced novel concepts, such as [[Sliding Panes]], [[Backlink|links to this note]], and ...",
@@ -11165,6 +11171,9 @@ export const backlinks = {
     "A77E29.png": {
         "2023-03-25": "![[A77E29.png]]",
         "hn.cho.sh 개발 기록": "![[A77E29.png]]"
+    },
+    "BCFFB7.png": {
+        "2023-11-29": "![[BCFFB7.png]]"
     },
     "81F6FA.png": {
         "2023-01-31": "![[81F6FA.png]]"
