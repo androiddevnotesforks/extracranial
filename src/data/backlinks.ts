@@ -3200,7 +3200,8 @@ export const backlinks = {
         "2022-11-07": "- [[Collecting Data]]"
     },
     "네오상평통보": {
-        "2023-08-22": "- [[네오상평통보]]"
+        "2023-08-22": "- [[네오상평통보]]",
+        "조선민족의 진로 재론": "[[네오상평통보]]와 관련."
     },
     "UIUX": {
         "2022-11-30": "... at some build tools, but [[UIUX|UI]] components or other libraries usually ...",
@@ -3313,6 +3314,7 @@ export const backlinks = {
         "2023-08-31": "- [[Readings]]",
         "2023-09-18": "- [[Readings]]",
         "2023-09-19": "- [[Readings]]",
+        "2023-12-05": "[[Readings]]",
         "Building a Second Brain": "... it into Projects, Research, and [[Readings]].",
         "Displaying exact datetimes on Ghost": "## Further [[Readings]]",
         "Everything Is Figureoutable": "future [[readings]]. like the title.",
@@ -6296,7 +6298,8 @@ export const backlinks = {
     },
     "한국의 식민지 근대성": {
         "2023-10-21": "- [[한국의 식민지 근대성]]",
-        "2023-10-23": "- [[한국의 식민지 근대성]]"
+        "2023-10-23": "- [[한국의 식민지 근대성]]",
+        "Readings": "- [x] [[한국의 식민지 근대성]] (Colonial Modernity in Korea)"
     },
     "Greater Northeast Corridor": {
         "2023-12-03": "[[Greater Northeast Corridor]]"
@@ -6690,6 +6693,9 @@ export const backlinks = {
         "One and Only (Social App)": "Like [[Texts (Service)]], it pulls from all the ...",
         "One and only": "[[Texts (Service)]] aims to be the one ..."
     },
+    "조선민족의 진로 재론": {
+        "Readings": "- [x] [[조선민족의 진로 재론]]"
+    },
     "Things (3D)": {
         "3D": "- [[Things (3D)]]"
     },
@@ -7067,6 +7073,9 @@ export const backlinks = {
         "IDOL Stack": "- Next.js, [[Supabase]] [[Database|DB]], Supabase Auth, Supabase Storage, ...",
         "henrymakesapps": "4. [[Supabase]]. Offers an easy-to-use [[database]] with ...",
         "hn.cho.sh 개발 기록": "... starter template for Next.js and [[Supabase]] 살펴보기"
+    },
+    "High Growth Handbook": {
+        "Readings": "- [x] [[High Growth Handbook]]"
     },
     "Delta Time": {
         "Game Programming": "- [[Delta Time]]",
