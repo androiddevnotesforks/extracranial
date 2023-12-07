@@ -11176,6 +11176,9 @@ export const backlinks = {
     "wikilink": {
         "2022-10-17": "... is necessary because I use `[[wikilink]]` for interlinking, which [[Docusaurus]] does ..."
     },
+    "5839D6.jpeg": {
+        "2023-12-07": "![[5839D6.jpeg]]"
+    },
     "21691E.png": {
         "2023-03-25": "![[21691E.png]]",
         "hn.cho.sh 개발 기록": "![[21691E.png]]"
