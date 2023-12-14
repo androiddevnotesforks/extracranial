@@ -2256,6 +2256,9 @@ export const backlinks = {
         "Adding a Verified Mark on Apple Mail and Gmail": "- Use a [[SMIME|S/MIME]] certificate to sign an [[Mail|email]]",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... than Nodemailer or EmailEngine, i.e., [[SMIME]] or, more recently — [[BIMI|Brand ..."
     },
+    "Project Horcrux": {
+        "2023-10-20": "- [[Project Horcrux]]"
+    },
     "ShadowRealm": {
         "2022-06-26": "- Let's not explore [[ShadowRealm]] and `iframe` [[Sandbox]] for now.",
         "Realm Shim": "... of the Realm API Proposal ([[ShadowRealm]])"
@@ -4513,9 +4516,6 @@ export const backlinks = {
         "Person CC8297": "  - Capstone at [[Amazon]] Robotics.",
         "Using an iPad as my Ebook": "... lacks 대한민국|Korean titles. Knowing that [[Amazon]] loses money for each Kindle ...",
         "쿠팡": "... often referred to as the \"[[Amazon]] of South Korea.\" The company ..."
-    },
-    "Project Hocrux": {
-        "2023-10-20": "- [[Project Hocrux]]"
     },
     "Profiling": {
         "2023-02-01": "- [[Profiling]]"
@@ -11645,8 +11645,20 @@ export const backlinks = {
     "72F981.png": {
         "Bump": "![[72F981.png]]"
     },
-    "47AA6E.png": {
-        "Zenly 4.0 Design": "![[47AA6E.png]]"
+    "C31AC2.gif": {
+        "Zenly 4.0 Design": "![[C31AC2.gif]]"
+    },
+    "559F4D.png": {
+        "Zenly 4.0 Design": "![[559F4D.png]]"
+    },
+    "CCA21B.gif": {
+        "Zenly 4.0 Design": "![[CCA21B.gif]]"
+    },
+    "3924FC.png": {
+        "Zenly 4.0 Design": "![[3924FC.png]]"
+    },
+    "42DAAA.jpg": {
+        "Zenly 4.0 Design": "![[42DAAA.jpg]]"
     },
     "C8903B.png": {
         "Metadream": "![[C8903B.png]]"
