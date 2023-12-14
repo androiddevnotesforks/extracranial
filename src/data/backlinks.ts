@@ -1354,6 +1354,9 @@ export const backlinks = {
         "Vertical Federated Learning": "... employing advanced cryptographic techniques like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]) or [[Homomorphic ...",
         "honest-but-curious": "... Learning|FL) and cryptographic protocols like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]). In this ..."
     },
+    "Zenly 4.0 Design": {
+        "2023-12-13": "- [[Zenly 4.0 Design]]"
+    },
     "소셜 엔지니어링 금지": {
         "2023-09-26": "- [[소셜 엔지니어링 금지]]",
         "민사고 앱": "... 소프트웨어는 온전히 사람을 보조할 것. [[소셜 엔지니어링 금지]]",
@@ -2264,6 +2267,9 @@ export const backlinks = {
         "Readings": "- [x] [[Atomic Habits]]",
         "水適穿石": "- [[Atomic Habits]]"
     },
+    "까리": {
+        "2023-12-13": "- [[까리]]"
+    },
     "Web Graphics": {
         "2022-10-25": "- [[Web Graphics]]",
         "2022-10-27": "- [[Web Graphics]]",
@@ -2864,6 +2870,7 @@ export const backlinks = {
         "유난한 도전": "... 약간의 입질이 오자 홈페이지를 열고 [[Twitter|트위터]]에 링크를 올리니 반응이 확실했다."
     },
     "SVG": {
+        "2023-12-13": "- [[SVG]]",
         "CSS": "... (including XML dialects such as [[SVG]], MathML, or XHTML). CSS is ...",
         "Open Graph Image as a Service": "... convert HTML and CSS to [[SVG]]",
         "Show me your Laptop": "Someday Project. And embeddable [[SVG]] card that lets you add ...",
@@ -4739,6 +4746,9 @@ export const backlinks = {
     "Fabric.so": {
         "2023-10-27": "- [[Fabric.so]]"
     },
+    "Video AI": {
+        "2023-12-13": "- [[Video AI]]"
+    },
     "Augmented Reality": {
         "Apple Vision Pro": "... cases in various fields, including [[Augmented Reality]]‐based instruction, home decoration, and watching ...",
         "Extended Reality": "Virtual Reality|VR + [[Augmented Reality|AR]]",
@@ -5004,6 +5014,9 @@ export const backlinks = {
     },
     "GitHub Copilot Investigation": {
         "Copilot": "- [[GitHub Copilot Investigation]]"
+    },
+    "Metal": {
+        "2023-12-13": "- [[Metal]]"
     },
     "Packet Switching vs Circuit Switching": {
         "Internetworking": "- [[Packet Switching vs Circuit Switching]]"
@@ -5702,6 +5715,9 @@ export const backlinks = {
     },
     "Cache Conscious Programming": {
         "2022-11-04": "- [[Cache Conscious Programming]]"
+    },
+    "CSS Scroll Snapping": {
+        "2023-12-13": "- [[CSS Scroll Snapping]]"
     },
     "RSU": {
         "Finance": "- [[RSU]]"
@@ -6824,6 +6840,9 @@ export const backlinks = {
         "Computer Systems": "- [[Page Size and Address Translations]]",
         "Virtual Memory": "- [[Page Size and Address Translations]]"
     },
+    "iTunes": {
+        "2023-12-13": "- [[iTunes]]"
+    },
     "ChatGPT보다 내가 나은데": {
         "2023-09-05": "- [[ChatGPT보다 내가 나은데]]"
     },
@@ -7046,6 +7065,9 @@ export const backlinks = {
         "React Email": "... of making Mail|emails interactive like [[AMP Email]]",
         "Reimagining Emails": "- Interactive Mail|Emails using [[AMP Email]]. Example: [[Spellbound]]",
         "Spellbound": "- [[AMP Email]]"
+    },
+    "Vertical ChatGPT": {
+        "2023-12-13": "- [[Vertical ChatGPT]]"
     },
     "Monte Carlo and Las Vegas Algorithm": {
         "2023-08-15": "- [[Monte Carlo and Las Vegas Algorithm]]",
@@ -9391,6 +9413,9 @@ export const backlinks = {
         "Caching": "- [[Cache Evictions]]",
         "Page Faults": "... LRU, FIFO, Random approach like [[Cache Evictions]]"
     },
+    "Apple Music": {
+        "iTunes": "iTunes was better than [[Apple Music]] in so many ways..."
+    },
     "Poisson Law": {
         "2023-02-02": "- [[Poisson Law]]",
         "Probability": "- [[Poisson Law]]"
@@ -10993,6 +11018,9 @@ export const backlinks = {
     "Grammarly Work Note 2023-05-30": {
         "2023-05-30": "- [[Grammarly Work Note 2023-05-30]] on [[GNAR]]"
     },
+    "ChatGPT Client": {
+        "2023-12-13": "- [[ChatGPT Client]]"
+    },
     "이공계": {
         "2023-02-15": "- [[이공계]]",
         "민사고와 쇼비니즘": "[[이공계]] 문제와 [[의대 쏠림]] 문제, 그리고 ...",
@@ -11616,6 +11644,9 @@ export const backlinks = {
     },
     "72F981.png": {
         "Bump": "![[72F981.png]]"
+    },
+    "47AA6E.png": {
+        "Zenly 4.0 Design": "![[47AA6E.png]]"
     },
     "C8903B.png": {
         "Metadream": "![[C8903B.png]]"
@@ -12491,6 +12522,9 @@ export const backlinks = {
     },
     "224F73.png": {
         "Fabric.so": "![[224F73.png]]"
+    },
+    "6DF84D.png": {
+        "Video AI": "![[6DF84D.png]]"
     },
     "Int": {
         "0015 3Sum": "... func threeSum( numsOriginal: [Int]) -> [[Int]] {",
