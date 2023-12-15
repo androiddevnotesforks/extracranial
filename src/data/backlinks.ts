@@ -678,6 +678,9 @@ export const backlinks = {
     "2023-03-03": {
         "Person 960D1D": "- [[2023-03-03]]"
     },
+    "2023-12-15": {
+        "Project Ganymede": "## [[2023-12-15]]"
+    },
     "2022-09-25": {
         "0110 Balanced Binary Tree": "Solved at: [[2022-09-25]]",
         "0235 LCA of a Binary Search Tree": "Solved at: [[2022-09-25]]. Took 17m 09s",
@@ -4038,6 +4041,7 @@ export const backlinks = {
         "2023-11-14": "- [[Project Ganymede]]",
         "2023-11-18": "- [[Project Ganymede|Ganymede]]",
         "2023-11-22": "- [[Project Ganymede]]",
+        "2023-12-15": "- [[Project Ganymede|Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
@@ -6384,6 +6388,9 @@ export const backlinks = {
         "Transactional Globe": "... Time for a WebGL & [[shader]] thread! pic.twitter.com/7SW4vE5tTJ",
         "WebGPU": "- It has a built-in [[shader]] [[Link (Computer Systems)|linker]] and binding ..."
     },
+    "My Raycast Wrapped of 2023": {
+        "2023-12-15": "- [[My Raycast Wrapped of 2023]]"
+    },
     "Search in a Latent Space": {
         "2022-12-04": "- [[Search in a Latent Space]]",
         "Atomic Habits": "... Potential. Sounds astoundingly similar to [[Search in a Latent Space]]",
@@ -8239,7 +8246,8 @@ export const backlinks = {
         "Write Once Run Everywhere": "- [[React]] and [[React Native]]"
     },
     "My Raycast Wrapped of 2022": {
-        "2022-12-17": "- [[My Raycast Wrapped of 2022]]"
+        "2022-12-17": "- [[My Raycast Wrapped of 2022]]",
+        "My Raycast Wrapped of 2023": "[[My Raycast Wrapped of 2022]]"
     },
     "Extracting string in Android": {
         "Android": "- [[Extracting string in Android]]"
@@ -11504,6 +11512,9 @@ export const backlinks = {
     "E13484.png": {
         "2022-12-20": "![[E13484.png]]"
     },
+    "29DBAE.png": {
+        "2023-12-14": "![[29DBAE.png]]"
+    },
     "7ECD23.png": {
         "2023-09-10": "![[7ECD23.png]]"
     },
@@ -11533,6 +11544,10 @@ export const backlinks = {
     },
     "184D2B.png": {
         "2023-01-23": "![[184D2B.png]]"
+    },
+    "EEDDA7.gif": {
+        "2023-12-15": "- ![[EEDDA7.gif]]",
+        "Project Ganymede": "![[EEDDA7.gif]]"
     },
     "2BC3E2.jpg": {
         "2023-06-28": "![[2BC3E2.jpg]]"
@@ -12846,6 +12861,21 @@ export const backlinks = {
     "CD4751.png": {
         "San Francisco": "![[CD4751.png]]",
         "Satoshi": "![[CD4751.png]]"
+    },
+    "FA49F5.png": {
+        "My Raycast Wrapped of 2023": "![[FA49F5.png]]"
+    },
+    "2FB6F8.png": {
+        "My Raycast Wrapped of 2023": "![[2FB6F8.png]]"
+    },
+    "363028.png": {
+        "My Raycast Wrapped of 2023": "![[363028.png]]"
+    },
+    "A6AD64.png": {
+        "My Raycast Wrapped of 2023": "![[A6AD64.png]]"
+    },
+    "55A51E.png": {
+        "My Raycast Wrapped of 2023": "![[55A51E.png]]"
     },
     "B4EED6.png": {
         "WWDC Scholarship": "![[B4EED6.png]]"
