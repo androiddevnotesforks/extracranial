@@ -11546,7 +11546,7 @@ export const backlinks = {
         "2023-01-23": "![[184D2B.png]]"
     },
     "EEDDA7.gif": {
-        "2023-12-15": "- ![[EEDDA7.gif]]",
+        "2023-12-15": "![[EEDDA7.gif]]",
         "Project Ganymede": "![[EEDDA7.gif]]"
     },
     "2BC3E2.jpg": {
