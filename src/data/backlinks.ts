@@ -732,6 +732,9 @@ export const backlinks = {
     "2020-04-01": {
         "프로젝트 어덕행덕": "- [[2020-04-01]]"
     },
+    "2023-12-25": {
+        "Project Ganymede": "## [[2023-12-25]]"
+    },
     "2023-07-16": {
         "Project Naroo": "## [[2023-07-16]]"
     },
@@ -4094,6 +4097,7 @@ export const backlinks = {
         "2023-11-18": "- [[Project Ganymede|Ganymede]]",
         "2023-11-22": "- [[Project Ganymede]]",
         "2023-12-15": "- [[Project Ganymede|Ganymede]]",
+        "2023-12-25": "[[Project Ganymede|Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
@@ -6818,7 +6822,7 @@ export const backlinks = {
         "Autosave Everything": "... autosave intervals or setting different [[shortcuts]] for each app.",
         "ChatGPT": "... voice assistant built entirely with [[Shortcuts]]",
         "Locking your Mac with Command+L": "2. Go to Keyboard → [[Shortcuts]] → App Shortcuts and press ...",
-        "Project Ganymede": "... out that in iOS 17, [[Shortcuts]] can send [[Text Message|messages]] without ...",
+        "Project Ganymede": "In iOS 17, [[Shortcuts]] can send [[Text Message|messages]] without ...",
         "Visual Studio Code": "... can change the theme, keyboard [[shortcuts]], preferences, and install extensions that ...",
         "sssss": "Supersedes [[Shortcuts]]"
     },
@@ -8549,7 +8553,7 @@ export const backlinks = {
     },
     "Ganymede Table Structure": {
         "2023-11-11": "- [[Ganymede Table Structure]]",
-        "Project Ganymede": "... a simple server for the [[Ganymede Table Structure]]. Prisma layer makes 3 requests ..."
+        "Project Ganymede": "... a simple server for the [[Ganymede Table Structure]]. Prisma layer makes three requests ..."
     },
     "남이사": {
         "2023-09-10": "[[남이사]]이지만서도 얼마나 힘들었길래... 하는 안타까운 마음이 ..."
@@ -11091,7 +11095,7 @@ export const backlinks = {
         "Now Page": "... rather keep improving my back-end [[database]] work.\"",
         "Prisma": "Prisma is an open-source [[database]] toolkit developed to make it ...",
         "Prisma Accelerate": "... Platform that provides a global [[database]] cache across over 280 locations, ...",
-        "Project Ganymede": "... makes 3 requests to the [[Database|DB]] per 1 request to the ...",
+        "Project Ganymede": "... makes three requests to the [[Database|DB]] per 1 request to the ...",
         "Proposal of Research 2023-01-10": "... the pixel combinations on the [[database]]. So, I explored clamping the ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### Federated [[Database]] Systems",
         "React": "... functionality from UIUX|UI to the [[database]], with extra features such as ...",
@@ -12470,6 +12474,12 @@ export const backlinks = {
     },
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
+    },
+    "8CE3E2.png": {
+        "Project Ganymede": "![[8CE3E2.png]]"
+    },
+    "2AEC71.png": {
+        "Project Ganymede": "![[2AEC71.png]]"
     },
     "D7D1B8.gif": {
         "Project Ganymede": "![[D7D1B8.gif]]"
