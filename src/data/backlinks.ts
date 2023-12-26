@@ -172,6 +172,9 @@ export const backlinks = {
     "2020-05-29": {
         "Sending Notifications on Chrome Extension": "[[2020-05-29]]"
     },
+    "2023-12-23": {
+        "Project Naroo": "## [[2023-12-23]]"
+    },
     "2023-01-21": {
         "하늘땅사람 업데이트 기록": "## 1.0.5 [[2023-01-21]]"
     },
@@ -593,7 +596,7 @@ export const backlinks = {
         "Jog 25 minutes (Jan-Feb 2023)": "- [[2023-01-26]]. 면접 준비하느라 하지 못했다. 하지만 ..."
     },
     "2023-12-24": {
-        "Project Naroo": "## [[2023-12-24]]"
+        "Project Ganymede": "## [[2023-12-24]]"
     },
     "2022-12-24": {
         "Letter to Mr. Matt Rickard on 2022-12-24": "... to Mr. Matt Rickard on [[2022-12-24]]"
@@ -731,9 +734,6 @@ export const backlinks = {
     },
     "2020-04-01": {
         "프로젝트 어덕행덕": "- [[2020-04-01]]"
-    },
-    "2023-12-25": {
-        "Project Ganymede": "## [[2023-12-25]]"
     },
     "2023-07-16": {
         "Project Naroo": "## [[2023-07-16]]"
@@ -999,7 +999,7 @@ export const backlinks = {
         "Clean Energy": "- [[Solar]]"
     },
     "RoughNotation": {
-        "2023-12-24": "- [[RoughNotation]]"
+        "2023-12-23": "- [[RoughNotation]]"
     },
     "0206 Reverse Linked List": {
         "Coding Tests": "- [x] [[0206 Reverse Linked List]]"
@@ -1748,7 +1748,7 @@ export const backlinks = {
         "2023-01-30": "- [[Project Core ML Foundation]]"
     },
     "Medical AI": {
-        "2023-12-24": "- [[Medical AI]]"
+        "2023-12-23": "- [[Medical AI]]"
     },
     "SMTP": {
         "Architecture of Mastodon": "- Agnostic S3/[[SMTP]] File Storage and Mailer",
@@ -1970,7 +1970,7 @@ export const backlinks = {
     },
     "supernpm": {
         "2023-09-09": "- [[supernpm]]",
-        "2023-12-24": "- [[supernpm]]"
+        "2023-12-23": "- [[supernpm]]"
     },
     "Macroeconomics": {
         "2023-09-10": "- [[Macroeconomics]]",
@@ -1986,7 +1986,7 @@ export const backlinks = {
         "2023-10-26": "- [[Squircled App Icon Generator]]"
     },
     "Skeumorphism": {
-        "2023-12-24": "- [[Skeumorphism]]"
+        "2023-12-23": "- [[Skeumorphism]]"
     },
     "HQ Proximity": {
         "2023-01-13": "- [[HQ Proximity]]"
@@ -2305,7 +2305,7 @@ export const backlinks = {
         "2023-11-03": "- [[Project Naroo|Heimdall]]",
         "2023-11-06": "- [[Project Naroo|Heimdall]]",
         "2023-11-28": "- [[Project Naroo]]의 이름은 naroo.ai로 하기로 했다. 나루.",
-        "2023-12-24": "- [[Project Naroo]]",
+        "2023-12-23": "- [[Project Naroo]]",
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Naroo]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Naroo]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Naroo]].",
@@ -2328,7 +2328,7 @@ export const backlinks = {
     "까리": {
         "2023-12-13": "- [[까리]]",
         "2023-12-17": "[[까리]]",
-        "2023-12-24": "- [[까리]]"
+        "2023-12-23": "- [[까리]]"
     },
     "Web Graphics": {
         "2022-10-25": "- [[Web Graphics]]",
@@ -4006,7 +4006,7 @@ export const backlinks = {
         "Probability": "- [[Poisson Approximation]]"
     },
     "Archiving-based Tools for Thoughts": {
-        "2023-12-24": "- [[Archiving-based Tools for Thoughts]]",
+        "2023-12-23": "- [[Archiving-based Tools for Thoughts]]",
         "Tools for Thought": "- [[Archiving-based Tools for Thoughts]]. takes a full copy of ..."
     },
     "Add Shadow to Transparent PNG": {
@@ -4097,7 +4097,7 @@ export const backlinks = {
         "2023-11-18": "- [[Project Ganymede|Ganymede]]",
         "2023-11-22": "- [[Project Ganymede]]",
         "2023-12-15": "- [[Project Ganymede|Ganymede]]",
-        "2023-12-25": "[[Project Ganymede|Ganymede]]",
+        "2023-12-24": "[[Project Ganymede|Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
@@ -5910,7 +5910,7 @@ export const backlinks = {
         "2023-01-25": "- [[Conditional Compilation]]"
     },
     "Knowledge Base": {
-        "2023-12-24": "- [[Knowledge Base]]"
+        "2023-12-23": "- [[Knowledge Base]]"
     },
     "Time-Space Continuum (Philosophy)": {
         "2023-04-12": "- [[Time-Space Continuum (Philosophy)]]"
@@ -11239,6 +11239,9 @@ export const backlinks = {
     "wikilink": {
         "2022-10-17": "... is necessary because I use `[[wikilink]]` for interlinking, which [[Docusaurus]] does ..."
     },
+    "26F382.png": {
+        "2023-12-23": "![[26F382.png]]"
+    },
     "5839D6.jpeg": {
         "2023-12-07": "![[5839D6.jpeg]]",
         "Project Naroo": "![[5839D6.jpeg]]"
@@ -11508,8 +11511,13 @@ export const backlinks = {
     "E8341D.png": {
         "2023-02-08": "![[E8341D.png]]"
     },
-    "26F382.png": {
-        "2023-12-24": "![[26F382.png]]"
+    "8CE3E2.png": {
+        "2023-12-24": "![[8CE3E2.png]]",
+        "Project Ganymede": "![[8CE3E2.png]]"
+    },
+    "2AEC71.png": {
+        "2023-12-24": "![[2AEC71.png]]",
+        "Project Ganymede": "![[2AEC71.png]]"
     },
     "902071.png": {
         "2022-12-24": "> ![[902071.png]]"
@@ -11612,13 +11620,8 @@ export const backlinks = {
     "99EE18.png": {
         "2023-01-27": "![[99EE18.png]]"
     },
-    "8CE3E2.png": {
-        "2023-12-25": "![[8CE3E2.png]]",
-        "Project Ganymede": "![[8CE3E2.png]]"
-    },
-    "2AEC71.png": {
-        "2023-12-25": "![[2AEC71.png]]",
-        "Project Ganymede": "![[2AEC71.png]]"
+    "13766B.jpeg": {
+        "2023-12-25": "![[13766B.jpeg]]"
     },
     "A2CE1D.png": {
         "2023-10-31": "![[A2CE1D.png]]"
