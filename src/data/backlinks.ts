@@ -776,6 +776,7 @@ export const backlinks = {
     },
     "Algorithmic Recommendation Engine for Texts": {
         "2023-02-02": "- [[Algorithmic Recommendation Engine for Texts]]",
+        "2024-01-01": "[[Algorithmic Recommendation Engine for Texts]]",
         "LavaLab Cohort of Spring 2023": "... to Project Naroo, by attempting [[Algorithmic Recommendation Engine for Texts]].",
         "hn.cho.sh 개발 기록": "- [[Algorithmic Recommendation Engine for Texts]]"
     },
@@ -1654,6 +1655,9 @@ export const backlinks = {
     },
     "HLSL": {
         "2023-01-23": "- [[HLSL]]"
+    },
+    "Saturn (Service)": {
+        "2023-12-28": "[[Saturn (Service)]]"
     },
     "Meltdown and Spectre": {
         "2022-12-09": "- [[Meltdown and Spectre]]",
@@ -10295,7 +10299,8 @@ export const backlinks = {
         "2023-04-15": "- [[Playings]]",
         "2023-04-30": "- [[Playings]]",
         "2023-11-06": "- [[Playings]]",
-        "2023-11-22": "- [[Playings]]"
+        "2023-11-22": "- [[Playings]]",
+        "2023-12-26": "[[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
