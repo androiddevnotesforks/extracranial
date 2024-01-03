@@ -277,6 +277,9 @@ export const backlinks = {
     "2023-04-05": {
         "hn.cho.sh 개발 기록": "## [[2023-04-05]]"
     },
+    "2023-09-28": {
+        "빚 무서우면 장사를 어떻게 하지": "[[2023-09-28]]의 생각."
+    },
     "2022-08-26": {
         "0079 Word Search": "Solved at: [[2022-08-26]]"
     },
@@ -1198,6 +1201,9 @@ export const backlinks = {
     "JavaScript heap out of memory": {
         "2023-05-24": "- [[JavaScript heap out of memory]]",
         "2023-07-19": "- [[JavaScript heap out of memory]]"
+    },
+    "Shazam for Smells": {
+        "2024-01-03": "- [[Shazam for Smells]]"
     },
     "창의는 평온에서 나온다": {
         "2023-04-05": "[[창의는 평온에서 나온다]]"
@@ -2332,7 +2338,8 @@ export const backlinks = {
     "까리": {
         "2023-12-13": "- [[까리]]",
         "2023-12-17": "[[까리]]",
-        "2023-12-23": "- [[까리]]"
+        "2023-12-23": "- [[까리]]",
+        "2024-01-03": "- [[까리]]"
     },
     "Web Graphics": {
         "2022-10-25": "- [[Web Graphics]]",
@@ -2850,6 +2857,9 @@ export const backlinks = {
         "2023-05-26": "- [[Grammarly Work Note 2023-05-26]]",
         "2023-05-27": "[[Grammarly Work Note 2023-05-26]]"
     },
+    "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": {
+        "2024-01-03": "- [[김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업]]"
+    },
     "Dioxus": {
         "2022-12-28": "- [[Dioxus]]"
     },
@@ -3050,6 +3060,9 @@ export const backlinks = {
     "Towards Ambient Computing": {
         "2023-10-04": "- [[Towards Ambient Computing]]",
         "Newtonian Correspondence": "| 10-04 | `EN` [[Towards Ambient Computing]] `KO` [[앰비언트 컴퓨팅을 향해]]  ..."
+    },
+    "Action Button Walkie-Talkie": {
+        "2024-01-03": "- [[Action Button Walkie-Talkie]]"
     },
     "Internetworking": {
         "2022-08-28": "- [[Internetworking]]",
@@ -3355,6 +3368,9 @@ export const backlinks = {
         "Why Korean Banks Suck": "... and made it a standard ([[SEED]].)",
         "국내 은행 서비스가 나쁜 이유": "... 128비트 보안 시스템을 자체적으로 개발해 [[SEED]]라는 표준으로 삼았다."
     },
+    "Cashflow (Service)": {
+        "2024-01-03": "- [[Cashflow (Service)]]"
+    },
     "OpenAI": {
         "2023-02-08": "... have partnered with cloud providers: [[OpenAI]] ([[Microsoft]]) and Anthropic ([[Google]]). These ...",
         "Bing": "... get complete answers). The same [[OpenAI]] technology behind [[ChatGPT]] powers this ...",
@@ -3386,6 +3402,7 @@ export const backlinks = {
         "2023-09-18": "- [[Readings]]",
         "2023-09-19": "- [[Readings]]",
         "2023-12-05": "[[Readings]]",
+        "2024-01-03": "- [[Readings]]",
         "Building a Second Brain": "... it into Projects, Research, and [[Readings]].",
         "Displaying exact datetimes on Ghost": "## Further [[Readings]]",
         "Everything Is Figureoutable": "future [[readings]]. like the title.",
@@ -4654,6 +4671,7 @@ export const backlinks = {
         "2023-07-30": "모든 [[Project|프로젝트]]를 유지보수 없는 자동현상유지 상태로 만들거나 ...",
         "AIs.txt": "- [[Project]]",
         "AMP": "... by the AMP Open Source [[Project]]. [[Google]] created it as a ...",
+        "Action Button Walkie-Talkie": "Someday [[Project]]",
         "Action Required Newsletter Networks": "Someday [[Project]]. It's a [[Newsletter]] but you ...",
         "Aldehyde": "알데하이드는 아직 인문행정적 [[Project|프로젝트]] 운영에 약하다.",
         "Aldehyde SaaS": "Someday [[Project]]. It's this [[Aldehyde]].",
@@ -4670,6 +4688,7 @@ export const backlinks = {
         "CELLO": "- [[Project]]",
         "CalliFontia": "Someday [[Project]]. [[Apple]] Pencil Handwriting → [[Font]].",
         "Cartography": "... can be difficult, as each [[project]] has its trade-offs.",
+        "Cashflow (Service)": "Someday [[Project]]. Link all of your SaaS ...",
         "Chopstick Game": "Someday [[Project]]. Digital implementation of the chopstick ...",
         "ChromeOS Packer": "- Someday [[Project]]",
         "Coding Tests": "- [[Project]]",
@@ -5227,6 +5246,7 @@ export const backlinks = {
     "네오 코리안 르네상스": {
         "2023-09-09": "- [[네오 코리안 르네상스]]",
         "2023-11-28": "- 산나비를 끝냈다. [[네오 코리안 르네상스]]의 표본을 본 것 같아 정말 ...",
+        "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[네오 코리안 르네상스]]로 나아가기 위해선 김치, 엽전, 선비 ...",
         "코리안 르네상스": "- [[네오 코리안 르네상스]]",
         "한민족의 멸종 방어": "- [[네오 코리안 르네상스]]"
     },
@@ -6146,6 +6166,7 @@ export const backlinks = {
         "Separation of Computer Scientists and Computer Technologists": "... rappers to classical oboists, from [[대한민국|Korean]] idols to shamanist drummers.",
         "Service Shimming": "- Naver (≈ [[대한민국|Korean]] Google), for a while, failed ...",
         "Setting different fonts by language in CSS": "I recently came across a [[대한민국|Korean]] [[font]] called Spoqa Han Sans. ...",
+        "Sourgraping": "... the middle gray area of [[대한민국|Korea]] and the [[United States of ...",
         "Sudden Rise of Bondee": "... social app, going crazy in [[대한민국|Korea]], [[일본|Japan]], [[Singapore]], [[대만|Taiwan]], etc., ranking ...",
         "Toss": "- Financial Technology|FinTech Unicorn of [[대한민국|Korea]].",
         "Universal Chat App": "2. KakaoTalk ([[대한민국|Korea]]). Developed by [[Kakao]] Corporation, KakaoTalk ...",
@@ -6160,6 +6181,7 @@ export const backlinks = {
         "국가와 민족": "- [[대한민국]]은 [[한민족|민족]]과 국가를 종종 혼동한다.",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 위해 앉아 고민하면서, 제 조국, [[대한민국]]이 직면한 위기에 대해 생각하지 않을 ...",
         "국내 은행 서비스가 나쁜 이유": "... States of America|미국에서도 익숙한 이야기지만, [[대한민국|한국]]은 한 단계 더 정수를 보여준다고 ...",
+        "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "... 위해선 김치, 엽전, 선비 등 [[대한민국|한국]]적 문화유산에 대한 부정적 의미 제거 ...",
         "너 주식 해": "... America|미국에서 흥미로운 관찰 중 하나는 [[대한민국|한국]]에서 흔한 아이스 브레이커로 사용되는 \"너 ...",
         "네오 코리안 르네상스": "... 재료는 충분하지만 중국과 일본에 비해서 [[대한민국|한국]]의 문화가 '재탐색'되지 않았다.",
         "대한민국의 저출산": "[[대한민국|Korea]]'s fertility rate has dropped to ...",
@@ -6593,6 +6615,7 @@ export const backlinks = {
         "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
         "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
         "과거의 영광 (2016-2018)": "... 있는 것일지도 모른다. 민사고에는 '내미'라는 [[Vocab|단어]]가 있다. '내신에 미친 사람'이라는 뜻이다. ...",
+        "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "... 정통적 의미로는 \"젠틀맨\"에 가장 가까운 [[Vocab|단어]]여야 하지만, 현대에 남아있는 이미지는 꽉 ...",
         "도메인 찾아 삼만리": "- chosh라는 [[Vocab|단어]]는 Urban Dictionary에 부정적인 의미로 등록되어 ...",
         "배달의민족 FE 개발자가 일하는 법 발표": "... 10년간 버드 워드 (업계에서 회자되는 [[Vocab|단어들]])로 애자일, 워터폴 등을 들어보았을 것이다. ...",
         "이무기 기업, 청룡 기업": "Unicorn|유니콘 기업이라는 [[Vocab|단어]]는 마치 성공이 정해진 양 너무 ...",
@@ -7866,6 +7889,7 @@ export const backlinks = {
         "Haruki Murakami": "... January 12, 1949) is a [[일본어|Japanese]] writer. His novels, essays, and ...",
         "Project Naroo": "... can go to Hacker News [[일본어|Japanese]] version and read the content ...",
         "Shortcuts": "... type English, inspired by the [[일본어|Japanese]] Apple keyboard's [[일본어|Kana]] ([[일본어|かな]]) and ...",
+        "까리": "... 종종 있다. 예를 들어 Hono ([[일본어]]로 \"불\"이라는 뜻), Waku (일본어로 \"프레임\"이라는 ...",
         "이완용": "... 원한 것도 아니거니와 일제 치하 [[일본어]] 의무교육을 도입한 것으로 미루어 보아 ...",
         "일본": "[[일본어]]",
         "일본 과학기술 총력전": "... 통일되며 대학 강의가 Foreign Language|외국어에서 [[일본어]]로 변경되었다.",
@@ -7991,6 +8015,10 @@ export const backlinks = {
     },
     "Jiro Horikoshi": {
         "Robert Oppenheimer and Jiro Horikoshi": "Both [[Jiro Horikoshi]] and [[J. Robert Oppenheimer]] were ..."
+    },
+    "빚 무서우면 장사를 어떻게 하지": {
+        "2023-09-28": "[[빚 무서우면 장사를 어떻게 하지]]",
+        "2024-01-03": "- [[빚 무서우면 장사를 어떻게 하지]]"
     },
     "Cartography": {
         "2022-05-30": "... time forever remembered. The original [[Cartography|map]] plaque is the perfect gift ...",
@@ -8334,6 +8362,7 @@ export const backlinks = {
         "공기 청정 비행선": "### [[중국]]의 특허 CN204737020U",
         "국가와 민족": "> 우리나라는 오랜 기간 [[중국]]형 중앙집권 통제 속에서 살아왔기에, 권력에 ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 위해 고군분투하고 있습니다. 한편, 대한민국|한국은 [[중국]]과 [[United States of America|미국]] 간의 ...",
+        "까리": "[[중국]]이나 [[일본]]의 프로덕트는 자신의 문화나 언어에서 ...",
         "네오 코리안 르네상스": "... 경우 우리는 문화적 재료는 충분하지만 [[중국]]과 [[일본]]에 비해서 [[대한민국|한국]]의 문화가 '재탐색'되지 ...",
         "드디어, 한국 애플페이": "... 일본처럼 충성심이 높은 것도 아니고, [[중국]]처럼 잠재적 구매자가 넘쳐나는 것도 아니다. ...",
         "본디는 사실 혜성이 아니다": "이 글은 Bondee|본디와 과거 [[중국]] 내 서비스 Zheli의 연관성을 조사하고",
@@ -8705,6 +8734,7 @@ export const backlinks = {
         "SVB Debacle": "... the working hours of the [[United States of America|U.S.]] banking system.",
         "Screenshot as an API": "... a rumored frustration with the [[United States of America|US]] Postal Service.",
         "Self Driving": "- Another feature coming to [[United States of America|North America]] is Automatic Lane Change (ALC), ...",
+        "Sourgraping": "It happened to me. The [[United States of America|United States]] sucked a lot in various ...",
         "Super App is a Universal Chat App": "... a Super App in the [[United States of America|United States]] are vague. [[Apple]] and [[Google]] ...",
         "Tax": "In the [[United States of America|USA]], taxes on income and long-term ...",
         "Texts (Service)": "Potential Super App for the [[United States of America|United States]]. [[Super App is a Universal ...",
@@ -8850,6 +8880,7 @@ export const backlinks = {
         "CJK": "... a collective term for the [[중국어|Chinese]], [[일본어|Japanese]], and [[한국어|Korean]] languages, which ...",
         "Did Bondee Really Suddenly Rise": "... (Jelly, or 这里, \"here\" in [[중국어|Chinese]]), a popular social app in ...",
         "Heimdall Bogus Subscribers Attack Incident": "... started to sign up for [[중국어|Simplified Chinese]], like 300 people",
+        "까리": "... 도교의 수행법 중 하나) Shikiji ([[중국어]]로 \"식사\"라는 뜻) 등. 그래서 나중에 ...",
         "하늘땅사람 개발 기록": "그리고 이거는 보니까 [[중국어]]처럼 글자 조합 후에 글씨가 입력되는 ..."
     },
     "Mood.surf": {
@@ -9315,6 +9346,9 @@ export const backlinks = {
     "Workplace Search": {
         "2023-11-20": "- [[Workplace Search]]"
     },
+    "Sourgraping": {
+        "2024-01-03": "- [[Sourgraping]]"
+    },
     "쿠팡": {
         "2022-05-31": "... 않지만, Karrot|당근 + 배달의민족 + [[쿠팡]]이라고 생각하면 됩니다. -",
         "2023-07-17": "- [[쿠팡]]",
@@ -9734,6 +9768,7 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "... that Disarmed Bomb <br/> 🇰🇷 [[방지된 폭탄에 대한 경의]]      ..."
     },
     "Someday": {
+        "Action Button Walkie-Talkie": "[[Someday]] [[Project]]",
         "Action Required Newsletter Networks": "[[Someday]] [[Project]]. It's a [[Newsletter]] but ...",
         "Aldehyde SaaS": "[[Someday]] [[Project]]. It's this [[Aldehyde]].",
         "Apple Earth": "[[Someday]] [[Project]]. [[Google]] Earth app but ...",
@@ -9743,6 +9778,7 @@ export const backlinks = {
         "Better Hacker News": "[[Someday]] [[Project]]. Improving HN.",
         "Book Metadata as a Service": "[[Someday]] [[Project]]. Open API that returns ...",
         "CalliFontia": "[[Someday]] [[Project]]. [[Apple]] Pencil Handwriting → ...",
+        "Cashflow (Service)": "[[Someday]] [[Project]]. Link all of your ...",
         "Chopstick Game": "[[Someday]] [[Project]]. Digital implementation of the ...",
         "ChromeOS Packer": "- [[Someday]] [[Project]]",
         "Confession in Slack": "[[Someday]] [[Project]] idea",
@@ -10102,6 +10138,7 @@ export const backlinks = {
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "지정학적 어려움으로 [[일본]]과 [[중국]], 동남아에서 탈출하고자 모색하는 유럽과 ...",
         "경제 개발의 길목에서": "\"[[일본]]의 지도자들은 나라와 민족의 명운을 걸고 ...",
         "국가와 민족": "... 국가는 없죠. 설령 연방제가 아닌 [[일본]]조차도 국민의 삶에 가장 큰 영향을 ...",
+        "까리": "중국이나 [[일본]]의 프로덕트는 자신의 문화나 언어에서 따온 ...",
         "네오 코리안 르네상스": "... 우리는 문화적 재료는 충분하지만 중국과 [[일본]]에 비해서 [[대한민국|한국]]의 문화가 '재탐색'되지 않았다.",
         "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": "> United States of America|미국, [[일본]]의 기술 수준을 따라갈 수 있을까,",
         "드디어, 한국 애플페이": "... 실패한 \"저스터치\"이다 (이때 저스터치가 성공했다면 [[일본]]의 스이카와 같이 예외적인 NFC 규격으로 ...",
@@ -12397,6 +12434,9 @@ export const backlinks = {
     },
     "7D878D.gif": {
         "Mymind.com": "![[7D878D.gif]]"
+    },
+    "24381E.png": {
+        "Cashflow (Service)": "![[24381E.png]]"
     },
     "8B08CD.png": {
         "Retroactive (Software)": "![[8B08CD.png]]"
