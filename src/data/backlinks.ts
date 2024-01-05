@@ -352,6 +352,9 @@ export const backlinks = {
     "2023-04-20": {
         "hn.cho.sh 개발 기록": "## [[2023-04-20]]"
     },
+    "2024-01-04": {
+        "Project Ganymede": "## [[2024-01-04]]"
+    },
     "2023-08-03": {
         "Grammarly Work Note 2023-08-03": "Grammarly Work Note [[2023-08-03]]"
     },
@@ -4119,6 +4122,7 @@ export const backlinks = {
         "2023-11-22": "- [[Project Ganymede]]",
         "2023-12-15": "- [[Project Ganymede|Ganymede]]",
         "2023-12-24": "[[Project Ganymede|Ganymede]]",
+        "2024-01-04": "[[Project Ganymede|Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
