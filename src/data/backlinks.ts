@@ -4717,6 +4717,8 @@ export const backlinks = {
         "Intracranial": "Someday [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
         "Jira": "... allows bug tracking and agile [[project]] management. Jira (software)>)",
         "Jog 25 minutes (Jan-Feb 2023)": "水適穿石|물방울로 바위 뚫는 [[Project|프로젝트]]",
+        "Jog 25 minutes (Jan-Feb 2024)": "水適穿石|물방울로 바위 뚫는 [[Project|프로젝트]]",
+        "Journal Everyday (Jan-Feb 2024)": "水適穿石|물방울로 바위 뚫는 [[Project|프로젝트]]",
         "Jupyter": "> [[Project]] Jupyter aims to develop open-source ...",
         "Krafton Way": "... 서로의 역할과 책임을 강조했다. 경영진은 [[Project|프로젝트]]와 팀, 주요 개발자를 평가하고 보상 ...",
         "Kubernetes": "... Computing Foundation now maintains the [[project]].",
@@ -5523,6 +5525,9 @@ export const backlinks = {
     "Partition Problem": {
         "2023-01-23": "- [[Partition Problem]]"
     },
+    "Jog 25 minutes (Jan-Feb 2024)": {
+        "2024-01-10": "- [[Jog 25 minutes (Jan-Feb 2024)]]"
+    },
     "Hugging Face": {
         "Stable Alternative": "... → text`. AWS SageMaker? Or [[Hugging Face]] as an API server?"
     },
@@ -6084,7 +6089,9 @@ export const backlinks = {
         "2022-10-31": "- [[水適穿石]]",
         "2022년 11월 한 달간 일기 쓰기": "- [[水適穿石|물방울로 바위 뚫는]] [[Project|프로젝트]]",
         "Cosmic noises of life": "- [[水適穿石|Persistence]] is the key",
-        "Jog 25 minutes (Jan-Feb 2023)": "[[水適穿石|물방울로 바위 뚫는]] [[Project|프로젝트]]"
+        "Jog 25 minutes (Jan-Feb 2023)": "[[水適穿石|물방울로 바위 뚫는]] [[Project|프로젝트]]",
+        "Jog 25 minutes (Jan-Feb 2024)": "[[水適穿石|물방울로 바위 뚫는]] [[Project|프로젝트]]",
+        "Journal Everyday (Jan-Feb 2024)": "[[水適穿石|물방울로 바위 뚫는]] [[Project|프로젝트]]"
     },
     "Person 1B5A5B": {
         "Project PEOPLE": "- [[Person 1B5A5B]]"
@@ -8671,6 +8678,10 @@ export const backlinks = {
     "Project Florence Literature Review": {
         "Project Florence": "- [[Project Florence Literature Review]]"
     },
+    "Journal Everyday (Jan-Feb 2024)": {
+        "2024-01-10": "- [[Journal Everyday (Jan-Feb 2024)]]",
+        "2024-01-14": "- [[Journal Everyday (Jan-Feb 2024)]]"
+    },
     "Principles of Inclusion": {
         "2022-11-04": "- [[Principles of Inclusion]]"
     },
@@ -9623,7 +9634,8 @@ export const backlinks = {
         "Render.com": "... programming languages, and has robust [[Docker]] support. good scalability features. Free ..."
     },
     "AI는 고가 노동부터 점령한다": {
-        "2022-11-19": "  - [[AI는 고가 노동부터 점령한다]]"
+        "2022-11-19": "  - [[AI는 고가 노동부터 점령한다]]",
+        "2024-01-11": "- [[AI는 고가 노동부터 점령한다]]"
     },
     "Kindle": {
         "Using an iPad as my Ebook": "> I just saw the [[Kindle]] Scribe launch, but it still ..."
