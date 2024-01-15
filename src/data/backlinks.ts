@@ -11354,6 +11354,9 @@ export const backlinks = {
         "2023-04-05": "![[D358DA.png]]",
         "Raycast": "![[D358DA.png]]"
     },
+    "F6FE2E.png": {
+        "2024-01-15": "![[F6FE2E.png]]"
+    },
     "94861D.png": {
         "2022-12-08": "![[94861D.png]]",
         "Love Wikipedia": "![[94861D.png]]",
