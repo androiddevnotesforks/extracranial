@@ -3870,6 +3870,9 @@ export const backlinks = {
         "2022-12-08": "- [[Pipelining]]",
         "Computer Systems": "- [[Pipelining]]"
     },
+    "LiFiDeA": {
+        "2010년 테크 블로그 여행": "- [[LiFiDeA]]"
+    },
     "IDOL Stack": {
         "2023-06-14": "- [[IDOL Stack]]",
         "2023-06-18": "- [[IDOL Stack]]",
@@ -5169,6 +5172,9 @@ export const backlinks = {
     },
     "The Paradoxical Moon Philosophy": {
         "Project Ganymede": "- [[The Paradoxical Moon Philosophy]]"
+    },
+    "2010년 테크 블로그 여행": {
+        "2024-01-15": "- [[2010년 테크 블로그 여행]]"
     },
     "Apple Easter Egg": {
         "2022-11-19": "  - [[Apple Easter Egg]]"
@@ -6954,7 +6960,8 @@ export const backlinks = {
         "2022-08-28": "- [[조선왕조실록]]"
     },
     "Search AI와 인터넷의 한국어": {
-        "2023-02-12": "- [[Search AI와 인터넷의 한국어]]"
+        "2023-02-12": "- [[Search AI와 인터넷의 한국어]]",
+        "LiFiDeA": "... LLM의 시대에도 같게 다가오고 있다. [[Search AI와 인터넷의 한국어]]"
     },
     "Base Frame Pointer": {
         "2022-11-03": "- [[Base Frame Pointer]]",
@@ -9943,6 +9950,9 @@ export const backlinks = {
     "CSS에서 언어마다 다른 글씨체를 설정하는 방법": {
         "2022-11-19": "  - [[CSS에서 언어마다 다른 글씨체를 설정하는 방법]]",
         "Setting different fonts by language in CSS": "- [[CSS에서 언어마다 다른 글씨체를 설정하는 방법]]"
+    },
+    "조성문의 블로그": {
+        "2010년 테크 블로그 여행": "- [[조성문의 블로그]]"
     },
     "Quoridor Game": {
         "2022-07-31": "- [[Quoridor Game]]",
