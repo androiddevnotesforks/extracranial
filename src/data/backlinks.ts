@@ -813,7 +813,9 @@ export const backlinks = {
         "Canary Trap": "... the prose of the unique [[language]] in the hopes that the ...",
         "Computational Linguistics": "... can process and analyze human [[language]]. It involves applying computational methods ...",
         "HTML": "> The HyperText Markup [[Language]] or HTML is the standard ...",
+        "Learning Execution Semantics from Micro-Traces for Binary Similarity": "- Masked [[Language]] Modeling. Mask certain portions of ...",
         "Native Language": "Native [[Language]]",
+        "Person 1E6ABA": "한국인|Koreans also have a [[language]] barrier.",
         "QA.json": "... metadata (like date added, source, [[language]]), augmented data, and data balance.",
         "Towards Ambient Computing": "... universe, the invention of written [[language]] caused a significant shift in ...",
         "hreflang": "... RFC 8288. Hreflang specifies the [[language]] and optional geographic restrictions for ...",
@@ -1224,7 +1226,8 @@ export const backlinks = {
         "Love Software": "- [[Love Obsidian]]"
     },
     "Logseq": {
-        "Better Obsidian": "... Notes like Roam Research and [[Logseq]]."
+        "Better Obsidian": "... Notes like Roam Research and [[Logseq]].",
+        "Letter to the Heptabase Team on 2022-10-11": "... note-taking platform after figuring out [[Logseq]] Publish, Obsidian Publish, and Roam ..."
     },
     "Getting Verified on Gmail": {
         "2023-05-10": "- [[Getting Verified on Gmail]]"
@@ -1252,6 +1255,7 @@ export const backlinks = {
         "Across the Sprachraums": "- The detachment of [[IP|Intellectual Property]] and [[Language]].",
         "Cartography": "... maps can sometimes involve privacy, [[IP|intellectual property]], and data ownership issues.",
         "Data Preservation": "- Find another [[IP]] without the restrictions you are ...",
+        "Getting Verified on Gmail": "... Group). Digicert does support 대한민국|Korean [[IP|Intellectual Property]] Office, but...",
         "IP Spoofing": "- Faking an [[IP]] by sending packet with false ...",
         "IP is the new Real Estate": "[[IP|Intellectual property]] ([[IP]]) is a new form ...",
         "Internet Protocol Stack": "- Network. [[IP]]. Routing Protocols. Handles Datagrams.",
@@ -2109,6 +2113,7 @@ export const backlinks = {
         "Heap (Computer Systems)": "On the other hand, Java, [[Python]], or other higher-level languages use ...",
         "Higher-Level Languages and Their Speeds": "- [[Python]]",
         "Mathematics under The Library of Babel": "- I tried making a [[Python]] script to backtrack the combinations.",
+        "Person 1E6ABA": "... as possible, whereas the Tensorflow [[Python]] team wanted to make everything ...",
         "Python": "You can offset with [[Python]]'s `enumerate` function with list splitting.",
         "Real Exams": "... Get Job Done SQL, React, [[Python]]",
         "Render.com": "... languages such as Ruby, PHP, [[Python]], Node, and [[Java]].",
@@ -2592,7 +2597,7 @@ export const backlinks = {
         "2022-11-19": "  - [[Finding the size of the directory in Python]]"
     },
     "Map": {
-        "2023-03-12": "... new diagram is \"a reference [[map]]\" that could help researchers better ...",
+        "2023-03-12": "... new diagram is \"a reference [[map]]\" that could help [[Researcher|researchers]] better ...",
         "2023-08-15": "- [[Map]]",
         "AT protocol": "... identified by domain names, which [[map]] to cryptographic URLs. This ensures ...",
         "Cartography": "1. [[Map]] projections: Cartographers must choose a ...",
@@ -2854,6 +2859,7 @@ export const backlinks = {
         "2022-11-29": "- [[Stable Alternative]]",
         "2022-11-30": "- [[Stable Alternative]]",
         "2022-12-18": "- [[Stable Alternative]]",
+        "Letter to Mr. Matt Rickard on 2022-11-28": "... idea for a hypothetical product, \"[[Stable Alternative|Let's Alter]].\" I have a vision but ...",
         "Proposal of Research 2023-01-10": "## 1. [[Stable Alternative]]"
     },
     "Grammarly Work Note 2023-05-26": {
@@ -2990,6 +2996,7 @@ export const backlinks = {
         "Safari is the new Internet Explorer": "- Apple has a [[Web Browser|browser]] monopoly on [[iOS]], which is ...",
         "Satori": "... Expensive: Spinning up an entire [[Web Browser|browser]] to take a screenshot was ...",
         "Self-hosted SaaS Alternatives": "... automating some basic tasks, the [[Web Browser|browser]] extension Automa also has much ...",
+        "Server-side Rendering": "... and sent to the client's [[Web Browser|browser]] as complete [[HTML]] documents. In ...",
         "Snowpack으로 WASM 시작하기": "> Your [[Web Browser|browser]] doesn't support [[SharedArrayBuffer]], thus ffmpeg.wasm ...",
         "Stories Behind Satori": "- [[Web Browser]]-based solutions were too slow",
         "Svelte": "... at runtime, i.e., in the [[Web Browser|browser]]. The compiler itself is written ...",
@@ -3090,6 +3097,7 @@ export const backlinks = {
         "2023-01-24": "- [[Approximation]]"
     },
     "Problem": {
+        "Buffer Overflow Attacks": "    - [[Problem]]. `nop` sleds",
         "Digital Addiction": "[[Problem]]. I [[love software]], but I ...",
         "Federated Transfer Learning": "To solve this [[problem]], transfer learning techniques can create ...",
         "Overfitting": "Overfitting is a common [[problem]] in [[ML|machine learning]] where a ...",
@@ -4195,6 +4203,7 @@ export const backlinks = {
         "국내 은행 서비스가 나쁜 이유": "- 언어 및 지역적 장벽. [[한국어]]는 고유한 언어이며, 많은 [[대한민국|한국]] 소비자는 ...",
         "대한민국": "... 위치한 국가이다. 주 민족은 한민족이며, [[한국어]]를 주로 사용한다.",
         "월급만큼 중요한 것은 자존급이다": "[[한국어]]에서 적합한 번역은 덕업일치일 것이다.",
+        "인공지능 번역의 한국어-대한민국 편향": "[[한국어]] 번역을 할 때 [[AI|인공지능]] 번역을 ...",
         "한민족": "공동 문화권을 형성하고 [[한국어]]를 사용하는 동아시아계 민족이다.",
         "한자": "Hanja (한자, 漢字) is the [[한국어|Korean]] word for Chinese characters. Hanja ...",
         "헤이그 특사": "... 일본인 거주지에만 설치되었다. 교육기관의 설치는 [[한국어]]를 근절시키고 [[일본어]]를 대신 가르치려는 것이며, ..."
@@ -4547,6 +4556,9 @@ export const backlinks = {
         "2022-07-18": "- [[CELLO (Product)]]",
         "2022-08-04": "### [[CELLO (Product)]]",
         "CELLO": "- [[CELLO (Product)]]"
+    },
+    "Nota": {
+        "Letter to the Heptabase Team on 2022-10-11": "... runs on heavily customized Obsidian, [[Nota]], and [[Docusaurus]], serving as my ..."
     },
     "TermsGPT": {
         "2023-07-25": "- [[TermsGPT]]"
@@ -5479,7 +5491,7 @@ export const backlinks = {
         "Developing Review Notes for Obsidian": "이 문서는 [[Obsidian]]을 스캐폴딩하는 방법에 대해 다루며 옵시디언 ...",
         "Dilemmas of Technopreneur": "... Mark Zuckerberg, the creators of [[Obsidian]], or even Mr. Levels.",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... are wondering, yes, I use [[Obsidian]] for my [[Memex]], but I ...",
-        "Letter to the Heptabase Team on 2022-10-11": "... (https://cho.sh/r/) runs on heavily customized [[Obsidian]], Nota, and [[Docusaurus]], serving as ...",
+        "Letter to the Heptabase Team on 2022-10-11": "... (https://cho.sh/r/) runs on heavily customized [[Obsidian]], [[Nota]], and [[Docusaurus]], serving as ...",
         "Love Obsidian": "i love [[obsidian]]",
         "Neo Apps": "- Notes. Notion → [[Obsidian]]",
         "Nota": "Awesome alternative to [[Obsidian]].",
@@ -5613,8 +5625,28 @@ export const backlinks = {
         "서당개 3년이면 풍월을 읊는다": "... 않았다. 어떤 회사에서든 태생부터 남다른 [[J. Robert Oppenheimer|오펜하이머]]급 [[Superbrain|슈퍼브레인]]은 얼마 되지 않는 듯했다. ..."
     },
     "Researcher": {
+        "2022-06-10": "... a proof of concept, the [[Researcher|researchers]] demonstrated that the attack even ...",
+        "2023-03-12": "... reference map\" that could help [[Researcher|researchers]] better understand how the brains ...",
+        "Attention Settings": "### Give [[Researcher|Researchers]] Access to Screen Time Data",
+        "Homomorphic Encryption": "2. Privacy-Preserving Medical Research. [[Researcher|Researchers]] can perform computations on encrypted ...",
+        "In-house and Free Market": "... dynamic and stimulating environment for [[Researcher|researchers]] and students. It's arguably the ...",
+        "Mail": "... that drive research. They've helped [[Researcher|researchers]] connect with each other and ...",
+        "Mojo": "... by the University of Washington [[Researcher|researchers]], Mojo is optimized for running ...",
+        "Nuclear Fusion": "... breakthrough in late 2021 when [[Researcher|researchers]] at the Joint European Torus ...",
+        "Person 1E6ABA": "... designer, PM, media expert, media [[researcher]], and engineering intern.",
+        "Person ED7526": "... there are distinct differences. A [[Researcher]] may have limited knowledge of ...",
+        "Proposal of Research 2023-01-10": "... structures. However, in January 2018, [[Researcher|researchers]] disclosed a set of vulnerabilities ...",
         "Research Paper NPM System": "... It's an npm system for [[Researcher|Researchers]]. Citations are npm `install`s. Embedded ...",
-        "Wael AbdAlmageed": "- [[Researcher]] at [[University of Southern California]]"
+        "Space Terraforming": "... of serious scientific inquiry. Some [[Researcher|researchers]] have proposed terraforming Mars, for ...",
+        "Wael AbdAlmageed": "- [[Researcher]] at [[University of Southern California]]",
+        "Wikiversity": "... We invite teachers, students, and [[Researcher|researchers]] to join us in creating ...",
+        "Zenly Playbook": "... early days, Zenly hired Ph.D.-level [[Researcher|researchers]] to acquire unparalleled tech talents. ...",
+        "p-value Hacking": "... between two measured phenomena. When [[Researcher|researchers]] engage in p-hacking, they typically:",
+        "서낭당": "[[Researcher|연구자들]]은 서낭당이 [[대한민국|한국]]의 산신신앙과 천신신앙에서 그 ...",
+        "이공계": "이공계 [[Researcher|연구자들]]이 감소하고, 중소기업들이 경영난에 시달리고 있다.",
+        "인공지능 번역의 한국어-대한민국 편향": "... 예를 들어 AI|인공지능이 번역하면 \"한국인|Korean [[Researcher|Researchers]]...\"가 \"국내 연구진이...\"으로 번역된다. 한국어가 발화되는 ...",
+        "인하우스와 자유경쟁": "... 이는 혁신을 촉진하고 우수성을 장려하며 [[Researcher|연구자]]와 학생을 위한 역동적이고 자극적인 환경을 ...",
+        "일본 과학기술 총력전": "이를 위해 연구 통제를 동반한 [[Researcher|연구자]]의 동원, 인적 자원의 유효한 활동을 ..."
     },
     "Qiang Yang et al. Chapter 5 Vertical Federated Learning": {
         "Project Florence Literature Review": "- [ ] [[Qiang Yang et al. Chapter 5 Vertical Federated Learning]]"
@@ -5755,6 +5787,7 @@ export const backlinks = {
         "2023-06-23": "- 나는 [[한국인]]들을 사랑했던 것일까.",
         "Bootstrap": "... the dot-com bubble in 2000, [[한국인|Korean]] founders had to rely on ...",
         "Doheny East Asian Book Stacks": "However, many [[한국인|Koreans]] don't know or care about ...",
+        "Person 1E6ABA": "[[한국인|Koreans]] also have a [[language]] barrier.",
         "국가와 민족": "- 한민족|한국계와 [[한국인]]이 다르다. 한민족|한국계는 [한민족]을 뜻하며, 한국인은 ...",
         "도로명주소": "[[한국인]]에게 무슨 일이 일어나거나 생활하는 단위는 ...",
         "미국물": "... 되고 싶은가 아니면 미국물 먹은 [[한국인]]으로 남고 싶은가?",
@@ -5762,6 +5795,7 @@ export const backlinks = {
         "박정희": "> 박정희의 가장 큰 공은 [[한국인]]에게 '우리도 할 수 있다'는 희망을 ...",
         "예맥": "[[한국인|Modern Koreans]] are believed to be descended ...",
         "이완용": "... 희망으로 일본인들을 환영하였다. 그 당시 [[한국인]]들은 일본이 부패한 정부 관리들을 엄격히 ...",
+        "인공지능 번역의 한국어-대한민국 편향": "... 것이다. 예를 들어 AI|인공지능이 번역하면 \"[[한국인|Korean]] [[Researcher|Researchers]]...\"가 \"국내 연구진이...\"으로 번역된다. 한국어가 ...",
         "한자": "... the first Korean kingdom. Although [[한국인|Koreans]] use Hangul, a writing system ...",
         "헤이그 특사": "... 희망으로 일본인들을 환영하였다. 그 당시 [[한국인]]들은 일본이 부패한 정부 관리들을 엄격히 ..."
     },
@@ -6161,6 +6195,7 @@ export const backlinks = {
         "Doheny East Asian Book Stacks": "... a lot of contact with [[대한민국|Korea]] and has lived and breathed ...",
         "Downloading Any Recordings from Zoom": "... States and the Republic of [[대한민국|Korea]] allow limited usage of copyrighted ...",
         "Finally, Apple Pay in Korea": "... Apple Pay has expanded to [[대한민국|Korea]]. 대한민국|Korea remained the only developed ...",
+        "Getting Verified on Gmail": "... BIMI Group). Digicert does support [[대한민국|Korean]] [[IP|Intellectual Property]] Office, but...",
         "HYBE": "HYBE is a [[대한민국|Korean]] entertainment company founded in 2005 ...",
         "IP is the new Real Estate": "... why Naver and Kakao, two [[대한민국|Korean]] Google, are so paranoid about ...",
         "KakaoTalk": "... and is primarily used in [[대한민국|Korea]]. KakaoTalk was launched in 2010 ...",
@@ -6219,6 +6254,7 @@ export const backlinks = {
         "이공계": "그러나 현재 [[대한민국|한국]]에서는 이공계와 산업에 대한 관심과 지원이 ...",
         "이무기 기업, 청룡 기업": "... 양 너무 마법적인 기운을 준다. [[대한민국|한국]] 민담처럼 잉어 🐟 → 이무기 ...",
         "이완용": "... 일반화되어 가고 있기 때문이다. 당시 [[대한민국|한국]]은 러일전쟁에 출병했던 일본군에 의해 사실상 ...",
+        "인공지능 번역의 한국어-대한민국 편향": "... 번역된다. 한국어가 발화되는 장소가 무조건 [[대한민국]] 영토 내일 것이라고 가정하는 것이다 ...",
         "일민주의": "... 무너진 뒤에서 박정희 시기 이후 [[대한민국|한국]] 민족주의 역시 그러한 것들의 연장선상에서 ...",
         "일본 과학기술 총력전": "그리고 [[대한민국|한국]] 전쟁이 발발하자 [[일본]]은 미군의 병참 ...",
         "일일일": "- Too strong ties to [[대한민국|Korean]] Market",
@@ -6528,7 +6564,7 @@ export const backlinks = {
         "Render.com": "2. [[Vercel]]. Known for being specific to ...",
         "Satori": "... than existing solutions by using [[Vercel]] [[Edge]] Functions, [[WebAssembly]], and a ...",
         "Stories Behind Satori": "The [[Vercel]] team [[Dogfooding|dogfooded]] this for a ...",
-        "Vercel Incident Report (April 2023)": "... this would cost $9,600 with [[Vercel]] and $2,017 in [[AWS]] CloudFront.",
+        "Vercel Incident Report (April 2023)": "... this would cost \\$9,600 with [[Vercel]] and \\$2,017 in [[AWS]] CloudFront.",
         "dub.co": "- Built with [[Vercel]] [[Edge]] Functions + Upstash Redis",
         "lovearc.net": "... much Image Proxy Bandwidth from [[Vercel]] that I turned off image ..."
     },
@@ -6583,7 +6619,7 @@ export const backlinks = {
         "2022-07-05": "- 허 교수는 [[Ph.D.|박사]] 과정을 위해 [[United States of ...",
         "Feature": "... level (high school, bachelor's, master's, [[Ph.D.]]).",
         "Resume": "- [[Ph.D.]]'s are a little different — ...",
-        "Zenly Playbook": "... the early days, Zenly hired [[Ph.D.]]-level researchers to acquire unparalleled tech ...",
+        "Zenly Playbook": "... the early days, Zenly hired [[Ph.D.]]-level [[Researcher|researchers]] to acquire unparalleled tech ...",
         "경제 개발의 길목에서": "양측의 토론을 듣고만 있던 브레진스키 [[Ph.D.|박사]]가 입을 열었다. 그는 \"나는 [[대한민국|한국]]의 ...",
         "서당개 3년이면 풍월을 읊는다": "... 흔치 않다는 점이다. 물론 이민자들은 [[Ph.D.|석박]] 엘리트 코스가 많았지만 체류 문제 ...",
         "젠리의 성공 공식": "... 위치 추적을 연구했다. Zenly|젠리 초기에도 [[Ph.D.|박사]]급 인재들을 채용하며 독자적인 기술력을 보유했다. ..."
@@ -7466,6 +7502,7 @@ export const backlinks = {
         "Architecture of Mastodon": "- [[Matt Rickard]]",
         "Decoy Effect": "## [[Matt Rickard]]",
         "Letter to Mr. Matt Rickard on 2022-10-03": "- Mail|Letter to Mr. [[Matt Rickard]] on 2022-10-03",
+        "Letter to Mr. Matt Rickard on 2022-11-28": "- Mail|Letter to Mr. [[Matt Rickard]] on [[2022-11-28]]",
         "Letter to Mr. Matt Rickard on 2022-12-21": "Dear Mr. [[Matt Rickard|Rickard]],",
         "Letter to Mr. Matt Rickard on 2022-12-24": "Dear Mr. [[Matt Rickard|Rickard]],",
         "Programmable Web": "... Miss The Programmable Web — [[Matt Rickard]]",
@@ -7794,7 +7831,7 @@ export const backlinks = {
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "- [[Mail|Letter]] to Mr. [[Alexander Obenauer]] on ...",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "- [[Mail|Letter]] to Mr. Gustav Ekerot on ...",
         "Letter to Mr. Matt Rickard on 2022-10-03": "- [[Mail|Letter]] to Mr. [[Matt Rickard]] on ...",
-        "Letter to Mr. Matt Rickard on 2022-11-28": "- [[Mail|Letter]] to Mr. Matt Rickard on ...",
+        "Letter to Mr. Matt Rickard on 2022-11-28": "- [[Mail|Letter]] to Mr. [[Matt Rickard]] on ...",
         "Letter to Mr. Matt Rickard on 2022-12-21": "[[Mail|Letter]] to Mr. Matt Rickard on ...",
         "Letter to Mr. Matt Rickard on 2022-12-24": "- [[Mail|Letter]] to Mr. Matt Rickard on ...",
         "Letter to Mr. Stephan Ango on 2022-10-19": "- [[Mail|Letter]] to Mr. [[Stephan Ango]] on ...",
@@ -9666,7 +9703,7 @@ export const backlinks = {
         "OpenAI enthroned as the Levis of Tech": "... dealer in this silent war. [[AWS]] was the latest Levi's of ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "[[AWS]]는 AT&T와 같은 통신 회사에 이어 ...",
         "Stable Alternative": "... Server to `image → text`. [[AWS]] SageMaker? Or [[Hugging Face]] as ...",
-        "Vercel Incident Report (April 2023)": "... with Vercel and $2,017 in [[AWS]] CloudFront.",
+        "Vercel Incident Report (April 2023)": "... with Vercel and \\$2,017 in [[AWS]] CloudFront.",
         "henrymakesapps": "5. [[AWS]] Copilot: Provides hosting for the ..."
     },
     "Cauchy": {
@@ -9690,7 +9727,7 @@ export const backlinks = {
         "2022-11-06": "- [[Xcode Clear Cache]]"
     },
     "Proof of Concept": {
-        "2022-06-10": "  - In a [[proof of concept]], the researchers demonstrated that the ...",
+        "2022-06-10": "  - In a [[proof of concept]], the [[Researcher|researchers]] demonstrated that the ...",
         "2022-07-06": "- Implemented the Technical [[Proof of Concept]] and posted here: [[Proof of ...",
         "2022-08-04": "- Intermediary [[Proof of Concept|PoC]] Product: [[ULLO]]",
         "ULLO": "- [[Proof of Concept|PoC]] of [[SwiftUI]] Photo Widget App",
@@ -10833,6 +10870,7 @@ export const backlinks = {
         "Proposal of Research 2023-01-10": "... shortened to iframe, is an [[HTML]] element that allows you to ...",
         "Protocol Wars": "... automatically converted Gopher menus into [[HTML]]",
         "Satori": "... new core library for converting [[HTML]]/[[CSS]] into SVGs.",
+        "Server-side Rendering": "... client's Web Browser|browser as complete [[HTML]] documents. In SSR, the server ...",
         "Setting different images for Light & Dark mode": "... color scheme` CSS property and [[HTML]] Picture `srcset` property.",
         "Shopify Analyzes CSS Frameworks": "... rollup, Vite, esbuild, webpack, sewing-kit [[HTML]], and Native applications. | 2 ...",
         "Snowpack으로 WASM 시작하기": "... 일단 ./static/index.js을 사용했다. 이를 통해서 index.[[html]]은 로딩되었다.",
@@ -10968,6 +11006,7 @@ export const backlinks = {
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "- 일러스트레이션. 일러스트레이터를 고용하거나 생성 [[AI]]를 사용하여 일러스트레이션을 만든다.",
         "의료 인공지능과 의대 쏠림": "만약 의료 [[AI|인공지능]]이 대규모로 보급된다면 어떨까? 의대를 가려는 ...",
         "이루다": "## [[AI|인공지능]]",
+        "인공지능 번역의 한국어-대한민국 편향": "한국어 번역을 할 때 [[AI|인공지능]] 번역을 할 때 AI|인공지능의 행동 ...",
         "전방위 포위": "... 퍼포먼스를 내는 동료 학생들 + [[AI|인공지능]]",
         "태백산맥 계획": "거짓 정보가 공유되면 [[AI|인공지능]]으로 서로의 오해를 풀어주며,",
         "프로젝트 어덕행덕": "- [[AI|인공지능]] 교차편집. 위 빅데이터 분석 플랫폼의 ..."
@@ -11026,7 +11065,7 @@ export const backlinks = {
     },
     "Perceptual Hashing": {
         "2022-12-18": "- [[Perceptual Hashing]]",
-        "Letter to Mr. Matt Rickard on 2022-11-28": "- [[Perceptual Hashing]]"
+        "Letter to Mr. Matt Rickard on 2022-11-28": "### [[Perceptual Hashing]]"
     },
     "Simulated Annealing for Designs": {
         "2022-11-11": "- [[Simulated Annealing for Designs]]",
