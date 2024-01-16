@@ -5544,7 +5544,8 @@ export const backlinks = {
         "2023-01-23": "- [[Partition Problem]]"
     },
     "Jog 25 minutes (Jan-Feb 2024)": {
-        "2024-01-10": "- [[Jog 25 minutes (Jan-Feb 2024)]]"
+        "2024-01-10": "- [[Jog 25 minutes (Jan-Feb 2024)]]",
+        "2024-01-16": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]"
     },
     "Hugging Face": {
         "Stable Alternative": "... → text`. AWS SageMaker? Or [[Hugging Face]] as an API server?"
@@ -8724,7 +8725,8 @@ export const backlinks = {
     },
     "Journal Everyday (Jan-Feb 2024)": {
         "2024-01-10": "- [[Journal Everyday (Jan-Feb 2024)]]",
-        "2024-01-14": "- [[Journal Everyday (Jan-Feb 2024)]]"
+        "2024-01-14": "- [[Journal Everyday (Jan-Feb 2024)]]",
+        "2024-01-16": "- [x] [[Journal Everyday (Jan-Feb 2024)]]"
     },
     "Principles of Inclusion": {
         "2022-11-04": "- [[Principles of Inclusion]]"
