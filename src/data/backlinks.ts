@@ -535,6 +535,9 @@ export const backlinks = {
     "2022-04-26": {
         "Storing sensitive data in iOS Apps": "[[2022-04-26]]"
     },
+    "2024-01-16": {
+        "2024-01-16 Lecture 2": "[[2024-01-16]]"
+    },
     "2020-01-20": {
         "Apple Easter Egg": "[[2020-01-20]]"
     },
@@ -4402,6 +4405,9 @@ export const backlinks = {
     "洪兔雜記": {
         "2023-09-24": "- 洪民憙雜記 [[洪兔雜記]]"
     },
+    "CS572 Search Engine": {
+        "2024-01-16": "- [[CS572 Search Engine]]"
+    },
     "Case Study": {
         "LavaLab Cohort of Fall 2023": "## [[Case Study]]",
         "Rauno": "- [[Case Study]]",
@@ -5545,7 +5551,8 @@ export const backlinks = {
     },
     "Jog 25 minutes (Jan-Feb 2024)": {
         "2024-01-10": "- [[Jog 25 minutes (Jan-Feb 2024)]]",
-        "2024-01-16": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]"
+        "2024-01-16": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]",
+        "2024-01-18": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]"
     },
     "Hugging Face": {
         "Stable Alternative": "... → text`. AWS SageMaker? Or [[Hugging Face]] as an API server?"
@@ -7624,6 +7631,9 @@ export const backlinks = {
     "Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection": {
         "Project Florence Literature Review": "- [ ] [[Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection]]"
     },
+    "Cohere Rerank": {
+        "2024-01-16 Lecture 2": "## [[Cohere Rerank]]"
+    },
     "You can do everything on computers but you really should not": {
         "2023-03-28": "- [[You can do everything on computers but you really should not]]",
         "글감": "- [[You can do everything on computers but you really should not]]"
@@ -7634,6 +7644,9 @@ export const backlinks = {
     "Reduced Motion": {
         "Shopify Analyzes CSS Frameworks": "... component for hover, active easily, [[reduced motion]], color scheme, etc.   ...",
         "WWDC23": "- [[Reduced Motion|Paused Animated Images]] → Stop motions in animated ..."
+    },
+    "2024-01-16 Lecture 2": {
+        "CS572 Search Engine": "- [[2024-01-16 Lecture 2]]"
     },
     "Exquisite Geometric Nature of the Universe": {
         "2023-08-15": "- [[Exquisite Geometric Nature of the Universe]]",
@@ -8726,7 +8739,8 @@ export const backlinks = {
     "Journal Everyday (Jan-Feb 2024)": {
         "2024-01-10": "- [[Journal Everyday (Jan-Feb 2024)]]",
         "2024-01-14": "- [[Journal Everyday (Jan-Feb 2024)]]",
-        "2024-01-16": "- [x] [[Journal Everyday (Jan-Feb 2024)]]"
+        "2024-01-16": "- [x] [[Journal Everyday (Jan-Feb 2024)]]",
+        "2024-01-18": "- [x] [[Journal Everyday (Jan-Feb 2024)]]"
     },
     "Principles of Inclusion": {
         "2022-11-04": "- [[Principles of Inclusion]]"
@@ -10302,6 +10316,10 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "... 🇬🇧 Engine Equation <br/> 🇰🇷 [[엔진 방정식]]      ...",
         "Engine Equation (Metapage)": "- Engine Equation [[엔진 방정식]]",
         "기술 할부 결제": "여기서 [[엔진 방정식]]이 유용하게 다가온다."
+    },
+    "Google Pizza Box": {
+        "2024-01-16 Lecture 2": "## [[Google Pizza Box]]",
+        "Cohere Rerank": "[[Google Pizza Box]]"
     },
     "야광봉 (2014)": {
         "2023-09-05": "- [[야광봉 (2014)]]",
@@ -13234,6 +13252,10 @@ export const backlinks = {
     },
     "3F9675.png": {
         "Fiercely Overpriced": "![[3F9675.png]]"
+    },
+    "09853B.png": {
+        "2024-01-16 Lecture 2": "![[09853B.png]]",
+        "Google Pizza Box": "![[09853B.png]]"
     },
     "B59279.png": {
         "Interactive Articles": "![[B59279.png]]"
