@@ -716,6 +716,9 @@ export const backlinks = {
     "2019-10-13": {
         "잡스와 생존 편향": "[[2019-10-13]]의 에세이."
     },
+    "2024-01-18": {
+        "Project Florence": "## [[2024-01-18]]"
+    },
     "2023-04-18": {
         "hn.cho.sh 개발 기록": "## [[2023-04-18]]"
     },
@@ -1979,6 +1982,7 @@ export const backlinks = {
         "2023-09-22": "- [[Project Florence]]",
         "2023-10-03": "- [[Project Florence]]",
         "2023-10-04": "- [[Project Florence]]",
+        "2024-01-18": "- [[Project Florence]]",
         "Project": "- [[Project Florence]] and its subprojects",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
         "Project Impruneta": "Impruneta is a subproject of [[Project Florence]]. Supercedes [[Project Malmantile]]",
