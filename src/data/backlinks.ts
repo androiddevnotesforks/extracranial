@@ -4455,6 +4455,10 @@ export const backlinks = {
         "How is WebAssembly cross-platform when Assembly is not": "... WebAssembly|WASM to ASM targeting x86, [[ARM Architecture|ARM]], and RISC-V, is comparably easy, ...",
         "Meltdown": "... IBM POWER processors, and some [[ARM Architecture|ARM]]-based microprocessors. It allows a rogue ..."
     },
+    "800km 밖에 못 가는 이메일": {
+        "2024-01-19": "- [[800km 밖에 못 가는 이메일]]",
+        "말도 안 되는 버그": "- [[800km 밖에 못 가는 이메일]]"
+    },
     "Spiritual Development": {
         "Renaissance": "... was sending me a message: [[Spiritual Development]] always comes in the face ...",
         "르네상스": "[[Spiritual Development|영적 성장]]은 도전과 역경에 직면할 때만 이루어진다는 ...",
@@ -5556,7 +5560,8 @@ export const backlinks = {
     "Jog 25 minutes (Jan-Feb 2024)": {
         "2024-01-10": "- [[Jog 25 minutes (Jan-Feb 2024)]]",
         "2024-01-16": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]",
-        "2024-01-18": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]"
+        "2024-01-18": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]",
+        "2024-01-19": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]"
     },
     "Hugging Face": {
         "Stable Alternative": "... → text`. AWS SageMaker? Or [[Hugging Face]] as an API server?"
@@ -6900,6 +6905,10 @@ export const backlinks = {
     },
     "PineApple Pay": {
         "2023-02-21": "- [[PineApple Pay]]"
+    },
+    "말도 안 되는 버그": {
+        "2024-01-19": "- [[말도 안 되는 버그]]",
+        "화요일에는 인쇄 기능이 고장나는 오피스 프로그램": "- [[말도 안 되는 버그]]"
     },
     "BFCM": {
         "2023-11-24": "- [[BFCM]]"
@@ -8744,7 +8753,8 @@ export const backlinks = {
         "2024-01-10": "- [[Journal Everyday (Jan-Feb 2024)]]",
         "2024-01-14": "- [[Journal Everyday (Jan-Feb 2024)]]",
         "2024-01-16": "- [x] [[Journal Everyday (Jan-Feb 2024)]]",
-        "2024-01-18": "- [x] [[Journal Everyday (Jan-Feb 2024)]]"
+        "2024-01-18": "- [x] [[Journal Everyday (Jan-Feb 2024)]]",
+        "2024-01-19": "- [ ] [[Journal Everyday (Jan-Feb 2024)]]"
     },
     "Principles of Inclusion": {
         "2022-11-04": "- [[Principles of Inclusion]]"
@@ -10539,6 +10549,10 @@ export const backlinks = {
         "2023-02-12": "- [[솟대]]",
         "장승": "비슷한 예시로 [[솟대]]나 [[서낭당]]이 있다."
     },
+    "바닐라 아이스크림을 싫어하는 자동차": {
+        "2024-01-19": "- [[바닐라 아이스크림을 싫어하는 자동차]]",
+        "말도 안 되는 버그": "- [[바닐라 아이스크림을 싫어하는 자동차]]"
+    },
     "TypeScript": {
         "2022-07-06": "... install and run JavaScript & [[TypeScript]] projects — all in Bun. ...",
         "2022-07-20": "- JavaScript → [[TypeScript]]",
@@ -11244,6 +11258,10 @@ export const backlinks = {
         "데이터베이스권": "... 크롤링 분쟁이 늘어나는 가운데 법원이 '[[Database|데이터베이스]] ([[Database|DB]]) 권' 침해에 대해 엄격하게 ...",
         "잡스와 생존 편향": "지식 탐색기는 거대한 네트워크 [[Database|데이터베이스]]에 하이퍼텍스트 방식으로 접근할 수 있으며 ...",
         "프로젝트 어덕행덕": "## Facial [[Database]]"
+    },
+    "화요일에는 인쇄 기능이 고장나는 오피스 프로그램": {
+        "2024-01-19": "- [[화요일에는 인쇄 기능이 고장나는 오피스 프로그램]]",
+        "말도 안 되는 버그": "- [[화요일에는 인쇄 기능이 고장나는 오피스 프로그램]]"
     },
     "Memory Hierarchy": {
         "2022-11-03": "- [[Memory Hierarchy]]",
