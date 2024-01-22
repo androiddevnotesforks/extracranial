@@ -4189,6 +4189,9 @@ export const backlinks = {
         "2022-11-04": "- [[Cache Average Access Time]]",
         "Translation Look-aside Buffers": "- Similar to [[Cache Average Access Time]],"
     },
+    "text-transform capitalize": {
+        "2024-01-20": "- [[text-transform capitalize]]"
+    },
     "한국어": {
         "Aldehyde Backlinks Outage (January 2023)": "Backlinks were not working for [[한국어|Korean]] Pages.",
         "Antifragile": "[[한국어]]로는 쉽게 정리된다.",
@@ -5561,7 +5564,8 @@ export const backlinks = {
         "2024-01-10": "- [[Jog 25 minutes (Jan-Feb 2024)]]",
         "2024-01-16": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]",
         "2024-01-18": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]",
-        "2024-01-19": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]"
+        "2024-01-19": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]",
+        "2024-01-20": "- [ ] [[Jog 25 minutes (Jan-Feb 2024)]]"
     },
     "Hugging Face": {
         "Stable Alternative": "... → text`. AWS SageMaker? Or [[Hugging Face]] as an API server?"
@@ -7677,7 +7681,8 @@ export const backlinks = {
         "Redirecting READMEs": "[[Lesser Known Trick]]. It's a symlink. [[How does ...",
         "Setting different images for Light & Dark mode": "[[Lesser Known Trick]]",
         "Sudo with Touch ID": "[[Lesser Known Trick]]",
-        "Timed Terminal Commands": "[[Lesser Known Trick]]. Add this to `~/.zshrc` or ..."
+        "Timed Terminal Commands": "[[Lesser Known Trick]]. Add this to `~/.zshrc` or ...",
+        "text-transform capitalize": "Capitalizes first letter [[Lesser Known Trick]]"
     },
     "Aldehyde Backlinks Outage (January 2023)": {
         "2023-01-30": "- [[Aldehyde Backlinks Outage (January 2023)]]",
@@ -8754,7 +8759,8 @@ export const backlinks = {
         "2024-01-14": "- [[Journal Everyday (Jan-Feb 2024)]]",
         "2024-01-16": "- [x] [[Journal Everyday (Jan-Feb 2024)]]",
         "2024-01-18": "- [x] [[Journal Everyday (Jan-Feb 2024)]]",
-        "2024-01-19": "- [ ] [[Journal Everyday (Jan-Feb 2024)]]"
+        "2024-01-19": "- [ ] [[Journal Everyday (Jan-Feb 2024)]]",
+        "2024-01-20": "- [ ] [[Journal Everyday (Jan-Feb 2024)]]"
     },
     "Principles of Inclusion": {
         "2022-11-04": "- [[Principles of Inclusion]]"
