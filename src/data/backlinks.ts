@@ -1102,6 +1102,11 @@ export const backlinks = {
     "Book Metadata as a Service": {
         "Fiercely Overpriced": "[[Book Metadata as a Service]] could also be one example."
     },
+    "Universal Basic Income for Scholars": {
+        "2022-07-18": "- [[Universal Basic Income for Scholars]]",
+        "이공계": "[[Universal Basic Income for Scholars|과학자연금]]이 있다면 어떨까?",
+        "한민족의 멸종 방어": "- [[Universal Basic Income for Scholars]]"
+    },
     "In The End Trust Yourself": {
         "2022-11-23": "- [[In The End Trust Yourself]]",
         "Antipilot": "  - [[In The End Trust Yourself]]",
@@ -6898,11 +6903,6 @@ export const backlinks = {
     "Person E7CFC5": {
         "2022-09-14": "  - [[Person E7CFC5]]",
         "Project PEOPLE": "- [[Person E7CFC5]]"
-    },
-    "UBI for Scholars": {
-        "2022-07-18": "- [[UBI For Scholars]]",
-        "이공계": "[[UBI For Scholars|과학자연금]]이 있다면 어떨까?",
-        "한민족의 멸종 방어": "- [[UBI For Scholars]]"
     },
     "phash.wasm": {
         "Stable Alternative": "... ] Perceptual Hashing On-Device|On Device. [[phash.wasm]]"
