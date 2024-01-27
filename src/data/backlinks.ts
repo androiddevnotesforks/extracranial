@@ -2541,6 +2541,9 @@ export const backlinks = {
     "Pascal Triangle": {
         "2023-01-24": "- [[Pascal Triangle]]"
     },
+    "어둠의 앱스토어": {
+        "2024-01-27": "[[어둠의 앱스토어]]"
+    },
     "Borrowing a Book from USC": {
         "2023-11-29": "- [[Borrowing a Book from USC]]"
     },
@@ -4824,6 +4827,7 @@ export const backlinks = {
         "사회과부도": "Someday [[Project]]. 마음대로 변형을 가할 수 있는 ...",
         "서울 프로": "2021년에 진행하다 중단한 [[Project|프로젝트]]이다.",
         "심리역사학": "... 이루어갈 수 있도록 준비한다. 셀던 [[Project|계획]]의 핵심 개념은 심리역사학인데, 전 인류의 ...",
+        "어둠의 앱스토어": "Someday [[Project]]",
         "역사의 집대성": "... 하나의 기록소 안에 모두 집대성하는 [[Project|프로젝트]]이다.",
         "조선왕조실록": "Someday [[Project]]. Fast and Modern version of ...",
         "코드클럽": "... 세계에서 인증한 만국 공통 코드클럽 [[Project|프로젝트]] 커리큘럼으로 활동",
@@ -9923,6 +9927,7 @@ export const backlinks = {
         "불가사리": "Tossface|토스페이스 같은 곳에 [[Someday|언젠가]] 들어갔으면",
         "사발통문": "[[Someday]] [[Project]]",
         "사회과부도": "[[Someday]] [[Project]]. 마음대로 변형을 가할 수 ...",
+        "어둠의 앱스토어": "[[Someday]] [[Project]]",
         "원하는 곳만 전자레인지": "[[Someday]]",
         "조선왕조실록": "[[Someday]] [[Project]]. Fast and Modern version ..."
     },
@@ -12394,6 +12399,9 @@ export const backlinks = {
     },
     "26A675.png": {
         "Domain Search Tools": "![[26A675.png]]"
+    },
+    "18E6BD.png": {
+        "어둠의 앱스토어": "![[18E6BD.png]]"
     },
     "254AFC.png": {
         "AIs.txt": "![[254AFC.png]]"
