@@ -2542,7 +2542,7 @@ export const backlinks = {
         "2023-01-24": "- [[Pascal Triangle]]"
     },
     "어둠의 앱스토어": {
-        "2024-01-27": "[[어둠의 앱스토어]]"
+        "2024-01-27": "- [[어둠의 앱스토어]]"
     },
     "Borrowing a Book from USC": {
         "2023-11-29": "- [[Borrowing a Book from USC]]"
@@ -4455,6 +4455,9 @@ export const backlinks = {
     "Products Evolves Barely Enough to Solve Inconveniences": {
         "2023-08-23": "- [[Products Evolves Barely Enough to Solve Inconveniences]]"
     },
+    "MacCast": {
+        "2024-01-27": "- [[MacCast]]"
+    },
     "라즈베리 파이로 스마트 오디오 시스템 만들기": {
         "2022-11-19": "  - [[라즈베리 파이로 스마트 오디오 시스템 만들기]]"
     },
@@ -4800,6 +4803,7 @@ export const backlinks = {
         "Tailwind CSS 톺아보기": "## [[Project|프로젝트]] 목표",
         "Tech Now Pay Later": "... Database|DB to use for your [[project]] and/or if it scales – ...",
         "Timebelt": "Someday [[Project]]. Timezone conversion with Absolute [[URI]].",
+        "Titanium Calculator": "Someday [[Project]]. TI84의 기능을 최대한 모방해 최대한 ...",
         "Tools Must Vanish": "... the launching-off point of a [[project]]—is drowned in an ocean of ...",
         "Toss Product Sans": "... 2020년 여름 산돌과 함께 서체 [[Project|프로젝트]]를 시작",
         "TossFace Playground": "- [[Project]] [[Done]]",
@@ -5204,6 +5208,9 @@ export const backlinks = {
     "Pretendard의 아쉬운 점": {
         "Toss Product Sans": "  - [[Pretendard의 아쉬운 점]]",
         "서울 프로": "- [[Pretendard의 아쉬운 점]]"
+    },
+    "Titanium Calculator": {
+        "2024-01-28": "[[Titanium Calculator]]"
     },
     "Guestbook": {
         "2022-10-15": "- [[Guestbook]]"
@@ -9911,6 +9918,7 @@ export const backlinks = {
         "Sticker Party": "[[Someday]] [[Project]] GitHub README에 박을 수 ...",
         "Synonym-based Fuzzy Search": "[[Someday]] [[Project]]. Fuzzy Search + Synonym ...",
         "Timebelt": "[[Someday]] [[Project]]. Timezone conversion with Absolute ...",
+        "Titanium Calculator": "[[Someday]] [[Project]]. TI84의 기능을 최대한 모방해 ...",
         "Use Your Mac as your Bluetooth Speaker": "[[Someday]] [[Project]]",
         "WebNPU API를 상상하다": "[[Someday|언젠가]] [[AI]] 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 ...",
         "aaaa.coffee": "[[Someday]] [[Project]]. \"Buy me a coffee\" ...",
