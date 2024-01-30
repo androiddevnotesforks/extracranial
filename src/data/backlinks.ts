@@ -971,6 +971,9 @@ export const backlinks = {
     "Anti-lock Breaking System": {
         "2023-07-25": "- [[Anti-lock Breaking System]]"
     },
+    "JavaScript Arrow Functions vs JavaScript Functions": {
+        "2024-01-29": "- [[JavaScript Arrow Functions vs JavaScript Functions]]"
+    },
     "ePub to PDF": {
         "2023-05-01": "- [[ePub to PDF]]"
     },
@@ -5191,6 +5194,9 @@ export const backlinks = {
         "Search in a Latent Space": "- [[Generative AI]]",
         "Tome": "Create presentation decks with [[Generative AI]]."
     },
+    "editorStickyScroll": {
+        "2024-01-29": "- [[editorStickyScroll]]"
+    },
     "i18n with Next.js": {
         "2023-11-06": "- [[i18n with Next.js]]"
     },
@@ -6071,6 +6077,9 @@ export const backlinks = {
     },
     "Dumbest Person in the Room": {
         "Person 542AD7": "Felt like I was the [[Dumbest Person in the Room]]."
+    },
+    "jscpd": {
+        "2024-01-29": "- [[jscpd]]"
     },
     "AI-native": {
         "Cloud-Native": "I am cloud-native, and [[AI-native]], and that is my edge.",
@@ -7690,6 +7699,7 @@ export const backlinks = {
         "Setting different images for Light & Dark mode": "[[Lesser Known Trick]]",
         "Sudo with Touch ID": "[[Lesser Known Trick]]",
         "Timed Terminal Commands": "[[Lesser Known Trick]]. Add this to `~/.zshrc` or ...",
+        "editorStickyScroll": "[[Lesser Known Trick]]. search `sticky scroll` in VS ...",
         "text-transform capitalize": "Capitalizes first letter [[Lesser Known Trick]]"
     },
     "Aldehyde Backlinks Outage (January 2023)": {
