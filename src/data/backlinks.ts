@@ -1485,6 +1485,9 @@ export const backlinks = {
     "Para Bellum": {
         "2023-08-10": "- [[Para Bellum]]"
     },
+    "Benchmarking Deep Learning Models for Project Malmantile": {
+        "2024-01-29": "- [[Benchmarking Deep Learning Models for Project Malmantile]]"
+    },
     "Memex is more than a Memex": {
         "2022-10-20": "- [[Memex is more than a Memex]]"
     },
@@ -2715,6 +2718,7 @@ export const backlinks = {
     },
     "하늘땅사람 지원 문서": {
         "2023-01-18": "- [[하늘땅사람 지원 문서]]",
+        "2024-01-30": "- [[하늘땅사람 지원 문서]]",
         "하늘땅사람": "- [[하늘땅사람 지원 문서]]",
         "하늘땅사람 개발 기록": "- [[하늘땅사람 지원 문서]]"
     },
