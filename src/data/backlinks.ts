@@ -253,9 +253,6 @@ export const backlinks = {
     "2023-11-16": {
         "Project Florence": "## [[2023-11-16]]"
     },
-    "2023-02-20": {
-        "기술 발전의 속도": "[[2023-02-20]]에 작성한 에세이"
-    },
     "2023-11-22": {
         "Project Ganymede": "## [[2023-11-22]]"
     },
@@ -909,7 +906,6 @@ export const backlinks = {
         "Towards Ambient Computing": "... then, as we all know, [[ChatGPT]] came along.",
         "Unsemantic": "... lived for a while 😁 [[ChatGPT]] is very unsemantic",
         "Wolfram Alpha": "## Wolfram's [[ChatGPT]] prompt",
-        "기술 발전의 속도": "그런데 고작 3개월도 되지 않아 [[ChatGPT]]가 등장하며... 모든 것을 뒤바꾸어 놓았다. ...",
         "앰비언트 컴퓨팅을 향해": "... 없었기 때문이다. 그리고 모두가 알다시피 [[ChatGPT]]가 등장했다.",
         "초대장의 시대": "... 전혀 들지 못한다. 예를 들어, [[ChatGPT]]가 초대장이 필요했는가? 완전 아니다."
     },
@@ -4013,6 +4009,9 @@ export const backlinks = {
         "2019-03-04": "- [[코드클럽]]",
         "2022-12-10": "- [[코드클럽]]"
     },
+    "당근 CEO Gary에게의 발표": {
+        "2024-01-31": "- [[당근 CEO Gary에게의 발표]]"
+    },
     "Conditional Probability": {
         "2023-01-23": "- [[Conditional Probability]]"
     },
@@ -5240,6 +5239,9 @@ export const backlinks = {
     },
     "Is Starbucks the Biggest Drug Dealer": {
         "2023-08-22": "- [[Is Starbucks the Biggest Drug Dealer]]"
+    },
+    "Response from Dan Siroker on 2024-01-31": {
+        "2024-01-31": "- [[Response from Dan Siroker on 2024-01-31]]"
     },
     "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": {
         "2023-04-11": "- [[DeepL vs. GPT 3.5 vs. GPT 4 벤치마크]]",
@@ -7769,8 +7771,7 @@ export const backlinks = {
         "Real Interviews": "### [[Grammarly]]",
         "Sungari": "... Schema Managed Data Ingestion at [[Grammarly]]. The old system at [[GNAR]] ...",
         "Truthiness of Empty Strings": "On 2023-06-27, our team at [[Grammarly]] found a bug where a ...",
-        "Workplace Search": "used at [[grammarly]]",
-        "기술 발전의 속도": "그래서 [[Grammarly]] 등의 텍스트 [[AI|인공지능]] 회사에 열심히 ..."
+        "Workplace Search": "used at [[grammarly]]"
     },
     "SHAP": {
         "2022-12-24": "- [[SHAP]]"
@@ -9428,8 +9429,7 @@ export const backlinks = {
         "Prompt Marketplace": "With Generative AI and [[Prompt Engineering]] blooming, people now sell and ...",
         "Screenshot as an API": "... Stable Diffusion and DALL-E (text-to-image) [[Prompt Engineering]]",
         "Search in a Latent Space": "... Maybe it's another name for [[Prompt Engineering]]",
-        "Synthography": "- Needs [[Prompt Engineering]]",
-        "기술 발전의 속도": "... 같은... 그마저도 엄청난 대격변이었기 때문에 [[Prompt Engineering]]이라는 새로운 분야가 각광 받으며 AI|인공지능에게 ..."
+        "Synthography": "- Needs [[Prompt Engineering]]"
     },
     "Willpower": {
         "2023-05-18": "- [[Willpower]]"
@@ -9649,8 +9649,7 @@ export const backlinks = {
     "Photoshop for Text": {
         "Generative Intelligence": "- [[Photoshop for Text]]",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... came across your article on [[Photoshop for Text]] and was deeply inspired by ...",
-        "Project Core ML Foundation": "- [[Photoshop for Text]]",
-        "기술 발전의 속도": "당시에도 나는 [[Photoshop for Text]]를 상상하며 [[Someday|언젠가]] 미래에 도래할 텍스트 ..."
+        "Project Core ML Foundation": "- [[Photoshop for Text]]"
     },
     "Nuclear Fission": {
         "2022-10-18": "- [[Nuclear Fission]]",
@@ -9947,7 +9946,6 @@ export const backlinks = {
         "postcredit.info": "[[Someday]] [[Project]]. 영화 쿠키 있나요?",
         "sem.sh": "[[Someday]] [[Project]]. Open-sourced Code Time or ...",
         "supernpm": "[[Someday]] [[Project]]. A higher wrapper of ...",
-        "기술 발전의 속도": "... 나는 Photoshop for Text를 상상하며 [[Someday|언젠가]] 미래에 도래할 텍스트 [[AI|인공지능]]의 미래를 ...",
         "네오상평통보": "... 상품권 혹은 기념주화로 재발행하는 Project|프로젝트를 [[Someday|언젠가]]하면 좋겠다고 생각했다.",
         "도메인 찾아 삼만리": "... 길지만 더 전통적이고 무난했다. 또한 [[Someday|언젠가]] 'cho.sh'으로 웹사이트를 개설하기를 희망하면서 웹 ...",
         "불가사리": "Tossface|토스페이스 같은 곳에 [[Someday|언젠가]] 들어갔으면",
@@ -11078,7 +11076,6 @@ export const backlinks = {
         "Unsemantic": "... we must create an unsemantic [[AI]] (i.e., rigorous.)",
         "WebNPU API를 상상하다": "Someday|언젠가 [[AI]] 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 표준이 ...",
         "hn.cho.sh 개발 기록": "해커뉴스를 읽고 있다가 이걸 [[AI]]에게 요약해보고 있었다.",
-        "기술 발전의 속도": "2022년 여름의 [[AI|인공지능]] 업계를 대표적으로 나타내는 글이다",
         "슈퍼자판기": "... 환경을 실시간으로 촬영. 이러한 카메라는 [[AI]] 기반 행동 분석 시스템과 통합되어 ...",
         "앰비언트 컴퓨팅을 향해": "... 형태의 Google Clip이 등장했다. Google|구글의 [[AI|인공지능]]으로 \"기록할 만한\" 순간이 지나간다면 사진을 ...",
         "역사적 리셋": "... 않으며 현재의 이익에 맞게 움직이는 [[AI|인공지능]]의 Autonomous Agent와 비슷하다는 생각이 들었다. ...",
@@ -13830,66 +13827,6 @@ export const backlinks = {
     },
     "EF81EE.png": {
         "Alien X": "![[EF81EE.png]]"
-    },
-    "76B360.png": {
-        "기술 발전의 속도": "![[76B360.png]]"
-    },
-    "A9AA12.png": {
-        "기술 발전의 속도": "![[A9AA12.png]]"
-    },
-    "BEF88B.png": {
-        "기술 발전의 속도": "![[BEF88B.png]]"
-    },
-    "D65051.png": {
-        "기술 발전의 속도": "![[D65051.png]]"
-    },
-    "B6676B.png": {
-        "기술 발전의 속도": "![[B6676B.png]]"
-    },
-    "83C5B9.png": {
-        "기술 발전의 속도": "![[83C5B9.png]]"
-    },
-    "C7A3F1.png": {
-        "기술 발전의 속도": "![[C7A3F1.png]]"
-    },
-    "AE867F.png": {
-        "기술 발전의 속도": "![[AE867F.png]]"
-    },
-    "E6D4FC.png": {
-        "기술 발전의 속도": "![[E6D4FC.png]]"
-    },
-    "4A56DD.png": {
-        "기술 발전의 속도": "![[4A56DD.png]]"
-    },
-    "BA9820.png": {
-        "기술 발전의 속도": "![[BA9820.png]]"
-    },
-    "27155E.png": {
-        "기술 발전의 속도": "![[27155E.png]]"
-    },
-    "D9F9E6.png": {
-        "기술 발전의 속도": "![[D9F9E6.png]]"
-    },
-    "5D8752.png": {
-        "기술 발전의 속도": "![[5D8752.png]]"
-    },
-    "BB4FE4.png": {
-        "기술 발전의 속도": "![[BB4FE4.png]]"
-    },
-    "70401B.png": {
-        "기술 발전의 속도": "![[70401B.png]]"
-    },
-    "72C3AE.png": {
-        "기술 발전의 속도": "![[72C3AE.png]]"
-    },
-    "34EEA3.png": {
-        "기술 발전의 속도": "![[34EEA3.png]]"
-    },
-    "1675E2.png": {
-        "기술 발전의 속도": "![[1675E2.png]]"
-    },
-    "DF32FA.png": {
-        "기술 발전의 속도": "![[DF32FA.png]]"
     },
     "C5B7B8.png": {
         "Engine Equation (Metapage)": "![[C5B7B8.png]]"
