@@ -11,6 +11,9 @@ export const backlinks = {
     "2023-07-25": {
         "Watch is the Greatest Dumb Phone": "Essay on [[2023-07-25]]."
     },
+    "2024-02-01": {
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "[[2024-02-01]]에 받은 [[Mail|편지]]이다."
+    },
     "2023-07-11": {
         "Project Heimdall Table Structure": "[[2023-07-11]] Version",
         "Project Naroo": "## [[2023-07-11]]"
@@ -252,6 +255,9 @@ export const backlinks = {
     },
     "2023-11-16": {
         "Project Florence": "## [[2023-11-16]]"
+    },
+    "2023-02-20": {
+        "기술 발전의 속도": "[[2023-02-20]]에 작성한 에세이"
     },
     "2023-11-22": {
         "Project Ganymede": "## [[2023-11-22]]"
@@ -906,6 +912,7 @@ export const backlinks = {
         "Towards Ambient Computing": "... then, as we all know, [[ChatGPT]] came along.",
         "Unsemantic": "... lived for a while 😁 [[ChatGPT]] is very unsemantic",
         "Wolfram Alpha": "## Wolfram's [[ChatGPT]] prompt",
+        "기술 발전의 속도": "그런데 고작 3개월도 되지 않아 [[ChatGPT]]가 등장하며... 모든 것을 뒤바꾸어 놓았다. ...",
         "앰비언트 컴퓨팅을 향해": "... 없었기 때문이다. 그리고 모두가 알다시피 [[ChatGPT]]가 등장했다.",
         "초대장의 시대": "... 전혀 들지 못한다. 예를 들어, [[ChatGPT]]가 초대장이 필요했는가? 완전 아니다."
     },
@@ -1005,6 +1012,7 @@ export const backlinks = {
         "2023-01-27": "... had to migrate Extracranial to [[Cloudflare Pages]] for [[Vercel]] for now...",
         "2023-02-02": "- [[Cloudflare Pages]]",
         "Aldehyde Outage (January 2023)": "Configuring [[Cloudflare Pages]] and [[Vercel]] with the following ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... internal hash output generator, but [[Cloudflare Pages]] seemed to override it? I ...",
         "Vercel Incident Report (April 2023)": "... but now I lean towards [[Cloudflare Pages]]",
         "lovearc.net": "... image proxies when migrating to [[Cloudflare Pages]]. All the profiles will now ..."
     },
@@ -1043,7 +1051,8 @@ export const backlinks = {
         "WWDC23": "- [[WidgetKit]] → Interactivity. Also possible to ..."
     },
     "Aldehyde SaaS": {
-        "2023-05-30": "- [[Aldehyde SaaS]]"
+        "2023-05-30": "- [[Aldehyde SaaS]]",
+        "실록": "[[Aldehyde SaaS]]."
     },
     "Perverse Incentive": {
         "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "... 걸맞다. 과연 이대로 작동할까? 완벽하게 [[Perverse Incentive|코브라 효과]]에 들어맞는다."
@@ -1088,7 +1097,8 @@ export const backlinks = {
         "Aldehyde SaaS": "Someday Project. It's this [[Aldehyde]].",
         "Better Aldehyde": "- [[Aldehyde]]",
         "Developing Review Notes for Obsidian": "- [[Aldehyde]]의 기술적 발전으로 인해 옵시디언 내부보다 ...",
-        "Link Coefficient": "For example, as of 2023-02-16, [[Aldehyde]] has a 0.592% of Link ..."
+        "Link Coefficient": "For example, as of 2023-02-16, [[Aldehyde]] has a 0.592% of Link ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "I migrated my website, [[Aldehyde]] (part of Project [[Extracranial]]), to ..."
     },
     "Prehistoric": {
         "2023-05-10": "- [[Prehistoric]]",
@@ -1229,7 +1239,8 @@ export const backlinks = {
     },
     "Hacker": {
         "2023-03-06": "- [[Hacker]]",
-        "Geohot-Twitter Mayhem": "... as Geohot, is a famous [[hacker]] and founder of Comma.[[ai]]. [[Elon ..."
+        "Geohot-Twitter Mayhem": "... as Geohot, is a famous [[hacker]] and founder of Comma.[[ai]]. [[Elon ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... get Vercelized where their indie [[hacker]] dev support gets worse day ..."
     },
     "Krafton Way": {
         "2022-11-23": "- Finished reading [[Krafton Way]]",
@@ -1367,6 +1378,7 @@ export const backlinks = {
     },
     "Kubernetes": {
         "2022-07-14": "... I found: Uber didn't make [[Kubernetes]]. [[Google]] did.",
+        "AWS Fargate": "... Container Service) and EKS (Elastic [[Kubernetes]] Service) that allows you to ...",
         "Architecture of Mastodon": "... make developer workflow harder. Containerization, [[Kubernetes]], and modern [[front-end]] stacks are ...",
         "Boring Technologies": "... your product runs on Heroku, [[Kubernetes]], or a brittle singly-homed machine ...",
         "Cloud-Native": "... and automation using tools like [[Kubernetes]], [[Docker]], and Terraform.",
@@ -1396,6 +1408,10 @@ export const backlinks = {
         "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "- Secure Multiparty Computation ([[Secure Multi-Party Computation|SMC]]) — Enables multiple parties to ...",
         "Vertical Federated Learning": "... employing advanced cryptographic techniques like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]) or [[Homomorphic ...",
         "honest-but-curious": "... Learning|FL) and cryptographic protocols like [[Secure Multi-Party Computation]] ([[Secure Multi-Party Computation|SMPC]]). In this ..."
+    },
+    "Undefined Symbol Vtable": {
+        "2022-09-22": "- [[Undefined Symbol Vtable]]",
+        "Symbol (Computer Systems)": "- [[Undefined Symbol Vtable]]"
     },
     "Zenly 4.0 Design": {
         "2023-12-13": "- [[Zenly 4.0 Design]]"
@@ -1819,6 +1835,7 @@ export const backlinks = {
         "LavaLab Cohort of Spring 2023": "Documentations tool that generates a [[Docusaurus]]-like website, given a PDF. Integrated ...",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... convert Obsidian MD files to [[Docusaurus]] MD files since they have ...",
         "Letter to the Heptabase Team on 2022-10-11": "... also a contributor to GoogleChrome/web.dev, Facebook/[[docusaurus]], [[Vercel]]/[[Satori]], Logseq/Logseq, Etc. I came ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... I deploy my website. AFAIK [[docusaurus]] has its internal hash output ...",
         "Paracosm": "... Thought that aims to replace [[Docusaurus]] with [[Vercel]]'s tech stacks.",
         "Project Naroo": "... switched to a more conventional [[Docusaurus]] with [[Listmonk]]. Consider [[Project]] [[Done]].",
         "Redirect": "## Redirects in [[Docusaurus]]",
@@ -2106,6 +2123,7 @@ export const backlinks = {
         "Data Preservation": "... important concept for Memex and [[Extracranial]]",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... Memex or, in my term, [[Extracranial]] at https://cho.sh.",
         "Memex": "Synonym with [[Extracranial]], [[Second Brain|Digital Brain]], [[Second Brain]], ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... website, Aldehyde (part of Project [[Extracranial]]), to [[FlightControl]].",
         "Nextra": "- Potential [[Extracranial]]",
         "Paracosm": "... an experimental documentation toolkit & [[Extracranial]] [[Tools for Thought]] that aims ...",
         "Plateau of Latent Potential": "... could be a form of [[Extracranial]], a [[Memex]], or even [[Conversational ...",
@@ -2131,6 +2149,7 @@ export const backlinks = {
         "Heap (Computer Systems)": "On the other hand, Java, [[Python]], or other higher-level languages use ...",
         "Higher-Level Languages and Their Speeds": "- [[Python]]",
         "Mathematics under The Library of Babel": "- I tried making a [[Python]] script to backtrack the combinations.",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... a jankily frankensteined pipe of [[Python]] and Node to generate my ...",
         "Person 1E6ABA": "... as possible, whereas the Tensorflow [[Python]] team wanted to make everything ...",
         "Python": "You can offset with [[Python]]'s `enumerate` function with list splitting.",
         "Real Exams": "... Get Job Done SQL, React, [[Python]]",
@@ -2348,6 +2367,7 @@ export const backlinks = {
         "Project": "- [[Project Naroo]]",
         "Project Heimdall Locale Transition Strategy": "[[Project Naroo]]'s predecessor [[hn.cho.sh]] operated on DeepL's ...",
         "hn.cho.sh 개발 기록": "[[Project Naroo]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "> [[Project Naroo|Heimdall]]이나 [[Bing Chat for All Browsers]]과 ...",
         "일일일": "NewsGPT Model. A competitor to [[Project Naroo]]."
     },
     "ShadowRealm": {
@@ -2413,6 +2433,10 @@ export const backlinks = {
     "Implementing Karatsuba Algorithm in Python": {
         "2022-11-19": "  - [[Implementing Karatsuba Algorithm in Python]]"
     },
+    "두그열": {
+        "2024-02-01": "- [[두그열]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "무엇보다 저는 귀화의 [[두그열]]에 큰 응원을 보내고 싶습니다. 제게 ..."
+    },
     "Demise of Chatbots in 2017": {
         "2022-11-28": "- Matt Rickard. [[Demise of Chatbots in 2017]], [[Generative Databases]]",
         "Generative AI": "... make a similar trajectory like [[Demise of Chatbots in 2017]]?",
@@ -2429,6 +2453,7 @@ export const backlinks = {
         "Font Features": "- [[CSS]] property to enhance legibilities of ...",
         "HTML": "... assisted by technologies such as [[CSS|Cascading Style Sheets]] ([[CSS]]) and scripting languages such ...",
         "Markdown Email Client": "... Markdown. Before sending, select one [[CSS]]. Then... it sends as a ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... seemed slightly awkward; a full JavaScript|JS-[[CSS]] redownload seemed to happen whenever ...",
         "Mini App": "... using web-based technologies like HTML, [[CSS]], and [[JavaScript]] hosted by the ...",
         "Open Graph Image as a Service": "... library to convert HTML and [[CSS]] to [[SVG]]",
         "Project Naroo": "... Scrape websites for text by [[CSS]] selector.",
@@ -3353,6 +3378,7 @@ export const backlinks = {
         "Virtual DOM": "... the end being declarative, state-driven [[UIUX|UI]] development. Virtual DOM is valuable ...",
         "Wayfinding with AI Pin": "... guidelines for positioning and scaling [[UIUX|UI]] elements.",
         "날씨 요정": "[[UIUX]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... Human Interface Guideline, 웹의 경우 shadcn/[[UIUX|ui]]). 디자인을 위탁했기 때문에 기획과 개발에만 ...",
         "배달의민족 FE 개발자가 일하는 법 Q&A": "## Q. Front-end|프론트엔드 개발자가 [[UIUX|UI]]나 [[UIUX|UX]]에 대한 아이디어가 있다면 이를 ...",
         "빙글": "## [[UIUX|UI]]의 변경",
         "혜성처럼 나타난 본디": "... 찍어서 주고 받았다. 가끔 하나의 [[UIUX]]가 큰 차이를 만든다."
@@ -3797,6 +3823,7 @@ export const backlinks = {
         "iOS": "... system software that runs on [[Apple]]'s iPhone, iPad, iPod Touch, and ...",
         "macOS": "... operating system (OS) that powers [[Apple]]'s Mac computers. It's the primary ...",
         "드디어, 한국 애플페이": "10년의 기다림 끝에 [[Apple|애플]]페이가 들어온다. 2023년 2월 3일자 [[Finance|금융]]위원회에서 ...",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... 시스템에 위탁합니다 (iOS 앱의 경우 [[Apple]] Human Interface Guideline, 웹의 경우 ...",
         "불가사리 (기업)": "... 설립의 필요성을 느꼈다. 예를 들어 [[Apple]]의 PassKit의 NFC 개발 도구는 기업이 ...",
         "서당개 3년이면 풍월을 읊는다": "... 어떤 방식으로 얻었든 말이죠. — [[Apple|애플]]의 채용 문구",
         "서울 프로": "본 목적은 Pretendard와 비슷하게 [[Apple]]의 [[San Francisco]] 폰트와 유사한 오픈 ...",
@@ -3888,6 +3915,7 @@ export const backlinks = {
         "2022-11-07": "- [[Text Graphics]]"
     },
     "Antifragile": {
+        "2024-02-01": "... 모든 면에서 완벽하게 준비했다(고 생각한다). [[Antifragile|안티프래질]]... 모든 실수는 기회다. 뿌듯하다.",
         "Antifragily": "In an [[antifragile]] manner. [[anti]]fragily",
         "Antipreneur": "- [[Antifragile]]. 위기가 아니라 버그 리포트이다",
         "Renaissance": "... Death and political instability. Perfectly [[antifragile]].",
@@ -4046,6 +4074,7 @@ export const backlinks = {
         "QA.json": "The data format utilizes [[JSON]] with the following main objects:",
         "glTF": "... two possible file extensions: .gltf ([[JSON]]/ASCII) or .glb (binary). Both .gltf ...",
         "sem.sh": "- [[JSON]] API",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... 내비게이션이 있고, 내 정보와 피드는 [[JSON]]에서 대충 정보 읽어오고, 화면에 렌더링만 ...",
         "하늘땅사람 개발 기록": "천지인 로직을 그냥 선처리해놓고 [[json]]에 덤핑하여 사용하면 어떨까 실험을 해보았다."
     },
     "GA": {
@@ -4406,6 +4435,9 @@ export const backlinks = {
         "2023-02-26": "- [[Love Wikipedia]]",
         "Love Software": "- [[Love Wikipedia]]"
     },
+    "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": {
+        "2024-02-01": "- [[디지털 브레인과 개발에 대한 질문 편지 (February 2024)]]"
+    },
     "PKM": {
         "2022-06-12": "- Current [[PKM]] software tries to make [[Wikipedia]]-like ...",
         "2022-07-01": "... Second Brain, Digital Garden, and [[PKM]] are used interchangeably, they are ...",
@@ -4611,7 +4643,8 @@ export const backlinks = {
         "Extracranial": "- [[Second Brain]]",
         "In search of my domain": "... fully customizable digital garden & [[second brain]]. I laid out my vision ...",
         "Memex": "Synonym with Extracranial, [[Second Brain|Digital Brain]], [[Second Brain]], etc.",
-        "PKM": "| [[Second Brain]]   | Implementation for ..."
+        "PKM": "| [[Second Brain]]   | Implementation for ...",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "## [[Second Brain|디지털브레인]]에 관하여"
     },
     "Sequential GitHub Action Jobs": {
         "2023-11-14": "- [[Sequential GitHub Action Jobs]]"
@@ -4641,6 +4674,7 @@ export const backlinks = {
     },
     "Amazon": {
         "AI Garbage Data Flooding": "... video? Is this book on [[Amazon]]? They are all potential AI ...",
+        "AWS Fargate": "... is a compute engine for [[Amazon]] ECS (Elastic Container Service) and ...",
         "DNS": "... Hey .com Server! Where is [[Amazon|amazon.com]]? Oh, OK, thanks.",
         "EC2": "[[Amazon]] Elastic Compute Cloud",
         "Fast": "- Amazon Prime — [[Amazon]] announced the first version of ...",
@@ -4833,6 +4867,7 @@ export const backlinks = {
         "네오상평통보": "... 현대적 상품권 혹은 기념주화로 재발행하는 [[Project|프로젝트]]를 [[Someday|언젠가]]하면 좋겠다고 생각했다.",
         "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": "... 온갖 어려움을 무릅쓰고 반드시 성취해야하는 [[Project|프로젝트]]이다.",
         "두 번째 뇌": "나는 더 간단하게 [[Project|프로젝트]], 연구, 그리고 독서록으로 분리했다.",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "[[Project|사이드 프로젝트]]에 있어서 가장 귀중한 자원은 시간도 ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... 수는 없다. 최근 알게 된 [[Project|프로젝트]] 중 라즈베리 파이로 스마트 오디오 ...",
         "미래는 결국 미성숙한 우리가 만들어낸다": "... 자원을 과소평가하는 경향을 말한다. 사람들이 [[Project|프로젝트]]를 제시간에 또는 예산 범위 내에서 ...",
         "민사고": "... 여름학기 아두이노 → 3학년 졸업 [[Project|프로젝트]])을 따라가며 기본기를 쌓았고 앞서 언급한 ...",
@@ -4840,6 +4875,7 @@ export const backlinks = {
         "사발통문": "Someday [[Project]]",
         "사회과부도": "Someday [[Project]]. 마음대로 변형을 가할 수 있는 ...",
         "서울 프로": "2021년에 진행하다 중단한 [[Project|프로젝트]]이다.",
+        "실록": "Someday [[Project]].",
         "심리역사학": "... 이루어갈 수 있도록 준비한다. 셀던 [[Project|계획]]의 핵심 개념은 심리역사학인데, 전 인류의 ...",
         "어둠의 앱스토어": "Someday [[Project]]",
         "역사의 집대성": "... 하나의 기록소 안에 모두 집대성하는 [[Project|프로젝트]]이다.",
@@ -4954,6 +4990,7 @@ export const backlinks = {
         "Grammarly": "- [[dx]] team",
         "Heap (Computer Systems)": "- [[DX]]",
         "LavaLab Cohort of Spring 2023": "### More [[DX]] Startups.",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... next 2 years; but AWS [[DX]] is a pain compared to ...",
         "Reverse Engineering Apple Music API": "Apple Music API [[DX]] is way worse than Spotify's.",
         "Symbol (Computer Systems)": "... the Link (Computer Systems)|linker for [[dx]])"
     },
@@ -5007,6 +5044,7 @@ export const backlinks = {
         "Ghost 테마를 자동 배포하는 방법": "6. 완성된 테마 파일을 [[GitHub]] Repository에 Push한다.",
         "IDOL Stack": "... Inlang + Across the Sprachraums, [[GitHub]] CI/CD",
         "Letter to Mr. Matt Rickard on 2022-10-03": "I'm at @anaclumos on [[GitHub]], [[Twitter]], and any other platform.",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... to pay Prosumer plan (like [[GitHub]]),",
         "Neo ArXiv": "- SourceForge, not [[GitHub]]",
         "Redwood.js": "... 2020 by Tom Preston-Werner, a [[GitHub]] co-founder. Redwood uses a unique ...",
         "Setting different images for Light & Dark mode": "- Using `#gh-dark-mode-only` for [[GitHub]]",
@@ -5015,6 +5053,7 @@ export const backlinks = {
         "Svelte": "... MIT License and hosted on [[GitHub]]. Svelte",
         "YCLF 주간 사용자 1000명": "[[GitHub]] 이슈를 남겨준 분들도 계셨고 [[Mail|메일]]을 ...",
         "sem.sh": "- [[GitHub]] Profile Widget",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "> [[GitHub|깃허브]] 오픈소스 레포지토리에 기여를 하시는 모습이 ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... GitHub Repository에 들어가서 저장소를 내려받는다. [[GitHub]]을 사용하지 않는 사람이라면 웹사이트에 있는 ...",
         "배달의민족 FE 개발자가 일하는 법 발표": "... 겪고 나면 생각이 달라진다. 예전에는 [[GitHub]]를 사용하다가 요즘에는 비슷한 도구 (GitLab) ...",
         "초대장의 시대": "그럼에도 나는 [[GitHub]]의 전 CEO Nat의 관점에 동의한다. ...",
@@ -5225,6 +5264,9 @@ export const backlinks = {
     "Titanium Calculator": {
         "2024-01-28": "[[Titanium Calculator]]"
     },
+    "AWS CodeBuild": {
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "## Bumping up [[AWS CodeBuild]] size"
+    },
     "Guestbook": {
         "2022-10-15": "- [[Guestbook]]"
     },
@@ -5239,9 +5281,6 @@ export const backlinks = {
     },
     "Is Starbucks the Biggest Drug Dealer": {
         "2023-08-22": "- [[Is Starbucks the Biggest Drug Dealer]]"
-    },
-    "Response from Dan Siroker on 2024-01-31": {
-        "2024-01-31": "- [[Response from Dan Siroker on 2024-01-31]]"
     },
     "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": {
         "2023-04-11": "- [[DeepL vs. GPT 3.5 vs. GPT 4 벤치마크]]",
@@ -5333,6 +5372,7 @@ export const backlinks = {
         "DRM": "- In the instance of [[Chrome]], the [[Web Browser|browser]] doesn't implement ...",
         "Developing Review Notes for Obsidian": "... 보니 다음과 같은 간단한 구조였다. [[Chrome]] [[WebExtension|Extension]]과 유사하게 번들된 `main.js`와 `manifest.json`으로 ...",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "... Firefox can \"straight up\" run [[Chrome]] extensions, so I imagine uploading ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... Docusaurus consumes more memory than [[Chrome]] and I needed a bigger ...",
         "Neo Apps": "- Web Browser|Browsers. [[Chrome]] → Arc.",
         "One and Only WebExtension": "... WebExtension|extension that disguises itself as [[Chrome]] and runs all Chrome Extensions.",
         "Person 1E6ABA": "... Google involved multiple teams, from [[Chrome]] to TensorFlow.",
@@ -5653,7 +5693,8 @@ export const backlinks = {
         "Privacy Policy for My Chrome Extensions": "## [[Bing Chat for All Browsers]]",
         "Search AI": "- [[Bing Chat for All Browsers]]",
         "Unchained Bing": "A competitor to [[Bing Chat for All Browsers]].",
-        "hn.cho.sh 개발 기록": "[[Bing Chat for All Browsers]]가 10만 주간 사용자를 돌파하기 직전이다. ..."
+        "hn.cho.sh 개발 기록": "[[Bing Chat for All Browsers]]가 10만 주간 사용자를 돌파하기 직전이다. ...",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "> Project Naroo|Heimdall이나 [[Bing Chat for All Browsers]]과 같은 아이디어를 서비스로 구현하실 때, ..."
     },
     "의대 쏠림": {
         "2023-02-15": "- [[의대 쏠림]]",
@@ -5753,6 +5794,7 @@ export const backlinks = {
         "Ghost에서 외부 링크를 새로운 창에서 여는 방법": "물론 이렇게 매번 [[JavaScript]]를 통해 링크를 조작하는 방법은 웹 ...",
         "HTML": "... and scripting languages such as [[JavaScript]]. HTML",
         "HTMX": "- Implementation itself is [[JavaScript]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... seemed slightly awkward; a full [[JavaScript|JS]]-[[CSS]] redownload seemed to happen whenever ...",
         "Mini App": "... technologies like HTML, CSS, and [[JavaScript]] hosted by the Super App, ...",
         "NPM": "... default package manager for the [[JavaScript]] runtime environment [[Node.js]]. NPM is ...",
         "NanoID": "... unique string ID generator for [[JavaScript]]. It's 130 bytes minified, has ...",
@@ -5767,6 +5809,10 @@ export const backlinks = {
         "Vitest": "... fast unit test framework for [[JavaScript]] and [[TypeScript]], optimized for the ...",
         "Write Once Run Everywhere": "- [[JavaScript]]",
         "jQuery": "... popular, fast, small, and feature-rich [[JavaScript]] library. It makes things like ..."
+    },
+    "AWS Fargate": {
+        "2024-02-01": "- [[AWS Fargate]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "## Configuring [[AWS Fargate]] Dockerfiles"
     },
     "Random Variable": {
         "Probability": "- [[Random Variable]]",
@@ -6046,6 +6092,10 @@ export const backlinks = {
         "Parquet": "... processing frameworks such as Hadoop, [[Apache Spark|Spark]], and Impala. It is compatible ...",
         "Project Prepare for Grammarly": "... library to bring Tensorflow on [[Apache Spark]]"
     },
+    "Winning Backdrop Build v2 (December 2023)": {
+        "2023-12-07": "[[Winning Backdrop Build v2 (December 2023)]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "Finally, ever since [[Winning Backdrop Build v2 (December 2023)]], I had \\$\\$\\$ of [[AWS]] ..."
+    },
     "Dynamically Linked Libraries": {
         "2022-12-08": "- [[Dynamically Linked Libraries]]"
     },
@@ -6194,6 +6244,9 @@ export const backlinks = {
     },
     "IP Spoofing": {
         "Internetworking": "- [[IP Spoofing]]"
+    },
+    "Migrating Project Aldehyde to FlightControl (February 2024)": {
+        "2024-02-02": "[[Migrating Project Aldehyde to FlightControl (February 2024)]]"
     },
     "프로젝트 어덕행덕": {
         "2019-11-06": "- [[프로젝트 어덕행덕]]",
@@ -6345,6 +6398,9 @@ export const backlinks = {
     "Dim Flashing Lights": {
         "WWDC23": "- [[Dim Flashing Lights]] for Photosensitive users (AVFoundation includes ..."
     },
+    "Response from Dan Siroker (January 2024)": {
+        "2024-01-31": "- [[Response from Dan Siroker (January 2024)]]"
+    },
     "Effective Accelerationism": {
         "2022-11-28": "- [[Effective Accelerationism]]. [[Effective Accelerationism|효율적 가속주의]]",
         "Can we ever build TikTok for Text": "... preserve intelligence, as seen in [[Effective Accelerationism]].",
@@ -6456,6 +6512,7 @@ export const backlinks = {
     },
     "Cloudflare Worker": {
         "2023-11-14": "- [[Cloudflare Worker]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... locally and pushing it to [[Cloudflare Worker|Cloudflare workers]]. While this workflow worked, I ...",
         "Project Ganymede": "... Implemented Vitest on Prisma and [[Cloudflare Worker|Cloudflare Workers]]"
     },
     "Bloomberg": {
@@ -6572,7 +6629,8 @@ export const backlinks = {
     },
     "Haruki Murakami": {
         "HTML 텍스트 위에 덧말 강조점 쓰기": "[[Haruki Murakami|하루키]]처럼 강조점을 길게 넣는 것도 가능하다.",
-        "水適穿石": "### 직업으로서의 소설가 — [[Haruki Murakami|하루키]]"
+        "水適穿石": "### 직업으로서의 소설가 — [[Haruki Murakami|하루키]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "[[Haruki Murakami|하루키]]의 \"직업으로서의 소설가\"에는 다음 구절이 있습니다."
     },
     "Uniform Distributions (Discrete)": {
         "2023-02-10": "- [[Uniform Distributions (Discrete)]]"
@@ -6614,6 +6672,7 @@ export const backlinks = {
         "Edge Network": "- [[Vercel]] & Vercel Edge Functions",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... Identification BIMI) Just like what [[Vercel]] did to Heroku.",
         "Letter to the Heptabase Team on 2022-10-11": "... a contributor to GoogleChrome/web.dev, Facebook/docusaurus, [[Vercel]]/[[Satori]], Logseq/Logseq, Etc. I came across ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... wait for 10 minutes for [[Vercel]] to build it, and then ...",
         "Next.js": "... web development framework created by [[Vercel]] enabling [[React]]-based web applications with ...",
         "Paracosm": "... aims to replace Docusaurus with [[Vercel]]'s tech stacks.",
         "Redirect": "## Redirect in [[Vercel]]",
@@ -6726,6 +6785,7 @@ export const backlinks = {
         "과거의 영광 (2016-2018)": "... 있는 것일지도 모른다. 민사고에는 '내미'라는 [[Vocab|단어]]가 있다. '내신에 미친 사람'이라는 뜻이다. ...",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "... 정통적 의미로는 \"젠틀맨\"에 가장 가까운 [[Vocab|단어]]여야 하지만, 현대에 남아있는 이미지는 꽉 ...",
         "도메인 찾아 삼만리": "- chosh라는 [[Vocab|단어]]는 Urban Dictionary에 부정적인 의미로 등록되어 ...",
+        "두그열": "내가 만든 [[Vocab|단어]]이다.",
         "배달의민족 FE 개발자가 일하는 법 발표": "... 10년간 버드 워드 (업계에서 회자되는 [[Vocab|단어들]])로 애자일, 워터폴 등을 들어보았을 것이다. ...",
         "이무기 기업, 청룡 기업": "Unicorn|유니콘 기업이라는 [[Vocab|단어]]는 마치 성공이 정해진 양 너무 ...",
         "한자": "... Hanja can help master enough [[Vocab|vocabulary]] to become fluent in 한국어|Korean."
@@ -7256,7 +7316,8 @@ export const backlinks = {
     },
     "DNS": {
         "2023-03-23": "- [[DNS]]",
-        "Internetworking": "- [[DNS]]"
+        "Internetworking": "- [[DNS]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... only mentioned they only supported [[DNS]] with `ALIAS` keyword, and thus ..."
     },
     "Deadlock": {
         "Internetworking": "- [[Deadlock]]"
@@ -7771,7 +7832,8 @@ export const backlinks = {
         "Real Interviews": "### [[Grammarly]]",
         "Sungari": "... Schema Managed Data Ingestion at [[Grammarly]]. The old system at [[GNAR]] ...",
         "Truthiness of Empty Strings": "On 2023-06-27, our team at [[Grammarly]] found a bug where a ...",
-        "Workplace Search": "used at [[grammarly]]"
+        "Workplace Search": "used at [[grammarly]]",
+        "기술 발전의 속도": "그래서 [[Grammarly]] 등의 텍스트 [[AI|인공지능]] 회사에 열심히 ..."
     },
     "SHAP": {
         "2022-12-24": "- [[SHAP]]"
@@ -7924,6 +7986,7 @@ export const backlinks = {
         "YCLF 주간 사용자 1000명": "GitHub 이슈를 남겨준 분들도 계셨고 [[Mail|메일]]을 보내주신 분들도 계셨다. 유용한 피드백을 ...",
         "hn.cho.sh 개발 기록": "... 진출하기 위해 오랜만에 일본인 친구들에게 [[Mail|이메일]]을 조금 돌렸다. 얘기를 들어보니 Zenn을 ...",
         "뉴턴의 서신": "아이작 뉴턴은 [[Mail|편지]]을 통해 동료들과 소통했다.",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "2024-02-01에 받은 [[Mail|편지]]이다.",
         "프로젝트 어덕행덕": "... - 그래서 학생 할인은 없냐고 [[Mail|메일]]로 물어봄"
     },
     "Node.js": {
@@ -7945,6 +8008,9 @@ export const backlinks = {
     },
     "Project Heimdall Locale Transition Strategy": {
         "Project Naroo": "- [[Project Heimdall Locale Transition Strategy]]"
+    },
+    "실록": {
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... 생각을 많이 합니다. 그래서 직접 [[실록|SaaS로 만들고 싶은데]] 공사 규모가 너~무 커서 그냥 ..."
     },
     "0543 Diameter of Binary Tree": {
         "Coding Tests": "- [x] [[0543 Diameter of Binary Tree]]"
@@ -8104,6 +8170,7 @@ export const backlinks = {
         "Better Docusaurus": "... anaclumos · #7727 · facebook/docusaurus [[Pull Request]]",
         "GitHub Actions": "... that build and test every [[pull request]] to your repository or deploy ...",
         "Grammarly Work Note 2023-05-26": "... it automatically check before every [[Pull Request]] with tools like [[Husky]].",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... 옵니다. 간단한 수정이라면 패치 후 [[Pull Request|PR]]을 드리고, 복잡한 구현이라면 이슈만 주로 ...",
         "배달의민족 FE 개발자가 일하는 법 발표": "- Upsource & [[Pull Request|PR]] & Root"
     },
     "Bootstrap": {
@@ -8376,12 +8443,17 @@ export const backlinks = {
         "2022-07-26": "- [x] [[0125 Valid Palindrome]]",
         "Coding Tests": "- [x] [[0125 Valid Palindrome]]"
     },
+    "shadcn": {
+        "2024-02-01": "- [[shadcn]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... Human Interface Guideline, 웹의 경우 [[shadcn]]/[[UIUX|ui]]). 디자인을 위탁했기 때문에 기획과 개발에만 ..."
+    },
     "Git": {
         "2022-11-28": "- [[Git]]. Git Notes: git's coolest, most ...",
         "2023-02-08": "... Search across a half million [[git]] repos",
         "Fast": "... Git — Linus Torvalds created [[Git]] in April 2005 and self-hosted ...",
         "How to Build Software like an SRE": "- use [[Git]]",
         "Make Git Case Sensitive": "Make [[Git]] [[Case-Sensitivity|Case Sensitive]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... extracranial workflow was simple — [[git]] push, wait for 10 minutes ...",
         "Techs Actually Simple": "- Yet [[Git]]'s object model is pretty simple ...",
         "UUIDs are Awesome": "... all records remain in the [[Git]] history, so we don't need ...",
         "Vercel": "... and deployments are handled through [[Git]] repositories. Vercel",
@@ -8643,6 +8715,7 @@ export const backlinks = {
         "USDZ vs glTF": "... and operated by Apple for [[iOS]] [[Augmented Reality]] applications. It is ...",
         "VP9 vs HEVC": "... videos on Apple Safari and [[iOS]] YouTube.",
         "iMessage App": "... the capabilities of their existing [[iOS]] apps to integrate with the ...",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... 디자인은 대부분 디자인 시스템에 위탁합니다 ([[iOS]] 앱의 경우 [[Apple]] Human Interface ...",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "AirPlay를 지원하는 [[iOS]] / [[iOS|iPadOS]] 기기를 사용하는 경우 ...",
         "하늘땅사람 업데이트 기록": "- [[iOS]] 15에서도 하늘땅사람 키보드를 사용할 수 ..."
     },
@@ -9194,8 +9267,10 @@ export const backlinks = {
         "CELLO (Product)": "- [[Cloudflare]] for serving high-res images",
         "Cloudflare Pages": "- [[Cloudflare]] [[Edge]] [[Front-end]]",
         "Cloudflare Worker": "[[Cloudflare]] Worker is a [[serverless]] execution ...",
+        "Configuring Root Domain on FlightControl with CloudFlare": "... `CNAME -> Root Domain` on [[Cloudflare]]. CNAME flattening · Cloudflare DNS ...",
         "Edge Network": "- [[Cloudflare]] Pages & Cloudflare Functions",
         "IDOL Stack": "... Database|DB, Supabase Auth, Supabase Storage, [[CloudFlare]], Chakra",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... `ALIAS` keyword, and thus because [[Cloudflare]] does not support the `ALIAS` ...",
         "Person 9078DC": "... 핫링킹으로 인한 과금이 많이 발생했다. [[Cloudflare]]와 [[Backblaze]]로 Bandwidth Alliance를 설정하고, 이미지 ...",
         "Redirect": "## Redirect in [[Cloudflare]]",
         "Render.com": "3. [[Cloudflare]]. It's not an Application Service ...",
@@ -9429,7 +9504,8 @@ export const backlinks = {
         "Prompt Marketplace": "With Generative AI and [[Prompt Engineering]] blooming, people now sell and ...",
         "Screenshot as an API": "... Stable Diffusion and DALL-E (text-to-image) [[Prompt Engineering]]",
         "Search in a Latent Space": "... Maybe it's another name for [[Prompt Engineering]]",
-        "Synthography": "- Needs [[Prompt Engineering]]"
+        "Synthography": "- Needs [[Prompt Engineering]]",
+        "기술 발전의 속도": "... 같은... 그마저도 엄청난 대격변이었기 때문에 [[Prompt Engineering]]이라는 새로운 분야가 각광 받으며 AI|인공지능에게 ..."
     },
     "Willpower": {
         "2023-05-18": "- [[Willpower]]"
@@ -9612,6 +9688,9 @@ export const backlinks = {
         "Assembly": "It follows how [[Turing Machine]]s would work in the real ...",
         "P vs NP": "... polynomial time by a deterministic [[Turing machine]]."
     },
+    "Undefined Symbol Vtable Error": {
+        "Undefined Symbol Vtable": "[[Undefined Symbol Vtable Error]]"
+    },
     "Buzzword": {
         "2023-07-06": "- [[Buzzword]]"
     },
@@ -9649,7 +9728,8 @@ export const backlinks = {
     "Photoshop for Text": {
         "Generative Intelligence": "- [[Photoshop for Text]]",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... came across your article on [[Photoshop for Text]] and was deeply inspired by ...",
-        "Project Core ML Foundation": "- [[Photoshop for Text]]"
+        "Project Core ML Foundation": "- [[Photoshop for Text]]",
+        "기술 발전의 속도": "당시에도 나는 [[Photoshop for Text]]를 상상하며 [[Someday|언젠가]] 미래에 도래할 텍스트 ..."
     },
     "Nuclear Fission": {
         "2022-10-18": "- [[Nuclear Fission]]",
@@ -9669,7 +9749,8 @@ export const backlinks = {
     "Aldehyde Outage (January 2023)": {
         "2023-01-27": "- [[Aldehyde Outage (January 2023)]]",
         "2023-01-29": "- [[Aldehyde Outage (January 2023)]]",
-        "2023-01-30": "- [[Aldehyde Outage (January 2023)]]"
+        "2023-01-30": "- [[Aldehyde Outage (January 2023)]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "Before [[Aldehyde Outage (January 2023)]], the [[extracranial]] workflow was simple ..."
     },
     "SKAdNetwork": {
         "WWDC23": "- [[SKAdNetwork]]. [[App Store]]'s more in-depth analytics: ..."
@@ -9752,6 +9833,8 @@ export const backlinks = {
         "2022-10-16": "... 끄는 봇이다. 카오스 킹콩은 한 [[AWS]] 리전 전체를 끈다. 그럼 자동으로 ...",
         "2022-12-28": "- Scheduled Job: [[AWS]] Lambda (Linux + cron)",
         "2023-04-10": "... with Vercel and $2,017 in [[AWS]] CloudFront.",
+        "AWS CodeBuild": "[[AWS]] CodeBuild is a fully managed ...",
+        "AWS Fargate": "[[AWS]] Fargate is a compute engine ...",
         "AWS Nuke": "- rebuy-de/[[aws]]-nuke: Nuke a whole [[AWS]] account ...",
         "Cloud-Native": "... on cloud infrastructure, such as [[AWS]], instead of traditional [[on-premise]] infrastructure. ...",
         "Ethereum RPC as a Service": "... query data on the blockchain. [[AWS]] offers a similar product, AWS ...",
@@ -9762,6 +9845,7 @@ export const backlinks = {
         "Is AWS a Dumb Pipe": "- Will [[AWS]] follow its track?",
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... want to bother dealing with [[AWS]] SES.",
         "Migrating Node.js apps from AWS EB to Heroku": "I have used [[AWS]] Elastic Beanstalk for a while ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... was that I pay the [[AWS]] fees and thus I don't ...",
         "Monolith": "... of distributed components orchestrated by [[AWS]] Step Functions, but this approach ...",
         "Node.js 앱을 AWS EB에서 Heroku로 옮기기": "예전부터 [[AWS]] Elastic Beanstalk 앱을 사용해왔지만 최근 ...",
         "OpenAI enthroned as the Levis of Tech": "... dealer in this silent war. [[AWS]] was the latest Levi's of ...",
@@ -9946,11 +10030,13 @@ export const backlinks = {
         "postcredit.info": "[[Someday]] [[Project]]. 영화 쿠키 있나요?",
         "sem.sh": "[[Someday]] [[Project]]. Open-sourced Code Time or ...",
         "supernpm": "[[Someday]] [[Project]]. A higher wrapper of ...",
+        "기술 발전의 속도": "... 나는 Photoshop for Text를 상상하며 [[Someday|언젠가]] 미래에 도래할 텍스트 [[AI|인공지능]]의 미래를 ...",
         "네오상평통보": "... 상품권 혹은 기념주화로 재발행하는 Project|프로젝트를 [[Someday|언젠가]]하면 좋겠다고 생각했다.",
         "도메인 찾아 삼만리": "... 길지만 더 전통적이고 무난했다. 또한 [[Someday|언젠가]] 'cho.sh'으로 웹사이트를 개설하기를 희망하면서 웹 ...",
         "불가사리": "Tossface|토스페이스 같은 곳에 [[Someday|언젠가]] 들어갔으면",
         "사발통문": "[[Someday]] [[Project]]",
         "사회과부도": "[[Someday]] [[Project]]. 마음대로 변형을 가할 수 ...",
+        "실록": "[[Someday]] [[Project]].",
         "어둠의 앱스토어": "[[Someday]] [[Project]]",
         "원하는 곳만 전자레인지": "[[Someday]]",
         "조선왕조실록": "[[Someday]] [[Project]]. Fast and Modern version ..."
@@ -10003,6 +10089,10 @@ export const backlinks = {
     },
     "Headers Include Order": {
         "Internetworking": "- [[Headers Include Order]]"
+    },
+    "Configuring Root Domain on FlightControl with CloudFlare": {
+        "2024-02-01": "- [[Configuring Root Domain on FlightControl with CloudFlare]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... the hood?). More info here: [[Configuring Root Domain on FlightControl with CloudFlare]]. I reported this information to ..."
     },
     "Are Computers Psychotropic Substances": {
         "2023-02-09": "- [[Are Computers Psychotropic Substances]]",
@@ -10073,6 +10163,11 @@ export const backlinks = {
         "배달의민족 FE 개발자가 일하는 법 Q&A": "... 퍼블리셔라는 직군이 있는 회사도 있습니다. [[배달의민족|우아한형제들]]은 어떤가요?",
         "배달의민족 FE 개발자가 일하는 법 발표": "2020년 7월 15일 [[배달의민족]] 김민태 개발자님께서 발표해주신 내용 전부를 ...",
         "서비스 시밍": "- [[배달의민족]]도 주문 시스템을 완성하지 못해 앱으로 ..."
+    },
+    "FlightControl": {
+        "2024-02-01": "- [[FlightControl]]",
+        "Configuring Root Domain on FlightControl with CloudFlare": "... flattening · Cloudflare DNS docs [[FlightControl]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... (part of Project Extracranial), to [[FlightControl]]."
     },
     "Jetski": {
         "2022-10-31": "- [[Jetski]]",
@@ -11076,6 +11171,7 @@ export const backlinks = {
         "Unsemantic": "... we must create an unsemantic [[AI]] (i.e., rigorous.)",
         "WebNPU API를 상상하다": "Someday|언젠가 [[AI]] 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 표준이 ...",
         "hn.cho.sh 개발 기록": "해커뉴스를 읽고 있다가 이걸 [[AI]]에게 요약해보고 있었다.",
+        "기술 발전의 속도": "2022년 여름의 [[AI|인공지능]] 업계를 대표적으로 나타내는 글이다",
         "슈퍼자판기": "... 환경을 실시간으로 촬영. 이러한 카메라는 [[AI]] 기반 행동 분석 시스템과 통합되어 ...",
         "앰비언트 컴퓨팅을 향해": "... 형태의 Google Clip이 등장했다. Google|구글의 [[AI|인공지능]]으로 \"기록할 만한\" 순간이 지나간다면 사진을 ...",
         "역사적 리셋": "... 않으며 현재의 이익에 맞게 움직이는 [[AI|인공지능]]의 Autonomous Agent와 비슷하다는 생각이 들었다. ...",
@@ -11391,10 +11487,6 @@ export const backlinks = {
     "B5F9BB.png": {
         "2022-11-08": "![[B5F9BB.png]]"
     },
-    "Undefined Symbol Vtable": {
-        "2022-09-22": "- [[Undefined Symbol Vtable]]",
-        "Symbol (Computer Systems)": "- [[Undefined Symbol Vtable]]"
-    },
     "A3435F.png": {
         "2022-07-21": "![[A3435F.png]]"
     },
@@ -11431,7 +11523,8 @@ export const backlinks = {
     },
     "5839D6.jpeg": {
         "2023-12-07": "![[5839D6.jpeg]]",
-        "Project Naroo": "![[5839D6.jpeg]]"
+        "Project Naroo": "![[5839D6.jpeg]]",
+        "Winning Backdrop Build v2 (December 2023)": "![[5839D6.jpeg]]"
     },
     "21691E.png": {
         "2023-03-25": "![[21691E.png]]",
@@ -12781,6 +12874,9 @@ export const backlinks = {
     "9A3C8D.png": {
         "UI AI": "![[9A3C8D.png]]"
     },
+    "85ACA7.png": {
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "![[85ACA7.png]]"
+    },
     "13AA49.png": {
         "洪兔雜記": "![[13AA49.png]]"
     },
@@ -13122,6 +13218,14 @@ export const backlinks = {
     },
     "5DBEEF.png": {
         "Attention Settings": "![[5DBEEF.png]]"
+    },
+    "5945C9.png": {
+        "Configuring Root Domain on FlightControl with CloudFlare": "![[5945C9.png]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "![[5945C9.png]]"
+    },
+    "A151E8.png": {
+        "Configuring Root Domain on FlightControl with CloudFlare": "![[A151E8.png]]",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "![[A151E8.png]]"
     },
     "2A2DC6.png": {
         "프로젝트 어덕행덕": "![[2A2DC6.png]]"
@@ -13827,6 +13931,66 @@ export const backlinks = {
     },
     "EF81EE.png": {
         "Alien X": "![[EF81EE.png]]"
+    },
+    "76B360.png": {
+        "기술 발전의 속도": "![[76B360.png]]"
+    },
+    "A9AA12.png": {
+        "기술 발전의 속도": "![[A9AA12.png]]"
+    },
+    "BEF88B.png": {
+        "기술 발전의 속도": "![[BEF88B.png]]"
+    },
+    "D65051.png": {
+        "기술 발전의 속도": "![[D65051.png]]"
+    },
+    "B6676B.png": {
+        "기술 발전의 속도": "![[B6676B.png]]"
+    },
+    "83C5B9.png": {
+        "기술 발전의 속도": "![[83C5B9.png]]"
+    },
+    "C7A3F1.png": {
+        "기술 발전의 속도": "![[C7A3F1.png]]"
+    },
+    "AE867F.png": {
+        "기술 발전의 속도": "![[AE867F.png]]"
+    },
+    "E6D4FC.png": {
+        "기술 발전의 속도": "![[E6D4FC.png]]"
+    },
+    "4A56DD.png": {
+        "기술 발전의 속도": "![[4A56DD.png]]"
+    },
+    "BA9820.png": {
+        "기술 발전의 속도": "![[BA9820.png]]"
+    },
+    "27155E.png": {
+        "기술 발전의 속도": "![[27155E.png]]"
+    },
+    "D9F9E6.png": {
+        "기술 발전의 속도": "![[D9F9E6.png]]"
+    },
+    "5D8752.png": {
+        "기술 발전의 속도": "![[5D8752.png]]"
+    },
+    "BB4FE4.png": {
+        "기술 발전의 속도": "![[BB4FE4.png]]"
+    },
+    "70401B.png": {
+        "기술 발전의 속도": "![[70401B.png]]"
+    },
+    "72C3AE.png": {
+        "기술 발전의 속도": "![[72C3AE.png]]"
+    },
+    "34EEA3.png": {
+        "기술 발전의 속도": "![[34EEA3.png]]"
+    },
+    "1675E2.png": {
+        "기술 발전의 속도": "![[1675E2.png]]"
+    },
+    "DF32FA.png": {
+        "기술 발전의 속도": "![[DF32FA.png]]"
     },
     "C5B7B8.png": {
         "Engine Equation (Metapage)": "![[C5B7B8.png]]"
