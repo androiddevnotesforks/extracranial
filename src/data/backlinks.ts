@@ -1012,7 +1012,7 @@ export const backlinks = {
         "2023-01-27": "... had to migrate Extracranial to [[Cloudflare Pages]] for [[Vercel]] for now...",
         "2023-02-02": "- [[Cloudflare Pages]]",
         "Aldehyde Outage (January 2023)": "Configuring [[Cloudflare Pages]] and [[Vercel]] with the following ...",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... internal hash output generator, but [[Cloudflare Pages]] seemed to override it? I ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... internal hash output generator, but [[Cloudflare Pages]] seemed to override it. I ...",
         "Vercel Incident Report (April 2023)": "... but now I lean towards [[Cloudflare Pages]]",
         "lovearc.net": "... image proxies when migrating to [[Cloudflare Pages]]. All the profiles will now ..."
     },
@@ -1240,7 +1240,7 @@ export const backlinks = {
     "Hacker": {
         "2023-03-06": "- [[Hacker]]",
         "Geohot-Twitter Mayhem": "... as Geohot, is a famous [[hacker]] and founder of Comma.[[ai]]. [[Elon ...",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... get Vercelized where their indie [[hacker]] dev support gets worse day ..."
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... get Vercelized, where their indie [[hacker]] dev support worsens daily."
     },
     "Krafton Way": {
         "2022-11-23": "- Finished reading [[Krafton Way]]",
@@ -1835,7 +1835,7 @@ export const backlinks = {
         "LavaLab Cohort of Spring 2023": "Documentations tool that generates a [[Docusaurus]]-like website, given a PDF. Integrated ...",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... convert Obsidian MD files to [[Docusaurus]] MD files since they have ...",
         "Letter to the Heptabase Team on 2022-10-11": "... also a contributor to GoogleChrome/web.dev, Facebook/[[docusaurus]], [[Vercel]]/[[Satori]], Logseq/Logseq, Etc. I came ...",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... I deploy my website. AFAIK [[docusaurus]] has its internal hash output ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... As far as I know, [[docusaurus]] has its internal hash output ...",
         "Paracosm": "... Thought that aims to replace [[Docusaurus]] with [[Vercel]]'s tech stacks.",
         "Project Naroo": "... switched to a more conventional [[Docusaurus]] with [[Listmonk]]. Consider [[Project]] [[Done]].",
         "Redirect": "## Redirects in [[Docusaurus]]",
@@ -2453,7 +2453,7 @@ export const backlinks = {
         "Font Features": "- [[CSS]] property to enhance legibilities of ...",
         "HTML": "... assisted by technologies such as [[CSS|Cascading Style Sheets]] ([[CSS]]) and scripting languages such ...",
         "Markdown Email Client": "... Markdown. Before sending, select one [[CSS]]. Then... it sends as a ...",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... seemed slightly awkward; a full JavaScript|JS-[[CSS]] redownload seemed to happen whenever ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... seemed slightly awkward; a full JavaScript|JS-[[CSS]]] redownload happens whenever I deploy ...",
         "Mini App": "... using web-based technologies like HTML, [[CSS]], and [[JavaScript]] hosted by the ...",
         "Open Graph Image as a Service": "... library to convert HTML and [[CSS]] to [[SVG]]",
         "Project Naroo": "... Scrape websites for text by [[CSS]] selector.",
@@ -4990,7 +4990,7 @@ export const backlinks = {
         "Grammarly": "- [[dx]] team",
         "Heap (Computer Systems)": "- [[DX]]",
         "LavaLab Cohort of Spring 2023": "### More [[DX]] Startups.",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... next 2 years; but AWS [[DX]] is a pain compared to ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... next two years, but AWS [[DX]] is a pain compared to ...",
         "Reverse Engineering Apple Music API": "Apple Music API [[DX]] is way worse than Spotify's.",
         "Symbol (Computer Systems)": "... the Link (Computer Systems)|linker for [[dx]])"
     },
@@ -5044,7 +5044,7 @@ export const backlinks = {
         "Ghost 테마를 자동 배포하는 방법": "6. 완성된 테마 파일을 [[GitHub]] Repository에 Push한다.",
         "IDOL Stack": "... Inlang + Across the Sprachraums, [[GitHub]] CI/CD",
         "Letter to Mr. Matt Rickard on 2022-10-03": "I'm at @anaclumos on [[GitHub]], [[Twitter]], and any other platform.",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... to pay Prosumer plan (like [[GitHub]]),",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... for a Prosumer plan (like [[GitHub]]), but I am delighted with ...",
         "Neo ArXiv": "- SourceForge, not [[GitHub]]",
         "Redwood.js": "... 2020 by Tom Preston-Werner, a [[GitHub]] co-founder. Redwood uses a unique ...",
         "Setting different images for Light & Dark mode": "- Using `#gh-dark-mode-only` for [[GitHub]]",
@@ -5372,7 +5372,7 @@ export const backlinks = {
         "DRM": "- In the instance of [[Chrome]], the [[Web Browser|browser]] doesn't implement ...",
         "Developing Review Notes for Obsidian": "... 보니 다음과 같은 간단한 구조였다. [[Chrome]] [[WebExtension|Extension]]과 유사하게 번들된 `main.js`와 `manifest.json`으로 ...",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "... Firefox can \"straight up\" run [[Chrome]] extensions, so I imagine uploading ...",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... Docusaurus consumes more memory than [[Chrome]] and I needed a bigger ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... Docusaurus chugged more memory than [[Chrome]], and I needed a bigger ...",
         "Neo Apps": "- Web Browser|Browsers. [[Chrome]] → Arc.",
         "One and Only WebExtension": "... WebExtension|extension that disguises itself as [[Chrome]] and runs all Chrome Extensions.",
         "Person 1E6ABA": "... Google involved multiple teams, from [[Chrome]] to TensorFlow.",
@@ -5794,7 +5794,7 @@ export const backlinks = {
         "Ghost에서 외부 링크를 새로운 창에서 여는 방법": "물론 이렇게 매번 [[JavaScript]]를 통해 링크를 조작하는 방법은 웹 ...",
         "HTML": "... and scripting languages such as [[JavaScript]]. HTML",
         "HTMX": "- Implementation itself is [[JavaScript]]",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... seemed slightly awkward; a full [[JavaScript|JS]]-[[CSS]] redownload seemed to happen whenever ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... seemed slightly awkward; a full [[JavaScript|JS]]-[[CSS]]] redownload happens whenever I deploy ...",
         "Mini App": "... technologies like HTML, CSS, and [[JavaScript]] hosted by the Super App, ...",
         "NPM": "... default package manager for the [[JavaScript]] runtime environment [[Node.js]]. NPM is ...",
         "NanoID": "... unique string ID generator for [[JavaScript]]. It's 130 bytes minified, has ...",
@@ -6512,7 +6512,7 @@ export const backlinks = {
     },
     "Cloudflare Worker": {
         "2023-11-14": "- [[Cloudflare Worker]]",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... locally and pushing it to [[Cloudflare Worker|Cloudflare workers]]. While this workflow worked, I ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... locally and push it to [[Cloudflare Worker|Cloudflare workers]]. While this workflow worked, I ...",
         "Project Ganymede": "... Implemented Vitest on Prisma and [[Cloudflare Worker|Cloudflare Workers]]"
     },
     "Bloomberg": {
@@ -7317,7 +7317,7 @@ export const backlinks = {
     "DNS": {
         "2023-03-23": "- [[DNS]]",
         "Internetworking": "- [[DNS]]",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... only mentioned they only supported [[DNS]] with `ALIAS` keyword, and thus ..."
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... only mentioned they only supported [[DNS]] with the `ALIAS` keyword. Thus, ..."
     },
     "Deadlock": {
         "Internetworking": "- [[Deadlock]]"
@@ -9270,7 +9270,7 @@ export const backlinks = {
         "Configuring Root Domain on FlightControl with CloudFlare": "... `CNAME -> Root Domain` on [[Cloudflare]]. CNAME flattening · Cloudflare DNS ...",
         "Edge Network": "- [[Cloudflare]] Pages & Cloudflare Functions",
         "IDOL Stack": "... Database|DB, Supabase Auth, Supabase Storage, [[CloudFlare]], Chakra",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... `ALIAS` keyword, and thus because [[Cloudflare]] does not support the `ALIAS` ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... configure the root domain because [[Cloudflare]] does not support the `ALIAS` ...",
         "Person 9078DC": "... 핫링킹으로 인한 과금이 많이 발생했다. [[Cloudflare]]와 [[Backblaze]]로 Bandwidth Alliance를 설정하고, 이미지 ...",
         "Redirect": "## Redirect in [[Cloudflare]]",
         "Render.com": "3. [[Cloudflare]]. It's not an Application Service ...",
@@ -9845,7 +9845,7 @@ export const backlinks = {
         "Is AWS a Dumb Pipe": "- Will [[AWS]] follow its track?",
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... want to bother dealing with [[AWS]] SES.",
         "Migrating Node.js apps from AWS EB to Heroku": "I have used [[AWS]] Elastic Beanstalk for a while ...",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "... was that I pay the [[AWS]] fees and thus I don't ...",
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "... was that I paid the [[AWS]] fees, and thus, I didn't ...",
         "Monolith": "... of distributed components orchestrated by [[AWS]] Step Functions, but this approach ...",
         "Node.js 앱을 AWS EB에서 Heroku로 옮기기": "예전부터 [[AWS]] Elastic Beanstalk 앱을 사용해왔지만 최근 ...",
         "OpenAI enthroned as the Levis of Tech": "... dealer in this silent war. [[AWS]] was the latest Levi's of ...",
@@ -13219,6 +13219,9 @@ export const backlinks = {
     "5DBEEF.png": {
         "Attention Settings": "![[5DBEEF.png]]"
     },
+    "4AEADB.png": {
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "![[4AEADB.png]]"
+    },
     "5945C9.png": {
         "Configuring Root Domain on FlightControl with CloudFlare": "![[5945C9.png]]",
         "Migrating Project Aldehyde to FlightControl (February 2024)": "![[5945C9.png]]"
@@ -13226,6 +13229,9 @@ export const backlinks = {
     "A151E8.png": {
         "Configuring Root Domain on FlightControl with CloudFlare": "![[A151E8.png]]",
         "Migrating Project Aldehyde to FlightControl (February 2024)": "![[A151E8.png]]"
+    },
+    "25D46A.png": {
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "![[25D46A.png]]"
     },
     "2A2DC6.png": {
         "프로젝트 어덕행덕": "![[2A2DC6.png]]"
