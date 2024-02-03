@@ -1052,7 +1052,7 @@ export const backlinks = {
     },
     "Aldehyde SaaS": {
         "2023-05-30": "- [[Aldehyde SaaS]]",
-        "실록": "[[Aldehyde SaaS]]."
+        "Project Sillok": "[[Aldehyde SaaS]]."
     },
     "Perverse Incentive": {
         "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "... 걸맞다. 과연 이대로 작동할까? 완벽하게 [[Perverse Incentive|코브라 효과]]에 들어맞는다."
@@ -2337,7 +2337,9 @@ export const backlinks = {
         "Letter to Mr. Matt Rickard on 2022-12-21": "... than Nodemailer or EmailEngine, i.e., [[SMIME]] or, more recently — [[BIMI|Brand ..."
     },
     "Project Horcrux": {
-        "2023-10-20": "- [[Project Horcrux]]"
+        "2023-10-20": "- [[Project Horcrux]]",
+        "LocLog": "Google timeline but [[Project Horcrux|horcruxed]]",
+        "Very Good Photo Backup Service": "[[Project Horcrux]]"
     },
     "Project Naroo": {
         "2023-04-19": "- [[Project Naroo]]",
@@ -3802,6 +3804,7 @@ export const backlinks = {
         "PineApple Pay": "As [[Apple]] slowly moves to open up ...",
         "Project FFMpeg for iPad": "[[Apple]] announces [[Final Cut Pro]].",
         "Project Ganymede": "... Ganymede. You can NEVER win [[Apple]]. It is the most massive ...",
+        "Project Horcrux": "... being locked out of your [[Apple]] ID or [[Google]] ID.",
         "Proposal of Research 2023-01-10": "... vendors (Google, Mozilla, Microsoft, and [[Apple]]) decided to disable SharedArrayBuffer by ...",
         "Reverse Engineering Apple Music API": "## Registering for [[Apple]] Developer Key",
         "Safari": "... a web browser developed by [[Apple]] Inc. It was first released ...",
@@ -4810,6 +4813,7 @@ export const backlinks = {
         "Krafton Way": "... 서로의 역할과 책임을 강조했다. 경영진은 [[Project|프로젝트]]와 팀, 주요 개발자를 평가하고 보상 ...",
         "Kubernetes": "... Computing Foundation now maintains the [[project]].",
         "Linux": "... are provided by the GNU [[Project]]. Many Linux distributions use the ...",
+        "LocLog": "Someday [[Project]].",
         "Markdown Email Client": "Someday [[Project]]. You write an [[Mail|email]] in ...",
         "Neo ArXiv": "Someday [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "Someday [[Project]]. `img loading=lazy`, but if the ...",
@@ -4826,11 +4830,13 @@ export const backlinks = {
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project Florence": "- [[Project]] Florence is a research [[project]] ...",
         "Project Ganymede": "- Therefore, we name it [[Project]] Ganymede. You can NEVER win ...",
+        "Project Horcrux": "[[Project]] Horcrux aims to dismantle the ...",
         "Project Linguine": "[[Project]] Linguine is an initiative to ...",
         "Project MAGI": "Someday [[Project]]. Use Multiple Artificial Generative Intelligence ...",
         "Project Naroo": "... conventional Docusaurus with Listmonk. Consider [[Project]] [[Done]].",
         "Project PEOPLE": "- [[Project]]",
         "Project Prepare for Grammarly": "[[Project]] to prepare for my [[Grammarly ...",
+        "Project Sillok": "Someday [[Project]].",
         "Proposal of Research 2023-01-10": "... found several layers for the [[project]].",
         "Quoridor Game": "Someday [[Project]]. Creating a \"Quoridor\" game and ...",
         "Redactor for iPhone": "Someday [[Project]].",
@@ -4853,6 +4859,7 @@ export const backlinks = {
         "TossFace Playground": "- [[Project]] [[Done]]",
         "Use Your Mac as your Bluetooth Speaker": "Someday [[Project]]",
         "Vannevar Bush": "... early administration of the Manhattan [[Project]]. He emphasized the importance of ...",
+        "Very Good Photo Backup Service": "Someday [[Project]].",
         "Wikiversity": "... Wikiversity is a Wikimedia Foundation [[project]] devoted to learning resources, learning ...",
         "Zenly Playbook": "... efficiency from a 3-year research [[project]] for a child safety app ...",
         "aaaa.coffee": "Someday [[Project]]. \"Buy me a coffee\" but ...",
@@ -4875,7 +4882,6 @@ export const backlinks = {
         "사발통문": "Someday [[Project]]",
         "사회과부도": "Someday [[Project]]. 마음대로 변형을 가할 수 있는 ...",
         "서울 프로": "2021년에 진행하다 중단한 [[Project|프로젝트]]이다.",
-        "실록": "Someday [[Project]].",
         "심리역사학": "... 이루어갈 수 있도록 준비한다. 셀던 [[Project|계획]]의 핵심 개념은 심리역사학인데, 전 인류의 ...",
         "어둠의 앱스토어": "Someday [[Project]]",
         "역사의 집대성": "... 하나의 기록소 안에 모두 집대성하는 [[Project|프로젝트]]이다.",
@@ -5454,6 +5460,7 @@ export const backlinks = {
     },
     "Zenly": {
         "LavaLab Cohort of Spring 2023": "After [[Zenly]] shut down, many players target ...",
+        "LocLog": "Location Logging, like [[Zenly]] but geared more towards travel ...",
         "Zenly Playbook": "[[Zenly]], a popular Gen-Z location-sharing social ...",
         "젠리의 성공 공식": "어제 [[Zenly|젠리]]가 문을 닫았다. 프랑스의 한 개발자로부터 ..."
     },
@@ -6246,7 +6253,7 @@ export const backlinks = {
         "Internetworking": "- [[IP Spoofing]]"
     },
     "Migrating Project Aldehyde to FlightControl (February 2024)": {
-        "2024-02-02": "[[Migrating Project Aldehyde to FlightControl (February 2024)]]"
+        "2024-02-02": "- [[Migrating Project Aldehyde to FlightControl (February 2024)]]"
     },
     "프로젝트 어덕행덕": {
         "2019-11-06": "- [[프로젝트 어덕행덕]]",
@@ -7215,6 +7222,9 @@ export const backlinks = {
         "Tech Now Pay Later": "[[Engine Equation]] comes handy here.",
         "Willpower": "... rich. Start your own business [[Engine Equation]]. It's almost impossible to get ..."
     },
+    "Very Good Photo Backup Service": {
+        "2024-02-02": "- [[Very Good Photo Backup Service]]"
+    },
     "Real Exams": {
         "2022-09-05": "- [[Real Exams]]",
         "2022-09-07": "- [[Real Exams]]",
@@ -8008,9 +8018,6 @@ export const backlinks = {
     },
     "Project Heimdall Locale Transition Strategy": {
         "Project Naroo": "- [[Project Heimdall Locale Transition Strategy]]"
-    },
-    "실록": {
-        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... 생각을 많이 합니다. 그래서 직접 [[실록|SaaS로 만들고 싶은데]] 공사 규모가 너~무 커서 그냥 ..."
     },
     "0543 Diameter of Binary Tree": {
         "Coding Tests": "- [x] [[0543 Diameter of Binary Tree]]"
@@ -9123,6 +9130,7 @@ export const backlinks = {
         "Perceptual Hashing": "... detect similar images. Used by [[Google]]'s Search by Image feature or ...",
         "Person 1E6ABA": "... Educational Technology|EduTech Startup. Worked at [[Google]] as a Senior Manager.",
         "Person 392196": "- Will work at [[Google]] soon",
+        "Project Horcrux": "... of your Apple ID or [[Google]] ID.",
         "Proposal of Research 2023-01-10": "... search by image, such as [[Google]] Photos, or detect child sexual ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "... Federated Machine Learning|FML framework by [[Google]], 2016",
         "Satori": "... Font and Emoji Subsets from [[Google]] Fonts and other CDNs",
@@ -9338,6 +9346,11 @@ export const backlinks = {
         "Antipreneur": "... The Indie Maker Handbook, by [[Pieter Levels]].",
         "Impact over Performance": "[[Pieter Levels]] generates millions of revenue every ...",
         "강기업": "... The Indie Maker Handbook, by [[Pieter Levels]]."
+    },
+    "Project Sillok": {
+        "LocLog": "[[Project Sillok]]",
+        "Very Good Photo Backup Service": "[[Project Sillok]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "... 생각을 많이 합니다. 그래서 직접 [[Project Sillok|SaaS로 만들고 싶은데]] 공사 규모가 너~무 커서 그냥 ..."
     },
     "Translation Look-aside Buffers": {
         "2022-11-04": "- [[Translation Look-aside Buffers]]",
@@ -9999,6 +10012,7 @@ export const backlinks = {
         "Guestbook": "- [[Someday]] [[Project]]",
         "Habit Together": "[[Someday]] [[Project]]. An habit making app ...",
         "Intracranial": "[[Someday]] [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
+        "LocLog": "[[Someday]] [[Project]].",
         "Markdown Email Client": "[[Someday]] [[Project]]. You write an [[Mail|email]] ...",
         "Neo ArXiv": "[[Someday]] [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "[[Someday]] [[Project]]. `img loading=lazy`, but if ...",
@@ -10010,6 +10024,7 @@ export const backlinks = {
         "Problem": "Leads to a [[Someday]] [[Project]].",
         "Project FFMpeg for iPad": "- [[Someday]] [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project MAGI": "[[Someday]] [[Project]]. Use Multiple Artificial Generative ...",
+        "Project Sillok": "[[Someday]] [[Project]].",
         "Quoridor Game": "[[Someday]] [[Project]]. Creating a \"Quoridor\" game ...",
         "Redactor for iPhone": "[[Someday]] [[Project]].",
         "Referral Share": "[[Someday]] [[Project]]. Referral Sharing Website for ...",
@@ -10021,6 +10036,7 @@ export const backlinks = {
         "Timebelt": "[[Someday]] [[Project]]. Timezone conversion with Absolute ...",
         "Titanium Calculator": "[[Someday]] [[Project]]. TI84의 기능을 최대한 모방해 ...",
         "Use Your Mac as your Bluetooth Speaker": "[[Someday]] [[Project]]",
+        "Very Good Photo Backup Service": "[[Someday]] [[Project]].",
         "WebNPU API를 상상하다": "[[Someday|언젠가]] [[AI]] 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 ...",
         "aaaa.coffee": "[[Someday]] [[Project]]. \"Buy me a coffee\" ...",
         "elevatorpitch.com": "[[Someday]] [[Project]]. Simple Demo website Creator ...",
@@ -10036,7 +10052,6 @@ export const backlinks = {
         "불가사리": "Tossface|토스페이스 같은 곳에 [[Someday|언젠가]] 들어갔으면",
         "사발통문": "[[Someday]] [[Project]]",
         "사회과부도": "[[Someday]] [[Project]]. 마음대로 변형을 가할 수 ...",
-        "실록": "[[Someday]] [[Project]].",
         "어둠의 앱스토어": "[[Someday]] [[Project]]",
         "원하는 곳만 전자레인지": "[[Someday]]",
         "조선왕조실록": "[[Someday]] [[Project]]. Fast and Modern version ..."
@@ -11096,6 +11111,9 @@ export const backlinks = {
         "Universal Chat App": "## Connections: [[Super App]]",
         "Universal Identity": "- [[Super App]] accounts can be another. See ...",
         "유난한 도전": "## [[Super App|슈퍼 앱]]을 향해"
+    },
+    "LocLog": {
+        "2024-02-02": "- [[LocLog]]"
     },
     "Nation as a Service": {
         "2022-09-12": "- [[Nation as a Service]]"
