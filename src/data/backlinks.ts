@@ -4785,6 +4785,7 @@ export const backlinks = {
         "Cashflow (Service)": "Someday [[Project]]. Link all of your SaaS ...",
         "Chopstick Game": "Someday [[Project]]. Digital implementation of the chopstick ...",
         "ChromeOS Packer": "- Someday [[Project]]",
+        "Clarity": "Someday [[Project]].",
         "Coding Tests": "- [[Project]]",
         "Confession in Slack": "Someday [[Project]] idea",
         "Cube": "Someday [[Project]]. [[Instagram|인스타]] 스토리/포스트 글 업로드용 글쓰기 ...",
@@ -8697,6 +8698,9 @@ export const backlinks = {
     "NavigationStack": {
         "WWDC23": "- [[NavigationStack]] → [[NavigationSplitView]]. a renewed focus ..."
     },
+    "Clarity": {
+        "2024-02-06": "- [[Clarity]]"
+    },
     "iOS": {
         "2023-02-08": "... various potential issues in a macOS/[[iOS]] application",
         "2023-02-16": "... in any Web Browser|browser (like [[iOS]] and [[Safari]]) with minimal setup. ...",
@@ -10002,6 +10006,7 @@ export const backlinks = {
         "Cashflow (Service)": "[[Someday]] [[Project]]. Link all of your ...",
         "Chopstick Game": "[[Someday]] [[Project]]. Digital implementation of the ...",
         "ChromeOS Packer": "- [[Someday]] [[Project]]",
+        "Clarity": "[[Someday]] [[Project]].",
         "Confession in Slack": "[[Someday]] [[Project]] idea",
         "Cube": "[[Someday]] [[Project]]. [[Instagram|인스타]] 스토리/포스트 글 업로드용 ...",
         "Digital Bookmarks for Physical Books": "[[Someday]] [[Project]]. Can we bookmark physical ...",
@@ -13703,6 +13708,15 @@ export const backlinks = {
     },
     "51C828.jpg": {
         "서낭당": "![[51C828.jpg]]"
+    },
+    "F488A2.png": {
+        "Clarity": "![[F488A2.png]]"
+    },
+    "54181B.png": {
+        "Clarity": "![[54181B.png]]"
+    },
+    "9C4ECC.png": {
+        "Clarity": "![[9C4ECC.png]]"
     },
     "E09DAA.png": {
         "News Minimalist": "![[E09DAA.png]]"
