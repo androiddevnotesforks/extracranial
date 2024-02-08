@@ -626,6 +626,9 @@ export const backlinks = {
     "2023-05-03": {
         "Passkey": "... Google is GA as of [[2023-05-03]]"
     },
+    "2024-02-07": {
+        "Person 431D6C": "- Interviewed on [[2024-02-07]]"
+    },
     "2023-07-17": {
         "Project Naroo": "## [[2023-07-17]]"
     },
@@ -2614,7 +2617,8 @@ export const backlinks = {
         "2022-07-10": "... new paradigm for low-code websites. [[Project PEOPLE]] now create personal websites, event ...",
         "2022-09-08": "- [[Project PEOPLE]]",
         "2022-09-14": "- [[Project PEOPLE]]",
-        "2023-03-03": "- [[Project PEOPLE]]"
+        "2023-03-03": "- [[Project PEOPLE]]",
+        "2024-02-07": "[[Project PEOPLE]]"
     },
     "새로운 부동산은 지적 재산이다": {
         "2023-02-26": "- [[새로운 부동산은 지적 재산이다]]",
@@ -6771,6 +6775,9 @@ export const backlinks = {
     "洪民憙雜記": {
         "2022-10-25": "- [[洪民憙雜記]]",
         "2023-09-24": "- [[洪民憙雜記]] [[洪兔雜記]]"
+    },
+    "Person 431D6C": {
+        "Project PEOPLE": "- [[Person 431D6C]]"
     },
     "Vocab": {
         "Aesthete": "... beautiful stuff—incredibly exquisite mechanical property. [[vocab]]",
@@ -11483,7 +11490,8 @@ export const backlinks = {
         "Software as a Service": "We expect to attain [[FIRE]] through [[Software as a Service]]."
     },
     "Educational Technology": {
-        "Person 1E6ABA": "... at a Financial Technology|FinTech + [[Educational Technology|EduTech]] Startup. Worked at [[Google]] as ..."
+        "Person 1E6ABA": "... at a Financial Technology|FinTech + [[Educational Technology|EduTech]] Startup. Worked at [[Google]] as ...",
+        "Person 431D6C": "- Currently looking into [[Educational Technology|EduTech]] Startup"
     },
     "AB57BB.png": {
         "2022-07-11": "![[AB57BB.png]]"
