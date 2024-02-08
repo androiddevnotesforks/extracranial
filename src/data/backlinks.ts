@@ -2515,6 +2515,9 @@ export const backlinks = {
         "2023-03-16": "- [[역사의 종말 오류]]",
         "Newtonian Correspondence": "... of History Fallacy <br/> `KO` [[역사의 종말 오류]]      ..."
     },
+    "Use Apple GPU on PyTorch": {
+        "2024-02-07": "- [[Use Apple GPU on PyTorch]]"
+    },
     "Data Science": {
         "2022-12-28": "- Facebook Notifications [[Data Science]] team at [[Meta (Company)|Meta]]",
         "AI-native": "... However, it also requires specialized [[data science]], [[ML]], and [[cloud computing]] skills. ...",
@@ -2618,7 +2621,7 @@ export const backlinks = {
         "2022-09-08": "- [[Project PEOPLE]]",
         "2022-09-14": "- [[Project PEOPLE]]",
         "2023-03-03": "- [[Project PEOPLE]]",
-        "2024-02-07": "[[Project PEOPLE]]"
+        "2024-02-07": "- [[Project PEOPLE]]"
     },
     "새로운 부동산은 지적 재산이다": {
         "2023-02-26": "- [[새로운 부동산은 지적 재산이다]]",
@@ -2710,6 +2713,7 @@ export const backlinks = {
         "Person 392196": "... - felt like a giant [[ML|machine-learning]] research facility",
         "Person E7CFC5": "  - Healthcare [[ML]]",
         "Project Core ML Foundation": "## Different Types of [[ML]]",
+        "PyTorch": "PyTorch is an open-source [[ML|machine learning]] library based on the Torch ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "  - [[ML]] Trainer",
         "SHAP": "... explain the output of any [[ML|machine learning]] model. It connects optimal credit ...",
         "Screenshot as an API": "- With [[ML]] advancements, screenshots are now a ...",
@@ -3516,6 +3520,7 @@ export const backlinks = {
         "Layoff": "... bubble in valuations? Absolutely. Did [[Meta (Company)|Meta]] overhire? Probably. But is that ...",
         "MLS": "... include the University of Oxford, [[Meta (Company)|Facebook]], INRIA, [[Google]], and [[Twitter]]. [[Google]] ...",
         "Meta": "- [[Meta (Company)]]",
+        "PyTorch": "... Torch library, primarily developed by [[Meta (Company)|Facebook]]'s [[AI]] Research lab (FAIR).",
         "React": "... components. It is maintained by [[Meta (Company)|Meta]] (formerly [[Facebook]]) and a community ...",
         "React Native": "... UIUX|UI software framework created by [[Meta (Company)|Meta]] Platforms, Inc. It is used ...",
         "Threads (Service)": "... EU market with minimum regulations. [[Meta (Company)|FB]] will Meta (Company)|FB anyways, which ...",
@@ -3533,6 +3538,11 @@ export const backlinks = {
     },
     "De Morgan Law": {
         "Probability": "- [[De Morgan Law]]"
+    },
+    "PyTorch": {
+        "Accessing Remote Jupyter at USC ISI": "... learning tasks using TensorFlow and [[PyTorch]].",
+        "Stable Alternative": "- salesforce/BLIP: [[PyTorch]] code for BLIP: Bootstrapping Language-Image ...",
+        "Use Apple GPU on PyTorch": "... Acceleration (Metal Performance Shader) on [[PyTorch]]"
     },
     "Generative Pre-trained Transformer": {
         "2022-07-10": "- Uses [[Generative Pre-trained Transformer|GPT]] to convert the [[natural language]] ...",
@@ -3822,6 +3832,7 @@ export const backlinks = {
         "Towards Ambient Computing": "## Road towards the Next [[Apple]]",
         "USDZ vs glTF": "... by Pixar and operated by [[Apple]] for [[iOS]] [[Augmented Reality]] applications. ...",
         "Universal Chat App": "... a built-in messaging service on [[Apple]] devices, including iPhones, iPads, and ...",
+        "Use Apple GPU on PyTorch": "Use [[Apple]] [[GPU]] Acceleration ([[Metal]] Performance [[Shader]]) ...",
         "VP9 vs HEVC": "- [[Apple]] only supports HEVC, while [[Google]] ...",
         "WWDC": "[[Apple]]'s Worldwide Developer Conference",
         "WebNPU API를 상상하다": "우리는 이미 [[Apple|애플]]의 [[Neural Engine]]으로 [[On-Device|온디바이스]] [[ML]] 기술의 ...",
@@ -5210,7 +5221,8 @@ export const backlinks = {
         "Copilot": "- [[GitHub Copilot Investigation]]"
     },
     "Metal": {
-        "2023-12-13": "- [[Metal]]"
+        "2023-12-13": "- [[Metal]]",
+        "Use Apple GPU on PyTorch": "Use Apple GPU Acceleration ([[Metal]] Performance [[Shader]]) on [[PyTorch]]"
     },
     "Packet Switching vs Circuit Switching": {
         "Internetworking": "- [[Packet Switching vs Circuit Switching]]"
@@ -5347,6 +5359,7 @@ export const backlinks = {
         "Neural Engine": "... Processing Unit. It's like a [[GPU]], but instead of accelerating [[graphics]], ...",
         "Point-E": "... state-of-the-art methods typically require multiple [[GPU]] hours to produce a single ...",
         "Proposal of Research 2023-01-10": "... text, even with the latest [[GPU]]. Therefore, for the system to ...",
+        "Use Apple GPU on PyTorch": "Use Apple [[GPU]] Acceleration ([[Metal]] Performance [[Shader]]) on ...",
         "VP9 vs HEVC": "... iOS YouTube using this. Apple [[GPU]] also now supports VP9 decoding.",
         "Vertex Buffer": "... pass instructions from CPU to [[GPU]].",
         "WebGPU": "- Use.[[GPU]] is a set of declarative, ...",
@@ -6650,6 +6663,7 @@ export const backlinks = {
     "Shader": {
         "HLSL": "- High-Level [[Shader]] Language.",
         "Transactional Globe": "... Time for a WebGL & [[shader]] thread! pic.twitter.com/7SW4vE5tTJ",
+        "Use Apple GPU on PyTorch": "... Apple GPU Acceleration (Metal Performance [[Shader]]) on [[PyTorch]]",
         "WebGPU": "- It has a built-in [[shader]] [[Link (Computer Systems)|linker]] and binding ..."
     },
     "My Raycast Wrapped of 2023": {
@@ -6777,6 +6791,7 @@ export const backlinks = {
         "2023-09-24": "- [[洪民憙雜記]] [[洪兔雜記]]"
     },
     "Person 431D6C": {
+        "2024-02-07": "- [[Person 431D6C]]",
         "Project PEOPLE": "- [[Person 431D6C]]"
     },
     "Vocab": {
@@ -7788,6 +7803,7 @@ export const backlinks = {
         "Setting different images for Light & Dark mode": "[[Lesser Known Trick]]",
         "Sudo with Touch ID": "[[Lesser Known Trick]]",
         "Timed Terminal Commands": "[[Lesser Known Trick]]. Add this to `~/.zshrc` or ...",
+        "Use Apple GPU on PyTorch": "[[Lesser Known Trick]].",
         "editorStickyScroll": "[[Lesser Known Trick]]. search `sticky scroll` in VS ...",
         "text-transform capitalize": "Capitalizes first letter [[Lesser Known Trick]]"
     },
@@ -11190,6 +11206,7 @@ export const backlinks = {
         "Project Heimdall Initial Planning": "... would hn.cho.sh lead us? An [[AI]]-powered news portal? Reference: [[일일일]], [[News ...",
         "Proposal of Research 2023-01-10": "... we now have the infinite [[AI]] monkey making infinite keystrokes). Will ...",
         "Proposal of Research 2023-03-28": "... natural-looking handwriting fonts. However, current [[AI]] [[font]] generation methods often overlook ...",
+        "PyTorch": "... primarily developed by Meta (Company)|Facebook's [[AI]] Research lab (FAIR).",
         "QA.json": "... Efficiency. A significant challenge for [[AI]] when processing web content is ...",
         "Quoridor Game": "... \"Quoridor\" game and its corresponding [[AI]] system.",
         "Replicating Balenciaga Harry Potter Advertisement": "- Utilized various [[AI]] tools for character design, voice ...",
