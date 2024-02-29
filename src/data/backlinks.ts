@@ -1922,6 +1922,10 @@ export const backlinks = {
         "Search-based Tools for Thought": "- [[Search Engine Indexing Your Life]]",
         "Thesephist Work Case Study": "### Monocle: [[Search Engine Indexing Your Life]]"
     },
+    "Open Core Models": {
+        "2024-02-28": "- [[Open Core Models]]",
+        "Newtonian Correspondence": "| 02-28 | `EN` [[Open Core Models]]      ..."
+    },
     "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
         "Project Florence Literature Review": "- [ ] [[Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning]]"
     },
@@ -3232,7 +3236,7 @@ export const backlinks = {
     },
     "Towards Ambient Computing": {
         "2023-10-04": "- [[Towards Ambient Computing]]",
-        "Newtonian Correspondence": "| 10-04 | `EN` [[Towards Ambient Computing]] `KO` [[앰비언트 컴퓨팅을 향해]]  ..."
+        "Newtonian Correspondence": "| 10-04 | `EN` [[Towards Ambient Computing]] <br/> `KO` [[앰비언트 컴퓨팅을 향해]] ..."
     },
     "Action Button Walkie-Talkie": {
         "2024-01-03": "- [[Action Button Walkie-Talkie]]"
@@ -9748,7 +9752,8 @@ export const backlinks = {
         "2023-03-16": "- [[Newtonian Correspondence]]",
         "2023-03-19": "- [[Newtonian Correspondence]]",
         "2023-03-31": "- [[Newtonian Correspondence]]",
-        "2023-10-04": "- [[Newtonian Correspondence]]"
+        "2023-10-04": "- [[Newtonian Correspondence]]",
+        "2024-02-28": "- [[Newtonian Correspondence]]"
     },
     "Workplace Search": {
         "2023-11-20": "- [[Workplace Search]]"
@@ -9856,7 +9861,6 @@ export const backlinks = {
         "2023-02-28": "- [[30-Day Tweet Test (Harry Stebbings)]]",
         "2023-03-01": "- [[30-Day Tweet Test (Harry Stebbings)]]",
         "2023-03-02": "- [[30-Day Tweet Test (Harry Stebbings)]]",
-        "Newtonian Correspondence": "A spiritual successor to [[30-Day Tweet Test (Harry Stebbings)]]! Subscribe at https://newsletters.cho.sh 😉",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... marks the thirtieth day of [[30-Day Tweet Test (Harry Stebbings)|my challenge to post meaningful content on the web]], and as I sit down ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "오늘은 [[30-Day Tweet Test (Harry Stebbings)|웹에 유의미한 콘텐츠를 올리기 위해 도전한지 30일째]] 되는 날입니다."
     },
@@ -10452,7 +10456,7 @@ export const backlinks = {
     "CS572 Search Engines": {
         "2024-01-16": "- [[CS572 Search Engines]]",
         "2024-02-26": "- [[CS572 Search Engines]]",
-        "2024-02-28": "[[CS572 Search Engines]]"
+        "2024-02-28": "- [[CS572 Search Engines]]"
     },
     "Create React App": {
         "Grammarly Work Note 2023-05-26": "... runs on Node.js 16 with [[Create React App]]. Node.js 16 sunsets on September ...",
@@ -11441,7 +11445,7 @@ export const backlinks = {
     "앰비언트 컴퓨팅을 향해": {
         "2023-10-03": "- [[앰비언트 컴퓨팅을 향해]]",
         "2023-10-04": "- [[앰비언트 컴퓨팅을 향해]]",
-        "Newtonian Correspondence": "... `EN` Towards Ambient Computing `KO` [[앰비언트 컴퓨팅을 향해]]      ...",
+        "Newtonian Correspondence": "... Towards Ambient Computing <br/> `KO` [[앰비언트 컴퓨팅을 향해]]      ...",
         "Search Engine Indexing Your Life": "[[앰비언트 컴퓨팅을 향해]]"
     },
     "Ghost에서 외부 링크를 새로운 창에서 여는 방법": {
