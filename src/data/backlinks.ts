@@ -1924,7 +1924,7 @@ export const backlinks = {
     },
     "Open Core Models": {
         "2024-02-28": "- [[Open Core Models]]",
-        "Newtonian Correspondence": "| 02-28 | `EN` [[Open Core Models]]      ..."
+        "Newtonian Correspondence": "| 02-28 | `EN` [[Open Core Models]] |     ..."
     },
     "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
         "Project Florence Literature Review": "- [ ] [[Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning]]"
