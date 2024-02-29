@@ -8565,6 +8565,9 @@ export const backlinks = {
         "2023-02-23": "- [[Born of this Land - The Founding Story of Hyundai]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-23 | 🇬🇧 [[Born of this Land - The Founding Story of Hyundai]] <br/> 🇰🇷 [[이 땅에 태어나서]] ..."
     },
+    "Referrals": {
+        "2024-02-29": "- [[Referrals]]"
+    },
     "Android Intent": {
         "2023-08-29": "- [[Android Intent]]"
     },
@@ -13726,6 +13729,12 @@ export const backlinks = {
     },
     "BE855B.png": {
         "Geohot-Twitter Mayhem": "![[BE855B.png]]"
+    },
+    "EE2920.png": {
+        "Referrals": "![[EE2920.png]]"
+    },
+    "1F9E47.png": {
+        "Referrals": "![[1F9E47.png]]"
     },
     "126979.jpeg": {
         "Dynamic Island on the Web": "![[126979.jpeg]]"
