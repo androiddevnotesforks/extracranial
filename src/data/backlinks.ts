@@ -2040,14 +2040,14 @@ export const backlinks = {
         "2023-10-04": "- [[Project Florence]]",
         "2024-01-18": "- [[Project Florence]]",
         "2024-02-21": "- [[Project Florence]]",
+        "Project": "- [[Project Florence]] and its subprojects",
         "Project Calenzano": "Subproject of [[Project Florence]]",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
         "Project Impruneta": "Impruneta is a subproject of [[Project Florence]]. Supercedes [[Project Malmantile]]",
         "Project Malmantile": "Malmantile is a subproject of [[Project Florence]]. Supercedes [[Project Fiesole]]"
     },
     "Believer Plan": {
-        "2023-05-22": "- [[Believer Plan]]",
-        "Project Starfish": "Advertising project for hn.cho.sh. [[Believer Plan]]."
+        "2023-05-22": "- [[Believer Plan]]"
     },
     "supernpm": {
         "2023-09-09": "- [[supernpm]]",
@@ -2120,6 +2120,7 @@ export const backlinks = {
     },
     "Metapage": {
         "Playings": "This is a [[metapage]] for all the media I've ...",
+        "Project": "This is a [[Metapage]] for my projects.",
         "Readings": "This is a [[Metapage|meta-page]] that collects my to-read lists.",
         "Watchings": "This is a [[metapage]] for all the media I've ..."
     },
@@ -2396,6 +2397,7 @@ export const backlinks = {
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Naroo]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Naroo]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Naroo]].",
+        "Project": "- [[Project Naroo]]",
         "Project Heimdall Locale Transition Strategy": "[[Project Naroo]]'s predecessor [[hn.cho.sh]] operated on DeepL's ...",
         "hn.cho.sh 개발 기록": "[[Project Naroo]]",
         "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "> [[Project Naroo|Heimdall]]이나 [[Bing Chat for All Browsers]]과 ...",
@@ -3230,7 +3232,6 @@ export const backlinks = {
         "Project Heimdall Initial Planning": "Where would [[hn.cho.sh]] lead us? An [[AI]]-powered news ...",
         "Project Heimdall Locale Transition Strategy": "Project Naroo's predecessor [[hn.cho.sh]] operated on DeepL's 29 languages. ...",
         "Project Linguine": "... into the subscriber lists of [[hn.cho.sh]], I did notice that there ...",
-        "Project Starfish": "Advertising project for [[hn.cho.sh]]. [[Believer Plan]].",
         "Reddit-Apollo Mayhem": "## Summarizations from [[hn.cho.sh]]",
         "Vercel Incident Report (April 2023)": "... with two projects: lovearc.net and [[hn.cho.sh]].",
         "hn.cho.sh 개발 기록": "... 아마도 사이드바 채팅 AI를 추가하고 [[hn.cho.sh]]에 대한 셀프 프로모션을 추가해야겠다."
@@ -3522,6 +3523,7 @@ export const backlinks = {
     "역사의 집대성": {
         "2023-01-12": "- [[역사의 집대성]]",
         "2023-09-05": "- [[역사의 집대성]]",
+        "Project": "- [[역사의 집대성]]",
         "재학생일기": "2023-01-12에 [[역사의 집대성]] 과정 중 다시 읽어보니 이때가 ...",
         "카카오스토리 완전백업": "[[역사의 집대성]]"
     },
@@ -4325,6 +4327,7 @@ export const backlinks = {
         "2024-01-04": "[[Project Ganymede|Ganymede]]",
         "2024-02-10": "- [[Project Ganymede|Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
+        "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
     },
     "서당개 3년이면 풍월을 읊는다": {
@@ -6599,7 +6602,8 @@ export const backlinks = {
         "Project PEOPLE": "- [[Person CC8297]]"
     },
     "Project PIRI": {
-        "2024-02-24": "- [[Project PIRI]]"
+        "2024-02-24": "- [[Project PIRI]]",
+        "Project": "- [[Project PIRI]]"
     },
     "Substack": {
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... for a developer-friendly mailing platform ([[Substack]] knocks off here).",
