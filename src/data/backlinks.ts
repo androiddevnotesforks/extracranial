@@ -2844,6 +2844,7 @@ export const backlinks = {
     },
     "OCR": {
         "Letter to Mr. Matt Rickard on 2022-10-03": "- Applying [[OCR]] to [[Naver]] Vibe, 'moving third-party ...",
+        "PDF OCR": "PDF [[OCR]] Tool",
         "Screenshot as an API": "...    - text ([[OCR]])",
         "Using an iPad as my Ebook": "... Scanning as a PDF with [[OCR]], and I figured it is ..."
     },
@@ -7425,6 +7426,9 @@ export const backlinks = {
         "Stephan Ango": "- Coined the term [[Generative Intelligence]]",
         "Thesephist Work Case Study": "### The \"Length\" dimension of [[Generative Intelligence]]"
     },
+    "PDF OCR": {
+        "2024-02-29": "- [[PDF OCR]]"
+    },
     "P2P": {
         "Internetworking": "- [[P2P]]"
     },
@@ -9246,6 +9250,7 @@ export const backlinks = {
         "2022-06-05": "- Convert ACSM files to [[PDF]]/EPUBs with one command on [[Linux]] ...",
         "Cauchy": "The Cauchy distribution has a [[PDF]] ([[probability]] density function) given by:",
         "Neo ArXiv": "... interoperability with HyperText Media), and [[PDF]] sucks. Citing by their name ...",
+        "PDF OCR": "[[PDF]] [[OCR]] Tool",
         "Screenshot as an API": "... - No need to understand [[PDF]] data format",
         "Synonym-based Fuzzy Search": "... Search + Synonym Search in [[PDF]]/Databases. Just like [[Google]]",
         "Using an iPad as my Ebook": "... with Book Scanning as a [[PDF]] with [[OCR]], and I figured ...",
