@@ -458,6 +458,9 @@ export const backlinks = {
     "2023-02-12": {
         "Jog 25 minutes (Jan-Feb 2023)": "- [[2023-02-12]]. 컨디션이 좋지 않았다."
     },
+    "2024-02-29": {
+        "Project PIRI": "## [[2024-02-29]]"
+    },
     "2020-10-27": {
         "프로젝트 어덕행덕": "- [[2020-10-27]]"
     },
@@ -6603,6 +6606,7 @@ export const backlinks = {
     },
     "Project PIRI": {
         "2024-02-24": "- [[Project PIRI]]",
+        "2024-02-29": "- [[Project PIRI]]",
         "Project": "- [[Project PIRI]]"
     },
     "Substack": {
