@@ -7201,6 +7201,9 @@ export const backlinks = {
         "2023-03-19": "- [[알람 시계의 9분 스누즈]]",
         "Newtonian Correspondence": "... of Alarm Clocks <br/> `KO` [[알람 시계의 9분 스누즈]]      ..."
     },
+    "CS585 Database Systems": {
+        "2024-03-03": "[[CS585 Database Systems]]"
+    },
     "Search-based Tools for Thought": {
         "LavaLab Cohort of Spring 2023": "[[Search-based Tools for Thought]] for Teams. Given you connect ...",
         "Tools for Thought": "- [[Search-based Tools for Thought]]. indexes user's activity in the ..."
