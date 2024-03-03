@@ -5286,7 +5286,7 @@ export const backlinks = {
         "Write Once Run Everywhere": "- React and [[React Native]]"
     },
     "Smooth Cursor on VS Code": {
-        "2024-03-02": "[[Smooth Cursor on VS Code]]"
+        "2024-03-02": "- [[Smooth Cursor on VS Code]]"
     },
     "Person 5DBDAE": {
         "2022-09-13": "- [[Person 5DBDAE]]",
@@ -8078,6 +8078,9 @@ export const backlinks = {
     },
     "Simian과 심미안": {
         "2023-08-31": "- [[Simian과 심미안]]"
+    },
+    "Open Source vs Source Available": {
+        "2024-03-02": "- [[Open Source vs Source Available]]"
     },
     "Better Aldehyde": {
         "2022-07-12": "- [[Better Aldehyde]]",
