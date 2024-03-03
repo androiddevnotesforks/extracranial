@@ -5285,6 +5285,9 @@ export const backlinks = {
         "Storybook": "... applications. Storybook supports HTML, React, [[React Native]], Vue.js, Angular, Svelte, and many ...",
         "Write Once Run Everywhere": "- React and [[React Native]]"
     },
+    "Smooth Cursor on VS Code": {
+        "2024-03-02": "[[Smooth Cursor on VS Code]]"
+    },
     "Person 5DBDAE": {
         "2022-09-13": "- [[Person 5DBDAE]]",
         "Project PEOPLE": "- [[Person 5DBDAE]]"
@@ -7962,6 +7965,7 @@ export const backlinks = {
         "Menu Hover Effects": "- Cool UIUX [[Lesser Known Trick]].",
         "Redirecting READMEs": "[[Lesser Known Trick]]. It's a symlink. [[How does ...",
         "Setting different images for Light & Dark mode": "[[Lesser Known Trick]]",
+        "Smooth Cursor on VS Code": "[[Lesser Known Trick]]. Go to settings and turn ...",
         "Sudo with Touch ID": "[[Lesser Known Trick]]",
         "Timed Terminal Commands": "[[Lesser Known Trick]]. Add this to `~/.zshrc` or ...",
         "Use Apple GPU on PyTorch": "[[Lesser Known Trick]].",
@@ -9639,7 +9643,8 @@ export const backlinks = {
         "WWDC23": "- [[ToolbarItem]] → Using corners of Apple ..."
     },
     "Antipilot": {
-        "2022-11-23": "- [[Antipilot]]"
+        "2022-11-23": "- [[Antipilot]]",
+        "2024-03-01": "[[Antipilot]] -- Copilot but instead of ..."
     },
     "AMP": {
         "2022-05-31": "...  - Interactive Mail|Emails using [[AMP]] under the hood.",
