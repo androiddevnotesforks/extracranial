@@ -2017,11 +2017,11 @@ export const backlinks = {
         "Grammarly Work Note 2023-05-31": "... interfaces are controlled by the [[back-end]] and gradually enabled throughout the ...",
         "Grammarly Work Note 2023-06-02": "... growth engineer's specialization is in [[back-end]] development, which includes creating integrations ...",
         "IDOL Stack": "... Sometimes lack of a proper [[back-end]] sucks",
-        "Inspiring Open Source Projects": "- bitwarden/server The core infrastructure [[Back-end|backend]] ([[API]], database, [[Docker]], etc).",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... to an edge-served Front-end and [[back-end]] as edge-replicated simple data storage. ...",
         "Listmonk": "- The [[back-end]] is written in Go, and ...",
         "Now Page": "... I'd rather keep improving my [[back-end]] [[database]] work.\"",
         "Old Fashioned Camera": "- [[Back-end|백엔드]]와 [[Front-end|프론트]]가 모두 필요 없기에 [[FIRE ...",
+        "Oneday": "- bitwarden/server The core infrastructure [[Back-end|backend]] ([[API]], database, [[Docker]], etc).",
         "Reddit-Apollo Mayhem": "... made the code for its [[Back-end|backend]] repository publicly available to demonstrate ...",
         "Redwood.js": "- For the [[back-end]], Redwood uses [[GraphQL]], a query ...",
         "Refine (Framework)": "- [[Back-end|Backend]] (REST [[API]], Supabase, Strapi, NestJS, ...",
@@ -2097,7 +2097,7 @@ export const backlinks = {
     },
     "Google Analytics": {
         "GA": "- [[Google Analytics]]",
-        "Inspiring Open Source Projects": "... privacy-friendly web analytics alternative to [[Google Analytics]].",
+        "Oneday": "... privacy-friendly web analytics alternative to [[Google Analytics]].",
         "Self-hosted SaaS Alternatives": "### Self-hosted [[Google Analytics]] [[Alternative|alternatives]]",
         "Simple Analytics": "> The privacy-first [[Google Analytics]] [[alternative]]. Simple Analytics",
         "YCLF 주간 사용자 1000명": "[[Google Analytics]] Referrals 추적 기능을 통해 어느 ..."
@@ -2606,13 +2606,13 @@ export const backlinks = {
         "Hacker News": "... Fetch data from Hacker News [[API]]",
         "HealthKit as an API": "Server → Web [[API]] Access",
         "Imagining WebNPU API": "... hereby suggest a hypothetical WebNPU [[API]]. Think this way:",
-        "Inspiring Open Source Projects": "... hoppscotch/hoppscotch (Postman) 👽 Open source [[API]] development ecosystem - https://hoppscotch.io",
         "Keystone.js": "... and get a powerful GraphQL [[API]] & beautiful Management UI for ...",
         "Letter to Mr. Matt Rickard on 2022-10-03": "... give one good example of Screenshots-as-an-[[API]].",
         "Letter to Mr. Matt Rickard on 2022-12-21": "... see a first-class serverless Mail|email [[API]] (as in doing slightly more ...",
         "Letter to the Heptabase Team on 2022-10-11": "- [[API]] support ([[Notion]]-like?)",
         "MAGI": "... Google의 PaLM 2)에게 다음과 같은 [[API]]를 제정한다: [[Project MAGI]]",
         "Metal": "... Metal is a low-level, low-overhead [[API]] ([[API|Application Programming Interface]]) that supports ...",
+        "Oneday": "... hoppscotch/hoppscotch (Postman) 👽 Open source [[API]] development ecosystem - https://hoppscotch.io",
         "OpenAI": "OpenAI also provides an [[API]] for accessing new [[AI]] models ...",
         "OpenAI enthroned as the Levis of Tech": "OpenAI has launched its ChatGPT [[API]] service, powered by the GPT-3.5-turbo ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "... Transformer|GPT-3.5-터보 모델을 기반으로 한 ChatGPT [[API]] 서비스를 출시했다.",
@@ -4591,10 +4591,6 @@ export const backlinks = {
         "Powerfully Powerless Tools": "... choose to be dumbed down. [[PKM]] tools are one example.",
         "강력하게 미약한 도구들": "... 도구들은 의도적으로 바보 같아져야 한다. [[PKM]] 도구들이 한 예다."
     },
-    "Tools I will use one day": {
-        "2022-08-04": "- [[Tools I will use one day]]",
-        "2022-10-10": "- [[Tools I will use one day]]. Found tremor."
-    },
     "Timed Terminal Commands": {
         "2023-07-14": "[[Timed Terminal Commands]]"
     },
@@ -5355,7 +5351,7 @@ export const backlinks = {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Indirect Information Leakage]]"
     },
     "Lost Futures A 19th-Century Vision of the Year 2000": {
-        "2024-03-04": "[[Lost Futures A 19th-Century Vision of the Year 2000]]"
+        "2024-03-04": "- [[Lost Futures A 19th-Century Vision of the Year 2000]]"
     },
     "GitHub Copilot Investigation": {
         "Copilot": "- [[GitHub Copilot Investigation]]"
@@ -5940,7 +5936,7 @@ export const backlinks = {
     "Feature Flag": {
         "Grammarly Work Note 2023-05-25": "- [[Feature Flag]]",
         "How to Build Software like an SRE": "... time to disable a problematic [[Feature Flag]]",
-        "Inspiring Open Source Projects": "- Unleash/unleashh ([[Feature Flag]]) Unleash is the open source ..."
+        "Oneday": "- Unleash/unleashh ([[Feature Flag]]) Unleash is the open source ..."
     },
     "Penultimate": {
         "2023-08-10": "- [[Penultimate]]"
@@ -6766,7 +6762,7 @@ export const backlinks = {
     },
     "WasmEdge": {
         "2022-11-30": "- [[WasmEdge]]",
-        "Tools I will use one day": "- [[WasmEdge]]"
+        "Oneday": "- [[WasmEdge]]"
     },
     "Computer Science": {
         "2023-08-24": "... 일들이 생긴다. 이번에 석사를 하면서 [[Computer Science|CS]] 3, 4학년 수업 조교를 하게 ...",
@@ -8005,9 +8001,6 @@ export const backlinks = {
     "Dogfooding": {
         "Stories Behind Satori": "The Vercel team [[Dogfooding|dogfooded]] this for a while."
     },
-    "Inspiring Open Source Projects": {
-        "2022-09-29": "- [[Inspiring Open Source Projects]]"
-    },
     "Google IO": {
         "Vector DB": "... announced their Vector Database|DB in [[Google IO]] 2023"
     },
@@ -8333,8 +8326,8 @@ export const backlinks = {
     "Headless": {
         "2023-04-19": "- [[Headless]]",
         "Ghost 테마를 자동 배포하는 방법": "... AWS에 호스팅하여 사용한다. Ghost CMS는 [[Headless|헤드리스]]하다. 말 그대로 머리가 없다는 뜻으로, ...",
-        "Inspiring Open Source Projects": "... Open Commerce is an API-first, [[headless]] commerce platform built using Node.js, ...",
         "Keystone.js": "## keystonejs/keystone: The most powerful [[headless]] CMS for Node.js — built ...",
+        "Oneday": "... Open Commerce is an API-first, [[headless]] commerce platform built using Node.js, ...",
         "Project Naroo": "... way to interact with a [[headless]] [[Web Browser|browser]] built in top ...",
         "Refine (Framework)": "... Ant Design, Chakra UI, Mantine, [[Headless]])",
         "Satori": "- Easy: No [[headless]] [[Web Browser|browser]] is needed. Using ...",
@@ -8567,6 +8560,11 @@ export const backlinks = {
     "Action Required Newsletter Networks": {
         "2023-02-02": "- [[Action Required Newsletter Networks]]"
     },
+    "Oneday": {
+        "2022-08-04": "- [[Oneday]]",
+        "2022-10-10": "- [[Oneday]]. Found tremor.",
+        "2024-03-04": "- [[Oneday]]"
+    },
     "Substack is the new Medium": {
         "2022-10-24": "- [[Substack is the new Medium]]"
     },
@@ -8598,7 +8596,7 @@ export const backlinks = {
     },
     "GraphQL": {
         "IDOL Stack": "- Takes care of [[GraphQL]] fuzz",
-        "Inspiring Open Source Projects": "... platform built using Node.js, React, [[GraphQL]]",
+        "Oneday": "... platform built using Node.js, React, [[GraphQL]]",
         "Redwood.js": "... For the back-end, Redwood uses [[GraphQL]], a query language for APIs ...",
         "Vector DB": "... cloud-native database, all accessible through [[GraphQL]], REST, and various language clients.",
         "henrymakesapps": "... communication without needing REST or [[GraphQL]].",
@@ -8806,7 +8804,7 @@ export const backlinks = {
         "2024-02-26": "- [[Search Engine]]",
         "Blurry JPEG": "... applications of these models in [[Search Engine|search engines]], web content generation, and assisting ...",
         "Exhalation": "... of writing: first books, then [[Search Engine|search engines]]. By contrast, we've historically resisted ...",
-        "Inspiring Open Source Projects": "- meilisearch/meilisearch A lightning-fast [[search engine]] that fits effortlessly into your ...",
+        "Oneday": "- meilisearch/meilisearch A lightning-fast [[search engine]] that fits effortlessly into your ...",
         "Proposal of Research 2023-01-10": "... accessibility to visually impaired users. [[Search Engine|Search engines]] also use it to understand ...",
         "QA.json": "... is primarily a directive for [[search engine]] crawlers, specifying which parts of ...",
         "Search Engine Indexing Your Life": "- thesephist/monocle: Universal personal [[search engine]], powered by a full-text search ...",
@@ -9809,11 +9807,11 @@ export const backlinks = {
         "Google Analytics": "- [[Alternative]]. [[Simple Analytics]], [[Plausible Analytics]]",
         "Grammarly Work Note 2023-05-25": "... there were no suitable public [[Alternative|alternatives]] available. Additionally, the experimentation culture ...",
         "HEEx": "... of HTML. HEEx is an [[alternative]] to traditional HTML templates and ...",
-        "Inspiring Open Source Projects": "... KB) and privacy-friendly web analytics [[alternative]] to [[Google Analytics]].",
         "Jetbrains Fleet": "- a potential [[alternative]] to [[Visual Studio Code]]",
         "Locking your Mac with Command+L": "... with ⊞Win+L. Mac offered an [[alternative]] called the Hot Corner. But ...",
         "Lottie": "... was developed as a lighter [[alternative]] to animated GIFs and APNG ...",
         "Nota": "Awesome [[alternative]] to [[Obsidian]].",
+        "Oneday": "... KB) and privacy-friendly web analytics [[alternative]] to [[Google Analytics]].",
         "Packet Switching vs Circuit Switching": "- [[Alternative]]. Circuit Switching → Reservation-only Restaurant",
         "Point-E": "... this paper, we explore an [[alternative]] method for 3D object generation ...",
         "Pretendard": "- orioncactus/pretendard: A system-ui [[alternative]] font for all cross-platform",
@@ -10065,7 +10063,7 @@ export const backlinks = {
         "CDN": "... will design uses: Nginx, Lua, [[docker]], docker-compose, Prometheus, grafana, and wrk.",
         "Cloud-Native": "... automation using tools like Kubernetes, [[Docker]], and Terraform.",
         "How to Build Software like an SRE": "- use [[Docker]]",
-        "Inspiring Open Source Projects": "... core infrastructure Back-end|backend (API, database, [[Docker]], etc).",
+        "Oneday": "... core infrastructure Back-end|backend (API, database, [[Docker]], etc).",
         "Render.com": "... programming languages, and has robust [[Docker]] support. good scalability features. Free ..."
     },
     "AI는 고가 노동부터 점령한다": {
@@ -11903,6 +11901,9 @@ export const backlinks = {
     },
     "30ADF3.png": {
         "2023-04-15": "![[30ADF3.png]]"
+    },
+    "Inspiring Open Source Projects": {
+        "2022-09-29": "- [[Inspiring Open Source Projects]]"
     },
     "5B9AFC.png": {
         "2022-12-19": "![[5B9AFC.png]]",
