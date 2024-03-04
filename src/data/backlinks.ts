@@ -383,6 +383,9 @@ export const backlinks = {
     "2023-09-19": {
         "커피의 끝": "커피를 끊은지 한달 반이 넘었다. ([[2023-09-19]])."
     },
+    "2024-03-04": {
+        "Project PIRI": "## [[2024-03-04]]"
+    },
     "2023-10-09": {
         "Project Ganymede": "## [[2023-10-09]]"
     },
@@ -6610,6 +6613,7 @@ export const backlinks = {
     "Project PIRI": {
         "2024-02-24": "- [[Project PIRI]]",
         "2024-02-29": "- [[Project PIRI]]",
+        "2024-03-04": "- [[Project PIRI|PIRI]]",
         "Project": "- [[Project PIRI]]"
     },
     "Substack": {
