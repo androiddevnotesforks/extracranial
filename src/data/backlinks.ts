@@ -5354,6 +5354,9 @@ export const backlinks = {
     "Indirect Information Leakage": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Indirect Information Leakage]]"
     },
+    "Lost Futures A 19th-Century Vision of the Year 2000": {
+        "2024-03-04": "[[Lost Futures A 19th-Century Vision of the Year 2000]]"
+    },
     "GitHub Copilot Investigation": {
         "Copilot": "- [[GitHub Copilot Investigation]]"
     },
@@ -13157,6 +13160,213 @@ export const backlinks = {
     },
     "227D79.gif": {
         "Visual ChatGPT": "![[227D79.gif]]"
+    },
+    "00001.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00001.jpg]]"
+    },
+    "00002.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00002.jpg]]"
+    },
+    "00003.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00003.jpg]]"
+    },
+    "00004.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00004.jpg]]"
+    },
+    "00005.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00005.jpg]]"
+    },
+    "00006.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00006.jpg]]"
+    },
+    "00007.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00007.jpg]]"
+    },
+    "00008.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00008.jpg]]"
+    },
+    "00009.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00009.jpg]]"
+    },
+    "00010.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00010.jpg]]"
+    },
+    "00011.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00011.jpg]]"
+    },
+    "00012.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00012.jpg]]"
+    },
+    "00013.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00013.jpg]]"
+    },
+    "00014.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00014.jpg]]"
+    },
+    "00015.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00015.jpg]]"
+    },
+    "00016.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00016.jpg]]"
+    },
+    "00017.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00017.jpg]]"
+    },
+    "00018.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00018.jpg]]"
+    },
+    "00019.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00019.jpg]]"
+    },
+    "00020.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00020.jpg]]"
+    },
+    "00021.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00021.jpg]]"
+    },
+    "00022.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00022.jpg]]"
+    },
+    "00023.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00023.jpg]]"
+    },
+    "00024.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00024.jpg]]"
+    },
+    "00025.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00025.jpg]]"
+    },
+    "00026.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00026.jpg]]"
+    },
+    "00027.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00027.jpg]]"
+    },
+    "00028.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00028.jpg]]"
+    },
+    "00029.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00029.jpg]]"
+    },
+    "00030.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00030.jpg]]"
+    },
+    "00031.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00031.jpg]]"
+    },
+    "00032.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00032.jpg]]"
+    },
+    "00033.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00033.jpg]]"
+    },
+    "00034.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00034.jpg]]"
+    },
+    "00035.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00035.jpg]]"
+    },
+    "00036.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00036.jpg]]"
+    },
+    "00037.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00037.jpg]]"
+    },
+    "00038.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00038.jpg]]"
+    },
+    "00039.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00039.jpg]]"
+    },
+    "00040.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00040.jpg]]"
+    },
+    "00041.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00041.jpg]]"
+    },
+    "00042.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00042.jpg]]"
+    },
+    "00043.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00043.jpg]]"
+    },
+    "00044.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00044.jpg]]"
+    },
+    "00045.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00045.jpg]]"
+    },
+    "00046.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00046.jpg]]"
+    },
+    "00047.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00047.jpg]]"
+    },
+    "00048.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00048.jpg]]"
+    },
+    "00049.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00049.jpg]]"
+    },
+    "00050.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00050.jpg]]"
+    },
+    "00051.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00051.jpg]]"
+    },
+    "00052.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00052.jpg]]"
+    },
+    "00053.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00053.jpg]]"
+    },
+    "00054.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00054.jpg]]"
+    },
+    "00055.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00055.jpg]]"
+    },
+    "00056.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00056.jpg]]"
+    },
+    "00057.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00057.jpg]]"
+    },
+    "00058.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00058.jpg]]"
+    },
+    "00059.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00059.jpg]]"
+    },
+    "00060.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00060.jpg]]"
+    },
+    "00061.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00061.jpg]]"
+    },
+    "00062.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00062.jpg]]"
+    },
+    "00063.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00063.jpg]]"
+    },
+    "00064.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00064.jpg]]"
+    },
+    "00065.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00065.jpg]]"
+    },
+    "00066.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00066.jpg]]"
+    },
+    "00067.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00067.jpg]]"
+    },
+    "00068.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00068.jpg]]"
+    },
+    "00069.jpg": {
+        "Lost Futures A 19th-Century Vision of the Year 2000": "![[00069.jpg]]"
     },
     "B92798.gif": {
         "Boring Report": "![[B92798.gif]]"
