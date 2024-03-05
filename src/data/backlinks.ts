@@ -384,6 +384,7 @@ export const backlinks = {
         "커피의 끝": "커피를 끊은지 한달 반이 넘었다. ([[2023-09-19]])."
     },
     "2024-03-04": {
+        "Person 2476E6": "- Interviewed on [[2024-03-04]]",
         "Project PIRI": "## [[2024-03-04]]"
     },
     "2023-10-09": {
@@ -7205,7 +7206,7 @@ export const backlinks = {
         "Newtonian Correspondence": "... of Alarm Clocks <br/> `KO` [[알람 시계의 9분 스누즈]]      ..."
     },
     "CS585 Database Systems": {
-        "2024-03-03": "[[CS585 Database Systems]]"
+        "2024-03-03": "- [[CS585 Database Systems]]"
     },
     "Search-based Tools for Thought": {
         "LavaLab Cohort of Spring 2023": "[[Search-based Tools for Thought]] for Teams. Given you connect ...",
@@ -7530,6 +7531,9 @@ export const backlinks = {
     },
     "Cross-Origin Opener Policy": {
         "Providing DOM API to Worker Threads": "- [[Cross-Origin Opener Policy]]. `same-origin`"
+    },
+    "Person 2476E6": {
+        "2024-03-03": "- [[Person 2476E6]]"
     },
     "Throughput": {
         "2022-06-14": "... - DOM 퍼포먼스를 확인하기 위해 [[Throughput]]이 높은 DBMon을 사용한다.",
