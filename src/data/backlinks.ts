@@ -3807,6 +3807,7 @@ export const backlinks = {
     },
     "iMessage App": {
         "2023-11-14": "- [[iMessage App]]",
+        "2024-03-05": "- [[iMessage App|iMessage Extension]]",
         "Project Ganymede": "... Apple Sign-In UUID from the [[iMessage App]] side: had to use App ..."
     },
     "Journal is a Waypoint, nothing more": {
@@ -4036,9 +4037,11 @@ export const backlinks = {
         "2023-09-14": "- [[한민족의 멸종 방어]]",
         "2023-09-19": "- [[한민족의 멸종 방어]]",
         "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족의 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
+        "새로운 4대 사회악": "아래는, [[한민족의 멸종 방어|네오코리아]]로 나아가기 위해 반드시 해결해야할 과제들이다.",
         "소셜 엔지니어링 금지": "[[한민족의 멸종 방어]]를 위해 금지가 필수. [[Social Engineering]]은 ...",
         "연암 박지원 그리고 전국수도권화": "[[한민족의 멸종 방어]].",
-        "의료 인공지능과 의대 쏠림": "[[한민족의 멸종 방어|신한국]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ..."
+        "의료 인공지능과 의대 쏠림": "[[한민족의 멸종 방어|신한국]]으로 성장하기 위해선 [[이공계]]에 대한 전폭적인 ...",
+        "인공자궁": "... 디스토피아를 비평하겠지만 논란이 되건 말건, [[한민족의 멸종 방어|안 하면 멸종하는 문제이다.]]"
     },
     "UUID": {
         "Heimdall Bogus Subscribers Attack Incident": "... bogus subscribers had something like [[UUID]].",
@@ -5293,6 +5296,9 @@ export const backlinks = {
     "Smooth Cursor on VS Code": {
         "2024-03-02": "- [[Smooth Cursor on VS Code]]"
     },
+    "인공자궁": {
+        "2024-03-06": "- [[인공자궁]]"
+    },
     "Person 5DBDAE": {
         "2022-09-13": "- [[Person 5DBDAE]]",
         "Project PEOPLE": "- [[Person 5DBDAE]]"
@@ -6420,6 +6426,9 @@ export const backlinks = {
     "Person 1B5A5B": {
         "Project PEOPLE": "- [[Person 1B5A5B]]"
     },
+    "Change App Display Name on Xcode": {
+        "2024-03-05": "- [[Change App Display Name on Xcode]]"
+    },
     "IP Spoofing": {
         "Internetworking": "- [[IP Spoofing]]"
     },
@@ -6683,6 +6692,9 @@ export const backlinks = {
     },
     "Bad Interview Experience with Replo": {
         "2023-05-29": "- [[Bad Interview Experience with Replo]]"
+    },
+    "새로운 4대 사회악": {
+        "2024-03-06": "- [[새로운 4대 사회악]]"
     },
     "One Bit Display": {
         "2023-01-13": "- [[One Bit Display]]"
@@ -7613,7 +7625,8 @@ export const backlinks = {
         "Project Ganymede": "- [[Send Separately]]"
     },
     "The U.S. is Homelander": {
-        "2024-02-26": "- [[The U.S. is Homelander]]"
+        "2024-02-26": "- [[The U.S. is Homelander]]",
+        "Watchings": "- The Boys [[The U.S. is Homelander]]"
     },
     "Neo ArXiv": {
         "2023-08-18": "- [[Neo ArXiv]]",
@@ -9115,6 +9128,7 @@ export const backlinks = {
     "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": {
         "2022-12-11": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]",
         "공기 청정 비행선": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]].",
+        "인공자궁": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]].",
         "태백산맥 계획": "[[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]].",
         "한민족의 멸종 방어": "- [[누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다]]"
     },
@@ -11499,6 +11513,10 @@ export const backlinks = {
         "2022-11-19": "  - [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]",
         "Opening external links in a new tab by default on Ghost": "- [[Ghost에서 외부 링크를 새로운 창에서 여는 방법]]"
     },
+    "Avatar The Last Airbender": {
+        "2024-03-06": "- [[Avatar The Last Airbender]]",
+        "Watchings": "- [[Avatar The Last Airbender]]"
+    },
     "Stale While Revalidate": {
         "2023-10-26": "- [[Stale While Revalidate]]"
     },
@@ -13595,6 +13613,9 @@ export const backlinks = {
     "5DBEEF.png": {
         "Attention Settings": "![[5DBEEF.png]]"
     },
+    "77A21C.png": {
+        "Change App Display Name on Xcode": "![[77A21C.png]]"
+    },
     "4AEADB.png": {
         "Migrating Project Aldehyde to FlightControl (February 2024)": "![[4AEADB.png]]"
     },
@@ -14157,9 +14178,6 @@ export const backlinks = {
     },
     "EBEF28.png": {
         "Passkey": "![[EBEF28.png]]"
-    },
-    "Barbie": {
-        "Watchings": "- [[Barbie]]"
     },
     "847E2D.png": {
         "Studio.Design": "![[847E2D.png]]"
