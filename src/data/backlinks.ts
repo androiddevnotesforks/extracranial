@@ -1123,7 +1123,8 @@ export const backlinks = {
         "Better Aldehyde": "- [[Aldehyde]]",
         "Developing Review Notes for Obsidian": "- [[Aldehyde]]의 기술적 발전으로 인해 옵시디언 내부보다 ...",
         "Link Coefficient": "For example, as of 2023-02-16, [[Aldehyde]] has a 0.592% of Link ...",
-        "Migrating Project Aldehyde to FlightControl (February 2024)": "I migrated my website, [[Aldehyde]] (part of Project [[Extracranial]]), to ..."
+        "Migrating Project Aldehyde to FlightControl (February 2024)": "I migrated my website, [[Aldehyde]] (part of Project [[Extracranial]]), to ...",
+        "Neoaldehyde": "What would the future of [[Aldehyde]] look like?"
     },
     "Prehistoric": {
         "2023-05-10": "- [[Prehistoric]]",
@@ -3710,6 +3711,9 @@ export const backlinks = {
     "Vector Graphic": {
         "2023-08-15": "- [[Vector Graphic]]",
         "Lottie": "... an open-source file format for [[Vector Graphic|vector graphics]] [[animation]]. It is named after ..."
+    },
+    "Neoaldehyde": {
+        "2024-03-05": "- [[Neoaldehyde]]"
     },
     "Go To Market": {
         "10x Technopreneurs": "... and have the knowledge for [[Go To Market|Go-To-Market]] [[Strategy|strategies]] and monetization. They can ...",
@@ -6806,6 +6810,10 @@ export const backlinks = {
         "水適穿石": "### 직업으로서의 소설가 — [[Haruki Murakami|하루키]]",
         "디지털 브레인과 개발에 대한 질문 편지 (February 2024)": "[[Haruki Murakami|하루키]]의 \"직업으로서의 소설가\"에는 다음 구절이 있습니다."
     },
+    "Dynamic Scrollbar": {
+        "2024-03-05": "- [[Dynamic Scrollbar]]",
+        "Neoaldehyde": "- [[Dynamic Scrollbar]]"
+    },
     "Uniform Distributions (Discrete)": {
         "2023-02-10": "- [[Uniform Distributions (Discrete)]]"
     },
@@ -8246,7 +8254,7 @@ export const backlinks = {
     },
     "Apple vs Spotify": {
         "2022-10-27": "### [[Apple vs Spotify]]",
-        "2024-03-05": "[[Apple vs Spotify]]"
+        "2024-03-05": "- [[Apple vs Spotify]]"
     },
     "Computational Theory": {
         "Las Vegas Algorithm": "... accurate results—another exciting property in [[Computational Theory]].",
@@ -13647,6 +13655,9 @@ export const backlinks = {
     "CD4751.png": {
         "San Francisco": "![[CD4751.png]]",
         "Satoshi": "![[CD4751.png]]"
+    },
+    "2949D4.gif": {
+        "Dynamic Scrollbar": "![[2949D4.gif]]"
     },
     "FA49F5.png": {
         "My Raycast Wrapped of 2023": "![[FA49F5.png]]"
