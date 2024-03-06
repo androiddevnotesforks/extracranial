@@ -8245,7 +8245,8 @@ export const backlinks = {
         "Project Florence Literature Review": "- [ ] [[Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning]]"
     },
     "Apple vs Spotify": {
-        "2022-10-27": "### [[Apple vs Spotify]]"
+        "2022-10-27": "### [[Apple vs Spotify]]",
+        "2024-03-05": "[[Apple vs Spotify]]"
     },
     "Computational Theory": {
         "Las Vegas Algorithm": "... accurate results—another exciting property in [[Computational Theory]].",
