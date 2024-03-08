@@ -482,6 +482,9 @@ export const backlinks = {
         "Bing Chat for All Browsers in Japan": "## [[2023-04-03]]",
         "hn.cho.sh 개발 기록": "## [[2023-04-03]]"
     },
+    "2024-03-07": {
+        "Project Florence": "## [[2024-03-07]]"
+    },
     "2023-06-17": {
         "Project Naroo": "## [[2023-06-17]]"
     },
@@ -7590,7 +7593,8 @@ export const backlinks = {
         "Graphics Engine Process": "...    - Calculate [[Delta Time]]"
     },
     "Project Calenzano": {
-        "2024-02-19": "- [[Project Calenzano]]"
+        "2024-02-19": "- [[Project Calenzano]]",
+        "2024-03-07": "- [[Project Calenzano]]"
     },
     "Wildcard Image Domain on Next.js": {
         "2022-11-10": "- [[Wildcard Image Domain on Next.js]]"
@@ -8036,6 +8040,9 @@ export const backlinks = {
     },
     "Dogfooding": {
         "Stories Behind Satori": "The Vercel team [[Dogfooding|dogfooded]] this for a while."
+    },
+    "Identicon": {
+        "2024-03-06": "- [[Identicon]]"
     },
     "Google IO": {
         "Vector DB": "... announced their Vector Database|DB in [[Google IO]] 2023"
@@ -13864,6 +13871,9 @@ export const backlinks = {
     },
     "E0C486.png": {
         "Polar.sh": "![[E0C486.png]]"
+    },
+    "478EE3.png": {
+        "Identicon": "![[478EE3.png]]"
     },
     "D11FF4.png": {
         "SHAP": "![[D11FF4.png]]"
