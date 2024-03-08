@@ -483,7 +483,8 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "## [[2023-04-03]]"
     },
     "2024-03-07": {
-        "Project Florence": "## [[2024-03-07]]"
+        "Project Florence": "## [[2024-03-07]]",
+        "Project Ganymede": "## [[2024-03-07]]"
     },
     "2023-06-17": {
         "Project Naroo": "## [[2023-06-17]]"
@@ -1127,6 +1128,9 @@ export const backlinks = {
         "Link Coefficient": "For example, as of 2023-02-16, [[Aldehyde]] has a 0.592% of Link ...",
         "Migrating Project Aldehyde to FlightControl (February 2024)": "I migrated my website, [[Aldehyde]] (part of Project [[Extracranial]]), to ...",
         "Neoaldehyde": "What would the future of [[Aldehyde]] look like?"
+    },
+    "Block Screenshots in iOS": {
+        "2024-03-07": "- [[Block Screenshots in iOS]]"
     },
     "Prehistoric": {
         "2023-05-10": "- [[Prehistoric]]",
@@ -2047,6 +2051,7 @@ export const backlinks = {
         "2023-10-04": "- [[Project Florence]]",
         "2024-01-18": "- [[Project Florence]]",
         "2024-02-21": "- [[Project Florence]]",
+        "2024-03-07": "- [[Project Florence]]",
         "Project": "- [[Project Florence]] and its subprojects",
         "Project Calenzano": "Subproject of [[Project Florence]]",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
@@ -4358,6 +4363,7 @@ export const backlinks = {
         "2023-12-24": "[[Project Ganymede|Ganymede]]",
         "2024-01-04": "[[Project Ganymede|Ganymede]]",
         "2024-02-10": "- [[Project Ganymede|Ganymede]]",
+        "2024-03-07": "- [[Project Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
@@ -12282,6 +12288,10 @@ export const backlinks = {
         "Aldehyde Landing Page 2023": "![[339420.gif]]",
         "날씨 요정": "![[339420.gif]]"
     },
+    "E13EA3.gif": {
+        "Block Screenshots in iOS": "![[E13EA3.gif]]",
+        "Project Ganymede": "![[E13EA3.gif]]"
+    },
     "971BA5.png": {
         "Bing Chat for All Browsers in Japan": "![[971BA5.png]]"
     },
@@ -13826,6 +13836,9 @@ export const backlinks = {
     },
     "CA8068.png": {
         "Project Calenzano": "![[CA8068.png]]"
+    },
+    "F2748C.png": {
+        "Project Calenzano": "![[F2748C.png]]"
     },
     "277486.gif": {
         "Link Preview for Arc": "![[277486.gif]]"
