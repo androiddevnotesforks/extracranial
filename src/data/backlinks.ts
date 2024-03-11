@@ -6555,6 +6555,7 @@ export const backlinks = {
         "네오 코리안 르네상스": "... 재료는 충분하지만 중국과 일본에 비해서 [[대한민국|한국]]의 문화가 '재탐색'되지 않았다.",
         "대한민국의 저출산": "[[대한민국|Korea]]'s fertility rate has dropped to ...",
         "드디어, 한국 애플페이": "... 3일자 Finance|금융위원회에서 Apple|애플페이 도입을 승인했다. [[대한민국|한국]]은 선진국 중 유일하게 Apple|애플페이가 지원되지 ...",
+        "무교": "- [[대한민국|한국]] 고유의 토착 신앙으로 볼 수 ...",
         "미국물": "하지만 그러기에 [[대한민국|한국]]은 더이상 무시할 수 없다.",
         "민사고": "... 누군가를 정말 알고 지내는 사회다. [[대한민국|한국]] 학연 사회의 정점이다.",
         "벨로그": "벨로그는 [[대한민국]]의 블로깅 서비스이다.",
@@ -6937,6 +6938,11 @@ export const backlinks = {
     },
     "Cross-Origin Embedder Policy": {
         "Providing DOM API to Worker Threads": "- [[Cross-Origin Embedder Policy]]. `require-corp`"
+    },
+    "무교": {
+        "2023-11-28": "... \"신내림\"을 활용한 사이버펑크 인공의식체 제작이었다는데, [[무교|무속신앙]]에 대한 르네상스적 재탐색이 진행된 이후에 ...",
+        "2024-03-11": "- [[무교]]",
+        "네오 코리안 르네상스": "반면 한국의 [[무교]]는 여전히 종교적 색채가 짙고, 주류 ..."
     },
     "Palantir Gotham": {
         "Palantir": "- [[Palantir Gotham]]",
@@ -8331,7 +8337,7 @@ export const backlinks = {
         "Project Naroo": "... can go to Hacker News [[일본어|Japanese]] version and read the content ...",
         "Shortcuts": "... type English, inspired by the [[일본어|Japanese]] Apple keyboard's [[일본어|Kana]] ([[일본어|かな]]) and ...",
         "까리": "... 종종 있다. 예를 들어 Hono ([[일본어]]로 \"불\"이라는 뜻), Waku (일본어로 \"프레임\"이라는 ...",
-        "이완용": "... 원한 것도 아니거니와 일제 치하 [[일본어]] 의무교육을 도입한 것으로 미루어 보아 ...",
+        "이완용": "... 원한 것도 아니거니와 일제 치하 [[일본어]] 의무 교육을 도입한 것으로 미루어 ...",
         "일본": "[[일본어]]",
         "일본 과학기술 총력전": "... 통일되며 대학 강의가 Foreign Language|외국어에서 [[일본어]]로 변경되었다.",
         "헤이그 특사": "... 설치되었다. 교육기관의 설치는 한국어를 근절시키고 [[일본어]]를 대신 가르치려는 것이며, [[한국인]]의 해외유학은 ..."
@@ -8614,7 +8620,8 @@ export const backlinks = {
     "Oneday": {
         "2022-08-04": "- [[Oneday]]",
         "2022-10-10": "- [[Oneday]]. Found tremor.",
-        "2024-03-04": "- [[Oneday]]"
+        "2024-03-04": "- [[Oneday]]",
+        "2024-03-11": "- [[Oneday]]"
     },
     "Substack is the new Medium": {
         "2022-10-24": "- [[Substack is the new Medium]]"
