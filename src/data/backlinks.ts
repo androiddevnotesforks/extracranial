@@ -277,6 +277,9 @@ export const backlinks = {
     "2023-04-11": {
         "hn.cho.sh 개발 기록": "## [[2023-04-11]]"
     },
+    "2024-03-15": {
+        "Project Ganymede": "## [[2024-03-15]]"
+    },
     "2023-09-08": {
         "Checkmark": "## [[2023-09-08]]"
     },
@@ -3596,6 +3599,7 @@ export const backlinks = {
         "2023-09-19": "- [[Readings]]",
         "2023-12-05": "[[Readings]]",
         "2024-01-03": "- [[Readings]]",
+        "2024-03-19": "- [[Readings]]",
         "Building a Second Brain": "... it into Projects, Research, and [[Readings]].",
         "Displaying exact datetimes on Ghost": "## Further [[Readings]]",
         "Everything Is Figureoutable": "future [[readings]]. like the title.",
@@ -4364,6 +4368,7 @@ export const backlinks = {
         "2024-01-04": "[[Project Ganymede|Ganymede]]",
         "2024-02-10": "- [[Project Ganymede|Ganymede]]",
         "2024-03-07": "- [[Project Ganymede]]",
+        "2024-03-15": "[[Project Ganymede|Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
@@ -7607,7 +7612,8 @@ export const backlinks = {
     },
     "Project Calenzano": {
         "2024-02-19": "- [[Project Calenzano]]",
-        "2024-03-07": "- [[Project Calenzano]]"
+        "2024-03-07": "- [[Project Calenzano]]",
+        "2024-03-18": "[[Project Calenzano]]"
     },
     "Wildcard Image Domain on Next.js": {
         "2022-11-10": "- [[Wildcard Image Domain on Next.js]]"
@@ -12017,6 +12023,9 @@ export const backlinks = {
     "689D91.jpeg": {
         "2023-11-23": "![[689D91.jpeg]]",
         "산나비": "![[689D91.jpeg]]"
+    },
+    "92DEEC.png": {
+        "2024-03-14": "![[92DEEC.png]]"
     },
     "B28551.png": {
         "2023-04-10": "> ![[B28551.png]]",
