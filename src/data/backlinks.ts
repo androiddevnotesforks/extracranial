@@ -421,6 +421,9 @@ export const backlinks = {
     "2016-06-24": {
         "공강에서 보내는 공강 활용법": "[[2016-06-24]]에 게재된 [[재학생일기]]이다."
     },
+    "2024-03-20": {
+        "Project Florence": "## [[2024-03-20]]"
+    },
     "2023-05-09": {
         "Project FFMpeg for iPad": "## [[2023-05-09]]",
         "Seaflooding": "## 산업적 개척, 청결, 정화 ([[2023-05-09]] 이전)"
@@ -660,6 +663,9 @@ export const backlinks = {
     },
     "2020-02-15": {
         "프로젝트 어덕행덕": "- [[2020-02-15]]"
+    },
+    "2024-03-19": {
+        "Project Ganymede": "## [[2024-03-19]]"
     },
     "2022-07-07": {
         "Building a Second Brain": "[[2022-07-07]]",
@@ -2055,6 +2061,7 @@ export const backlinks = {
         "2024-01-18": "- [[Project Florence]]",
         "2024-02-21": "- [[Project Florence]]",
         "2024-03-07": "- [[Project Florence]]",
+        "2024-03-20": "[[Project Florence]]",
         "Project": "- [[Project Florence]] and its subprojects",
         "Project Calenzano": "Subproject of [[Project Florence]]",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
@@ -4369,6 +4376,7 @@ export const backlinks = {
         "2024-02-10": "- [[Project Ganymede|Ganymede]]",
         "2024-03-07": "- [[Project Ganymede]]",
         "2024-03-15": "[[Project Ganymede|Ganymede]]",
+        "2024-03-19": "- [[Project Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
         "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
@@ -5563,6 +5571,7 @@ export const backlinks = {
         "2023-09-09": "- [[네오 코리안 르네상스]]",
         "2023-11-28": "- 산나비를 끝냈다. [[네오 코리안 르네상스]]의 표본을 본 것 같아 정말 ...",
         "2024-03-10": "- [[네오 코리안 르네상스]]",
+        "2024-03-21": "[[네오 코리안 르네상스|Neokorean Renaissance]]",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[네오 코리안 르네상스]]로 나아가기 위해선 김치, 엽전, 선비 ...",
         "코리안 르네상스": "- [[네오 코리안 르네상스]]"
     },
@@ -8746,6 +8755,9 @@ export const backlinks = {
     },
     "Toss Payments": {
         "Project Naroo": "... Impossible to create subscriptions with [[Toss Payments]] with international audience"
+    },
+    "Gen Z does not know file directories": {
+        "Project Ganymede": "... could be another programming pattern. [[Gen Z does not know file directories]]. The gist is that we ..."
     },
     "Higher-Level Languages and Their Speeds": {
         "2022-11-09": "- [[Higher-Level Languages and Their Speeds]]"
