@@ -327,6 +327,9 @@ export const backlinks = {
     "2022-11-12": {
         "2022년 11월 한 달간 일기 쓰기": "- [[2022-11-12]] 실패"
     },
+    "2024-03-25": {
+        "PS5 계정과 국제화": "[[2024-03-25]]에 PS5 Slim을 샀다."
+    },
     "2023-04-21": {
         "hn.cho.sh 개발 기록": "## [[2023-04-21]]"
     },
@@ -1384,7 +1387,7 @@ export const backlinks = {
         "2023-11-22": "- [[산나비]]를 시작했다.",
         "2023-11-24": "- [[산나비]]를 대학생 5명이 만들었다고 한다.",
         "2023-11-28": "- [[산나비]]를 끝냈다. [[네오 코리안 르네상스]]의 표본을 ...",
-        "Playings": "- [[산나비]]"
+        "Playings": "- [[산나비]] (Steam Deck)"
     },
     "Tossface": {
         "Toss": "... of Toss Product Sans and [[Tossface]]",
@@ -6320,7 +6323,7 @@ export const backlinks = {
     },
     "Detroit Become Human": {
         "2023-04-15": "- [[Detroit Become Human]]",
-        "Playings": "- [[Detroit Become Human]]"
+        "Playings": "- [[Detroit Become Human]] (Steam Deck)"
     },
     "Building Habit": {
         "2023-01-15": "## [[Building Habit]]",
@@ -7373,7 +7376,7 @@ export const backlinks = {
         "WebNPU API를 상상하다": "... 우리는 VP9 vs HEVC 또는 [[USDZ vs glTF]]의 싸움처럼 [[Apple|애플]]과 [[Google|구글]]의 싸움을 다시 ..."
     },
     "Death Stranding": {
-        "Playings": "- [[Death Stranding]]",
+        "Playings": "- [[Death Stranding]] (Steam Deck)",
         "슈퍼자판기": "[[Death Stranding|데스 스트랜딩]]을 하며 자판기의 미래를 상상했다. 그리고 ..."
     },
     "Grammarly Experimentations Team": {
@@ -7789,6 +7792,9 @@ export const backlinks = {
     },
     "Jaccard Distance": {
         "2024-02-27": "- [[Jaccard Distance]]"
+    },
+    "PS5 계정과 국제화": {
+        "2024-03-25": "- [[PS5 계정과 국제화]]"
     },
     "Space in LaTeX": {
         "2022-10-18": "- [[Space in LaTeX]]"
@@ -9288,6 +9294,7 @@ export const backlinks = {
         "2023-03-24": "- [[Watchings]]",
         "2023-08-31": "- [[Watchings]]",
         "2023-10-12": "- [[Watchings]]",
+        "2024-03-25": "- [[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]]."
     },
     "Reminder Tools": {
@@ -10599,7 +10606,7 @@ export const backlinks = {
     },
     "Super Mario Wonder": {
         "2023-11-06": "[[Super Mario Wonder]] 다 했다 !!!",
-        "Playings": "- [[Super Mario Wonder]]"
+        "Playings": "- [[Super Mario Wonder]] (Switch OLED)"
     },
     "도로명주소": {
         "2023-06-12": "- [[도로명주소]]"
@@ -10902,7 +10909,8 @@ export const backlinks = {
         "2023-04-30": "- [[Playings]]",
         "2023-11-06": "- [[Playings]]",
         "2023-11-22": "- [[Playings]]",
-        "2023-12-26": "[[Playings]]"
+        "2023-12-26": "[[Playings]]",
+        "2024-03-25": "- [[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
