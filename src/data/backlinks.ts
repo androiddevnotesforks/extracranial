@@ -726,6 +726,9 @@ export const backlinks = {
     "2023-07-03": {
         "Funeral Playlist": "... Thus, I have decided on [[2023-07-03]] that I want a set ..."
     },
+    "2024-03-29": {
+        "Project Florence": "## [[2024-03-29]]"
+    },
     "2020-11-13": {
         "프로젝트 어덕행덕": "- [[2020-11-13]]"
     },
@@ -2065,6 +2068,8 @@ export const backlinks = {
         "2024-02-21": "- [[Project Florence]]",
         "2024-03-07": "- [[Project Florence]]",
         "2024-03-20": "[[Project Florence]]",
+        "2024-03-26": "- [[Project Florence]]",
+        "2024-03-29": "[[Project Florence]]",
         "Project": "- [[Project Florence]] and its subprojects",
         "Project Calenzano": "Subproject of [[Project Florence]]",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
@@ -2324,6 +2329,9 @@ export const backlinks = {
         "Site On Which the Sun Never Sets": "... the internet. Just as the [[United Kingdom|British]] Empire once had territories and ...",
         "국가와 민족": "... 하이 리스크 하이 리턴식 사회, [[United Kingdom|영국]]은 최소한의 기본권을 제도화한 후 통제 ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "대한민국과 [[United Kingdom|영국]]은 많은 유사점을 가지고 있습니다."
+    },
+    "비 오는 날에만 작동하는 와이파이": {
+        "말도 안 되는 버그": "- [[비 오는 날에만 작동하는 와이파이]]"
     },
     "Now Runs On": {
         "2022-11-20": "- [[Now Runs On]]"
@@ -2968,6 +2976,9 @@ export const backlinks = {
         "glTF": "... appearance, scene graph hierarchy, and [[animation]]. It is intended to be ...",
         "jQuery": "... and manipulation, event handling, and [[animation]] much simpler with an easy-to-use ..."
     },
+    "Backdrop Build": {
+        "2024-03-25": "- [[Backdrop Build]]"
+    },
     "Is DevOps Overrated": {
         "2022-10-20": "- [[Is DevOps Overrated]]"
     },
@@ -3610,6 +3621,7 @@ export const backlinks = {
         "2023-12-05": "[[Readings]]",
         "2024-01-03": "- [[Readings]]",
         "2024-03-19": "- [[Readings]]",
+        "2024-03-28": "- [[Readings]]",
         "Building a Second Brain": "... it into Projects, Research, and [[Readings]].",
         "Displaying exact datetimes on Ghost": "## Further [[Readings]]",
         "Everything Is Figureoutable": "future [[readings]]. like the title.",
@@ -6096,6 +6108,9 @@ export const backlinks = {
     "http 없는 http 서버 만들기": {
         "2022-11-19": "  - [[http 없는 http 서버 만들기]]"
     },
+    "나락 탐지": {
+        "2024-04-07": "- [[나락 탐지]]"
+    },
     "Inter": {
         "Akzidenz": "... to San Francisco|SF Pro and [[Inter]].",
         "Apple Newsroom 서체 따라하기": "### 영문: [[Inter]]",
@@ -6472,6 +6487,9 @@ export const backlinks = {
     },
     "Migrating Project Aldehyde to FlightControl (February 2024)": {
         "2024-02-02": "- [[Migrating Project Aldehyde to FlightControl (February 2024)]]"
+    },
+    "Jasonette": {
+        "2024-04-04": "- [[Jasonette]]"
     },
     "프로젝트 어덕행덕": {
         "2019-11-06": "- [[프로젝트 어덕행덕]]",
@@ -7247,6 +7265,7 @@ export const backlinks = {
     },
     "말도 안 되는 버그": {
         "2024-01-19": "- [[말도 안 되는 버그]]",
+        "2024-04-01": "- [[말도 안 되는 버그]]",
         "화요일에는 인쇄 기능이 고장나는 오피스 프로그램": "- [[말도 안 되는 버그]]"
     },
     "BFCM": {
@@ -10092,6 +10111,9 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "| 03-02 | 🇬🇧 [[On National Crises and the Intellectuals — Focused on GB and KR]] <br/> 🇰🇷 [[국가적 위기와 지식인에 ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "[[On National Crises and the Intellectuals — Focused on GB and KR|You can find the English 🇬🇧 version here.]]"
     },
+    "DOJ v.s. Apple - Super Apps": {
+        "2024-04-07": "- [[DOJ v.s. Apple - Super Apps]]"
+    },
     "Sudo with Touch ID": {
         "2022-11-30": "- Lesser Known Trick. [[Sudo with Touch ID]]"
     },
@@ -10779,6 +10801,9 @@ export const backlinks = {
     "Social Network Service": {
         "Jumpsite": "... a collective term for a [[Social Network Service]] mainly consisting of links to ..."
     },
+    "Stripe Press": {
+        "2024-03-28": "- [[Stripe Press]]"
+    },
     "Letter to Mr. Matt Rickard on 2022-10-03": {
         "2022-10-04": "- [[Letter to Mr. Matt Rickard on 2022-10-03]]",
         "Screenshot as an API": "- [[Letter to Mr. Matt Rickard on 2022-10-03]]"
@@ -10910,7 +10935,8 @@ export const backlinks = {
         "2023-11-06": "- [[Playings]]",
         "2023-11-22": "- [[Playings]]",
         "2023-12-26": "[[Playings]]",
-        "2024-03-25": "- [[Playings]]"
+        "2024-03-25": "- [[Playings]]",
+        "2024-04-01": "- [[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
@@ -11318,6 +11344,9 @@ export const backlinks = {
     "Markovity": {
         "2023-01-23": "- [[Markovity]]"
     },
+    "Project Pontassieve": {
+        "2024-03-26": "- [[Project Pontassieve]]"
+    },
     "0053 Maximum Subarray": {
         "2022-09-05": "- [[0053 Maximum Subarray]]",
         "Coding Tests": "- [x] [[0053 Maximum Subarray]]"
@@ -11437,6 +11466,7 @@ export const backlinks = {
         "2022-12-09": "- [[Super App]]",
         "Brane": "... mega-corporates creating Web Browser|browsers to [[Super App]] developers, who are much smaller ...",
         "Internet Computer": "- Strong ties to [[Super App]] [[Mini App]]",
+        "Jasonette": "Attempted [[Super App]] DX.",
         "Letter to Mr. Matt Rickard on 2022-12-24": "... at his desire for a [[Super App]]. What concerns me more is ...",
         "Mini App": "... within a more extensive, comprehensive [[Super App]]. Mini Apps are designed to ...",
         "Neo ArXiv": "... a more streamlined, so-called ResearchOps—a [[Super App]] platform for all research.",
