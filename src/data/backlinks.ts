@@ -5097,6 +5097,9 @@ export const backlinks = {
     "Bing Chat for All Browsers Widespread Unavailability Incident (April 2023)": {
         "2023-04-19": "- [[Bing Chat for All Browsers Widespread Unavailability Incident (April 2023)]]"
     },
+    "Vicarious": {
+        "Automattic의 Beeper 인수": "Learning [[Vicarious|Vicariously]]라는 것 또한 인상 깊다."
+    },
     "EU and AI": {
         "2023-03-06": "- [[EU and AI]]"
     },
@@ -7043,6 +7046,7 @@ export const backlinks = {
         "Seaflooding": "한국어로는 '큰물' '물마' 등의 [[Vocab|단어]]가 있다. 하지만 개부심이라는 Vocab|단어가 가장 ...",
         "Simian과 심미안": "Simian이라는 영어 [[Vocab|단어]]는 [[Simian|원숭이]], [[Simian|유인원]]을 뜻한다.",
         "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
+        "Vicarious": "[[Vocab]]",
         "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
         "과거의 영광 (2016-2018)": "... 있는 것일지도 모른다. 민사고에는 '내미'라는 [[Vocab|단어]]가 있다. '내신에 미친 사람'이라는 뜻이다. ...",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "... 정통적 의미로는 \"젠틀맨\"에 가장 가까운 [[Vocab|단어]]여야 하지만, 현대에 남아있는 이미지는 꽉 ...",
@@ -7229,6 +7233,7 @@ export const backlinks = {
     },
     "Texts (Service)": {
         "2023-01-31": "Got Invited to [[Texts (Service)]]",
+        "Automattic의 Beeper 인수": "[[Texts (Service)]] 그리고 [[Beeper]] 모두를 손에 넣었다.",
         "Beeper": "An alternative to [[Texts (Service)]]. A better approach with [[iMessage]], ...",
         "Love Software": "- (Fiercely Overpriced|paywalled) [[Texts (Service)]]",
         "One and Only (Social App)": "Like [[Texts (Service)]], it pulls from all the ...",
@@ -8536,6 +8541,9 @@ export const backlinks = {
         "SMTP": "- [[Port]] 25",
         "Socket": "... to be bound to a [[Port]]"
     },
+    "Automattic의 Beeper 인수": {
+        "2024-04-09": "- [[Automattic의 Beeper 인수]]"
+    },
     "Heptabase": {
         "Alan Chan": "- CEO of [[Heptabase]]",
         "Letter to the Heptabase Team on 2022-10-11": "- Mail|Letter to the [[Heptabase]] Team on [[2022-10-11]]",
@@ -8796,6 +8804,7 @@ export const backlinks = {
     },
     "Universal Chat App": {
         "2023-08-04": "- [[Universal Chat App]]",
+        "Automattic의 Beeper 인수": "이로써 Automattic은 \"[[Universal Chat App]]\"을 만들고자 하는 2개의 회사,",
         "MLS": "[[Universal Chat App]]"
     },
     "일민주의": {
@@ -9143,6 +9152,7 @@ export const backlinks = {
     },
     "Super App is a Universal Chat App": {
         "2023-01-09": "- [[Super App is a Universal Chat App]]",
+        "Automattic의 Beeper 인수": "어쩌면 Automattic은 [[Super App is a Universal Chat App|슈퍼 앱을 만들고 싶은 것인지 모르겠다.]]",
         "Texts (Service)": "... United States of America|United States. [[Super App is a Universal Chat App]]",
         "Universal Chat App": "[[Super App is a Universal Chat App]]."
     },
@@ -10052,6 +10062,7 @@ export const backlinks = {
     },
     "Beeper": {
         "2023-05-18": "- [[Beeper]]",
+        "Automattic의 Beeper 인수": "Texts (Service) 그리고 [[Beeper]] 모두를 손에 넣었다.",
         "Universal Chat App": "- Matrix Network. Used by [[Beeper]]. Beeper aims to build a ..."
     },
     "Cache Evictions": {
@@ -11191,6 +11202,9 @@ export const backlinks = {
         "2024-01-31": "- [[하늘땅사람 업데이트 기록]]",
         "하늘땅사람": "- [[하늘땅사람 업데이트 기록]]",
         "하늘땅사람 지원 문서": "[[하늘땅사람 업데이트 기록]]도 확인해보세요."
+    },
+    "Automattic": {
+        "2024-04-09": "- [[Automattic]]"
     },
     "Twitter Recommendation Algorithms": {
         "2023-07-24": "... to look into Lombok and [[Twitter Recommendation Algorithms]]."
