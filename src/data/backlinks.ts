@@ -695,6 +695,9 @@ export const backlinks = {
     "2023-01-02": {
         "하늘땅사람 개발 기록": "## [[2023-01-02]]"
     },
+    "2024-04-12": {
+        "Person 57E05E": "- Interviewed on [[2024-04-12]]"
+    },
     "2023-01-22": {
         "Jog 25 minutes (Jan-Feb 2023)": "- [[2023-01-22]]. 발에 물집이 잡혀 하지 못했다. ...",
         "하늘땅사람 업데이트 기록": "## 1.0.6 [[2023-01-22]]"
@@ -2765,7 +2768,8 @@ export const backlinks = {
         "2022-09-08": "- [[Project PEOPLE]]",
         "2022-09-14": "- [[Project PEOPLE]]",
         "2023-03-03": "- [[Project PEOPLE]]",
-        "2024-02-07": "- [[Project PEOPLE]]"
+        "2024-02-07": "- [[Project PEOPLE]]",
+        "2024-04-12": "- [[Project People]]"
     },
     "새로운 부동산은 지적 재산이다": {
         "2023-02-26": "- [[새로운 부동산은 지적 재산이다]]",
@@ -5788,6 +5792,10 @@ export const backlinks = {
     },
     "Confession in Slack": {
         "2023-05-24": "- [[Confession in Slack]]"
+    },
+    "Person 57E05E": {
+        "2024-04-12": "- [[Person 57E05E]]",
+        "Project PEOPLE": "- [[Person 57E05E]]"
     },
     "Game Porting Toolkit": {
         "WWDC23": "- [[Game Porting Toolkit]] → automatic HLSL conversion"
