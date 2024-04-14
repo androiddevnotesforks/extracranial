@@ -5306,6 +5306,9 @@ export const backlinks = {
         "2023-02-01": "- [[Imoogi and Dragon Company]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-01 | 🇬🇧 [[Imoogi and Dragon Company]] <br/> 🇰🇷 [[이무기 기업, 청룡 ..."
     },
+    "Preload vs Prefetch": {
+        "2024-04-14": "- [[Preload vs Prefetch]]"
+    },
     "Cache and Virtual Memory": {
         "2022-11-04": "- [[Cache and Virtual Memory]]",
         "Computer Systems": "- [[Cache and Virtual Memory]]",
