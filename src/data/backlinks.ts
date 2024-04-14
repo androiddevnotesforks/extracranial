@@ -5034,6 +5034,7 @@ export const backlinks = {
         "Linux": "... are provided by the GNU [[Project]]. Many Linux distributions use the ...",
         "LocLog": "Someday [[Project]].",
         "Markdown Email Client": "Someday [[Project]]. You write an [[Mail|email]] in ...",
+        "Neo Aldehyde": "Someday [[Project]]",
         "Neo ArXiv": "Someday [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "Someday [[Project]]. `img loading=lazy`, but if the ...",
         "Notion": "> Notion is a [[project]] management and note-taking software platform ...",
@@ -5106,7 +5107,7 @@ export const backlinks = {
         "심리역사학": "... 이루어갈 수 있도록 준비한다. 셀던 [[Project|계획]]의 핵심 개념은 심리역사학인데, 전 인류의 ...",
         "어둠의 앱스토어": "Someday [[Project]]",
         "역사의 집대성": "... 하나의 기록소 안에 모두 집대성하는 [[Project|프로젝트]]이다.",
-        "조선왕조실록": "Someday [[Project]]. Fast and Modern version of ...",
+        "조선왕조실록": "Someday|언젠가 [[Project|프로젝트]]. ",
         "코드클럽": "... 세계에서 인증한 만국 공통 코드클럽 [[Project|프로젝트]] 커리큘럼으로 활동",
         "프로젝트 어덕행덕": "- 텐션이 많이 떨어지고 있다. [[Project|프로젝트]]가 점점 장기화되어가며 활력을 잃어간다. 너무 ...",
         "프로젝트 주령구": "Someday|언젠가 [[Project|프로젝트]].",
@@ -8264,6 +8265,7 @@ export const backlinks = {
         "2022-07-12": "- [[Better Aldehyde]]",
         "2022-10-16": "### [[Better Aldehyde]]",
         "Aldehyde": "- [[Better Aldehyde]]",
+        "Neo Aldehyde": "[[Better Aldehyde]]",
         "블록 기반 링킹": "[[Better Aldehyde]]"
     },
     "Kakao": {
@@ -10468,6 +10470,7 @@ export const backlinks = {
         "Intracranial": "[[Someday]] [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
         "LocLog": "[[Someday]] [[Project]].",
         "Markdown Email Client": "[[Someday]] [[Project]]. You write an [[Mail|email]] ...",
+        "Neo Aldehyde": "[[Someday]] [[Project]]",
         "Neo ArXiv": "[[Someday]] [[Project]].",
         "Not-So-Procrastinating Lazy Loading": "[[Someday]] [[Project]]. `img loading=lazy`, but if ...",
         "Old Fashioned Camera": "[[Someday]] [[Project]]. iPhone 4 시절 그 ...",
@@ -10509,7 +10512,7 @@ export const backlinks = {
         "사회과부도": "[[Someday]] [[Project]]. 마음대로 변형을 가할 수 ...",
         "어둠의 앱스토어": "[[Someday]] [[Project]]",
         "원하는 곳만 전자레인지": "[[Someday]]",
-        "조선왕조실록": "[[Someday]] [[Project]]. Fast and Modern version ...",
+        "조선왕조실록": "[[Someday|언젠가]] [[Project|프로젝트]]. ",
         "프로젝트 주령구": "[[Someday|언젠가]] [[Project|프로젝트]]."
     },
     "Feature": {
