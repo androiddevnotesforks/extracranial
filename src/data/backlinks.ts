@@ -6729,6 +6729,9 @@ export const backlinks = {
         "2024-03-04": "- [[Project PIRI|PIRI]]",
         "Project": "- [[Project PIRI]]"
     },
+    "ossacc": {
+        "2024-04-16": "- [[ossacc]]"
+    },
     "Substack": {
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... for a developer-friendly mailing platform ([[Substack]] knocks off here).",
         "Newsletter": "- [[Substack]], Newneek을 필두로 엄청난 뉴스레터 성장",
@@ -8454,6 +8457,7 @@ export const backlinks = {
         "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "... 백만장자 Martin Shkreli가 마약 문제를 [[효과적 가속주의|E-ACC]]로 해결하는 가설",
         "Psychohistory": "... era to build our foundation? [[효과적 가속주의|How would we preserve the light of sentience in this galaxy]]?",
         "Soft Power": "- [[효과적 가속주의]]",
+        "ossacc": "... practices. It is based on [[효과적 가속주의|Effective Accelerationism]].",
         "심리역사학": "... 위해 무엇을 할 수 있을까? [[효과적 가속주의|우리는 이 은하에서 지성의 빛을 어떻게 보전할 수 있을까]]?",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... 없는 역사의 흐름이라 생각한다. 대신 [[효과적 가속주의|효과적 가속주의]]에서 보듯 이런 어쩔 수 없는 ...",
         "태백산맥 계획": "[[효과적 가속주의|효과적 가속주의]]에 기반한다."
@@ -9414,7 +9418,7 @@ export const backlinks = {
         "2023-08-31": "- [[Watchings]]",
         "2023-10-12": "- [[Watchings]]",
         "2024-03-25": "- [[Watchings]]",
-        "2024-04-16": "[[Watchings]]",
+        "2024-04-16": "- [[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]]."
     },
     "박스상자 (12誠鉉)": {
@@ -14637,7 +14641,7 @@ export const backlinks = {
         "Limitless Day One Review": "![[576823.jpg]]"
     },
     "239EE1.jpg": {
-        "Limitless Day One Review": "![[239EE1.jpg]]  "
+        "Limitless Day One Review": "![[239EE1.jpg]]"
     },
     "324D32.jpg": {
         "Limitless Day One Review": "![[324D32.jpg]]"
@@ -14646,7 +14650,7 @@ export const backlinks = {
         "Limitless Day One Review": "![[C68C62.jpg]]"
     },
     "B91AA5.jpg": {
-        "Limitless Day One Review": "![[B91AA5.jpg]]  "
+        "Limitless Day One Review": "![[B91AA5.jpg]]"
     },
     "22D369.jpg": {
         "Limitless Day One Review": "![[22D369.jpg]]"
