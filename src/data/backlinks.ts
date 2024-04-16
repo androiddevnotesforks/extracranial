@@ -3031,6 +3031,7 @@ export const backlinks = {
         "Project Ganymede": "Used Prisma, [[Prisma Accelerate]], [[PlanetScale]], and [[Cloudflare Worker|Cloudflare Workers]] ..."
     },
     "내가 만든": {
+        "Enginifounder": "... is a Vocab that I [[내가 만든|coined]] because the term \"technopreneurs\" is ...",
         "MetroPunk": "다가올 근시대의 미래를 재해석하기 위한 [[내가 만든]] 가상의 장르이자 하나의 상상이다.",
         "두그열": "[[내가 만든]] [[Vocab|단어]]이다."
     },
@@ -3079,6 +3080,7 @@ export const backlinks = {
     "10x Technopreneurs": {
         "2022-12-09": "- [[10x Technopreneurs]]",
         "Dilemmas of Technopreneur": "For [[10x Technopreneurs]], the [[Cost of Engineering]] is ...",
+        "Enginifounder": "- [[10x Technopreneurs]]",
         "Pieter Levels": "- [[10x Technopreneurs|10x Technopreneur]]"
     },
     "Exhalation": {
@@ -5107,7 +5109,7 @@ export const backlinks = {
         "심리역사학": "... 이루어갈 수 있도록 준비한다. 셀던 [[Project|계획]]의 핵심 개념은 심리역사학인데, 전 인류의 ...",
         "어둠의 앱스토어": "Someday [[Project]]",
         "역사의 집대성": "... 하나의 기록소 안에 모두 집대성하는 [[Project|프로젝트]]이다.",
-        "조선왕조실록": "Someday|언젠가 [[Project|프로젝트]]. ",
+        "조선왕조실록": "Someday|언젠가 [[Project|프로젝트]].",
         "코드클럽": "... 세계에서 인증한 만국 공통 코드클럽 [[Project|프로젝트]] 커리큘럼으로 활동",
         "프로젝트 어덕행덕": "- 텐션이 많이 떨어지고 있다. [[Project|프로젝트]]가 점점 장기화되어가며 활력을 잃어간다. 너무 ...",
         "프로젝트 주령구": "Someday|언젠가 [[Project|프로젝트]].",
@@ -6416,7 +6418,7 @@ export const backlinks = {
     "誠鉉": {
         "2024-04-14": "- [[誠鉉]]",
         "Time-Space Continuum (19誠鉉)": "... 경험들이 유기적으로 연동되어 지속적인 환기와 [[誠鉉|메타인지]]를 일으켜야만 그 영적 성장에서 연결점을 ...",
-        "내가 만든": "[[誠鉉]]",
+        "내가 만든": "- [[誠鉉]]",
         "시간 횡령 (12誠鉉)": "지금으로부터 꽤 오래 전, 그러니까 12[[誠鉉]] 시절부터 고안한 사고 프레임워크가 하나 ..."
     },
     "jscpd": {
@@ -7073,6 +7075,7 @@ export const backlinks = {
     "Vocab": {
         "Aesthete": "... beautiful stuff—incredibly exquisite mechanical property. [[vocab]]",
         "Cantankerous": "[[vocab]]",
+        "Enginifounder": "Enginifounder is a [[Vocab]] that I [[내가 만든|coined]] because ...",
         "Esoteric": "[[Vocab]]",
         "Flamboyant": "- [[vocab]]. Flamboyant is an adjective to ...",
         "Frivolous": "[[vocab]]",
@@ -7618,7 +7621,8 @@ export const backlinks = {
     },
     "Dilemmas of Technopreneur": {
         "2022-12-09": "- [[Dilemmas of Technopreneur]]",
-        "Antipreneur": "- [[Dilemmas of Technopreneur]]. 하지만 기술 중독에 걸리지 않도록 ..."
+        "Antipreneur": "- [[Dilemmas of Technopreneur]]. 하지만 기술 중독에 걸리지 않도록 ...",
+        "Enginifounder": "- [[Dilemmas of Technopreneur]]"
     },
     "미래는 결국 미성숙한 우리가 만들어낸다": {
         "2023-02-21": "- [[미래는 결국 미성숙한 우리가 만들어낸다]]",
@@ -7777,8 +7781,7 @@ export const backlinks = {
         "Project Ganymede": "- [[Send Separately]]"
     },
     "The U.S. is Homelander": {
-        "2024-02-26": "- [[The U.S. is Homelander]]",
-        "Watchings": "- The Boys [[The U.S. is Homelander]]"
+        "2024-02-26": "- [[The U.S. is Homelander]]"
     },
     "Neo ArXiv": {
         "2023-08-18": "- [[Neo ArXiv]]",
@@ -9411,6 +9414,7 @@ export const backlinks = {
         "2023-08-31": "- [[Watchings]]",
         "2023-10-12": "- [[Watchings]]",
         "2024-03-25": "- [[Watchings]]",
+        "2024-04-16": "[[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]]."
     },
     "박스상자 (12誠鉉)": {
@@ -10404,6 +10408,9 @@ export const backlinks = {
     "Python Multiprocessing": {
         "2023-11-02": "[[Python Multiprocessing]]"
     },
+    "Limitless Day One Review": {
+        "2024-04-15": "- [[Limitless Day One Review]]"
+    },
     "Small yet Powerful": {
         "10x": "- [[Small yet Powerful]]",
         "10x Technologist": "... an exceptionally skilled and productive, [[small yet powerful]] group of software developers. It ...",
@@ -10512,7 +10519,7 @@ export const backlinks = {
         "사회과부도": "[[Someday]] [[Project]]. 마음대로 변형을 가할 수 ...",
         "어둠의 앱스토어": "[[Someday]] [[Project]]",
         "원하는 곳만 전자레인지": "[[Someday]]",
-        "조선왕조실록": "[[Someday|언젠가]] [[Project|프로젝트]]. ",
+        "조선왕조실록": "[[Someday|언젠가]] [[Project|프로젝트]].",
         "프로젝트 주령구": "[[Someday|언젠가]] [[Project|프로젝트]]."
     },
     "Feature": {
@@ -11729,6 +11736,9 @@ export const backlinks = {
     },
     "Stale While Revalidate": {
         "2023-10-26": "- [[Stale While Revalidate]]"
+    },
+    "Enginifounder": {
+        "2024-04-15": "- [[Enginifounder]]"
     },
     "Mathematic Programming": {
         "2022-09-05": "- [[Mathematic Programming]]",
@@ -14619,6 +14629,39 @@ export const backlinks = {
     },
     "Rickard": {
         "Letter to Mr. Matt Rickard on 2022-11-28": "Dear Mr. [[Rickard]],"
+    },
+    "73965E.jpg": {
+        "Limitless Day One Review": "![[73965E.jpg]]"
+    },
+    "576823.jpg": {
+        "Limitless Day One Review": "![[576823.jpg]]"
+    },
+    "239EE1.jpg": {
+        "Limitless Day One Review": "![[239EE1.jpg]]  "
+    },
+    "324D32.jpg": {
+        "Limitless Day One Review": "![[324D32.jpg]]"
+    },
+    "C68C62.jpg": {
+        "Limitless Day One Review": "![[C68C62.jpg]]"
+    },
+    "B91AA5.jpg": {
+        "Limitless Day One Review": "![[B91AA5.jpg]]  "
+    },
+    "22D369.jpg": {
+        "Limitless Day One Review": "![[22D369.jpg]]"
+    },
+    "9A10B9.jpg": {
+        "Limitless Day One Review": "![[9A10B9.jpg]]"
+    },
+    "AEB7B5.jpg": {
+        "Limitless Day One Review": "![[AEB7B5.jpg]]"
+    },
+    "FB7F8B.jpg": {
+        "Limitless Day One Review": "![[FB7F8B.jpg]]"
+    },
+    "8BEE60.png": {
+        "Limitless Day One Review": "![[8BEE60.png]]"
     },
     "30E62A.png": {
         "Real Interviews": "![[30E62A.png]]"
