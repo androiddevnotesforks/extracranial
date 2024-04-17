@@ -2440,6 +2440,7 @@ export const backlinks = {
         "2023-11-06": "- [[Project Naroo|Heimdall]]",
         "2023-11-28": "- [[Project Naroo]]의 이름은 naroo.ai로 하기로 했다. 나루.",
         "2023-12-23": "- [[Project Naroo]]",
+        "FireCrawl": "Crawler, potentially [[Project Naroo]]",
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Naroo]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Naroo]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Naroo]].",
@@ -3197,7 +3198,7 @@ export const backlinks = {
         "Super App is a Universal Chat App": "- [[Twitter]], [[Facebook]], [[Instagram]], and Snapchat cannot ...",
         "Threads (Service)": "- People I follow on [[Twitter]] are not my high school ...",
         "Universal Chat App": "... proposed by Jack Dorsey from [[Twitter]], but after the [[Musk-Twitter Incident]], ...",
-        "lovearc.net": "1. practice with [[Twitter]] scraping technologies",
+        "lovearc.net": "1. practice with [[Twitter]] [[Crawler|scraping]] technologies",
         "유난한 도전": "... 약간의 입질이 오자 홈페이지를 열고 [[Twitter|트위터]]에 링크를 올리니 반응이 확실했다."
     },
     "SVG": {
@@ -4695,6 +4696,18 @@ export const backlinks = {
     "Regulation of Fake News": {
         "2022-12-28": "- [[Regulation of Fake News]]"
     },
+    "Crawler": {
+        "2024-01-16 Search Engine": "## Web [[Crawler|Crawling]] Issues",
+        "AIs.txt": "... language and cannot provide granular [[Crawler|scraping]] permissions depending on the collector.",
+        "CS572 Search Engines": "- [[Crawler]] (Spider): A program that traverses ...",
+        "Data Preservation": "### Metadata [[Crawler|Scraping]]",
+        "FireCrawl": "[[Crawler]], potentially [[Project Naroo]]",
+        "Headless": "... for automated testing or web [[Crawler|scraping]], as it can access and ...",
+        "Project Heimdall Initial Planning": "At Karrot, [[Crawler|scraping]] the news over the internet ...",
+        "QA.json": "... and periodically updated. The AI [[crawler]] should be designed to interpret ...",
+        "lovearc.net": "1. practice with Twitter [[Crawler|scraping]] technologies",
+        "데이터베이스권": "... 정보 플랫폼 직방이 \"스타트업 방픽이 '[[Crawler|크롤링]] ([[Crawler|crawling]]·자동으로 웹사이트 정보 수집 및 ..."
+    },
     "Why Korean Banks Suck": {
         "2023-01-09": "- [[Why Korean Banks Suck]]",
         "2023-02-20": "- [[Why Korean Banks Suck]]",
@@ -5116,6 +5129,9 @@ export const backlinks = {
         "하늘땅사람": "... 할 수 있도록 키보드를 제작하는 [[Project|프로젝트]]. [[Done]].",
         "하늘땅사람 개발 기록": "활자 [[Project|프로젝트]]에 대해 이성광 님께서 \"NFD로 문자열 ...",
         "한국통사": "... 있게 분투하는 기개가 없어 모든 [[Project|사업]]이 위축되고, 산을 옮길 [[Project|계획]]을 감행하지 ..."
+    },
+    "FireCrawl": {
+        "2024-04-16": "- [[FireCrawl]]"
     },
     "Vicarious": {
         "Automattic의 Beeper 인수": "Learning [[Vicarious|Vicariously]]라는 것 또한 인상 깊다."
@@ -6141,7 +6157,7 @@ export const backlinks = {
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "... United States of America|미국의 기업들을 [[서울]]로 유치하기 위해 적극 투자\b한다.",
         "개성은 쟁취하는 것": "[[서울]]도 하루아침에 이루어지지 않았습니다.",
         "공기 청정 비행선": "[[서울]]의 공기는 최악이다.",
-        "데이터베이스권": "- [[서울]]중앙지법 민사합의62부(부장 이영광)는 \"방픽은 크롤링으로 얻은 ...",
+        "데이터베이스권": "- [[서울]]중앙지법 민사합의62부(부장 이영광)는 \"방픽은 [[Crawler|크롤링]]으로 얻은 ...",
         "유난한 도전": "팀원들이 [[서울]] 각지로 흩어져 새로운 아이템을 찾아보기로 ...",
         "조선의 노비제도에 관한 보고": "[[서울]],",
         "퍼블리시티권": "- 대한민국|한국에서는 지난 1982년 [[서울]] 민사지방법원에서 본인의 동의 없이 사진을 ...",
@@ -6883,6 +6899,9 @@ export const backlinks = {
     "Backdrop Build Week 1 Update": {
         "2023-11-11": "- [[Backdrop Build Week 1 Update]]"
     },
+    "SOC 2": {
+        "2024-04-16": "- [[SOC 2]]"
+    },
     "WasmEdge": {
         "2022-11-30": "- [[WasmEdge]]",
         "Oneday": "- [[WasmEdge]]"
@@ -6908,7 +6927,7 @@ export const backlinks = {
     },
     "Metadata": {
         "Book Metadata as a Service": "... Open API that returns Book [[Metadata]] when given an ISBN.",
-        "Data Preservation": "### [[Metadata]] Scraping",
+        "Data Preservation": "### [[Metadata]] [[Crawler|Scraping]]",
         "Developing Review Notes for Obsidian": "`manifest.json`에는 다음과 같이 플러그인의 [[Metadata|메타데이터]]를 넣을 수 있다.",
         "Grammarly Work Note 2023-06-02": "... in our Datahouse and index [[metadata]]. Our system is built on ...",
         "Hive Metastore": "... is the central repository for [[Metadata]] within [[Apache Hive]]",
@@ -7000,7 +7019,7 @@ export const backlinks = {
         "Jira": "- Used at [[Karrot]]",
         "Karrot NX Team Mission Statement": "> [[Karrot|당근]]에 Notifications Experience 팀이라고 있는데요. 그런데 ...",
         "MAGI": "... Ensemble learning|앙상블 학습과 유사점이 많다. [[Karrot|당근]]에서 처음 알게 된 이 학습 ...",
-        "Project Heimdall Initial Planning": "At [[Karrot]], scraping the news over the ...",
+        "Project Heimdall Initial Planning": "At [[Karrot]], [[Crawler|scraping]] the news over the ...",
         "hn.cho.sh 개발 기록": "### [[Karrot|당근]] PM 론과의 대화",
         "당근미니 케이스 스터디": "[[Karrot|당근]][[Mini App|미니]] Console [[Case Study|케이스 스터디]]",
         "도로명주소": "이에 대해서 [[Karrot|당근]]의 론께서 첨언을 해주셨는데, 확실히 해외에 ...",
@@ -11934,7 +11953,7 @@ export const backlinks = {
         "henrymakesapps": "4. Supabase. Offers an easy-to-use [[database]] with PostgreSQL and type-injected clients.",
         "hn.cho.sh 개발 기록": "- 결국 [[Database|DB]] 기반으로 옮겨가야하는 것은 맞다. SPA ...",
         "誠鉉": "이렇게 해야 내 개인 [[Database|DB]]에서 검색이 잘 되기 때문이다.",
-        "데이터베이스권": "... 크롤링 분쟁이 늘어나는 가운데 법원이 '[[Database|데이터베이스]] ([[Database|DB]]) 권' 침해에 대해 엄격하게 ...",
+        "데이터베이스권": "... Crawler|크롤링 분쟁이 늘어나는 가운데 법원이 '[[Database|데이터베이스]] ([[Database|DB]]) 권' 침해에 대해 엄격하게 ...",
         "잡스와 생존 편향 (19誠鉉)": "지식 탐색기는 거대한 네트워크 [[Database|데이터베이스]]에 하이퍼텍스트 방식으로 접근할 수 있으며 ...",
         "프로젝트 어덕행덕": "## Facial [[Database]]"
     },
