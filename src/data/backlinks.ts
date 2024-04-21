@@ -10620,7 +10620,7 @@ export const backlinks = {
         "2023-03-07": "- [[Gaussian Integral]]"
     },
     "YC에 지원하지 말아야 할 이유": {
-        "2024-04-21": "[[YC에 지원하지 말아야 할 이유]]"
+        "2024-04-21": "- [[YC에 지원하지 말아야 할 이유]]"
     },
     "Dynamic Island": {
         "2022-09-30": "### [[Dynamic Island]] Concepts for Desktops",
