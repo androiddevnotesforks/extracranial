@@ -1999,6 +1999,9 @@ export const backlinks = {
     "Automemoji": {
         "2023-03-28": "- [[Automemoji]]"
     },
+    "전화교환원": {
+        "2024-04-23": "- [[전화교환원]]"
+    },
     "Coding Tests": {
         "2022-06-06": "- [[Coding Tests]] questions - Grind 75 - ...",
         "2022-07-02": "- Let's start from [[Coding Tests]] starting next week.",
@@ -2441,6 +2444,7 @@ export const backlinks = {
         "2023-11-28": "- [[Project Naroo]]의 이름은 naroo.ai로 하기로 했다. 나루.",
         "2023-12-23": "- [[Project Naroo]]",
         "FireCrawl": "Crawler, potentially [[Project Naroo]]",
+        "HN Broadcast": "maybe [[Project Naroo]]",
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Naroo]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Naroo]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Naroo]].",
@@ -3474,6 +3478,9 @@ export const backlinks = {
         "2022-11-04": "- [[Caching]]",
         "Cache Conscious Programming": "... due to the way of [[caching]]",
         "Computer Systems": "- [[Caching]]"
+    },
+    "HN Broadcast": {
+        "2024-04-23": "- [[HN Broadcast]]"
     },
     "Did Bondee Really Suddenly Rise": {
         "2023-02-12": "- [[Did Bondee Really Suddenly Rise]]",
@@ -5038,6 +5045,7 @@ export const backlinks = {
         "GitHub": "... integration, and wikis for every [[project]]. Headquartered in California, it has ...",
         "Goongoom": "- Side startup [[project]] that never made it to ...",
         "Guestbook": "- Someday [[Project]]",
+        "HN Broadcast": "Someday [[Project]]",
         "Habit Together": "Someday [[Project]]. An habit making app but ...",
         "HealthKit as an API": "Someday [[Project]].",
         "Intracranial": "Someday [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
@@ -5065,6 +5073,7 @@ export const backlinks = {
         "PineApple Pay": "Someday [[Project]].",
         "Power Nap Pill": "Someday [[Project]].",
         "Problem": "Leads to a Someday [[Project]].",
+        "Programmable Vaccines": "Someday [[Project]]",
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project Florence": "- [[Project]] Florence is a research [[project]] ...",
         "Project Ganymede": "- Therefore, we name it [[Project]] Ganymede. You can NEVER win ...",
@@ -5083,6 +5092,7 @@ export const backlinks = {
         "Repeated Designs": "> Weekend side [[project]]. A gallery of the best ...",
         "Research Paper NPM System": "Someday [[Project]]. It's an [[npm]] system for ...",
         "Robert Oppenheimer and Jiro Horikoshi": "... scientific team of the Manhattan [[Project]], which developed the first atomic ...",
+        "Satori Widgets": "Someday [[Project]]",
         "Send Separately": "Someday [[Project]]. \"Send Separately\" for [[iMessage]].",
         "Show me your Laptop": "Someday [[Project]]. And embeddable [[SVG]] card that ...",
         "Snowpack으로 WASM 시작하기": "... 다음 문장을 통해 `create-snowpack-app`으로 gif-converter라는 [[Project|프로젝트]]를 생성한다.",
@@ -5091,6 +5101,7 @@ export const backlinks = {
         "Synonym-based Fuzzy Search": "Someday [[Project]]. Fuzzy Search + Synonym Search ...",
         "Tailwind CSS 톺아보기": "## [[Project|프로젝트]] 목표",
         "Tech Now Pay Later": "... Database|DB to use for your [[project]] and/or if it scales – ...",
+        "TextGPT": "Someday [[Project]]",
         "Timebelt": "Someday [[Project]]. Timezone conversion with Absolute [[URI]].",
         "Titanium Calculator": "Someday [[Project]]. TI84의 기능을 최대한 모방해 최대한 ...",
         "Tools Must Vanish": "... the launching-off point of a [[project]]—is drowned in an ocean of ...",
@@ -5243,6 +5254,9 @@ export const backlinks = {
         "Tools Must Vanish": "... the Zettelkasten of the next [[Vannevar Bush]]; it's always a setup with ...",
         "Towards Ambient Computing": "In 1945, American scientist [[Vannevar Bush]] developed a concept called the ...",
         "앰비언트 컴퓨팅을 향해": "... United States of America|미국의 과학자 [[Vannevar Bush|버니바 부시]]는 자신의 에세이 As You May ..."
+    },
+    "Menu Bar Spacing": {
+        "2024-04-23": "- [[Menu Bar Spacing]]"
     },
     "Era of Invites": {
         "2023-02-05": "- [[Era of Invites]]",
@@ -5415,6 +5429,9 @@ export const backlinks = {
     },
     "Limit Access for Photos": {
         "WWDC23": "- [[Limit Access for Photos]]. New photo picker component"
+    },
+    "Satori Widgets": {
+        "2024-04-23": "- [[Satori Widgets]]"
     },
     "시간 횡령 (12誠鉉)": {
         "2024-04-14": "- [[시간 횡령 (12誠鉉)]]"
@@ -6308,6 +6325,10 @@ export const backlinks = {
         "Coding Tests": "- QuickSelect [[TODO]]",
         "Stable Alternative": "## [[TODO]]"
     },
+    "pun": {
+        "NRG": "[[pun]] of Energy",
+        "XLR8": "[[pun]] of accelerate"
+    },
     "Linux Commands": {
         "Internetworking": "- [[Linux Commands]]"
     },
@@ -6480,6 +6501,9 @@ export const backlinks = {
     "HTMX": {
         "2022-10-18": "- [[HTMX]]",
         "Front-end": "- [[HTMX]]"
+    },
+    "XLR8": {
+        "2024-04-23": "- [[XLR8]]"
     },
     "Ticket Bounty Model": {
         "2022-08-11": "- [[Ticket Bounty Model]]",
@@ -6743,6 +6767,9 @@ export const backlinks = {
     "Person CC8297": {
         "2022-09-13": "- [[Person CC8297]]",
         "Project PEOPLE": "- [[Person CC8297]]"
+    },
+    "Probe Server Errors": {
+        "2024-04-23": "- [[Probe Server Errors]]"
     },
     "Project PIRI": {
         "2024-02-24": "- [[Project PIRI]]",
@@ -7118,6 +7145,7 @@ export const backlinks = {
         "Simian과 심미안": "Simian이라는 영어 [[Vocab|단어]]는 [[Simian|원숭이]], [[Simian|유인원]]을 뜻한다.",
         "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
         "Vicarious": "[[Vocab]]",
+        "pun": "[[Vocab]]",
         "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
         "과거의 영광 (16誠鉉-18誠鉉)": "... 있는 것일지도 모른다. 민사고에는 '내미'라는 [[Vocab|단어]]가 있다. '내신에 미친 사람'이라는 뜻이다. ...",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "... 정통적 의미로는 \"젠틀맨\"에 가장 가까운 [[Vocab|단어]]여야 하지만, 현대에 남아있는 이미지는 꽉 ...",
@@ -7145,7 +7173,12 @@ export const backlinks = {
     },
     "Ben 10": {
         "Alien X": "... in the animated television series \"[[Ben 10]]\". This form is part of ...",
-        "MAGI": "... 온 우주의 안건을 결정한다는 점에서 [[Ben 10]]의 [[Alien X]]와 비슷하기도 하다."
+        "MAGI": "... 온 우주의 안건을 결정한다는 점에서 [[Ben 10]]의 [[Alien X]]와 비슷하기도 하다.",
+        "NRG": "[[Ben 10]]",
+        "XLR8": "[[Ben 10]]"
+    },
+    "부적": {
+        "2024-04-23": "- [[부적]]"
     },
     "Diagram Labs": {
         "2022-12-16": "- [[Diagram Labs]]"
@@ -7219,6 +7252,9 @@ export const backlinks = {
     },
     "Y Combinator": {
         "2023-11-20": "- [[Y Combinator]]"
+    },
+    "NRG": {
+        "2024-04-23": "- [[NRG]]"
     },
     "Partition": {
         "Discrete Mathematics": "... is one part of the [[partition]]. Cut capacity $\\text{cap}(A, B) = ...",
@@ -8172,7 +8208,10 @@ export const backlinks = {
         "Cookies that Outlive Login Sessions": "[[Lesser Known Trick]].",
         "GitHub Admonition": "[[Lesser Known Trick]]",
         "Ignoring $ for copy-pasting online resources to terminal": "[[Lesser Known Trick]].",
+        "Menu Bar Spacing": "[[Lesser Known Trick]]",
         "Menu Hover Effects": "- Cool UIUX [[Lesser Known Trick]].",
+        "Probe Confidential Documents": "[[Lesser Known Trick]]",
+        "Probe Server Errors": "[[Lesser Known Trick]]",
         "Redirecting READMEs": "[[Lesser Known Trick]]. It's a symlink. [[How does ...",
         "Setting different images for Light & Dark mode": "[[Lesser Known Trick]]",
         "Smooth Cursor on VS Code": "[[Lesser Known Trick]]. Go to settings and turn ...",
@@ -9095,6 +9134,7 @@ export const backlinks = {
     },
     "한민족의 문화": {
         "깍두기": "[[한민족의 문화]]이다. 깍두기는 어릴 때의 놀이에서 자주 ...",
+        "부적": "[[한민족의 문화]]. 부적은 한국의 전통 문화에서 오랫동안 ...",
         "서낭당": "서낭당은 [[한민족의 문화]] 건축물로 마을의 수호신인 서낭신을 모신 ...",
         "솟대": "[[한민족의 문화]] 건축물로,",
         "장승": "[[한민족의 문화]] 건축물로,",
@@ -10396,8 +10436,14 @@ export const backlinks = {
         "BFCM": "... Stripe and Shopify showcased the [[Transactional Globe]]",
         "Better Aldehyde": "- [[Transactional Globe]]"
     },
+    "TextGPT": {
+        "2024-04-23": "- [[TextGPT]]"
+    },
     "Letter to Mr. Matt Rickard on 2022-11-28": {
         "Stable Alternative": "- [[Letter to Mr. Matt Rickard on 2022-11-28]]"
+    },
+    "Programmable Vaccines": {
+        "2024-04-23": "- [[Programmable Vaccines]]"
     },
     "Person A3BA1A": {
         "2022-11-25": "- [[Person A3BA1A]]",
@@ -10500,6 +10546,7 @@ export const backlinks = {
         "Fix Your Posture": "[[Someday]] [[Project]]. Small [[macOS]] application that ...",
         "Generative Open Graph": "[[Someday]] [[Project]]. [[Open Graph Image as ...",
         "Guestbook": "- [[Someday]] [[Project]]",
+        "HN Broadcast": "[[Someday]] [[Project]]",
         "Habit Together": "[[Someday]] [[Project]]. An habit making app ...",
         "HealthKit as an API": "[[Someday]] [[Project]].",
         "Intracranial": "[[Someday]] [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
@@ -10515,6 +10562,7 @@ export const backlinks = {
         "PineApple Pay": "[[Someday]] [[Project]].",
         "Power Nap Pill": "[[Someday]] [[Project]].",
         "Problem": "Leads to a [[Someday]] [[Project]].",
+        "Programmable Vaccines": "[[Someday]] [[Project]]",
         "Project FFMpeg for iPad": "- [[Someday]] [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project MAGI": "[[Someday]] [[Project]]. Use Multiple Artificial Generative ...",
         "Project Sillok": "[[Someday]] [[Project]].",
@@ -10522,10 +10570,12 @@ export const backlinks = {
         "Redactor for iPhone": "[[Someday]] [[Project]].",
         "Referral Share": "[[Someday]] [[Project]]. Referral Sharing Website for ...",
         "Research Paper NPM System": "[[Someday]] [[Project]]. It's an [[npm]] system ...",
+        "Satori Widgets": "[[Someday]] [[Project]]",
         "Send Separately": "[[Someday]] [[Project]]. \"Send Separately\" for [[iMessage]].",
         "Show me your Laptop": "[[Someday]] [[Project]]. And embeddable [[SVG]] card ...",
         "Sticker Party": "[[Someday]] [[Project]] GitHub README에 박을 수 ...",
         "Synonym-based Fuzzy Search": "[[Someday]] [[Project]]. Fuzzy Search + Synonym ...",
+        "TextGPT": "[[Someday]] [[Project]]",
         "Timebelt": "[[Someday]] [[Project]]. Timezone conversion with Absolute ...",
         "Titanium Calculator": "[[Someday]] [[Project]]. TI84의 기능을 최대한 모방해 ...",
         "Use Your Mac as your Bluetooth Speaker": "[[Someday]] [[Project]]",
@@ -11202,6 +11252,9 @@ export const backlinks = {
     },
     "Stirling Approximation": {
         "2023-01-26": "- [[Stirling Approximation]]"
+    },
+    "Probe Confidential Documents": {
+        "2024-04-23": "- [[Probe Confidential Documents]]"
     },
     "XUID": {
         "2022-11-29": "- UUIDs are Awesome. [[XUID]]?",
