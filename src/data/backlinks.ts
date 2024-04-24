@@ -9047,6 +9047,9 @@ export const backlinks = {
         "한반도": "한반도는 북쪽으로는 [[중국]], 북동쪽으로는 러시아와 국경을 접하고 있다.",
         "한자": "... many Korean words come from [[중국|Chinese]] roots, knowing Hanja can help ..."
     },
+    "Korea to Global by Kyum Kim": {
+        "2024-04-24": "- [[Korea to Global by Kyum Kim]]"
+    },
     "Differential Privacy": {
         "2023-04-19": "- [[Differential Privacy]]",
         "Daniele Romanini et al. PyVertical": "... techniques like decentralized identities and [[differential privacy]].",
@@ -9483,6 +9486,7 @@ export const backlinks = {
         "2023-10-12": "- [[Watchings]]",
         "2024-03-25": "- [[Watchings]]",
         "2024-04-16": "- [[Watchings]]",
+        "2024-04-24": "- [[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]]."
     },
     "박스상자 (12誠鉉)": {
@@ -11148,7 +11152,8 @@ export const backlinks = {
         "2023-12-26": "[[Playings]]",
         "2024-03-25": "- [[Playings]]",
         "2024-04-01": "- [[Playings]]",
-        "2024-04-11": "[[Playings]]"
+        "2024-04-11": "[[Playings]]",
+        "2024-04-24": "- [[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
