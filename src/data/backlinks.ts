@@ -3779,6 +3779,11 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "| 02-22 | 🇬🇧 [[In-house and Free Market]] <br/> 🇰🇷 [[인하우스와 자유경쟁]]  ...",
         "I travel the World Wide Web": "- [[In-house and Free Market]]"
     },
+    "Governance Model": {
+        "2024-04-26": "- [[Governance Model]]",
+        "Government as a Service": "- [[Governance Model]]",
+        "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "... 강력한 처벌을 기반으로 충당한다면 대한민국의 [[Governance Model|국가 경영 모델]]에 혁신을 가져올 수 있다. 이러한 ..."
+    },
     "Threads": {
         "2022-07-06": "... Concept|PoC that two WorkerDOM upgraded [[threads]] don't block each other - ...",
         "2023-02-16": "... memory when you spawn more [[threads]], and we cannot get full ...",
@@ -4585,6 +4590,9 @@ export const backlinks = {
     },
     "Jupyter": {
         "Deepnote": "- [[Jupyter]] compatible"
+    },
+    "Self-fulfilling Prophecy": {
+        "2024-04-25": "[[Self-fulfilling Prophecy]]"
     },
     "1290 Convert Binary Number in a Linked List to Integer": {
         "2022-09-25": "- [[1290 Convert Binary Number in a Linked List to Integer]]",
@@ -5830,7 +5838,7 @@ export const backlinks = {
         "United States of America": "[[American]]",
         "Vannevar Bush": "... June 28, 1974) was an [[American]] engineer, inventor, and science administrator ...",
         "Veil of Ignorance": "... a thought experiment introduced by [[American]] philosopher John Rawls in his ...",
-        "Vercel": "... , formerly Zeit, is an [[American]] cloud platform as a service ...",
+        "Vercel": "... Inc., formerly Zeit, is an [[American]] cloud platform as a service ...",
         "Wikipedia": "... by the Wikimedia Foundation, an [[American]] non-profit organization funded mainly through ...",
         "Y Combinator": "... Y Combinator (YC) is an [[American]] technology startup accelerator launched in ...",
         "너 주식 해": "... 흔하지 않다는 것이다. 몇 가지 [[American|미국인]]들에 대한 관찰:",
@@ -6864,6 +6872,16 @@ export const backlinks = {
     "Probability Of Queueing (Internetworking)": {
         "Internetworking": "- [[Probability Of Queueing (Internetworking)]]"
     },
+    "Thought Experiment": {
+        "2024-04-26": "- [[Thought Experiment]]",
+        "ChatGPT is a Blurry JPEG and We Need That": "... I once did an exciting [[thought experiment]] where I visualized the calendar ...",
+        "Government as a Service": "- [[Thought Experiment]]",
+        "Nuclear Fusion Molecule 3D Printer": "[[Thought Experiment]]",
+        "Super App is a Universal Chat App": "- [[Thought Experiment]]",
+        "Veil of Ignorance": "... \"veil of ignorance\" is a [[thought experiment]] introduced by [[American]] philosopher John ...",
+        "네오상평통보": "[[Thought Experiment]]",
+        "원하는 곳만 전자레인지": "[[Thought Experiment]]"
+    },
     "After Steve": {
         "2023-05-06": "[[After Steve]]를 읽고 있는데"
     },
@@ -7336,7 +7354,8 @@ export const backlinks = {
     },
     "Color Palette": {
         "2022-06-14": "- [[Color Palette]]",
-        "2023-02-04": "- [[Color Palette]]"
+        "2023-02-04": "- [[Color Palette]]",
+        "2024-04-25": "- [[Color Palette]]"
     },
     "API Economy": {
         "2022-10-27": "- [[API Economy]]",
@@ -11009,6 +11028,9 @@ export const backlinks = {
         "2022-07-11": "Candidates include [[MessagePack]] and [[CBOR]].",
         "CBOR": "... Compact Data Exchange Format like [[MessagePack]]."
     },
+    "Government as a Service": {
+        "2024-04-26": "- [[Government as a Service]]"
+    },
     "Social Network Service": {
         "Jumpsite": "... a collective term for a [[Social Network Service]] mainly consisting of links to ..."
     },
@@ -14110,6 +14132,9 @@ export const backlinks = {
     },
     "68B2D8.png": {
         "Color Palette": "![[68B2D8.png]]"
+    },
+    "4A49B0.png": {
+        "Color Palette": "![[4A49B0.png]]"
     },
     "B4D18F.png": {
         "Texts (Service)": "![[B4D18F.png]]"
