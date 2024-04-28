@@ -6333,6 +6333,9 @@ export const backlinks = {
         "Coding Tests": "- QuickSelect [[TODO]]",
         "Stable Alternative": "## [[TODO]]"
     },
+    "Swear Turing Test": {
+        "2024-04-27": "[[Swear Turing Test]]"
+    },
     "pun": {
         "NRG": "[[pun]] of Energy",
         "XLR8": "[[pun]] of accelerate"
@@ -6877,6 +6880,7 @@ export const backlinks = {
         "ChatGPT is a Blurry JPEG and We Need That": "... I once did an exciting [[thought experiment]] where I visualized the calendar ...",
         "Government as a Service": "- [[Thought Experiment]]",
         "Nuclear Fusion Molecule 3D Printer": "[[Thought Experiment]]",
+        "Programmable Vaccines": "[[Thought Experiment]]",
         "Super App is a Universal Chat App": "- [[Thought Experiment]]",
         "Veil of Ignorance": "... \"veil of ignorance\" is a [[thought experiment]] introduced by [[American]] philosopher John ...",
         "네오상평통보": "[[Thought Experiment]]",
@@ -10267,6 +10271,9 @@ export const backlinks = {
         "Automattic의 Beeper 인수": "Texts (Service) 그리고 [[Beeper]] 모두를 손에 넣었다.",
         "Universal Chat App": "- Matrix Network. Used by [[Beeper]]. Beeper aims to build a ..."
     },
+    "KRDS": {
+        "2024-04-28": "[[KRDS]]"
+    },
     "Cache Evictions": {
         "2022-11-04": "- [[Cache Evictions]]",
         "Caching": "- [[Cache Evictions]]",
@@ -10466,7 +10473,8 @@ export const backlinks = {
         "Stable Alternative": "- [[Letter to Mr. Matt Rickard on 2022-11-28]]"
     },
     "Programmable Vaccines": {
-        "2024-04-23": "- [[Programmable Vaccines]]"
+        "2024-04-23": "- [[Programmable Vaccines]]",
+        "2024-04-26": "- [[Programmable Vaccines]]"
     },
     "Person A3BA1A": {
         "2022-11-25": "- [[Person A3BA1A]]",
@@ -11146,6 +11154,9 @@ export const backlinks = {
         "Apache Kafka": "[[Apache]] Kafka is an open-source distributed ...",
         "Apache Spark": "[[Apache]] Spark is an open-source, distributed ...",
         "IntelliJ": "... and is available as an [[Apache]] 2 Licensed community edition and ..."
+    },
+    "von Neumann architecture": {
+        "Programmable Vaccines": "... vaccines are like computers before [[von Neumann architecture]]. i.e., you manually \"wire\" to ..."
     },
     "삼체": {
         "2023-06-28": "[[삼체]]",
@@ -14733,6 +14744,9 @@ export const backlinks = {
     },
     "57312D.png": {
         "Humane Ai Pin": "![[57312D.png]]"
+    },
+    "AAB58B.png": {
+        "KRDS": "![[AAB58B.png]]"
     },
     "97E77D.png": {
         "Sudo with Touch ID": "![[97E77D.png]]"
