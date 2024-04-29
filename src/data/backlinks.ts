@@ -1546,6 +1546,7 @@ export const backlinks = {
         "ARM Architecture": "- [[Computer Systems]]",
         "Base Frame Pointer": "- [[Computer Systems]]",
         "Buffer Overflow Attacks": "- [[Computer Systems]]",
+        "CS585 Database Systems": "... logically related data over interconnected [[computer systems]]",
         "Caching": "- [[Computer Systems]]",
         "Computer Science": "- [[Computer Systems]]",
         "Iron Law of Processor Performance": "- [[Computer Systems]]",
@@ -2497,6 +2498,7 @@ export const backlinks = {
     },
     "Rewind": {
         "2022-12-24": "- [[Rewind]] is [[GA]]",
+        "Limitless Day One Review": "Ideally I hope Limitless and [[Rewind]] merge into 1 product, because ...",
         "Search Engine Indexing Your Life": "## [[Rewind]]",
         "Towards Ambient Computing": "... the Rewind team released the [[Rewind]] pendant.",
         "앰비언트 컴퓨팅을 향해": "... Rewind 팀에서는 비슷한 기능을 하는 [[Rewind]] 팬던트를 공개했다."
@@ -3730,9 +3732,11 @@ export const backlinks = {
         "PyTorch": "... Torch library, primarily developed by [[Meta (Company)|Facebook]]'s [[AI]] Research lab (FAIR).",
         "React": "... components. It is maintained by [[Meta (Company)|Meta]] (formerly [[Facebook]]) and a community ...",
         "React Native": "... UIUX|UI software framework created by [[Meta (Company)|Meta]] Platforms, Inc. It is used ...",
+        "The Paradoxical Moon Philosophy": "... to that, Snapchat, Messenger, and [[Meta (Company)|Instagram]] are Mars, Mercury, or... any ...",
         "Threads (Service)": "... EU market with minimum regulations. [[Meta (Company)|FB]] will Meta (Company)|FB anyways, which ...",
         "Towards Ambient Computing": "... social media companies, such as [[Meta (Company)|Facebook]], employ teams to enhance the ...",
         "Universal Chat App": "1. WhatsApp. Owned by [[Meta (Company)|Facebook]], WhatsApp is a free messaging ...",
+        "민사고 앱": "... 경쟁적 서비스를 출시해서 KMLA Online과 [[Meta (Company)|페이스북]] 그룹들의 입지를 전략적 Overtake하려는 계획에까지 ...",
         "앰비언트 컴퓨팅을 향해": "... 또한 가치 중립적이지 않은 영역이다. [[Meta (Company)|페이스북]] 등의 SNS 팀에는 제품을 더 ..."
     },
     "Optimistic Nihilism": {
@@ -4450,6 +4454,7 @@ export const backlinks = {
     },
     "Meta": {
         "2023-07-06": "- [[Meta]]",
+        "Attention Settings": "... data points, and years of [[meta]]-data on every user, social media ...",
         "Engine Equation": "... universe is a type of [[meta]]-[[engine]] that operates on the collective ...",
         "Letter to Mr. Matt Rickard on 2022-11-28": "... this goal? Any ideas or [[meta]]-ideas that come to your mind?",
         "Meta Meta Framework": "- [[Meta]] Framework: Next.js, Blitz",
@@ -5363,6 +5368,7 @@ export const backlinks = {
     "Spirits do not Inherit": {
         "2023-02-25": "- [[Spirits do not Inherit]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-25 | 🇬🇧 [[Spirits do not Inherit]] <br/> 🇰🇷 [[개성은 쟁취하는 것]] ...",
+        "誠鉉": "- [[Spirits do not Inherit]]",
         "딱 봐도 조성현": "- [[Spirits do not Inherit]]"
     },
     "GeoCheatCode": {
@@ -6772,6 +6778,7 @@ export const backlinks = {
         "Neo Block Economy": "- The father of [[대만|Taiwan]]'s chip industry said geopolitics have ...",
         "Sudden Rise of Bondee": "... crazy in 대한민국|Korea, 일본|Japan, Singapore, [[대만|Taiwan]], etc., ranking #1 in the ...",
         "Universal Chat App": "... is widely used in 일본|Japan, [[대만|Taiwan]], and Thailand. In addition to ...",
+        "기술 유출": "미국은 징역 33년, [[대만]]은 징역 12년에 40억원 상당의 벌금을 ...",
         "젠리의 성공 공식": "... 안에 전교생이 사용한다는 것을 관찰했다. [[대만]] 대학에 유학 간 [[일본]] 학생들로부터 ...",
         "혜성처럼 나타난 본디": "Bondee|본디는 대한민국|한국, 일본, Singapore|싱가포르, [[대만|타이완]] 등에서 [[App Store|앱스토어]] 1위를 하며 ..."
     },
@@ -7369,7 +7376,7 @@ export const backlinks = {
         "2023-01-31": "Got Invited to [[Texts (Service)]]",
         "Automattic의 Beeper 인수": "[[Texts (Service)]] 그리고 [[Beeper]] 모두를 손에 넣었다.",
         "Beeper": "An alternative to [[Texts (Service)]]. A better approach with [[iMessage]], ...",
-        "Love Software": "- (Fiercely Overpriced|paywalled) [[Texts (Service)]]",
+        "Love Software": "- (Fiercely Overpriced|paywalled) [[Texts (Service)]] and [[Beeper]]",
         "One and Only (Social App)": "Like [[Texts (Service)]], it pulls from all the ...",
         "One and only": "[[Texts (Service)]] aims to be the one ..."
     },
@@ -7419,9 +7426,11 @@ export const backlinks = {
         "2022-11-19": "  - [[Shortcuts]]",
         "Autosave Everything": "... autosave intervals or setting different [[shortcuts]] for each app.",
         "ChatGPT": "... voice assistant built entirely with [[Shortcuts]]",
+        "Chrome": "... your most frequently visited places, [[shortcuts]] to your favorite places, and ...",
         "Locking your Mac with Command+L": "2. Go to Keyboard → [[Shortcuts]] → App Shortcuts and press ...",
         "Project Ganymede": "In iOS 17, [[Shortcuts]] can send [[Text Message|messages]] without ...",
         "Visual Studio Code": "... can change the theme, keyboard [[shortcuts]], preferences, and install extensions that ...",
+        "WWDC23": "... → Can be used as [[Shortcuts]] and Siri commands",
         "sssss": "Supersedes [[Shortcuts]]"
     },
     "알람 시계의 9분 스누즈": {
@@ -7952,7 +7961,6 @@ export const backlinks = {
         "새로운 부동산은 지적 재산이다": "일본 기업과 투자자들은 1980년대 [[Economy|경제]] 호황기에 많은 현금을 보유하고 있었으며 ...",
         "서당개 3년이면 풍월을 읊는다": "... 것이다. 나는 그 이유를 건강한 [[Economy|경제]]라고 보았다. 공부는 원래 돈 받고 ...",
         "심리역사학": "심리역사학의 핵심 개념들이 [[Economy|경제]]학과 사회학에 영향을 준 사실도 흥미롭다. ...",
-        "엔진 방정식": "- [[Economy|경제]]는 노동, 자본, 천연자원, 시간 등의 ...",
         "원숭이와 꽃신": "- Microsoft|마이크로소프트도 이런 'Simian|원숭이 꽃신 [[Economy|경제]]학'에 충실한 기업이다. Microsoft|마이크로소프트는 대학을 상대로 ...",
         "월급만큼 중요한 것은 자존급이다": "거래를 거듭할수록 사회는 자존급 [[Economy|경제]]위기를 맞게 될 것이다.",
         "의료 인공지능과 의대 쏠림": "어떤 인위적인 제약이 아닌 자연적, [[Economy|경제]]적 원리로 그렇게 되게끔 만들어야 한다.",
@@ -8193,7 +8201,7 @@ export const backlinks = {
         "Jetski": "- [[fiercely overpriced]]. time limit for recording. watermarks?",
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "... build it one day and [[Fiercely Overpriced|paywall]] it to install more than ...",
         "Letter to the Heptabase Team on 2022-10-11": "... considering there is still a [[Fiercely Overpriced|paywall]] upfront. However, I would love ...",
-        "Love Software": "- ([[Fiercely Overpriced|paywalled]]) [[Texts (Service)]]",
+        "Love Software": "- ([[Fiercely Overpriced|paywalled]]) [[Texts (Service)]] and [[Beeper]]",
         "Open Graph Image as a Service": "## How would it be [[Fiercely Overpriced]]?",
         "sem.sh": "... Your data, your own (no [[Fiercely Overpriced|paywall]] if self-hosted)"
     },
@@ -10269,6 +10277,7 @@ export const backlinks = {
     "Beeper": {
         "2023-05-18": "- [[Beeper]]",
         "Automattic의 Beeper 인수": "Texts (Service) 그리고 [[Beeper]] 모두를 손에 넣었다.",
+        "Love Software": "... (Fiercely Overpriced|paywalled) Texts (Service) and [[Beeper]]",
         "Universal Chat App": "- Matrix Network. Used by [[Beeper]]. Beeper aims to build a ..."
     },
     "KRDS": {
@@ -11992,6 +12001,7 @@ export const backlinks = {
     "딱 봐도 조성현": {
         "2023-03-03": "- [[딱 봐도 조성현]]",
         "Spirits do not Inherit": "... to hear is, \"This is [[딱 봐도 조성현|obviously Sunghyun]], hahaha.\"",
+        "誠鉉": "- [[딱 봐도 조성현]]",
         "개성은 쟁취하는 것": "... 가장 듣기 좋아하는 말도 「이건 [[딱 봐도 조성현]] ㅋㅋㅋㅋ」 이라는 말이었습니다."
     },
     "Grammarly Work Note 2023-05-30": {
