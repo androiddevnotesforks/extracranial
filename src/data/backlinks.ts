@@ -1076,6 +1076,9 @@ export const backlinks = {
         "2023-01-13": "- [[Solar]]",
         "Clean Energy": "- [[Solar]]"
     },
+    "Obsidian 과거의 오늘": {
+        "2024-04-29": "- [[Obsidian 과거의 오늘]]"
+    },
     "RoughNotation": {
         "2023-12-23": "- [[RoughNotation]]"
     },
