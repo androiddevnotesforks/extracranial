@@ -1489,7 +1489,7 @@ export const backlinks = {
     },
     "Markdown": {
         "2022-07-09": "... plugin for converting wikilinks to [[Markdown]] links. For example, this is ...",
-        "ContentLayer": "... your content data (such as [[Markdown]] files or CMS) into type-safe ...",
+        "ContentLayer": "... your content data (such as [[Markdown]] files or [[CMS]]) into type-safe ...",
         "Inliner": "... and reading experience by utilizing [[Markdown]]'s strict line change mode.",
         "Letter to the Heptabase Team on 2022-10-11": "- [[Markdown]]-Wikilink import/export",
         "Logseq": "... on top of local plain-text [[Markdown]] and Org-mode files. Use it ...",
@@ -6347,7 +6347,8 @@ export const backlinks = {
         "Stable Alternative": "## [[TODO]]"
     },
     "Swear Turing Test": {
-        "2024-04-27": "[[Swear Turing Test]]"
+        "2024-04-27": "[[Swear Turing Test]]",
+        "2024-04-29": "- [[Swear Turing Test]]"
     },
     "pun": {
         "NRG": "[[pun]] of Energy",
@@ -8623,7 +8624,7 @@ export const backlinks = {
     "Headless": {
         "2023-04-19": "- [[Headless]]",
         "Ghost 테마를 자동 배포하는 방법": "... AWS에 호스팅하여 사용한다. Ghost CMS는 [[Headless|헤드리스]]하다. 말 그대로 머리가 없다는 뜻으로, ...",
-        "Keystone.js": "## keystonejs/keystone: The most powerful [[headless]] CMS for Node.js — built ...",
+        "Keystone.js": "## keystonejs/keystone: The most powerful [[headless]] [[CMS]] for Node.js — built ...",
         "Oneday": "... Open Commerce is an API-first, [[headless]] commerce platform built using Node.js, ...",
         "Project Naroo": "... way to interact with a [[headless]] [[Web Browser|browser]] built in top ...",
         "Refine (Framework)": "... Ant Design, Chakra UI, Mantine, [[Headless]])",
@@ -9389,6 +9390,7 @@ export const backlinks = {
         "2023-07-25": "- [[Companies are Economic Organisms]]"
     },
     "코리안 르네상스": {
+        "네오 코리안 르네상스": "엄밀하게 이 문서에서 정의한 \"네오 [[코리안 르네상스]]\"는 아니지만, 그래도 한국적 문화 요소를 ...",
         "한국의 식민지 근대성": "## 신채호와 첫 [[코리안 르네상스]]"
     },
     "Databricks AI Summit 2023": {
@@ -10432,7 +10434,7 @@ export const backlinks = {
         "Cloud-Native": "... on cloud infrastructure, such as [[AWS]], instead of traditional [[on-premise]] infrastructure. ...",
         "Ethereum RPC as a Service": "... query data on the blockchain. [[AWS]] offers a similar product, AWS ...",
         "Fiercely Overpriced": "... of public cloud providers like [[AWS]] or Microsoft Azure to minimize ...",
-        "Ghost 테마를 자동 배포하는 방법": "... 블로그는 Ghost Content Management System을 [[AWS]]에 호스팅하여 사용한다. Ghost CMS는 [[Headless|헤드리스]]하다. ...",
+        "Ghost 테마를 자동 배포하는 방법": "... 블로그는 Ghost Content Management System을 [[AWS]]에 호스팅하여 사용한다. Ghost [[CMS]]는 [[Headless|헤드리스]]하다. ...",
         "Grammarly Work Note 2023-05-30": "- Utilization of Cheaper [[AWS]] Instances. [[Grammarly Experimentations Team]] plans ...",
         "Heimdall Bogus Subscribers Attack Incident": "... I got a warning from [[AWS]]. A competitor in the space?",
         "Is AWS a Dumb Pipe": "- Will [[AWS]] follow its track?",
@@ -11095,6 +11097,16 @@ export const backlinks = {
     "Google Pizza Box": {
         "2024-01-16 Search Engine": "## [[Google Pizza Box]]",
         "Cohere Rerank": "[[Google Pizza Box]]"
+    },
+    "CMS": {
+        "2022-07-18": "... easy as SSH'ing into our [[CMS]], and publishing content is as ...",
+        "2024-04-29": "- [[CMS]]",
+        "ContentLayer": "... (such as Markdown files or [[CMS]]) into type-safe [[JSON]] data that ...",
+        "Displaying exact datetimes on Ghost": "If your Ghost [[CMS]] blog using Handlebars theme shows ...",
+        "Ghost 테마를 자동 배포하는 방법": "... System을 AWS에 호스팅하여 사용한다. Ghost [[CMS]]는 [[Headless|헤드리스]]하다. 말 그대로 머리가 없다는 ...",
+        "Ghost에서 외부 링크를 새로운 창에서 여는 방법": "Ghost [[CMS]]는 기본적으로 모든 외부 URL을 같은 ...",
+        "Keystone.js": "... keystonejs/keystone: The most powerful headless [[CMS]] for Node.js — built with ...",
+        "Self-hosted SaaS Alternatives": "... box: Hosting something through your [[CMS]] is a good idea. Ghost, ..."
     },
     "NewsGPT": {
         "2023-03-06": "- [[NewsGPT]]",
