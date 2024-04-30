@@ -3103,7 +3103,8 @@ export const backlinks = {
         "FFMpeg": "- ([[Remux]]ing, No \"Encoding\")"
     },
     "앎의 그릇": {
-        "2023-04-30": "- [[앎의 그릇]]"
+        "2023-04-30": "- [[앎의 그릇]]",
+        "2024-04-30": "- [[앎의 그릇]]"
     },
     "Stable Alternative": {
         "2022-10-03": "- [[Stable Alternative]]",
@@ -3694,7 +3695,8 @@ export const backlinks = {
         "Playings": "... from Mar 2023. Just like [[Readings]] and [[Watchings]].",
         "Sending Notifications on Chrome Extension": "## Additional [[Readings]]",
         "Storing sensitive data in iOS Apps": "## Advanced [[Readings]]",
-        "Watchings": "... from Feb 2023. Just like [[Readings]]"
+        "Watchings": "... from Feb 2023. Just like [[Readings]]",
+        "앎의 그릇": "- [[Readings]]"
     },
     "Architecture of Mastodon": {
         "Letter to Mr. Matt Rickard on 2022-12-21": "This is an reply to [[Architecture of Mastodon]]",
@@ -5689,7 +5691,7 @@ export const backlinks = {
         "2023-11-28": "- 산나비를 끝냈다. [[네오 코리안 르네상스]]의 표본을 본 것 같아 정말 ...",
         "2024-03-10": "- [[네오 코리안 르네상스]]",
         "2024-03-21": "[[네오 코리안 르네상스|Neokorean Renaissance]]",
-        "2024-04-30": "[[네오 코리안 르네상스]]",
+        "2024-04-30": "- [[네오 코리안 르네상스]]",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[네오 코리안 르네상스]]로 나아가기 위해선 김치, 엽전, 선비 ...",
         "코리안 르네상스": "- [[네오 코리안 르네상스]]"
     },
@@ -6898,12 +6900,14 @@ export const backlinks = {
         "2024-04-26": "- [[Thought Experiment]]",
         "ChatGPT is a Blurry JPEG and We Need That": "... I once did an exciting [[thought experiment]] where I visualized the calendar ...",
         "Government as a Service": "- [[Thought Experiment]]",
+        "MetroPunk": "[[Thought Experiment]]",
         "Nuclear Fusion Molecule 3D Printer": "[[Thought Experiment]]",
         "Programmable Vaccines": "[[Thought Experiment]]",
         "Super App is a Universal Chat App": "- [[Thought Experiment]]",
         "Veil of Ignorance": "... \"veil of ignorance\" is a [[thought experiment]] introduced by [[American]] philosopher John ...",
         "공기 청정 비행선": "[[Thought Experiment]]",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[Thought Experiment]]",
+        "내가 만든": "- [[Thought Experiment]]",
         "네오상평통보": "[[Thought Experiment]]",
         "소셜 엔지니어링 금지": "[[Thought Experiment]]",
         "원하는 곳만 전자레인지": "[[Thought Experiment]]",
@@ -9538,7 +9542,8 @@ export const backlinks = {
         "2024-03-25": "- [[Watchings]]",
         "2024-04-16": "- [[Watchings]]",
         "2024-04-24": "- [[Watchings]]",
-        "Playings": "... 2023. Just like Readings and [[Watchings]]."
+        "Playings": "... 2023. Just like Readings and [[Watchings]].",
+        "앎의 그릇": "- [[Watchings]]"
     },
     "박스상자 (12誠鉉)": {
         "2023-09-05": "- [[박스상자 (12誠鉉)]]",
@@ -11225,7 +11230,8 @@ export const backlinks = {
         "2024-03-25": "- [[Playings]]",
         "2024-04-01": "- [[Playings]]",
         "2024-04-11": "[[Playings]]",
-        "2024-04-24": "- [[Playings]]"
+        "2024-04-24": "- [[Playings]]",
+        "앎의 그릇": "- [[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
