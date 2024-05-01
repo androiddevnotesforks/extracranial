@@ -1519,6 +1519,9 @@ export const backlinks = {
         "이루다": "... 한겨레모바일 이루다 개발사, 10년 전부터 [[KakaoTalk|카톡]] 수집…최대 600만명 데이터",
         "일일일": "  - Ex) domain, [[kakaotalk]], website..."
     },
+    "Project Day One Exodus": {
+        "2024-04-30": "- [[Project Day One Exodus]]"
+    },
     "Yang Liu et al. Vertical Federated Learning": {
         "Project Florence Literature Review": "- [ ] [[Yang Liu et al. Vertical Federated Learning]]"
     },
@@ -11496,7 +11499,8 @@ export const backlinks = {
         "하늘땅사람 지원 문서": "[[하늘땅사람 업데이트 기록]]도 확인해보세요."
     },
     "Automattic": {
-        "2024-04-09": "- [[Automattic]]"
+        "2024-04-09": "- [[Automattic]]",
+        "Project Day One Exodus": "... One has stalled since the [[Automattic]]'s acquisition."
     },
     "Twitter Recommendation Algorithms": {
         "2023-07-24": "... to look into Lombok and [[Twitter Recommendation Algorithms]]."
