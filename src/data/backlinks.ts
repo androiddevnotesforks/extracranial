@@ -7464,7 +7464,8 @@ export const backlinks = {
         "Newtonian Correspondence": "... of Alarm Clocks <br/> `KO` [[알람 시계의 9분 스누즈]]      ..."
     },
     "CS585 Database Systems": {
-        "2024-03-03": "- [[CS585 Database Systems]]"
+        "2024-03-03": "- [[CS585 Database Systems]]",
+        "2024-04-30": "- [[CS585 Database Systems]]"
     },
     "Search-based Tools for Thought": {
         "LavaLab Cohort of Spring 2023": "[[Search-based Tools for Thought]] for Teams. Given you connect ...",
@@ -9911,6 +9912,9 @@ export const backlinks = {
         "LocLog": "[[Project Sillok]]",
         "Very Good Photo Backup Service": "[[Project Sillok]]",
         "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... 생각을 많이 합니다. 그래서 직접 [[Project Sillok|SaaS로 만들고 싶은데]] 공사 규모가 너~무 커서 그냥 ..."
+    },
+    "CS585 Final": {
+        "2024-04-30": "- [[CS585 Final]]"
     },
     "Translation Look-aside Buffers": {
         "2022-11-04": "- [[Translation Look-aside Buffers]]",
