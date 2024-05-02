@@ -521,6 +521,9 @@ export const backlinks = {
         "0383 Ransom Note": "Solved at: [[2023-01-28]]",
         "0409 Longest Palindrome": "Solved at: [[2023-01-28]]"
     },
+    "2024-05-02": {
+        "미국 이행 장치": "[[2024-05-02]]의 에세이."
+    },
     "2020-07-20": {
         "배달의민족 FE 개발자가 일하는 법 Q&A": "[[2020-07-20]]",
         "배달의민족 FE 개발자가 일하는 법 발표": "[[2020-07-20]]"
@@ -1966,6 +1969,7 @@ export const backlinks = {
     "Open Core Models": {
         "2024-02-28": "- [[Open Core Models]]",
         "2024-02-29": "- [[Open Core Models]]",
+        "2024-05-02": "... 엔젤 투자. 나는 그동안 항상 [[Open Core Models]]이 유일한 커뮤니티 상생법이라고 생각했는데 얘네처럼 ...",
         "Newtonian Correspondence": "| 02-28 | `EN` [[Open Core Models]] | Tweet |"
     },
     "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
@@ -2268,6 +2272,8 @@ export const backlinks = {
     },
     "Beehiiv": {
         "2023-02-21": "- [[Beehiiv]]",
+        "2024-05-02": "[[Beehiiv]]에 엔젤 투자했다. 첫 엔젤 투자. ...",
+        "TroyLabs Cohort of Fall 2023": "... - Long-form Restaurant Content (Like [[Beehiiv]], Medium)",
         "hn.cho.sh 개발 기록": "[[Beehiiv]]의 Referral 도구가 좋다고 하는데, 가장 ..."
     },
     "Svelte": {
@@ -2491,7 +2497,8 @@ export const backlinks = {
     "Web Graphics": {
         "2022-10-25": "- [[Web Graphics]]",
         "2022-10-27": "- [[Web Graphics]]",
-        "2022-11-12": "- Bubbles: [[Web Graphics]]"
+        "2022-11-12": "- Bubbles: [[Web Graphics]]",
+        "84-24": "[[Web Graphics]]"
     },
     "서울 프로": {
         "2022-08-01": "- [[서울 프로]]",
@@ -2613,10 +2620,6 @@ export const backlinks = {
     },
     "Unsemantic": {
         "2022-12-20": "- [[Unsemantic]]"
-    },
-    "역사의 종말 오류": {
-        "2023-03-16": "- [[역사의 종말 오류]]",
-        "Newtonian Correspondence": "... of History Fallacy <br/> `KO` [[역사의 종말 오류]]      ..."
     },
     "Use Apple GPU on PyTorch": {
         "2024-02-07": "- [[Use Apple GPU on PyTorch]]"
@@ -3767,6 +3770,9 @@ export const backlinks = {
         "Stable Alternative": "- salesforce/BLIP: [[PyTorch]] code for BLIP: Bootstrapping Language-Image ...",
         "Use Apple GPU on PyTorch": "... Acceleration (Metal Performance Shader) on [[PyTorch]]"
     },
+    "역사의 종말": {
+        "미국 이행 장치": "... 돌아와야만 해\"라고 결론 짓는 것이 [[역사의 종말]]인 것 같다. 어떤 형태로든 [[이행 ..."
+    },
     "Generative Pre-trained Transformer": {
         "2022-07-10": "- Uses [[Generative Pre-trained Transformer|GPT]] to convert the [[natural language]] ...",
         "2022-12-17": "... something made with LLM like [[Generative Pre-trained Transformer|GPT]] or [[Stable Diffusion]]... it just ...",
@@ -4303,6 +4309,9 @@ export const backlinks = {
     },
     "Tailwind CSS 톺아보기": {
         "2022-11-19": "  - [[Tailwind CSS 톺아보기]]"
+    },
+    "Programmatically Scroll": {
+        "2024-05-02": "- [[Programmatically Scroll]]"
     },
     "Grammarly Work Note 2023-06-27": {
         "2023-06-27": "- [[Grammarly Work Note 2023-06-27]]"
@@ -6343,6 +6352,9 @@ export const backlinks = {
         "2023-06-02": "- [[Grammarly Work Note 2023-06-02]]",
         "2023-06-16": "- [[Grammarly Work Note 2023-06-02]]"
     },
+    "이행 장치": {
+        "미국 이행 장치": "내가 미국으로 다시 강제로 돌아오도록 [[이행 장치]]를 설정해둘 수 있을까. 한국에서 전문연구요원을 ..."
+    },
     "Brian Lovin": {
         "2023-05-29": "- [[Brian Lovin]]"
     },
@@ -6898,26 +6910,6 @@ export const backlinks = {
     },
     "Probability Of Queueing (Internetworking)": {
         "Internetworking": "- [[Probability Of Queueing (Internetworking)]]"
-    },
-    "Thought Experiment": {
-        "2024-04-26": "- [[Thought Experiment]]",
-        "ChatGPT is a Blurry JPEG and We Need That": "... I once did an exciting [[thought experiment]] where I visualized the calendar ...",
-        "Government as a Service": "- [[Thought Experiment]]",
-        "MetroPunk": "[[Thought Experiment]]",
-        "Nuclear Fusion Molecule 3D Printer": "[[Thought Experiment]]",
-        "Programmable Vaccines": "[[Thought Experiment]]",
-        "Super App is a Universal Chat App": "- [[Thought Experiment]]",
-        "Veil of Ignorance": "... \"veil of ignorance\" is a [[thought experiment]] introduced by [[American]] philosopher John ...",
-        "공기 청정 비행선": "[[Thought Experiment]]",
-        "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[Thought Experiment]]",
-        "내가 만든": "- [[Thought Experiment]]",
-        "네오상평통보": "[[Thought Experiment]]",
-        "소셜 엔지니어링 금지": "[[Thought Experiment]]",
-        "원하는 곳만 전자레인지": "[[Thought Experiment]]",
-        "의료 인공지능과 의대 쏠림": "[[Thought Experiment]]",
-        "인공자궁": "[[Thought Experiment]]",
-        "코리안 르네상스": "- [[Thought Experiment]]",
-        "태백산맥 계획": "[[Thought Experiment]]"
     },
     "After Steve": {
         "2023-05-06": "[[After Steve]]를 읽고 있는데"
@@ -7750,7 +7742,7 @@ export const backlinks = {
         "2023-02-21": "- [[미래는 결국 미성숙한 우리가 만들어낸다]]",
         "30-Day Tweet Test (Harry Stebbings)": "... build the Future <br/> 🇰🇷 [[미래는 결국 미성숙한 우리가 만들어낸다]]      ...",
         "誠鉉": "- [[미래는 결국 미성숙한 우리가 만들어낸다]]",
-        "역사의 종말 오류": "... 또한 훗날의 중세가 됨을 기억하자. [[미래는 결국 미성숙한 우리가 만들어낸다]]."
+        "역사의 종말 오류 (에세이)": "... 또한 훗날의 중세가 됨을 기억하자. [[미래는 결국 미성숙한 우리가 만들어낸다]]."
     },
     "0059 Spiral Matrix II": {
         "2023-02-09": "- [[0059 Spiral Matrix II]]",
@@ -8098,7 +8090,7 @@ export const backlinks = {
         "과거의 영광 (16誠鉉-18誠鉉)": "... 전환에는 수많은 고통과 역경이 있었다. [[르네상스]]를 공부하며 비슷하게 복잡한 감정을 느꼈다.",
         "과학 기술의 메디치": "... 인간의 문명이 가장 찬란하게 빛나던 [[르네상스]] 시대는 흑사병의 잿더미에서 인류 스스로가 ...",
         "네오 코리안 르네상스": "... 위해선 한민족의 멸종 방어|네오 코리안 [[르네상스]]가 필요하다.",
-        "역사의 종말 오류": "... 주제 중 하나이다. 중세를 바라보는 [[르네상스]]적 관점과 르네상스를 바라보는 현대적 관점 ..."
+        "역사의 종말 오류 (에세이)": "... 주제 중 하나이다. 중세를 바라보는 [[르네상스]]적 관점과 르네상스를 바라보는 현대적 관점 ..."
     },
     "Open Graph Image as a Service": {
         "2022-07-10": "... and invest those time in [[Open Graph Image as a Service]].",
@@ -8265,11 +8257,13 @@ export const backlinks = {
         "Adding a Verified Mark on Apple Mail and Gmail": "- [[Lesser Known Trick]]",
         "Cookies that Outlive Login Sessions": "[[Lesser Known Trick]].",
         "GitHub Admonition": "[[Lesser Known Trick]]",
+        "Hacking SEOs": "[[Lesser Known Trick]] [[Someday]]",
         "Ignoring $ for copy-pasting online resources to terminal": "[[Lesser Known Trick]].",
         "Menu Bar Spacing": "[[Lesser Known Trick]]",
         "Menu Hover Effects": "- Cool UIUX [[Lesser Known Trick]].",
         "Probe Confidential Documents": "[[Lesser Known Trick]]",
         "Probe Server Errors": "[[Lesser Known Trick]]",
+        "Programmatically Scroll": "[[Lesser Known Trick]]",
         "Redirecting READMEs": "[[Lesser Known Trick]]. It's a symlink. [[How does ...",
         "Setting different images for Light & Dark mode": "[[Lesser Known Trick]]",
         "Smooth Cursor on VS Code": "[[Lesser Known Trick]]. Go to settings and turn ...",
@@ -8422,7 +8416,7 @@ export const backlinks = {
     },
     "End of History Fallacy": {
         "2023-03-16": "- [[End of History Fallacy]]",
-        "Newtonian Correspondence": "| 03-16 | `EN` [[End of History Fallacy]] <br/> `KO` [[역사의 종말 오류]] ..."
+        "Newtonian Correspondence": "| 03-16 | `EN` [[End of History Fallacy]] <br/> `KO` [[역사의 종말 오류 ..."
     },
     "K-Pop": {
         "2023-03-03": "- [[K-Pop]]",
@@ -9194,6 +9188,7 @@ export const backlinks = {
         "한국통사": "엄청난 [[Superbrain|지식인]]이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 ..."
     },
     "한민족의 문화": {
+        "금동대융합로": "[[한민족의 문화]]. [[성현적 발상]].",
         "깍두기": "[[한민족의 문화]]이다. 깍두기는 어릴 때의 놀이에서 자주 ...",
         "부적": "[[한민족의 문화]]. 부적은 한국의 전통 문화에서 오랫동안 ...",
         "서낭당": "서낭당은 [[한민족의 문화]] 건축물로 마을의 수호신인 서낭신을 모신 ...",
@@ -9223,6 +9218,25 @@ export const backlinks = {
     "Dijkstra": {
         "Internetworking": "- [[Dijkstra]]",
         "Project Core ML Foundation": "... Uniform Cost Search: Priority Queue. [[Dijkstra]] is a variant of UCS, ..."
+    },
+    "성현적 발상": {
+        "2024-04-26": "- [[성현적 발상]]",
+        "Government as a Service": "- [[성현적 발상]]",
+        "MetroPunk": "[[성현적 발상]]",
+        "Nuclear Fusion Molecule 3D Printer": "[[성현적 발상]]",
+        "Programmable Vaccines": "[[성현적 발상]]",
+        "Super App is a Universal Chat App": "- [[성현적 발상]]",
+        "공기 청정 비행선": "[[성현적 발상]]",
+        "금동대융합로": "한민족의 문화. [[성현적 발상]].",
+        "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[성현적 발상]]",
+        "내가 만든": "- [[성현적 발상]]",
+        "네오상평통보": "[[성현적 발상]]",
+        "소셜 엔지니어링 금지": "[[성현적 발상]]",
+        "원하는 곳만 전자레인지": "[[성현적 발상]]",
+        "의료 인공지능과 의대 쏠림": "[[성현적 발상]]",
+        "인공자궁": "[[성현적 발상]]",
+        "코리안 르네상스": "- [[성현적 발상]]",
+        "태백산맥 계획": "[[성현적 발상]]"
     },
     "SwiftData": {
         "WWDC23": "- [[SwiftData]]"
@@ -9553,6 +9567,9 @@ export const backlinks = {
         "2023-09-05": "- [[박스상자 (12誠鉉)]]",
         "誠鉉": "- [[박스상자 (12誠鉉)]]",
         "역사의 집대성": "- [[박스상자 (12誠鉉)]]"
+    },
+    "Hacking SEOs": {
+        "2024-05-02": "- [[Hacking SEOs]]"
     },
     "Reminder Tools": {
         "Tools for Thought": "- [[Reminder Tools]]"
@@ -9887,6 +9904,9 @@ export const backlinks = {
     "GitHub Package Manager": {
         "Matt Rickard": "- [[GitHub Package Manager]]"
     },
+    "84-24": {
+        "2024-05-02": "- [[84-24]]"
+    },
     "0015 3Sum": {
         "Coding Tests": "- [x] [[0015 3Sum]]"
     },
@@ -10004,6 +10024,9 @@ export const backlinks = {
         "Thesephist Work Case Study": "### Notation: [[Text-based Tools for Thought]] that automatically links",
         "Tools for Thought": "- [[Text-based Tools for Thought]]. the basic type of tools ..."
     },
+    "Upscale": {
+        "2024-05-02": "- [[Upscale]]"
+    },
     "Using System Haptics and Sounds in Swift": {
         "2023-01-22": "- [[Using System Haptics and Sounds in Swift]]"
     },
@@ -10054,6 +10077,9 @@ export const backlinks = {
         "Towards Ambient Computing": "... developed a concept called the [[Memex]] in his essay As You ...",
         "앰비언트 컴퓨팅을 향해": "... 기록들을 재빨리 불러올 수 있다면 [[Memex|메멕스]]를 통해 기억의 확장이자 증강으로 사용할 ...",
         "인하우스와 자유경쟁": "... 것이 더 쉬워져야 한다. 이 [[Memex]]는 그 생각의 한 걸음이다."
+    },
+    "금동대융합로": {
+        "2024-05-01": "[[금동대융합로]]"
     },
     "Ignoring $ for copy-pasting online resources to terminal": {
         "2022-09-12": "- [[Ignoring $ for copy-pasting online resources to terminal]]"
@@ -10477,6 +10503,9 @@ export const backlinks = {
     "Sigma Alpha": {
         "Probability": "- [[Sigma Alpha]]"
     },
+    "미국 이행 장치": {
+        "2024-05-02": "- [[미국 이행 장치]]"
+    },
     "Linux Device that keenly follows MacBook": {
         "2023-10-20": "- [[Linux Device that keenly follows MacBook]]"
     },
@@ -10620,6 +10649,7 @@ export const backlinks = {
         "Guestbook": "- [[Someday]] [[Project]]",
         "HN Broadcast": "[[Someday]] [[Project]]",
         "Habit Together": "[[Someday]] [[Project]]. An habit making app ...",
+        "Hacking SEOs": "Lesser Known Trick [[Someday]]",
         "HealthKit as an API": "[[Someday]] [[Project]].",
         "Intracranial": "[[Someday]] [[Project]]. [[Infinite Canvas]] for Zettlekasten.",
         "LocLog": "[[Someday]] [[Project]].",
@@ -11117,6 +11147,7 @@ export const backlinks = {
     "CMS": {
         "2022-07-18": "... easy as SSH'ing into our [[CMS]], and publishing content is as ...",
         "2024-04-29": "- [[CMS]]",
+        "2024-05-02": "- [[CMS]]",
         "ContentLayer": "... (such as Markdown files or [[CMS]]) into type-safe [[JSON]] data that ...",
         "Displaying exact datetimes on Ghost": "If your Ghost [[CMS]] blog using Handlebars theme shows ...",
         "Ghost 테마를 자동 배포하는 방법": "... System을 AWS에 호스팅하여 사용한다. Ghost [[CMS]]는 [[Headless|헤드리스]]하다. 말 그대로 머리가 없다는 ...",
@@ -11635,7 +11666,8 @@ export const backlinks = {
     "지름길과 돌파구 (15誠鉉)": {
         "2023-07-25": "- [[지름길과 돌파구 (15誠鉉)]]",
         "誠鉉": "- [[지름길과 돌파구 (15誠鉉)]]",
-        "기술 유출": "나는 그 [[지름길과 돌파구 (15誠鉉)|돌파구]]를 국가보안법에서 찾았다."
+        "기술 유출": "나는 그 [[지름길과 돌파구 (15誠鉉)|돌파구]]를 국가보안법에서 찾았다.",
+        "성현적 발상": "[[지름길과 돌파구 (15誠鉉)]]에 기반해, 파격적이고 독창적인 발상의 전환들이다."
     },
     "Menu Hover Effects": {
         "2023-02-10": "- [[Menu Hover Effects]]"
@@ -11762,6 +11794,10 @@ export const backlinks = {
         "브라우저 콘솔에 경고 문구 띄우는 방법": "[[HTML]] 어딘가에서 `console.log`를 해주면 되는 간단한 ...",
         "코드클럽": "또한 BCD의 모든 수업 자료는 [[HTML]] 문법과 Code Snippet을 활용한 Markdown ...",
         "하늘땅사람 개발 기록": "- [[HTML]] input 태그에서 `아`를 입력 불가능함. ..."
+    },
+    "역사의 종말 오류 (에세이)": {
+        "2023-03-16": "- [[역사의 종말 오류 (에세이)]]",
+        "Newtonian Correspondence": "... of History Fallacy <br/> `KO` [[역사의 종말 오류 (에세이)]]      ..."
     },
     "Sample Ratio Mismatch": {
         "Grammarly Work Note 2023-06-23": "- [[Sample Ratio Mismatch]]"
@@ -12474,6 +12510,10 @@ export const backlinks = {
         "2023-04-03": "![[1E5861.png]]",
         "Bing Chat for All Browsers in Japan": "![[1E5861.png]]",
         "hn.cho.sh 개발 기록": "![[1E5861.png]]"
+    },
+    "380540.png": {
+        "2024-05-02": "![[380540.png]]",
+        "Beehiiv": "![[380540.png]]"
     },
     "8B7073.png": {
         "2022-11-14": "![[8B7073.png]]"
@@ -13978,6 +14018,9 @@ export const backlinks = {
     "718EA6.jpeg": {
         "한국통사": "![[718EA6.jpeg]]"
     },
+    "CB8F15.jpg": {
+        "이행 장치": "![[CB8F15.jpg]]"
+    },
     "529EA6.png": {
         "Brian Lovin": "![[529EA6.png]]"
     },
@@ -14706,6 +14749,9 @@ export const backlinks = {
     "D1D46A.png": {
         "Dynamic Viewport Units": "![[D1D46A.png]]"
     },
+    "4A9180.gif": {
+        "84-24": "![[4A9180.gif]]"
+    },
     "90B241.jpg": {
         "Curve Fitting for Charts": "![[90B241.jpg]]"
     },
@@ -14765,6 +14811,12 @@ export const backlinks = {
     },
     "F52E67.png": {
         "Text-based Tools for Thought": "![[F52E67.png]]"
+    },
+    "E05A90.png": {
+        "Upscale": "![[E05A90.png]]"
+    },
+    "EA6B33.png": {
+        "금동대융합로": "![[EA6B33.png]]"
     },
     "FC87FE.png": {
         "Ignoring $ for copy-pasting online resources to terminal": "![[FC87FE.png]]"
@@ -14975,6 +15027,9 @@ export const backlinks = {
     },
     "F912EE.jpg": {
         "Databricks AI Summit 2023 Block Session": "![[F912EE.jpg]]"
+    },
+    "DD6D3E.png": {
+        "CMS": "![[DD6D3E.png]]"
     },
     "Zettelkasten": {
         "Tools Must Vanish": "... is junk. It's never the [[Zettelkasten]] of the next [[Vannevar Bush]]; ..."
