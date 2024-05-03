@@ -11062,6 +11062,9 @@ export const backlinks = {
     "Treehouse": {
         "Conversational AI Tools for Thought": "- [[Treehouse]]"
     },
+    "Jesse Lyu": {
+        "2024-05-03": "[[Jesse Lyu]]"
+    },
     "ESLint": {
         "Grammarly Work Note 2023-05-26": "... with Prettier, we could link [[ESLint]] and make it automatically check ...",
         "Truthiness of Empty Strings": "But after we implemented [[ESLint]] in our framework, it started ..."
@@ -15033,6 +15036,9 @@ export const backlinks = {
     },
     "4DF74F.png": {
         "SVB Debacle": "![[4DF74F.png]]"
+    },
+    "3D8883.png": {
+        "Jesse Lyu": "![[3D8883.png]]"
     },
     "AE63DD.png": {
         "Sliding Panes": "![[AE63DD.png]]"
