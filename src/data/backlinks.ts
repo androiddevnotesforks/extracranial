@@ -563,6 +563,10 @@ export const backlinks = {
         "0876 Middle of the Linked List": "Solved at: [[2023-01-29]]",
         "Aldehyde Outage (January 23誠鉉)": "## [[2023-01-29]]"
     },
+    "2024-05-03": {
+        "Apple Vision Pro First Impressions (May 2024)": "[[2024-05-03]]",
+        "Rabbit R1 First Impressions (May 2024)": "[[2024-05-03]]"
+    },
     "2023-03-19": {
         "Z-Fellows": "... and Only (Social App) on [[2023-03-19]]"
     },
@@ -3493,6 +3497,9 @@ export const backlinks = {
         "2022-11-04": "- [[Caching]]",
         "Cache Conscious Programming": "... due to the way of [[caching]]",
         "Computer Systems": "- [[Caching]]"
+    },
+    "Rabbit R1 First Impressions (May 2024)": {
+        "2024-05-03": "- [[Rabbit R1 First Impressions (May 2024)]]"
     },
     "HN Broadcast": {
         "2024-04-23": "- [[HN Broadcast]]"
@@ -8331,6 +8338,9 @@ export const backlinks = {
         "Workplace Search": "used at [[grammarly]]",
         "기술 발전의 속도": "그래서 [[Grammarly]] 등의 텍스트 [[AI|인공지능]] 회사에 열심히 ..."
     },
+    "Apple Vision Pro First Impressions (May 2024)": {
+        "2024-05-03": "- [[Apple Vision Pro First Impressions (May 2024)]]"
+    },
     "SHAP": {
         "2022-12-24": "- [[SHAP]]"
     },
@@ -12537,6 +12547,17 @@ export const backlinks = {
     },
     "17D859.png": {
         "2022-08-04": "![[17D859.png]]"
+    },
+    "EBE739.png": {
+        "2024-05-03": "![[EBE739.png]]",
+        "Apple Vision Pro First Impressions (May 2024)": "![[EBE739.png]]"
+    },
+    "FFD03B.gif": {
+        "2024-05-03": "![[FFD03B.gif]]"
+    },
+    "F80E81.jpeg": {
+        "2024-05-03": "![[F80E81.jpeg]]",
+        "Rabbit R1 First Impressions (May 2024)": "![[F80E81.jpeg]]"
     },
     "145F1C.png": {
         "2023-03-19": "![[145F1C.png]]",
