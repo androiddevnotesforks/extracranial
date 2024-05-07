@@ -2119,9 +2119,6 @@ export const backlinks = {
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
     },
-    "Python vs CPP (May 2024)": {
-        "2024-05-06": "- [[Python vs CPP (May 2024)]]"
-    },
     "Squircled App Icon Generator": {
         "2023-10-26": "- [[Squircled App Icon Generator]]"
     },
@@ -10351,6 +10348,9 @@ export const backlinks = {
         "Love Software": "... (Fiercely Overpriced|paywalled) Texts (Service) and [[Beeper]]",
         "Universal Chat App": "- Matrix Network. Used by [[Beeper]]. Beeper aims to build a ..."
     },
+    "Python vs C++ (May 2024)": {
+        "2024-05-06": "- [[Python vs C++ (May 2024)]]"
+    },
     "KRDS": {
         "2024-04-28": "[[KRDS]]"
     },
@@ -11682,8 +11682,7 @@ export const backlinks = {
     "지름길과 돌파구 (15誠鉉)": {
         "2023-07-25": "- [[지름길과 돌파구 (15誠鉉)]]",
         "誠鉉": "- [[지름길과 돌파구 (15誠鉉)]]",
-        "기술 유출": "나는 그 [[지름길과 돌파구 (15誠鉉)|돌파구]]를 국가보안법에서 찾았다.",
-        "성현적 발상": "[[지름길과 돌파구 (15誠鉉)]]에 기반해, 파격적이고 독창적인 발상의 전환들이다."
+        "기술 유출": "나는 그 [[지름길과 돌파구 (15誠鉉)|돌파구]]를 국가보안법에서 찾았다."
     },
     "Menu Hover Effects": {
         "2023-02-10": "- [[Menu Hover Effects]]"
@@ -12973,9 +12972,6 @@ export const backlinks = {
     },
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
-    },
-    "804F38.png": {
-        "Python vs CPP (May 2024)": "![[804F38.png]]"
     },
     "762D4A.png": {
         "Skeumorphism": "![[762D4A.png]]"
@@ -14880,6 +14876,9 @@ export const backlinks = {
     },
     "57312D.png": {
         "Humane Ai Pin": "![[57312D.png]]"
+    },
+    "804F38.png": {
+        "Python vs C++ (May 2024)": "![[804F38.png]]"
     },
     "AAB58B.png": {
         "KRDS": "![[AAB58B.png]]"
