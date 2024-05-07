@@ -10410,9 +10410,6 @@ export const backlinks = {
     "CardDrop": {
         "2023-08-24": "- [[CardDrop]]"
     },
-    "proved me wrong": {
-        "Python vs CPP (May 2024)": "Louis [[proved me wrong]]."
-    },
     "On National Crises and the Intellectuals — Focused on GB and KR": {
         "2023-03-02": "- [[On National Crises and the Intellectuals — Focused on GB and KR]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 03-02 | 🇬🇧 [[On National Crises and the Intellectuals — Focused on GB and KR]] <br/> 🇰🇷 [[국가적 위기와 지식인에 ...",
@@ -12005,8 +12002,7 @@ export const backlinks = {
     },
     "Perceptual Hashing": {
         "2022-12-18": "- [[Perceptual Hashing]]",
-        "Letter to Mr. Matt Rickard on 2022-11-28": "### [[Perceptual Hashing]]",
-        "Python vs CPP (May 2024)": "... some initial research and used [[perceptual hashing]] (v. 'ahash', dhash) to investigate ..."
+        "Letter to Mr. Matt Rickard on 2022-11-28": "### [[Perceptual Hashing]]"
     },
     "기술 르네상스 (18誠鉉-20誠鉉)": {
         "2023-09-05": "- [[기술 르네상스 (18誠鉉-20誠鉉)]]",
