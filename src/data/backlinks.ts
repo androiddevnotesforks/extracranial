@@ -11927,7 +11927,7 @@ export const backlinks = {
         "Unsemantic": "... we must create an unsemantic [[AI]] (i.e., rigorous.)",
         "WebNPU API를 상상하다": "Someday|언젠가 [[AI]] 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 표준이 ...",
         "hn.cho.sh 개발 기록": "해커뉴스를 읽고 있다가 이걸 [[AI]]에게 요약해보고 있었다.",
-        "기술 발전의 속도": "2022년 여름의 [[AI|인공지능]] 업계를 대표적으로 나타내는 글이다",
+        "기술 발전의 속도": "... target=\"blank\" rel=\"noopener noreferrer\">링크</a> 2022년 여름의 [[AI|인공지능]] 업계를 대표적으로 나타내는 글이다",
         "슈퍼자판기": "... 환경을 실시간으로 촬영. 이러한 카메라는 [[AI]] 기반 행동 분석 시스템과 통합되어 ...",
         "앰비언트 컴퓨팅을 향해": "... 형태의 Google Clip이 등장했다. Google|구글의 [[AI|인공지능]]으로 \"기록할 만한\" 순간이 지나간다면 사진을 ...",
         "역사적 리셋": "... 않으며 현재의 이익에 맞게 움직이는 [[AI|인공지능]]의 Autonomous Agent와 비슷하다는 생각이 들었다. ...",
