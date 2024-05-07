@@ -2119,6 +2119,9 @@ export const backlinks = {
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
     },
+    "Python vs CPP (May 2024)": {
+        "2024-05-06": "- [[Python vs CPP (May 2024)]]"
+    },
     "Squircled App Icon Generator": {
         "2023-10-26": "- [[Squircled App Icon Generator]]"
     },
@@ -10407,6 +10410,9 @@ export const backlinks = {
     "CardDrop": {
         "2023-08-24": "- [[CardDrop]]"
     },
+    "proved me wrong": {
+        "Python vs CPP (May 2024)": "Louis [[proved me wrong]]."
+    },
     "On National Crises and the Intellectuals — Focused on GB and KR": {
         "2023-03-02": "- [[On National Crises and the Intellectuals — Focused on GB and KR]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 03-02 | 🇬🇧 [[On National Crises and the Intellectuals — Focused on GB and KR]] <br/> 🇰🇷 [[국가적 위기와 지식인에 ...",
@@ -11999,7 +12005,8 @@ export const backlinks = {
     },
     "Perceptual Hashing": {
         "2022-12-18": "- [[Perceptual Hashing]]",
-        "Letter to Mr. Matt Rickard on 2022-11-28": "### [[Perceptual Hashing]]"
+        "Letter to Mr. Matt Rickard on 2022-11-28": "### [[Perceptual Hashing]]",
+        "Python vs CPP (May 2024)": "... some initial research and used [[perceptual hashing]] (v. 'ahash', dhash) to investigate ..."
     },
     "기술 르네상스 (18誠鉉-20誠鉉)": {
         "2023-09-05": "- [[기술 르네상스 (18誠鉉-20誠鉉)]]",
@@ -12970,6 +12977,9 @@ export const backlinks = {
     },
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
+    },
+    "804F38.png": {
+        "Python vs CPP (May 2024)": "![[804F38.png]]"
     },
     "762D4A.png": {
         "Skeumorphism": "![[762D4A.png]]"
