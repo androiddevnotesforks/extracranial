@@ -95,7 +95,7 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- [[2020-02-23]]"
     },
     "2022-05-11": {
-        "Why the halting problem is unsolvable": "[[2022-05-11]]"
+        "Halting Problem": "[[2022-05-11]]"
     },
     "2022-09-06": {
         "Person 1B5A5B": "- Interviewed on [[2022-09-06]]",
@@ -2171,6 +2171,9 @@ export const backlinks = {
     "Displaying exact datetimes on Ghost": {
         "2022-11-19": "  - [[Displaying exact datetimes on Ghost]]"
     },
+    "Delete All YouTube Watch Later and Liked Videos": {
+        "2024-05-11": "- [[Delete All YouTube Watch Later and Liked Videos]]"
+    },
     "Makefile": {
         "Internetworking": "- [[Makefile]]"
     },
@@ -3386,6 +3389,9 @@ export const backlinks = {
     },
     "Project Heimdall Initial Planning": {
         "Project Naroo": "- [[Project Heimdall Initial Planning]]"
+    },
+    "Painterly Illustration Design Trend (2024)": {
+        "2024-05-11": "- [[Painterly Illustration Design Trend (2024)]]"
     },
     "0226 Invert Binary Tree": {
         "2022-07-26": "- [x] [[0226 Invert Binary Tree]]",
@@ -5187,7 +5193,8 @@ export const backlinks = {
         "한국통사": "... 있게 분투하는 기개가 없어 모든 [[Project|사업]]이 위축되고, 산을 옮길 [[Project|계획]]을 감행하지 ..."
     },
     "FireCrawl": {
-        "2024-04-16": "- [[FireCrawl]]"
+        "2024-04-16": "- [[FireCrawl]]",
+        "Scrapers for LLMs": "- [[FireCrawl]]"
     },
     "Vicarious": {
         "Automattic의 Beeper 인수": "Learning [[Vicarious|Vicariously]]라는 것 또한 인상 깊다."
@@ -5634,6 +5641,9 @@ export const backlinks = {
     "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": {
         "2023-04-11": "- [[DeepL vs. GPT 3.5 vs. GPT 4 벤치마크]]",
         "hn.cho.sh 개발 기록": "- [[DeepL vs. GPT 3.5 vs. GPT 4 벤치마크]]"
+    },
+    "Scrapers for LLMs": {
+        "2024-05-11": "- [[Scrapers for LLMs]]"
     },
     "Notion": {
         "2022-07-10": "- [[Notion]] opened a new paradigm for ...",
@@ -6393,9 +6403,6 @@ export const backlinks = {
         "Master Socket": "- listening [[socket]]\" (a.k.a. a \"master socket\")",
         "Multiplexing": "... information to find the correct [[socket]] to send and receive data."
     },
-    "Why the halting problem is unsolvable": {
-        "2022-11-19": "  - [[Why the halting problem is unsolvable]]"
-    },
     "Internet Protocol Stack": {
         "Internetworking": "- [[Internet Protocol Stack]]"
     },
@@ -6465,6 +6472,11 @@ export const backlinks = {
         "Databricks": "... data analytics platform powered by [[Apache Spark]]. The platform supports various data ...",
         "Parquet": "... processing frameworks such as Hadoop, [[Apache Spark|Spark]], and Impala. It is compatible ...",
         "Project Prepare for Grammarly": "... library to bring Tensorflow on [[Apache Spark]]"
+    },
+    "Design Trend": {
+        "Apple-like Block Interface": "[[Design Trend]]",
+        "Condensed H1 Design Trend (2024)": "[[Design Trend]]",
+        "Painterly Illustration Design Trend (2024)": "[[Design Trend]]"
     },
     "Dynamically Linked Libraries": {
         "2022-12-08": "- [[Dynamically Linked Libraries]]"
@@ -7998,6 +8010,9 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- 적은 돈으로 (제작) 큰 [[Economy|경제]]적 효과 (팬들에게 홍보 효과) 를 ...",
         "효과적 가속주의": "... 있어요. 당신은 이것을 피하기 위해 [[Economy|경제]]를 재설계할 수 없습니다. [[GPU]]를 없앨 ..."
     },
+    "Sci-Fi and Rome": {
+        "2024-05-11": "- [[Sci-Fi and Rome]]"
+    },
     "깍두기": {
         "2023-09-19": "- [[깍두기]]"
     },
@@ -8546,6 +8561,9 @@ export const backlinks = {
     },
     "Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning": {
         "Project Florence Literature Review": "- [ ] [[Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning]]"
+    },
+    "Halting Problem": {
+        "2022-11-19": "  - [[Halting Problem]]"
     },
     "Apple vs Spotify": {
         "2022-10-27": "### [[Apple vs Spotify]]",
@@ -9939,6 +9957,7 @@ export const backlinks = {
         "강기업": "... The Indie Maker Handbook, by [[Pieter Levels]]."
     },
     "Project Sillok": {
+        "2024-05-11": "- [[Project Sillok]]",
         "LocLog": "[[Project Sillok]]",
         "Very Good Photo Backup Service": "[[Project Sillok]]",
         "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... 생각을 많이 합니다. 그래서 직접 [[Project Sillok|SaaS로 만들고 싶은데]] 공사 규모가 너~무 커서 그냥 ..."
@@ -10327,6 +10346,9 @@ export const backlinks = {
     "Buzzword": {
         "2023-07-06": "- [[Buzzword]]"
     },
+    "Download All Images in a Page": {
+        "2024-05-07": "- [[Download All Images in a Page]]"
+    },
     "Digital Garden": {
         "2022-07-01": "... Second Brain|Digital Brain, Second Brain, [[Digital Garden]], and [[PKM]] are used interchangeably, ...",
         "2022-07-02": "... behind this website moved his [[digital garden]] to here. Splendid website, made ...",
@@ -10518,6 +10540,9 @@ export const backlinks = {
     },
     "미국 이행 장치": {
         "2024-05-02": "- [[미국 이행 장치]]"
+    },
+    "Condensed H1 Design Trend (2024)": {
+        "2024-05-11": "- [[Condensed H1 Design Trend (2024)]]"
     },
     "Linux Device that keenly follows MacBook": {
         "2023-10-20": "- [[Linux Device that keenly follows MacBook]]"
@@ -13022,6 +13047,9 @@ export const backlinks = {
         "Aldehyde Landing Page 2023": "![[341F72.gif]]",
         "Apple-like Block Interface": "![[341F72.gif]]"
     },
+    "7EA246.gif": {
+        "Delete All YouTube Watch Later and Liked Videos": "![[7EA246.gif]]"
+    },
     "EC7EEF.png": {
         "Python": "![[EC7EEF.png]]"
     },
@@ -13291,6 +13319,15 @@ export const backlinks = {
     "E45497.png": {
         "Towards Ambient Computing": "![[E45497.png]]",
         "앰비언트 컴퓨팅을 향해": "![[E45497.png]]"
+    },
+    "C991FE.png": {
+        "Painterly Illustration Design Trend (2024)": "![[C991FE.png]]"
+    },
+    "175B49.png": {
+        "Painterly Illustration Design Trend (2024)": "![[175B49.png]]"
+    },
+    "3C1C92.png": {
+        "Painterly Illustration Design Trend (2024)": "![[3C1C92.png]]"
     },
     "C42C4E.png": {
         "Pretendard": "![[C42C4E.png]]",
@@ -14888,6 +14925,9 @@ export const backlinks = {
     },
     "87640C.png": {
         "Comparing BLIP and CLIP": "![[87640C.png]]"
+    },
+    "2FF7AA.png": {
+        "Condensed H1 Design Trend (2024)": "![[2FF7AA.png]]"
     },
     "F7ADEB.png": {
         "Transactional Globe": "![[F7ADEB.png]]"
