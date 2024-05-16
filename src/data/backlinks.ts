@@ -9588,6 +9588,7 @@ export const backlinks = {
         "2024-03-25": "- [[Watchings]]",
         "2024-04-16": "- [[Watchings]]",
         "2024-04-24": "- [[Watchings]]",
+        "2024-05-17": "- [[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]].",
         "앎의 그릇": "- [[Watchings]]"
     },
@@ -11310,6 +11311,7 @@ export const backlinks = {
         "2024-04-01": "- [[Playings]]",
         "2024-04-11": "[[Playings]]",
         "2024-04-24": "- [[Playings]]",
+        "2024-05-17": "- [[Playings]]",
         "앎의 그릇": "- [[Playings]]"
     },
     "ChatGPT is a Blurry JPEG and We Need That": {
