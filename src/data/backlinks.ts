@@ -10372,7 +10372,8 @@ export const backlinks = {
         "Universal Chat App": "- Matrix Network. Used by [[Beeper]]. Beeper aims to build a ..."
     },
     "Python vs C++ (May 2024)": {
-        "2024-05-06": "- [[Python vs C++ (May 2024)]]"
+        "2024-05-06": "- [[Python vs C++ (May 2024)]]",
+        "충분히 똑똑한 컴파일러": "[[Python vs C++ (May 2024)]]"
     },
     "KRDS": {
         "2024-04-28": "[[KRDS]]"
@@ -11535,6 +11536,9 @@ export const backlinks = {
     },
     "TS1208 All files must be modules when the --isolatedModules flag is provided.": {
         "2023-06-06": "- [[TS1208 All files must be modules when the --isolatedModules flag is provided.]]"
+    },
+    "충분히 똑똑한 컴파일러": {
+        "2024-05-17": "- [[충분히 똑똑한 컴파일러]]"
     },
     "0079 Word Search": {
         "Coding Tests": "- [ ] [[0079 Word Search]]"
