@@ -221,7 +221,7 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- [[2020-02-12]]"
     },
     "2024-02-24": {
-        "Project PIRI": "## [[2024-02-24]]"
+        "Project PIRI (Performant & Interoperable Rendering Infrastructure)": "## [[2024-02-24]]"
     },
     "2023-12-07": {
         "Project Naroo": "## [[2023-12-07]]"
@@ -394,7 +394,7 @@ export const backlinks = {
     },
     "2024-03-04": {
         "Person 2476E6": "- Interviewed on [[2024-03-04]]",
-        "Project PIRI": "## [[2024-03-04]]"
+        "Project PIRI (Performant & Interoperable Rendering Infrastructure)": "## [[2024-03-04]]"
     },
     "2023-10-09": {
         "Project Ganymede": "## [[2023-10-09]]"
@@ -475,7 +475,7 @@ export const backlinks = {
         "Jog 25 minutes (Jan-Feb 23誠鉉)": "- [[2023-02-12]]. 컨디션이 좋지 않았다."
     },
     "2024-02-29": {
-        "Project PIRI": "## [[2024-02-29]]"
+        "Project PIRI (Performant & Interoperable Rendering Infrastructure)": "## [[2024-02-29]]"
     },
     "2020-10-27": {
         "프로젝트 어덕행덕": "- [[2020-10-27]]"
@@ -822,7 +822,7 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- [[2020-02-14]]"
     },
     "2024-02-22": {
-        "Project PIRI": "## [[2024-02-22]]"
+        "Project PIRI (Performant & Interoperable Rendering Infrastructure)": "## [[2024-02-22]]"
     },
     "2022-07-06": {
         "2022-07-11": "... a demo script created on [[2022-07-06]] yields logs as above."
@@ -1802,6 +1802,9 @@ export const backlinks = {
         "2023-08-14": "- [[Las Vegas Algorithm]]",
         "Monte Carlo and Las Vegas Algorithm": "... algorithms, but few know about [[Las Vegas Algorithm|Las Vegas algorithms]]. As the name keenly suggests, ..."
     },
+    "when I was young": {
+        "Laplace Demon": "... questioned of the same thing [[when I was young]]."
+    },
     "민사고와 쇼비니즘": {
         "2023-02-17": "- [[민사고와 쇼비니즘]]"
     },
@@ -2494,6 +2497,7 @@ export const backlinks = {
         "2024-03-04": "- [[까리]]",
         "2024-04-14": "- [[까리]]",
         "2024-04-29": "- [[까리]]",
+        "2024-05-19": "- [[까리]]",
         "묵찌빠": "[[까리]]한 한국적 단어.",
         "인사가 만사다": "[[까리]]하다. Insaga Mansada. 뭔가 고대의 주문 ..."
     },
@@ -3550,6 +3554,9 @@ export const backlinks = {
     "Love Software": {
         "2023-02-26": "- [[Love Software]]",
         "Digital Addiction": "Problem. I [[love software]], but I am sometimes too ..."
+    },
+    "Laplace Demon": {
+        "2024-05-19": "- [[Laplace Demon]]"
     },
     "Person ECC2CB": {
         "2022-12-08": "- [[Person ECC2CB]]",
@@ -6836,12 +6843,6 @@ export const backlinks = {
     },
     "Probe Server Errors": {
         "2024-04-23": "- [[Probe Server Errors]]"
-    },
-    "Project PIRI": {
-        "2024-02-24": "- [[Project PIRI]]",
-        "2024-02-29": "- [[Project PIRI]]",
-        "2024-03-04": "- [[Project PIRI|PIRI]]",
-        "Project": "- [[Project PIRI]]"
     },
     "ossacc": {
         "2024-04-16": "- [[ossacc]]"
@@ -10824,6 +10825,9 @@ export const backlinks = {
     "Requesting Review in Swift": {
         "2023-01-22": "- [[Requesting Review in Swift]]"
     },
+    "Prject PIRI": {
+        "2024-05-19": "- [[Prject PIRI]]"
+    },
     "Real Interviews": {
         "2022-09-22": "- [[Real Interviews]]",
         "2022-09-30": "- [[Real Interviews]]",
@@ -11237,6 +11241,12 @@ export const backlinks = {
         "Bluesky": "... an open-source framework called the [[AT Protocol]], which allows transparency and external ...",
         "Threads (Service)": "... they can interoperate with the [[AT protocol]] ([[Bluesky]]), [[ActivityPub]] protocol ([[Mastodon]]), and ...",
         "Universal Chat App": "- [[AT protocol]]. Initially proposed by Jack Dorsey ..."
+    },
+    "Project PIRI (Performant & Interoperable Rendering Infrastructure)": {
+        "2024-02-24": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)]]",
+        "2024-02-29": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)]]",
+        "2024-03-04": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)|PIRI]]",
+        "Project": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)]]"
     },
     "Person 392196": {
         "Project PEOPLE": "- [[Person 392196]]"
@@ -12220,7 +12230,7 @@ export const backlinks = {
     },
     "Project PIRI Initial Proposal": {
         "2024-02-24": "- [[Project PIRI Initial Proposal]]",
-        "Project PIRI": "- [[Project PIRI Initial Proposal]]"
+        "Project PIRI (Performant & Interoperable Rendering Infrastructure)": "- [[Project PIRI Initial Proposal]]"
     },
     "Binomial Distribution": {
         "2023-01-24": "- [[Binomial Distribution]]"
