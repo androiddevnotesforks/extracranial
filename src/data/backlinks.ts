@@ -612,6 +612,7 @@ export const backlinks = {
         "Person A3BA1A": "- Interviewed on [[2022-11-25]]"
     },
     "2024-05-23": {
+        "Grandma Koreapunk": "[[2024-05-23]] Essay.",
         "외할머니의 코리안 사이버펑크": "[[2024-05-23]]의 에세이."
     },
     "2022-11-11": {
@@ -10649,6 +10650,9 @@ export const backlinks = {
     "Limitless Day One Review": {
         "2024-04-15": "- [[Limitless Day One Review]]"
     },
+    "Grandma Koreapunk": {
+        "외할머니의 코리안 사이버펑크": "[[Grandma Koreapunk]]"
+    },
     "Small yet Powerful": {
         "10x": "- [[Small yet Powerful]]",
         "10x Technologist": "... an exceptionally skilled and productive, [[small yet powerful]] group of software developers. It ...",
@@ -15007,6 +15011,9 @@ export const backlinks = {
     },
     "8BEE60.png": {
         "Limitless Day One Review": "![[8BEE60.png]]"
+    },
+    "3DEF3A.png": {
+        "Grandma Koreapunk": "![[3DEF3A.png]]"
     },
     "30E62A.png": {
         "Real Interviews": "![[30E62A.png]]"
