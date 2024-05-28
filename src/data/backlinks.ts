@@ -879,6 +879,9 @@ export const backlinks = {
         "2023-05-02": "- [[Dilemmas of Free stuffs]]",
         "Antipreneur": "- [[Dilemmas of Free stuffs]]"
     },
+    "armada": {
+        "2024-05-29": "- [[armada]]"
+    },
     "Language": {
         "0232 Implement Queue using Stacks": "- Depending on your [[language]], the stack may not be ...",
         "2022-06-12": "... standard defines an interface definition [[language]], web IDL, that can be ...",
@@ -1807,6 +1810,11 @@ export const backlinks = {
         "2023-08-14": "- [[Las Vegas Algorithm]]",
         "Monte Carlo and Las Vegas Algorithm": "... algorithms, but few know about [[Las Vegas Algorithm|Las Vegas algorithms]]. As the name keenly suggests, ..."
     },
+    "Bluetooth": {
+        "AirDrop": "... nearby Apple devices. AirDrop uses [[Bluetooth]] low energy to discover and ...",
+        "까리": "또 [[Bluetooth]]도 덴마크를 통일한 Harald Bluetooth Gormsson의 ...",
+        "라즈베리 파이로 스마트 오디오 시스템 만들기": "## [[Bluetooth]] & AirPlay & Spotify Connect"
+    },
     "when I was young": {
         "Laplace Demon": "... questioned of the same thing [[when I was young]]."
     },
@@ -2503,6 +2511,8 @@ export const backlinks = {
         "2024-04-14": "- [[까리]]",
         "2024-04-29": "- [[까리]]",
         "2024-05-19": "- [[까리]]",
+        "2024-05-28": "- [[까리]]",
+        "2024-05-29": "- [[까리]]",
         "묵찌빠": "[[까리]]한 한국적 단어.",
         "인사가 만사다": "[[까리]]하다. Insaga Mansada. 뭔가 고대의 주문 ..."
     },
@@ -4017,7 +4027,7 @@ export const backlinks = {
         "AMP": "... to Facebook Instant Articles and [[Apple]] News. AMP is optimized for ...",
         "Adding a Verified Mark on Apple Mail and Gmail": "... and install it. Go to [[Apple]] [[Mail]] settings and turn on ...",
         "Adobe Premiere Pro": "... works on both Windows and [[Apple]] computers. It's comparable to Apple's ...",
-        "AirDrop": "... wirelessly share files between nearby [[Apple]] devices. AirDrop uses Bluetooth low ...",
+        "AirDrop": "... wirelessly share files between nearby [[Apple]] devices. AirDrop uses [[Bluetooth]] low ...",
         "Andy Matuschak": "- ex-[[Apple]] [[UIUX|UI]]-Kit developer",
         "Apple Earth": "... Earth app but with Smoo-ooth [[Apple]] [[Cartography|Maps]] and [[iOS]] Widget Supports.",
         "Apple Easter Egg": "... here for the hard core [[Apple]] fans that",
@@ -4148,6 +4158,7 @@ export const backlinks = {
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "- [[한민족의 멸종 방어|네오코리아]]",
         "건강한 한국 토착 신앙": "[[한민족의 멸종 방어]]",
         "공기 청정 비행선": "[[한민족의 멸종 방어]]",
+        "공약 미이행 처벌": "[[한민족의 멸종 방어|Neo Korea]]",
         "기술 유출": "[[한민족의 멸종 방어|네오코리아]]에서는 이 국가보안법을 약간 고치면 법을 ...",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[한민족의 멸종 방어]]",
         "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족의 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
@@ -4316,7 +4327,8 @@ export const backlinks = {
         "Stable Alternative": "- [[Example References for Alter]]"
     },
     "외할머니의 코리안 사이버펑크": {
-        "2024-05-23": "- [[외할머니의 코리안 사이버펑크]]"
+        "2024-05-23": "- [[외할머니의 코리안 사이버펑크]]",
+        "2024-05-28": "- [[외할머니의 코리안 사이버펑크]]"
     },
     "코드클럽": {
         "2019-03-04": "- [[코드클럽]]",
@@ -4434,7 +4446,8 @@ export const backlinks = {
         "2023-07-24": "... also had to look into [[Lombok]] and [[Twitter Recommendation Algorithms]]."
     },
     "Homo Photosynthesis": {
-        "2023-09-26": "- [[Homo Photosynthesis]]"
+        "2023-09-26": "- [[Homo Photosynthesis]]",
+        "2024-05-28": "- [[Homo Photosynthesis|광합성 인간]]"
     },
     "상경과 상항": {
         "2023-07-06": "- [[상경과 상항]]"
@@ -7228,6 +7241,7 @@ export const backlinks = {
         "Simian과 심미안": "Simian이라는 영어 [[Vocab|단어]]는 [[Simian|원숭이]], [[Simian|유인원]]을 뜻한다.",
         "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
         "Vicarious": "[[Vocab]]",
+        "armada": "[[Vocab]]",
         "pun": "[[Vocab]]",
         "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
         "과거의 영광 (16誠鉉-18誠鉉)": "... 있는 것일지도 모른다. 민사고에는 '내미'라는 [[Vocab|단어]]가 있다. '내신에 미친 사람'이라는 뜻이다. ...",
@@ -9271,6 +9285,7 @@ export const backlinks = {
     "성현적 발상": {
         "2024-04-26": "- [[성현적 발상]]",
         "Government as a Service": "- [[성현적 발상]]",
+        "Homo Photosynthesis": "[[성현적 발상]]",
         "MetroPunk": "[[성현적 발상]]",
         "Nuclear Fusion Molecule 3D Printer": "[[성현적 발상]]",
         "Programmable Vaccines": "[[성현적 발상]]",
@@ -10381,6 +10396,9 @@ export const backlinks = {
         "Logseq": "... list, and build your own [[digital garden]]. Logseq",
         "PKM": "| [[Digital Garden]] | Implementation for documenting your ...",
         "Second Brain": "... the first attempt at a [[Digital Garden]] and, as such, are a ..."
+    },
+    "공약 미이행 처벌": {
+        "2024-05-29": "- [[공약 미이행 처벌]]"
     },
     "Atomicity": {
         "Internetworking": "- [[Atomicity]]"
