@@ -309,6 +309,10 @@ export const backlinks = {
         "Porting a Chrome Extension to Firefox Add-on": "[[2020-04-08]]",
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "[[2020-04-08]]"
     },
+    "2024-05-30": {
+        "Prject PIRI": "## [[2024-05-30]] — Subdomain or Subdirectory?",
+        "雅號": "## [[2024-05-30]]"
+    },
     "2023-02-24": {
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "... to Mr. Gustav Ekerot on [[2023-02-24]]"
     },
@@ -844,6 +848,9 @@ export const backlinks = {
     },
     "2022-10-21": {
         "Curve Fitting for Charts": "## On [[2022-10-21]], with [[Simple Analytics]]"
+    },
+    "2024-05-29": {
+        "Prject PIRI": "## [[2024-05-29]]"
     },
     "2023-03-23": {
         "hn.cho.sh 개발 기록": "## 2023-03-21 — [[2023-03-23]]"
@@ -8849,6 +8856,7 @@ export const backlinks = {
     },
     "무제한번역": {
         "2023-05-30": "- [[무제한번역]]",
+        "Prject PIRI": "Providing [[무제한번역|unlimited translations]] for major developer documents",
         "Research Paper Language System": "[[무제한번역]] [[Across the Sprachraums]]"
     },
     "GitHub Pages에 React 앱 띄우기": {
@@ -9524,6 +9532,7 @@ export const backlinks = {
         "2022-10-14": "- [[Toss Product Sans]]",
         "2022-12-06": "- [[Toss Product Sans]]",
         "2023-03-05": "- [[Toss Product Sans]]",
+        "2024-05-30": "- [[Toss Product Sans]]",
         "Pretendard": "- Just like [[Toss Product Sans]] it is bizarrely similar to ...",
         "Pretendard의 아쉬운 점": "이는 유사한 폰트 Interop 및 [[Toss Product Sans]]에는 반영되어 있는 사항이다.",
         "San Francisco": "### [[Toss Product Sans]]",
@@ -10870,7 +10879,8 @@ export const backlinks = {
         "2023-01-22": "- [[Requesting Review in Swift]]"
     },
     "Prject PIRI": {
-        "2024-05-19": "- [[Prject PIRI]]"
+        "2024-05-19": "- [[Prject PIRI]]",
+        "2024-05-30": "- [[Prject PIRI]]"
     },
     "Real Interviews": {
         "2022-09-22": "- [[Real Interviews]]",
@@ -15032,6 +15042,18 @@ export const backlinks = {
     },
     "3DEF3A.png": {
         "Grandma Koreapunk": "![[3DEF3A.png]]"
+    },
+    "52DEF9.png": {
+        "Prject PIRI": "![[52DEF9.png]]"
+    },
+    "2AC2B1.png": {
+        "Prject PIRI": "![[2AC2B1.png]]"
+    },
+    "37BAD3.png": {
+        "Prject PIRI": "![[37BAD3.png]]"
+    },
+    "87872D.png": {
+        "Prject PIRI": "![[87872D.png]]"
     },
     "30E62A.png": {
         "Real Interviews": "![[30E62A.png]]"
