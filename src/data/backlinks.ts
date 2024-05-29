@@ -1796,6 +1796,10 @@ export const backlinks = {
     "Saturn (Service)": {
         "2023-12-28": "[[Saturn (Service)]]"
     },
+    "Limitless AI": {
+        "2024-05-30": "- [[Limitless AI]]",
+        "AI Note Generators": "## Rewind and [[Limitless AI]]"
+    },
     "Meltdown and Spectre": {
         "2022-12-09": "- [[Meltdown and Spectre]]",
         "Computer Systems": "- [[Meltdown and Spectre]]"
@@ -2546,6 +2550,8 @@ export const backlinks = {
     },
     "Rewind": {
         "2022-12-24": "- [[Rewind]] is [[GA]]",
+        "AI Note Generators": "## [[Rewind]] and [[Limitless AI]]",
+        "Limitless AI": "From the team behind [[Rewind]]",
         "Limitless Day One Review": "Ideally I hope Limitless and [[Rewind]] merge into 1 product, because ...",
         "Search Engine Indexing Your Life": "## [[Rewind]]",
         "Towards Ambient Computing": "... the Rewind team released the [[Rewind]] pendant.",
@@ -4858,6 +4864,9 @@ export const backlinks = {
         "Computer Systems": "- [[Principles of Locality]]",
         "Memory Hierarchy": "- Implementation of [[Principles of Locality]].",
         "Memory Wall": "    - [[Principles of Locality]]"
+    },
+    "AI Note Generators": {
+        "2024-05-30": "- [[AI Note Generators]]"
     },
     "Grammarly Work Note 2023-06-23": {
         "2023-06-23": "- [[Grammarly Work Note 2023-06-23]]"
@@ -12984,6 +12993,10 @@ export const backlinks = {
     "107B49.png": {
         "Embeddable GitHub Repo Card But It Looks Great": "![[107B49.png]]"
     },
+    "2B3162.png": {
+        "AI Note Generators": "![[2B3162.png]]",
+        "Limitless AI": "![[2B3162.png]]"
+    },
     "4D2169.png": {
         "민사고와 쇼비니즘": "![[4D2169.png]]"
     },
@@ -13698,6 +13711,9 @@ export const backlinks = {
     },
     "67123E.png": {
         "洪兔雜記": "![[67123E.png]]"
+    },
+    "1C0B4E.png": {
+        "AI Note Generators": "![[1C0B4E.png]]"
     },
     "CE4381.png": {
         "Roam Research": "![[CE4381.png]]",
