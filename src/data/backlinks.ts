@@ -2149,6 +2149,10 @@ export const backlinks = {
     "Squircled App Icon Generator": {
         "2023-10-26": "- [[Squircled App Icon Generator]]"
     },
+    "Project DANSO": {
+        "2024-06-03": "- [[Project DANSO]]",
+        "The Need for Project DANSO": "Thus, I have started [[Project DANSO]]"
+    },
     "Skeumorphism": {
         "2023-12-23": "- [[Skeumorphism]]"
     },
@@ -2524,6 +2528,7 @@ export const backlinks = {
         "2024-05-19": "- [[까리]]",
         "2024-05-28": "- [[까리]]",
         "2024-05-29": "- [[까리]]",
+        "2024-06-03": "- [[까리]]",
         "묵찌빠": "[[까리]]한 한국적 단어.",
         "인사가 만사다": "[[까리]]하다. Insaga Mansada. 뭔가 고대의 주문 ..."
     },
@@ -10189,6 +10194,9 @@ export const backlinks = {
     "공기 청정 비행선": {
         "2022-12-17": "- [[공기 청정 비행선]]"
     },
+    "The Need for Project DANSO": {
+        "Prject PIRI": "- [[The Need for Project DANSO]]"
+    },
     "Prompt Engineering": {
         "2022-09-03": "- [[Prompt Engineering]]",
         "2022-09-30": "- Human Motion Diffusion Model [[Prompt Engineering]]",
@@ -10889,7 +10897,8 @@ export const backlinks = {
     },
     "Prject PIRI": {
         "2024-05-19": "- [[Prject PIRI]]",
-        "2024-05-30": "- [[Prject PIRI]]"
+        "2024-05-30": "- [[Prject PIRI]]",
+        "2024-06-03": "- [[Prject PIRI]]"
     },
     "Real Interviews": {
         "2022-09-22": "- [[Real Interviews]]",
@@ -14981,6 +14990,18 @@ export const backlinks = {
     "7D6146.png": {
         "공기 청정 비행선": "![[7D6146.png]]"
     },
+    "52DEF9.png": {
+        "The Need for Project DANSO": "![[52DEF9.png]]"
+    },
+    "2AC2B1.png": {
+        "The Need for Project DANSO": "![[2AC2B1.png]]"
+    },
+    "37BAD3.png": {
+        "The Need for Project DANSO": "![[37BAD3.png]]"
+    },
+    "87872D.png": {
+        "The Need for Project DANSO": "![[87872D.png]]"
+    },
     "BEE37C.png": {
         "Workplace Search": "![[BEE37C.png]]"
     },
@@ -15058,18 +15079,6 @@ export const backlinks = {
     },
     "3DEF3A.png": {
         "Grandma Koreapunk": "![[3DEF3A.png]]"
-    },
-    "52DEF9.png": {
-        "Prject PIRI": "![[52DEF9.png]]"
-    },
-    "2AC2B1.png": {
-        "Prject PIRI": "![[2AC2B1.png]]"
-    },
-    "37BAD3.png": {
-        "Prject PIRI": "![[37BAD3.png]]"
-    },
-    "87872D.png": {
-        "Prject PIRI": "![[87872D.png]]"
     },
     "30E62A.png": {
         "Real Interviews": "![[30E62A.png]]"
