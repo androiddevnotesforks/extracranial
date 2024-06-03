@@ -801,6 +801,9 @@ export const backlinks = {
         "Letter to the Heptabase Team on 2022-10-11": "... to the Heptabase Team on [[2022-10-11]]",
         "Open Graph Image as a Service": "- [[2022-10-11]]"
     },
+    "2024-06-03": {
+        "Prject PIRI": "## [[2024-06-03]]"
+    },
     "2020-04-15": {
         "Apple Newsroom 서체 따라하기": "[[2020-04-15]]"
     },
@@ -2151,6 +2154,7 @@ export const backlinks = {
     },
     "Project DANSO": {
         "2024-06-03": "- [[Project DANSO]]",
+        "Prject PIRI": "- Finished [[Project DANSO]], at least the first usable ...",
         "The Need for Project DANSO": "Thus, I have started [[Project DANSO]]"
     },
     "Skeumorphism": {
