@@ -2136,7 +2136,6 @@ export const backlinks = {
         "2024-03-20": "[[Project Florence]]",
         "2024-03-26": "- [[Project Florence]]",
         "2024-03-29": "[[Project Florence]]",
-        "Project": "- [[Project Florence]] and its subprojects",
         "Project Calenzano": "Subproject of [[Project Florence]]",
         "Project Fiesole": "... Fiesole is a subproject of [[Project Florence]].",
         "Project Impruneta": "Impruneta is a subproject of [[Project Florence]]. Supercedes [[Project Malmantile]]",
@@ -2153,8 +2152,8 @@ export const backlinks = {
         "2023-09-10": "- [[Macroeconomics]]",
         "2023-09-11": "OpenBB를 이용해서 [[Macroeconomics]]를 더 공부해보기 시작했다. 기능이 무지하게 ...",
         "Microeconomics": "... It should be distinct from [[macroeconomics]], which takes a broader view ...",
-        "과목우수상": "딱 하나 유일하게 받은 과목우수상은 [[Macroeconomics|거시경제학]]이었는데, 이것도 좀 오해의 소지가 있는데 ...",
-        "도고계획": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다. 어원은 ..."
+        "Project DOGO": "주식 자동매매 알고리즘 및 [[Macroeconomics|거시경제]] 인공지능을 독자 개발하는 프로젝트이다. 어원은 ...",
+        "과목우수상": "딱 하나 유일하게 받은 과목우수상은 [[Macroeconomics|거시경제학]]이었는데, 이것도 좀 오해의 소지가 있는데 ..."
     },
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
@@ -2517,7 +2516,6 @@ export const backlinks = {
         "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Naroo]] migration, added new languages",
         "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Naroo]], by attempting [[Algorithmic Recommendation Engine ...",
         "METI Engine": "... plan to scale it to [[Project Naroo]].",
-        "Project": "- [[Project Naroo]]",
         "Project Heimdall Locale Transition Strategy": "[[Project Naroo]]'s predecessor [[hn.cho.sh]] operated on DeepL's ...",
         "hn.cho.sh 개발 기록": "[[Project Naroo]]",
         "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "> [[Project Naroo|Heimdall]]이나 [[Bing Chat for All Browsers]]과 ...",
@@ -3616,12 +3614,6 @@ export const backlinks = {
     "Person ECC2CB": {
         "2022-12-08": "- [[Person ECC2CB]]",
         "Project PEOPLE": "- [[Person ECC2CB]]"
-    },
-    "도고계획": {
-        "2023-09-09": "- [[도고계획]]",
-        "2023-09-10": "- [[도고계획]]",
-        "2023-09-26": "- [[도고계획]]",
-        "2023-09-29": "[[도고계획]]"
     },
     "Computational Linguistics": {
         "2023-02-16": "- [[Computational Linguistics]]",
@@ -5130,6 +5122,7 @@ export const backlinks = {
         "2023-03-06": "- [[Project]]",
         "2023-05-11": "## [[Project]]",
         "2023-07-30": "모든 [[Project|프로젝트]]를 유지보수 없는 자동현상유지 상태로 만들거나 ...",
+        "2024-06-12": "- [[Project]]",
         "AIs.txt": "- [[Project]]",
         "AMP": "... by the AMP Open Source [[Project]]. [[Google]] created it as a ...",
         "Action Button Walkie-Talkie": "Someday [[Project]]",
@@ -6486,9 +6479,6 @@ export const backlinks = {
     },
     "Internet Protocol Stack": {
         "Internetworking": "- [[Internet Protocol Stack]]"
-    },
-    "Project Starfish": {
-        "2023-10-19": "- [[Project Starfish]]"
     },
     "Time-Space Continuum (Physics)": {
         "2023-04-12": "- [[Time-Space Continuum (Physics)]]",
@@ -9169,6 +9159,10 @@ export const backlinks = {
         "WebGPU": "... TypeScript+Rust/WebAssembly|WASM library with its own [[React]]-like run-time. If you're familiar with ...",
         "Write Once Run Everywhere": "- [[React]] and [[React Native]]"
     },
+    "Project Millionaire": {
+        "2024-06-12": "- [[Project Millionaire]]",
+        "Project": "- [[Project Millionaire]]"
+    },
     "My Raycast Wrapped of 2022": {
         "2022-12-17": "- [[My Raycast Wrapped of 2022]]",
         "My Raycast Wrapped of 2023": "[[My Raycast Wrapped of 2022]]"
@@ -9436,6 +9430,14 @@ export const backlinks = {
     },
     "Databricks AI Summit 2023 Databricks Session": {
         "Databricks AI Summit 2023": "- [[Databricks AI Summit 2023 Databricks Session]]"
+    },
+    "Project DOGO": {
+        "2023-09-09": "- [[Project DOGO]]",
+        "2023-09-10": "- [[Project DOGO]]",
+        "2023-09-26": "- [[Project DOGO]]",
+        "2023-09-29": "[[Project DOGO]]",
+        "2024-06-12": "- [[Project DOGO]]",
+        "Project": "- [[Project DOGO]]?"
     },
     "Useful ChatGPT Prompts": {
         "2023-04-10": "- [[Useful ChatGPT Prompts]]",
@@ -10935,7 +10937,8 @@ export const backlinks = {
     "Prject PIRI": {
         "2024-05-19": "- [[Prject PIRI]]",
         "2024-05-30": "- [[Prject PIRI]]",
-        "2024-06-03": "- [[Prject PIRI]]"
+        "2024-06-03": "- [[Prject PIRI]]",
+        "Project": "- [[Prject PIRI]]"
     },
     "Real Interviews": {
         "2022-09-22": "- [[Real Interviews]]",
@@ -11355,8 +11358,7 @@ export const backlinks = {
     "Project PIRI (Performant & Interoperable Rendering Infrastructure)": {
         "2024-02-24": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)]]",
         "2024-02-29": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)]]",
-        "2024-03-04": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)|PIRI]]",
-        "Project": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)]]"
+        "2024-03-04": "- [[Project PIRI (Performant & Interoperable Rendering Infrastructure)|PIRI]]"
     },
     "Person 392196": {
         "Project PEOPLE": "- [[Person 392196]]"
@@ -12166,7 +12168,7 @@ export const backlinks = {
     },
     "도고상인": {
         "2023-09-26": "- [[도고상인]]",
-        "도고계획": "... 인공지능을 독자 개발하는 프로젝트이다. 어원은 [[도고상인]]."
+        "Project DOGO": "... 인공지능을 독자 개발하는 프로젝트이다. 어원은 [[도고상인]]."
     },
     "Line": {
         "Universal Chat App": "3. [[Line]] ([[일본|Japan]]). Developed by [[Naver]], a ..."
