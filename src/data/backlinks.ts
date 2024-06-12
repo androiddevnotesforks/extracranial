@@ -729,6 +729,9 @@ export const backlinks = {
     "2023-01-16": {
         "하늘땅사람 개발 기록": "## [[2023-01-16]]"
     },
+    "2024-06-12": {
+        "Project Ganymede": "## [[2024-06-12]]"
+    },
     "2023-07-13": {
         "Project Linguine": "## [[2023-07-13]]",
         "Project Naroo": "## [[2023-07-13]]"
@@ -1697,6 +1700,9 @@ export const backlinks = {
         "Bayes Theorem": "The [[Odds]] form of Bayes Theorem is",
         "Born of this Land - The Founding Story of Hyundai": "... the early 1970s, against everyone's [[odds]], allowed Hyundai E&C to become ..."
     },
+    "국기 색동저고리": {
+        "2024-06-12": "- [[국기 색동저고리]]"
+    },
     "Instagram": {
         "2022-07-28": "... Facebook acquires or overtakes MySpace, [[Instagram]], and Snapchat, driving relationships into ...",
         "2022-10-27": "... features like the Share to [[Instagram]] feature.",
@@ -1783,6 +1789,10 @@ export const backlinks = {
         "UUIDs are Awesome": "... the next 100 years, the [[probability]] of creating just one duplicate ...",
         "Uniform Distributions (Discrete)": "In [[Probability]],",
         "XUID": "... the next 100 years, the [[probability]] of creating just one duplicate ..."
+    },
+    "Complete Reconsideration of Project Ganymede": {
+        "2024-06-12": "- [[Complete Reconsideration of Project Ganymede]]",
+        "Project Ganymede": "- [[Complete Reconsideration of Project Ganymede]]"
     },
     "Vanity Metrics": {
         "Grammarly Work Note 2023-05-25": "... we should be careful about [[Vanity Metrics]]"
@@ -2335,6 +2345,9 @@ export const backlinks = {
     "Learning Execution Semantics from Micro-Traces for Binary Similarity": {
         "2023-03-28": "- [[Learning Execution Semantics from Micro-Traces for Binary Similarity]]"
     },
+    "상공농사": {
+        "2024-06-12": "- [[상공농사]]"
+    },
     "Synthography": {
         "2022-10-19": "- [[Synthography]]",
         "Generative Intelligence": "... Just like what we call [[Synthography]] for synthetic imagery",
@@ -2533,6 +2546,7 @@ export const backlinks = {
         "2024-05-28": "- [[까리]]",
         "2024-05-29": "- [[까리]]",
         "2024-06-03": "- [[까리]]",
+        "2024-06-12": "- [[까리]]",
         "묵찌빠": "[[까리]]한 한국적 단어.",
         "인사가 만사다": "[[까리]]하다. Insaga Mansada. 뭔가 고대의 주문 ..."
     },
@@ -3557,6 +3571,9 @@ export const backlinks = {
         "2023-02-13": "- [[Did Bondee Really Suddenly Rise]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-13 | 🇬🇧 [[Did Bondee Really Suddenly Rise]] <br/> 🇰🇷 [[본디는 사실 혜성이 ..."
     },
+    "War Against Short Forms": {
+        "2024-06-12": "- [[War Against Short Forms]]"
+    },
     "0232 Implement Queue using Stacks": {
         "2022-11-28": "- Coding Tests. [[0232 Implement Queue using Stacks]]",
         "Coding Tests": "- [x] [[0232 Implement Queue using Stacks]]"
@@ -4188,6 +4205,7 @@ export const backlinks = {
         "망 사용료": "[[한민족의 멸종 방어|네오코리아]]",
         "벌금과 물가": "[[한민족의 멸종 방어]]",
         "불가사리": "[[한민족의 멸종 방어]]",
+        "상공농사": "[[한민족의 멸종 방어|Neo Korea]]",
         "새로운 4대 사회악": "아래는, [[한민족의 멸종 방어|네오코리아]]로 나아가기 위해 반드시 해결해야할 과제들이다.",
         "서당개 3년이면 풍월을 읊는다": "[[한민족의 멸종 방어]]",
         "소셜 엔지니어링 금지": "[[한민족의 멸종 방어]]를 위해 금지가 필수. [[Social Engineering]]은 ...",
@@ -4976,6 +4994,9 @@ export const backlinks = {
     },
     "TermsGPT": {
         "2023-07-25": "- [[TermsGPT]]"
+    },
+    "Healthy Paranoia is Appropriate for Any Critical Vendor": {
+        "2024-06-12": "- [[Healthy Paranoia is Appropriate for Any Critical Vendor]]"
     },
     "Second Brain": {
         "2022-05-30": "... - Print Your Places Great [[Second Brain|Digital Brain]] [[WebExtension|Extension]].",
@@ -5778,9 +5799,11 @@ export const backlinks = {
         "2024-03-21": "[[네오 코리안 르네상스|Neokorean Renaissance]]",
         "2024-04-30": "- [[네오 코리안 르네상스]]",
         "건강한 한국 토착 신앙": "## [[네오 코리안 르네상스]]의 예시로서의 무교",
+        "국기 색동저고리": "한민족의 문화 [[네오 코리안 르네상스]] [[성현적 발상]]",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[네오 코리안 르네상스]]로 나아가기 위해선 김치, 엽전, 선비 ...",
         "외할머니의 코리안 사이버펑크": "... 문화의 세련되고 사이버펑크스러운 재해석, 그리고 [[네오 코리안 르네상스]]는 어쩌면 외할머니 댁을 모방하려는 것인지 ...",
-        "코리안 르네상스": "- [[네오 코리안 르네상스]]"
+        "코리안 르네상스": "- [[네오 코리안 르네상스]]",
+        "한복 정장": "한민족의 문화 [[네오 코리안 르네상스]] [[성현적 발상]]"
     },
     "Chrome": {
         "2022-09-30": "### [[Chrome]] `renderBlockingStatus`",
@@ -8323,6 +8346,9 @@ export const backlinks = {
     "Maserati Problem": {
         "2022-11-02": "- [[Maserati Problem]]"
     },
+    "Pushing the Urgency": {
+        "2024-06-12": "- [[Pushing the Urgency]]"
+    },
     "Reduced Motion": {
         "Shopify Analyzes CSS Frameworks": "... component for hover, active easily, [[reduced motion]], color scheme, etc.   ...",
         "WWDC23": "- [[Reduced Motion|Paused Animated Images]] → Stop motions in animated ..."
@@ -9277,6 +9303,7 @@ export const backlinks = {
         "한국통사": "엄청난 [[Superbrain|지식인]]이며 뛰어난 통찰이다. 역동적인 [[대한민국|한국]] 근현대사의 ..."
     },
     "한민족의 문화": {
+        "국기 색동저고리": "[[한민족의 문화]] [[네오 코리안 르네상스]] [[성현적 발상]]",
         "금동대융합로": "[[한민족의 문화]]. [[성현적 발상]].",
         "깍두기": "[[한민족의 문화]]이다. 깍두기는 어릴 때의 놀이에서 자주 ...",
         "부적": "[[한민족의 문화]]. 부적은 한국의 전통 문화에서 오랫동안 ...",
@@ -9284,7 +9311,8 @@ export const backlinks = {
         "솟대": "[[한민족의 문화]] 건축물로,",
         "장승": "[[한민족의 문화]] 건축물로,",
         "한민족은 해적되었다": "한민족|민족의 영리함이 [[한민족의 문화|빛을 발하지 못하고 수탈되고 악용되고 제 값을 받지 못한다는 맥락]]이었다.",
-        "한민족의 동족상잔": "[[한민족의 문화|현대에는 다른가?]]"
+        "한민족의 동족상잔": "[[한민족의 문화|현대에는 다른가?]]",
+        "한복 정장": "[[한민족의 문화]] [[네오 코리안 르네상스]] [[성현적 발상]]"
     },
     "SharedArrayBuffer": {
         "2022-06-22": "...  - WorkerDOM will harness [[SharedArrayBuffer]].",
@@ -9319,6 +9347,7 @@ export const backlinks = {
         "誠鉉": "- [[성현적 발상]]",
         "건강한 한국 토착 신앙": "[[성현적 발상]]",
         "공기 청정 비행선": "[[성현적 발상]]",
+        "국기 색동저고리": "한민족의 문화 네오 코리안 르네상스 [[성현적 발상]]",
         "금동대융합로": "한민족의 문화. [[성현적 발상]].",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[성현적 발상]]",
         "내가 만든": "- [[성현적 발상]]",
@@ -9328,7 +9357,8 @@ export const backlinks = {
         "의료 인공지능과 의대 쏠림": "[[성현적 발상]]",
         "인공자궁": "[[성현적 발상]]",
         "코리안 르네상스": "- [[성현적 발상]]",
-        "태백산맥 계획": "[[성현적 발상]]"
+        "태백산맥 계획": "[[성현적 발상]]",
+        "한복 정장": "한민족의 문화 네오 코리안 르네상스 [[성현적 발상]]"
     },
     "SwiftData": {
         "WWDC23": "- [[SwiftData]]"
@@ -10412,6 +10442,9 @@ export const backlinks = {
     },
     "Undefined Symbol Vtable Error": {
         "Undefined Symbol Vtable": "[[Undefined Symbol Vtable Error]]"
+    },
+    "한복 정장": {
+        "국기 색동저고리": "나는 [[한복 정장]]을 서양식 정장처럼 보급화하고 싶은데,"
     },
     "Buzzword": {
         "2023-07-06": "- [[Buzzword]]"
