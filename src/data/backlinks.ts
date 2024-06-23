@@ -3026,6 +3026,9 @@ export const backlinks = {
         "On National Crises and the Intellectuals — Focused on GB and KR": "## Dear [[Harry Stebbings|Mr. Stebbings]],",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "## [[Harry Stebbings|Stebbings]] 님께"
     },
+    "Event Capture": {
+        "2024-06-21": "- [[Event Capture]]"
+    },
     "Install Yarn Silently": {
         "2022-10-18": "- [[Install Yarn Silently]]"
     },
@@ -3082,6 +3085,9 @@ export const backlinks = {
         "Wayfinding with AI Pin": "### [[Animation|Animations]] and haptics",
         "glTF": "... appearance, scene graph hierarchy, and [[animation]]. It is intended to be ...",
         "jQuery": "... and manipulation, event handling, and [[animation]] much simpler with an easy-to-use ..."
+    },
+    "Django Rest Framework": {
+        "2024-06-20": "- [[Django Rest Framework]]"
     },
     "Backdrop Build": {
         "2024-03-25": "- [[Backdrop Build]]"
@@ -4335,6 +4341,9 @@ export const backlinks = {
     },
     "빙글": {
         "2023-05-03": "- [[빙글]]"
+    },
+    "Python Environment Management": {
+        "2024-06-20": "- [[Python Environment Management]]"
     },
     "R=VD and Generative AIs": {
         "글감": "- [[R=VD and Generative AIs]]"
@@ -10719,6 +10728,9 @@ export const backlinks = {
         "Tossface": "- Emoji [[Font]] by [[Toss]]",
         "Web Typography": "... When HTML was first created, [[font]] faces and styles were controlled ..."
     },
+    "Icon Provider": {
+        "2024-06-21": "- [[Icon Provider]]"
+    },
     "시간-돈": {
         "2023-11-23": "- [[시간-돈]]"
     },
@@ -12865,6 +12877,12 @@ export const backlinks = {
     },
     "99EE18.png": {
         "2023-01-27": "![[99EE18.png]]"
+    },
+    "ACE17A.png": {
+        "2024-06-23": "![[ACE17A.png]]"
+    },
+    "F866C8.png": {
+        "2024-06-23": "![[F866C8.png]]"
     },
     "13766B.jpeg": {
         "2023-12-25": "![[13766B.jpeg]]"
