@@ -933,7 +933,8 @@ export const backlinks = {
         "2022-10-13": "- [[Cube]]"
     },
     "Self-hosted SaaS Alternatives": {
-        "2023-03-06": "- [[Self-hosted SaaS Alternatives]]"
+        "2023-03-06": "- [[Self-hosted SaaS Alternatives]]",
+        "2024-06-24": "[[Self-hosted SaaS Alternatives]] [[Newsletter]] Engine"
     },
     "SwiftUI": {
         "2022-08-04": "### Explored [[SwiftUI]].",
@@ -1039,6 +1040,7 @@ export const backlinks = {
         "2022-10-19": "- [[Newsletter]]",
         "2023-01-09": "... GitHub's subscribe feature as a [[Newsletter]]?",
         "2023-02-28": "- [[Newsletter]]",
+        "2024-06-24": "Self-hosted SaaS Alternatives [[Newsletter]] Engine",
         "Action Required Newsletter Networks": "Someday Project. It's a [[Newsletter]] but you must",
         "Buttondown": "... small, elegant tool for producing [[Newsletter|newsletters]]. The minimalist interface makes it ...",
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... do not currently have a [[newsletter]]. I was looking for a ...",
@@ -3087,7 +3089,8 @@ export const backlinks = {
         "jQuery": "... and manipulation, event handling, and [[animation]] much simpler with an easy-to-use ..."
     },
     "Django Rest Framework": {
-        "2024-06-20": "- [[Django Rest Framework]]"
+        "2024-06-20": "- [[Django Rest Framework]]",
+        "2024-06-24": "- [[Django Rest Framework]]"
     },
     "Backdrop Build": {
         "2024-03-25": "- [[Backdrop Build]]"
@@ -4663,6 +4666,9 @@ export const backlinks = {
         "2023-02-15": "- [[Why is Swift String Manipulation like that]]",
         "30-Day Tweet Test (Harry Stebbings)": "| 02-15 | 🇬🇧 [[Why is Swift String Manipulation like that]] <br/> 🇰🇷 [[Swift String 조작은 ..."
     },
+    "WSGI": {
+        "Django Rest Framework": "See [[WSGI]]"
+    },
     "Set Theory": {
         "Probability": "- [[Set Theory]]"
     },
@@ -5789,6 +5795,9 @@ export const backlinks = {
     "Clock skew detected": {
         "Internetworking": "- [[Clock skew detected]]"
     },
+    "LLM Namecard": {
+        "2024-06-24": "- [[LLM Namecard]]"
+    },
     "Write Once Run Everywhere": {
         "Dioxus": "[[Write Once Run Everywhere]]",
         "Imagining WebNPU API": "... for developers, as they can [[Write Once Run Everywhere]].",
@@ -6506,6 +6515,9 @@ export const backlinks = {
     "Akzidenz": {
         "2022-10-18": "- [[Akzidenz]]",
         "San Francisco": "### [[Akzidenz]]"
+    },
+    "Guillermo Rauch": {
+        "2024-06-24": "- [[Guillermo Rauch]]"
     },
     "Sending Notifications on Chrome Extension": {
         "2022-11-19": "  - [[Sending Notifications on Chrome Extension]]"
@@ -8014,6 +8026,9 @@ export const backlinks = {
     },
     "Disable All Animations": {
         "2023-08-09": "- [[Disable All Animations]]"
+    },
+    "CSRF": {
+        "2024-06-24": "- [[CSRF]]"
     },
     "Cookie Licking": {
         "2023-08-22": "- [[Cookie Licking]]"
@@ -12878,11 +12893,11 @@ export const backlinks = {
     "99EE18.png": {
         "2023-01-27": "![[99EE18.png]]"
     },
-    "ACE17A.png": {
-        "2024-06-23": "![[ACE17A.png]]"
-    },
     "F866C8.png": {
         "2024-06-23": "![[F866C8.png]]"
+    },
+    "ACE17A.png": {
+        "2024-06-23": "![[ACE17A.png]]"
     },
     "13766B.jpeg": {
         "2023-12-25": "![[13766B.jpeg]]"
