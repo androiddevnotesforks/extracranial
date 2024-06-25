@@ -185,6 +185,9 @@ export const backlinks = {
     "2023-12-23": {
         "Project Naroo": "## [[2023-12-23]]"
     },
+    "2024-06-25": {
+        "Prject PIRI": "## [[2024-06-25]]"
+    },
     "2023-01-21": {
         "하늘땅사람 업데이트 기록": "## 1.0.5 [[2023-01-21]]"
     },
@@ -1128,7 +1131,7 @@ export const backlinks = {
     },
     "Aldehyde SaaS": {
         "2023-05-30": "- [[Aldehyde SaaS]]",
-        "Project Sillok": "[[Aldehyde SaaS]]."
+        "Project Sillok": "- [[Aldehyde SaaS]]."
     },
     "기술 유출": {
         "2024-04-14": "- [[기술 유출]]"
@@ -4346,7 +4349,8 @@ export const backlinks = {
         "2023-05-03": "- [[빙글]]"
     },
     "Python Environment Management": {
-        "2024-06-20": "- [[Python Environment Management]]"
+        "2024-06-20": "- [[Python Environment Management]]",
+        "2024-06-25": "- [[Python Environment Management]]"
     },
     "R=VD and Generative AIs": {
         "글감": "- [[R=VD and Generative AIs]]"
@@ -5218,7 +5222,7 @@ export const backlinks = {
         "Project PEOPLE": "- [[Project]]",
         "Project PIRI Initial Proposal": "Potential [[Project]] of [[University of Southern California|USC]] ...",
         "Project Prepare for Grammarly": "[[Project]] to prepare for my [[Grammarly ...",
-        "Project Sillok": "Someday [[Project]].",
+        "Project Sillok": "- Someday [[Project]].",
         "Proposal of Research 2023-01-10": "... found several layers for the [[project]].",
         "Quoridor Game": "Someday [[Project]]. Creating a \"Quoridor\" game and ...",
         "Redactor for iPhone": "Someday [[Project]].",
@@ -8512,6 +8516,7 @@ export const backlinks = {
         "2022-10-16": "### [[Better Aldehyde]]",
         "Aldehyde": "- [[Better Aldehyde]]",
         "Neo Aldehyde": "[[Better Aldehyde]]",
+        "Project Sillok": "- [[Better Aldehyde]]",
         "블록 기반 링킹": "[[Better Aldehyde]]"
     },
     "Kakao": {
@@ -10081,6 +10086,7 @@ export const backlinks = {
     },
     "Project Sillok": {
         "2024-05-11": "- [[Project Sillok]]",
+        "2024-06-25": "- [[Project Sillok]]",
         "LocLog": "[[Project Sillok]]",
         "Very Good Photo Backup Service": "[[Project Sillok]]",
         "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... 생각을 많이 합니다. 그래서 직접 [[Project Sillok|SaaS로 만들고 싶은데]] 공사 규모가 너~무 커서 그냥 ..."
@@ -10844,7 +10850,7 @@ export const backlinks = {
         "Programmable Vaccines": "[[Someday]] [[Project]]",
         "Project FFMpeg for iPad": "- [[Someday]] [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project MAGI": "[[Someday]] [[Project]]. Use Multiple Artificial Generative ...",
-        "Project Sillok": "[[Someday]] [[Project]].",
+        "Project Sillok": "- [[Someday]] [[Project]].",
         "Quoridor Game": "[[Someday]] [[Project]]. Creating a \"Quoridor\" game ...",
         "Redactor for iPhone": "[[Someday]] [[Project]].",
         "Referral Share": "[[Someday]] [[Project]]. Referral Sharing Website for ...",
@@ -10965,6 +10971,7 @@ export const backlinks = {
         "2024-05-19": "- [[Prject PIRI]]",
         "2024-05-30": "- [[Prject PIRI]]",
         "2024-06-03": "- [[Prject PIRI]]",
+        "2024-06-25": "- [[Prject PIRI]]",
         "Project": "- [[Prject PIRI]]"
     },
     "Real Interviews": {
@@ -12480,6 +12487,9 @@ export const backlinks = {
     },
     "26F382.png": {
         "2023-12-23": "![[26F382.png]]"
+    },
+    "E048B0.png": {
+        "2024-06-25": "![[E048B0.png]]"
     },
     "1C81FA.png": {
         "2024-02-24": "![[1C81FA.png]]"
