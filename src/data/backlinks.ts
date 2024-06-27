@@ -1854,6 +1854,9 @@ export const backlinks = {
         "2022-06-21": "[[Broken Feedback Loop]]",
         "LavaLab Cohort of Spring 2023": "... Firefly captures lost information of [[Broken Feedback Loop]]."
     },
+    "eieio.games": {
+        "2024-06-27": "### [[eieio.games]]"
+    },
     "Either be the best-in-class or the most efficient": {
         "2022-10-13": "- [[Either be the best-in-class or the most efficient]]"
     },
@@ -6485,6 +6488,7 @@ export const backlinks = {
         "2024-04-29": "- [[Swear Turing Test]]"
     },
     "pun": {
+        "2024-06-27": "### [[pun]]",
         "NRG": "[[pun]] of Energy",
         "XLR8": "[[pun]] of accelerate"
     },
@@ -6493,6 +6497,10 @@ export const backlinks = {
     },
     "Strictly Formatted Generative AI": {
         "2023-07-11": "- [[Strictly Formatted Generative AI]]"
+    },
+    "weird": {
+        "Person 1E6ABA": "The TensorFlow team had [[weird]], intertangled relationships across groups.",
+        "eieio.games": "[[weird]]. clever."
     },
     "Socket": {
         "Internetworking": "- [[Socket]]",
@@ -6521,7 +6529,8 @@ export const backlinks = {
         "San Francisco": "### [[Akzidenz]]"
     },
     "Guillermo Rauch": {
-        "2024-06-24": "- [[Guillermo Rauch]]"
+        "2024-06-24": "- [[Guillermo Rauch]]",
+        "2024-06-26": "- [[Guillermo Rauch]]"
     },
     "Sending Notifications on Chrome Extension": {
         "2022-11-19": "  - [[Sending Notifications on Chrome Extension]]"
@@ -8776,6 +8785,9 @@ export const backlinks = {
     "Daniele Romanini et al. PyVertical": {
         "Project Florence Literature Review": "- [x] [[Daniele Romanini et al. PyVertical]]"
     },
+    "One Million Checkboxes": {
+        "2024-06-27": "[[One Million Checkboxes]]"
+    },
     "Rauno": {
         "2022-12-04": "- [[Rauno]]",
         "Data Capturers": "- [[Rauno]]",
@@ -9773,6 +9785,9 @@ export const backlinks = {
         "Synonym-based Fuzzy Search": "... Search + Synonym Search in [[PDF]]/Databases. Just like [[Google]]",
         "Using an iPad as my Ebook": "... with Book Scanning as a [[PDF]] with [[OCR]], and I figured ...",
         "ePub to PDF": "- epub to [[pdf]]"
+    },
+    "Contextify": {
+        "2024-06-26": "- [[Contextify]]"
     },
     "Search Engine Optimization": {
         "FIRE": "... links; for those who aren't [[Search Engine Optimization|SEO]] experts, backlinks (pages that link ...",
@@ -12831,6 +12846,9 @@ export const backlinks = {
         "2023-01-02": "![[EAADF1.gif]]",
         "하늘땅사람 개발 기록": "![[EAADF1.gif]]"
     },
+    "DEE912.png": {
+        "2024-06-26": "![[DEE912.png]]"
+    },
     "E13484.png": {
         "2022-12-20": "![[E13484.png]]"
     },
@@ -14653,6 +14671,12 @@ export const backlinks = {
     },
     "Graphic Window": {
         "Graphics Engine Process": "  - Create a [[Graphic Window]]"
+    },
+    "138857.png": {
+        "One Million Checkboxes": "![[138857.png]]"
+    },
+    "EB2D7A.png": {
+        "One Million Checkboxes": "![[EB2D7A.png]]"
     },
     "CD52BB.gif": {
         "Rauno": "![[CD52BB.gif]]"
