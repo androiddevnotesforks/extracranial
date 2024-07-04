@@ -268,6 +268,9 @@ export const backlinks = {
     "2023-11-06": {
         "Project Naroo": "## [[2023-11-06]]"
     },
+    "2024-07-04": {
+        "성현적 발상": "## [[2024-07-04]]"
+    },
     "2023-11-16": {
         "Project Florence": "## [[2023-11-16]]"
     },
@@ -2022,6 +2025,7 @@ export const backlinks = {
         "2024-02-28": "- [[Open Core Models]]",
         "2024-02-29": "- [[Open Core Models]]",
         "2024-05-02": "... 엔젤 투자. 나는 그동안 항상 [[Open Core Models]]이 유일한 커뮤니티 상생법이라고 생각했는데 얘네처럼 ...",
+        "2024-07-04": "- [[Open Core Models]]",
         "Newtonian Correspondence": "| 02-28 | `EN` [[Open Core Models]] | Tweet |"
     },
     "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
@@ -2118,7 +2122,6 @@ export const backlinks = {
         "Listmonk": "- The [[back-end]] is written in Go, and ...",
         "Now Page": "... I'd rather keep improving my [[back-end]] [[database]] work.\"",
         "Old Fashioned Camera": "- [[Back-end|백엔드]]와 [[Front-end|프론트]]가 모두 필요 없기에 [[FIRE ...",
-        "Oneday": "- bitwarden/server The core infrastructure [[Back-end|backend]] ([[API]], database, [[Docker]], etc).",
         "Reddit-Apollo Mayhem": "... made the code for its [[Back-end|backend]] repository publicly available to demonstrate ...",
         "Redwood.js": "- For the [[back-end]], Redwood uses [[GraphQL]], a query ...",
         "Refine (Framework)": "- [[Back-end|Backend]] (REST [[API]], Supabase, Strapi, NestJS, ...",
@@ -2202,7 +2205,6 @@ export const backlinks = {
     },
     "Google Analytics": {
         "GA": "- [[Google Analytics]]",
-        "Oneday": "... privacy-friendly web analytics alternative to [[Google Analytics]].",
         "Self-hosted SaaS Alternatives": "### Self-hosted [[Google Analytics]] [[Alternative|alternatives]]",
         "Simple Analytics": "> The privacy-first [[Google Analytics]] [[alternative]]. Simple Analytics",
         "YCLF 주간 사용자 1000명": "[[Google Analytics]] Referrals 추적 기능을 통해 어느 ..."
@@ -2755,7 +2757,6 @@ export const backlinks = {
         "Letter to the Heptabase Team on 2022-10-11": "- [[API]] support ([[Notion]]-like?)",
         "MAGI": "... Google의 PaLM 2)에게 다음과 같은 [[API]]를 제정한다: [[Project MAGI]]",
         "Metal": "... Metal is a low-level, low-overhead [[API]] ([[API|Application Programming Interface]]) that supports ...",
-        "Oneday": "... hoppscotch/hoppscotch (Postman) 👽 Open source [[API]] development ecosystem - https://hoppscotch.io",
         "OpenAI": "OpenAI also provides an [[API]] for accessing new [[AI]] models ...",
         "OpenAI enthroned as the Levis of Tech": "OpenAI has launched its ChatGPT [[API]] service, powered by the GPT-3.5-turbo ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "... Transformer|GPT-3.5-터보 모델을 기반으로 한 ChatGPT [[API]] 서비스를 출시했다.",
@@ -2938,6 +2939,7 @@ export const backlinks = {
     },
     "Desire-Compatible Growth & Preservation": {
         "2022-11-23": "- [[Desire-Compatible Growth & Preservation]]",
+        "2024-07-04": "... due to AI energy demand [[Desire-Compatible Growth & Preservation]]",
         "의료 인공지능과 의대 쏠림": "공공의대는 해결책이 아니다. [[Desire-Compatible Growth & Preservation|욕망과 호환되는 발전과 보존]]이 중요하다."
     },
     "ML": {
@@ -4209,6 +4211,7 @@ export const backlinks = {
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[한민족의 멸종 방어]]",
         "네오 코리안 르네상스": "... 성숙한 지적 재산권을 뽑아내기 위해선 [[한민족의 멸종 방어|네오 코리안]] [[르네상스]]가 필요하다.",
         "누군가는 온갖 어려움을 무릅쓰고 반드시 성취해야 하는 프로젝트이다": "[[한민족의 멸종 방어]]",
+        "디지털 정부의 모든 코드 오픈 소스화": "- [[한민족의 멸종 방어]] [[성현적 발상]]",
         "망 사용료": "[[한민족의 멸종 방어|네오코리아]]",
         "벌금과 물가": "[[한민족의 멸종 방어]]",
         "불가사리": "[[한민족의 멸종 방어]]",
@@ -6230,8 +6233,7 @@ export const backlinks = {
     },
     "Feature Flag": {
         "Grammarly Work Note 2023-05-25": "- [[Feature Flag]]",
-        "How to Build Software like an SRE": "... time to disable a problematic [[Feature Flag]]",
-        "Oneday": "- Unleash/unleashh ([[Feature Flag]]) Unleash is the open source ..."
+        "How to Build Software like an SRE": "... time to disable a problematic [[Feature Flag]]"
     },
     "Penultimate": {
         "2023-08-10": "- [[Penultimate]]"
@@ -6579,6 +6581,7 @@ export const backlinks = {
         "Project Prepare for Grammarly": "... library to bring Tensorflow on [[Apache Spark]]"
     },
     "Design Trend": {
+        "2024-07-04": "- [[Design Trend]]",
         "Apple-like Block Interface": "[[Design Trend]]",
         "Condensed H1 Design Trend (2024)": "[[Design Trend]]",
         "Painterly Illustration Design Trend (2024)": "[[Design Trend]]"
@@ -7997,6 +8000,9 @@ export const backlinks = {
         "2023-11-14": "- [[Sign in with Apple]]",
         "Project Ganymede": "- Solution: [[Sign in with Apple]]?!"
     },
+    "Use VS Code for Commit Messages": {
+        "2024-07-02": "- [[Use VS Code for Commit Messages]]"
+    },
     "미국물": {
         "2023-09-18": "- [[미국물]]",
         "2023-09-19": "- [[미국물]]"
@@ -8518,7 +8524,8 @@ export const backlinks = {
         "2024-04-14": "- [[망 사용료]]"
     },
     "Open Source vs Source Available": {
-        "2024-03-02": "- [[Open Source vs Source Available]]"
+        "2024-03-02": "- [[Open Source vs Source Available]]",
+        "Open Core Models": "[[Open Source vs Source Available]]"
     },
     "Better Aldehyde": {
         "2022-07-12": "- [[Better Aldehyde]]",
@@ -8773,7 +8780,6 @@ export const backlinks = {
         "2023-04-19": "- [[Headless]]",
         "Ghost 테마를 자동 배포하는 방법": "... AWS에 호스팅하여 사용한다. Ghost CMS는 [[Headless|헤드리스]]하다. 말 그대로 머리가 없다는 뜻으로, ...",
         "Keystone.js": "## keystonejs/keystone: The most powerful [[headless]] [[CMS]] for Node.js — built ...",
-        "Oneday": "... Open Commerce is an API-first, [[headless]] commerce platform built using Node.js, ...",
         "Project Naroo": "... way to interact with a [[headless]] [[Web Browser|browser]] built in top ...",
         "Refine (Framework)": "... Ant Design, Chakra UI, Mantine, [[Headless]])",
         "Satori": "- Easy: No [[headless]] [[Web Browser|browser]] is needed. Using ...",
@@ -9053,7 +9059,6 @@ export const backlinks = {
     },
     "GraphQL": {
         "IDOL Stack": "- Takes care of [[GraphQL]] fuzz",
-        "Oneday": "... platform built using Node.js, React, [[GraphQL]]",
         "Redwood.js": "... For the back-end, Redwood uses [[GraphQL]], a query language for APIs ...",
         "Vector DB": "... cloud-native database, all accessible through [[GraphQL]], REST, and various language clients.",
         "henrymakesapps": "... communication without needing REST or [[GraphQL]].",
@@ -9272,7 +9277,6 @@ export const backlinks = {
         "2024-02-26": "- [[Search Engine]]",
         "Blurry JPEG": "... applications of these models in [[Search Engine|search engines]], web content generation, and assisting ...",
         "Exhalation": "... of writing: first books, then [[Search Engine|search engines]]. By contrast, we've historically resisted ...",
-        "Oneday": "- meilisearch/meilisearch A lightning-fast [[search engine]] that fits effortlessly into your ...",
         "Proposal of Research 2023-01-10": "... accessibility to visually impaired users. [[Search Engine|Search engines]] also use it to understand ...",
         "QA.json": "... is primarily a directive for [[search engine]] crawlers, specifying which parts of ...",
         "Search Engine Indexing Your Life": "- thesephist/monocle: Universal personal [[search engine]], powered by a full-text search ...",
@@ -9373,6 +9377,7 @@ export const backlinks = {
     },
     "성현적 발상": {
         "2024-04-26": "- [[성현적 발상]]",
+        "2024-07-04": "- [[성현적 발상]]",
         "Government as a Service": "- [[성현적 발상]]",
         "Homo Photosynthesis": "[[성현적 발상]]",
         "MetroPunk": "[[성현적 발상]]",
@@ -9387,6 +9392,7 @@ export const backlinks = {
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[성현적 발상]]",
         "내가 만든": "- [[성현적 발상]]",
         "네오상평통보": "[[성현적 발상]]",
+        "디지털 정부의 모든 코드 오픈 소스화": "- 한민족의 멸종 방어 [[성현적 발상]]",
         "소셜 엔지니어링 금지": "[[성현적 발상]]",
         "원하는 곳만 전자레인지": "[[성현적 발상]]",
         "의료 인공지능과 의대 쏠림": "[[성현적 발상]]",
@@ -10283,7 +10289,7 @@ export const backlinks = {
         "2022-09-30": "- Human Motion Diffusion Model [[Prompt Engineering]]",
         "Generative AI": "... answer, AI creates something from [[Prompt Engineering]].",
         "Generative Intelligence": "- Relates to [[Prompt Engineering]] and [[Personal Training Corpus]]?",
-        "Metaverse": "... be attained within years with [[Prompt Engineering]].",
+        "Metaverse": "... be attained within years with [[Prompt Engineering]]. Meta 3D Gen | Research ...",
         "Midjourney": "- Art focused [[Prompt Engineering]] [[Generative AI]] Platform",
         "Obsidian Ava": "- [[Prompt Engineering]]",
         "Point-E": "- [[Prompt Engineering]]",
@@ -10357,7 +10363,7 @@ export const backlinks = {
         "Locking your Mac with Command+L": "... with ⊞Win+L. Mac offered an [[alternative]] called the Hot Corner. But ...",
         "Lottie": "... was developed as a lighter [[alternative]] to animated GIFs and APNG ...",
         "Nota": "Awesome [[alternative]] to [[Obsidian]].",
-        "Oneday": "... KB) and privacy-friendly web analytics [[alternative]] to [[Google Analytics]].",
+        "Open Core Models": "... is an open source, self-hosted [[alternative]] to Trello, Notion, and Asana.",
         "Packet Switching vs Circuit Switching": "- [[Alternative]]. Circuit Switching → Reservation-only Restaurant",
         "Point-E": "... this paper, we explore an [[alternative]] method for 3D object generation ...",
         "Pretendard": "- orioncactus/pretendard: A system-ui [[alternative]] font for all cross-platform",
@@ -10644,7 +10650,6 @@ export const backlinks = {
         "CDN": "... will design uses: Nginx, Lua, [[docker]], docker-compose, Prometheus, grafana, and wrk.",
         "Cloud-Native": "... automation using tools like Kubernetes, [[Docker]], and Terraform.",
         "How to Build Software like an SRE": "- use [[Docker]]",
-        "Oneday": "... core infrastructure Back-end|backend (API, database, [[Docker]], etc).",
         "Render.com": "... programming languages, and has robust [[Docker]] support. good scalability features. Free ..."
     },
     "AI는 고가 노동부터 점령한다": {
@@ -11052,6 +11057,9 @@ export const backlinks = {
     },
     "Grammarly Work Note 2023-07-21": {
         "2023-07-21": "- [[Grammarly Work Note 2023-07-21]]"
+    },
+    "Project Pied Piper": {
+        "2024-07-02": "- [[Project Pied Piper]]"
     },
     "GitHub Actions": {
         "Finding out Ghost version with JS": "... I automated theme deployment with [[GitHub Actions]] (you can find the post ...",
@@ -11884,7 +11892,8 @@ export const backlinks = {
     "지름길과 돌파구 (15誠鉉)": {
         "2023-07-25": "- [[지름길과 돌파구 (15誠鉉)]]",
         "誠鉉": "- [[지름길과 돌파구 (15誠鉉)]]",
-        "기술 유출": "나는 그 [[지름길과 돌파구 (15誠鉉)|돌파구]]를 국가보안법에서 찾았다."
+        "기술 유출": "나는 그 [[지름길과 돌파구 (15誠鉉)|돌파구]]를 국가보안법에서 찾았다.",
+        "성현적 발상": "Somewhat based on [[지름길과 돌파구 (15誠鉉)]], only in some cases."
     },
     "Menu Hover Effects": {
         "2023-02-10": "- [[Menu Hover Effects]]"
@@ -15197,6 +15206,9 @@ export const backlinks = {
     },
     "EF81EE.png": {
         "Alien X": "![[EF81EE.png]]"
+    },
+    "956863.gif": {
+        "Project Pied Piper": "![[956863.gif]]"
     },
     "76B360.png": {
         "기술 발전의 속도": "![[76B360.png]]"
