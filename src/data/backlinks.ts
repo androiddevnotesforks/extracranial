@@ -11600,6 +11600,9 @@ export const backlinks = {
     "Probe Confidential Documents": {
         "2024-04-23": "- [[Probe Confidential Documents]]"
     },
+    "Forcing Fixed-Width Numbers in CSS": {
+        "2024-07-06": "- [[Forcing Fixed-Width Numbers in CSS]]"
+    },
     "XUID": {
         "2022-11-29": "- UUIDs are Awesome. [[XUID]]?",
         "UUID": "[[XUID]]?",
