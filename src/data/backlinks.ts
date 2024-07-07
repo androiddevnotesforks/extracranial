@@ -1399,6 +1399,9 @@ export const backlinks = {
         "Spirits do not Inherit": "... survival that without individuality, the [[metaphor]] of me is as good ...",
         "개성은 쟁취하는 것": "저는 개성이 없으면 나라는 [[Metaphor|메타포]]는 죽은 것이나 마찬가지라는 생존의 문제로 ..."
     },
+    "Project Namie": {
+        "2024-07-07": "- [[Project Namie]]"
+    },
     "CDN": {
         "2022-08-28": "... (~5m). Vercel has 서울|Seoul region [[CDN]].",
         "2022-12-28": "- [[CDN]]",
@@ -7009,9 +7012,6 @@ export const backlinks = {
         "Snowpack으로 WASM 시작하기": "- 다만 Safari와 [[Firefox]]에서는 작동되지 않았다. \"[[SharedArrayBuffer]] is not ...",
         "Super App is a Universal Chat App": "... main target of Signal and [[Firefox]] are people who are flexible ...",
         "WebExtension": "... such as Chrome|Google Chrome, Mozilla [[Firefox]], and Microsoft Edge, support the ..."
-    },
-    "Sparkle Button": {
-        "글감": "- [[Sparkle Button]]"
     },
     "TipKit": {
         "WWDC23": "- [[TipKit]] → Displays some Tooltips"
