@@ -1621,6 +1621,9 @@ export const backlinks = {
     "Jira": {
         "Linear (Software)": "... service, like Height (App), or [[Jira]]"
     },
+    "PPR All The Way": {
+        "2024-07-07": "- [[PPR All The Way]]"
+    },
     "ElonPet": {
         "2023-02-06": "- [[ElonPet]]"
     },
@@ -2209,6 +2212,9 @@ export const backlinks = {
         "Simple Analytics": "> The privacy-first [[Google Analytics]] [[alternative]]. Simple Analytics",
         "YCLF 주간 사용자 1000명": "[[Google Analytics]] Referrals 추적 기능을 통해 어느 ..."
     },
+    "SaaS 외길인생": {
+        "2024-07-07": "- [[SaaS 외길인생]]"
+    },
     "Natural Language": {
         "2022-07-10": "... Pre-trained Transformer|GPT to convert the [[natural language]] to RegEx.",
         "2023-03-20": "... demonstrated impressive abilities to answer [[natural language]] questions and change their behavior ...",
@@ -2555,6 +2561,7 @@ export const backlinks = {
         "2024-05-29": "- [[까리]]",
         "2024-06-03": "- [[까리]]",
         "2024-06-12": "- [[까리]]",
+        "2024-07-07": "- [[까리]]",
         "묵찌빠": "[[까리]]한 한국적 단어.",
         "인사가 만사다": "[[까리]]하다. Insaga Mansada. 뭔가 고대의 주문 ..."
     },
@@ -13095,6 +13102,12 @@ export const backlinks = {
     },
     "4B6FDC.png": {
         "Deepnote": "![[4B6FDC.png]]"
+    },
+    "DD7BED.png": {
+        "PPR All The Way": "![[DD7BED.png]]"
+    },
+    "4D948E.png": {
+        "PPR All The Way": "![[4D948E.png]]"
     },
     "D351D6.png": {
         "Providing DOM API to Worker Threads": "![[D351D6.png]]"
