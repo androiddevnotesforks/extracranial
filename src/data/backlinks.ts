@@ -2032,6 +2032,7 @@ export const backlinks = {
         "2024-02-29": "- [[Open Core Models]]",
         "2024-05-02": "... 엔젤 투자. 나는 그동안 항상 [[Open Core Models]]이 유일한 커뮤니티 상생법이라고 생각했는데 얘네처럼 ...",
         "2024-07-04": "- [[Open Core Models]]",
+        "2024-07-10": "- [[Open Core Models]]",
         "Newtonian Correspondence": "| 02-28 | `EN` [[Open Core Models]] | Tweet |"
     },
     "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
@@ -9216,6 +9217,9 @@ export const backlinks = {
         "WebGPU": "... TypeScript+Rust/WebAssembly|WASM library with its own [[React]]-like run-time. If you're familiar with ...",
         "Write Once Run Everywhere": "- [[React]] and [[React Native]]"
     },
+    "체스터턴의 울타리": {
+        "2024-07-10": "- [[체스터턴의 울타리]]"
+    },
     "Project Millionaire": {
         "2024-06-12": "- [[Project Millionaire]]",
         "Project": "- [[Project Millionaire]]"
@@ -9848,7 +9852,7 @@ export const backlinks = {
         "CJK": "... a collective term for the [[중국어|Chinese]], [[일본어|Japanese]], and [[한국어|Korean]] languages, which ...",
         "Did Bondee Really Suddenly Rise": "... (Jelly, or 这里, \"here\" in [[중국어|Chinese]]), a popular social app in ...",
         "Heimdall Bogus Subscribers Attack Incident": "... started to sign up for [[중국어|Simplified Chinese]], like 300 people",
-        "까리": "... 도교의 수행법 중 하나) Shikiji ([[중국어]]로 \"식사\"라는 뜻) 등. 그래서 나중에 ...",
+        "까리": "... 도교의 수행법 중 하나) Shikiji ([[중국어]]로 \"식사\"라는 뜻) 등. ",
         "하늘땅사람 개발 기록": "그리고 이거는 보니까 [[중국어]]처럼 글자 조합 후에 글씨가 입력되는 ..."
     },
     "Mood.surf": {
