@@ -9852,7 +9852,7 @@ export const backlinks = {
         "CJK": "... a collective term for the [[중국어|Chinese]], [[일본어|Japanese]], and [[한국어|Korean]] languages, which ...",
         "Did Bondee Really Suddenly Rise": "... (Jelly, or 这里, \"here\" in [[중국어|Chinese]]), a popular social app in ...",
         "Heimdall Bogus Subscribers Attack Incident": "... started to sign up for [[중국어|Simplified Chinese]], like 300 people",
-        "까리": "... 도교의 수행법 중 하나) Shikiji ([[중국어]]로 \"식사\"라는 뜻) 등. ",
+        "까리": "... 도교의 수행법 중 하나) Shikiji ([[중국어]]로 \"식사\"라는 뜻) 등.",
         "하늘땅사람 개발 기록": "그리고 이거는 보니까 [[중국어]]처럼 글자 조합 후에 글씨가 입력되는 ..."
     },
     "Mood.surf": {
@@ -11817,6 +11817,9 @@ export const backlinks = {
         "Finance": "- [[Call Option]]",
         "Hinge Fund": "... resort membership and put a [[call option]] on the resort stock. He ...",
         "Put Option": "Opposite of [[Call Option]]"
+    },
+    "Bazalgette Overengineering": {
+        "2024-07-11": "- [[Bazalgette Overengineering]]"
     },
     "AI Garbage Data Flooding": {
         "Generative Intelligence": "- [[AI Garbage Data Flooding]]"
