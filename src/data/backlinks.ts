@@ -1285,6 +1285,9 @@ export const backlinks = {
     "Convergence of Infinite Series": {
         "2023-01-31": "- [[Convergence of Infinite Series]]"
     },
+    "Diminishing Monetary Power and Short-Term Culture": {
+        "2024-07-16": "- [[Diminishing Monetary Power and Short-Term Culture]]"
+    },
     "Grammarly Internal Conference with Executives 2023-08-01": {
         "2023-08-02": "- [[Grammarly Internal Conference with Executives 2023-08-01]]"
     },
@@ -4365,10 +4368,6 @@ export const backlinks = {
     "빙글": {
         "2023-05-03": "- [[빙글]]"
     },
-    "Python Environment Management": {
-        "2024-06-20": "- [[Python Environment Management]]",
-        "2024-06-25": "- [[Python Environment Management]]"
-    },
     "R=VD and Generative AIs": {
         "글감": "- [[R=VD and Generative AIs]]"
     },
@@ -4910,6 +4909,9 @@ export const backlinks = {
     "Limerence": {
         "2023-09-05": "- [[Limerence]]"
     },
+    "Tools for AI in Production": {
+        "2024-07-12": "- [[Tools for AI in Production]]"
+    },
     "Palantir Apollo": {
         "Palantir": "- [[Palantir Apollo]]"
     },
@@ -5334,6 +5336,9 @@ export const backlinks = {
         "0409 Longest Palindrome": "Letters are [[Case-Sensitivity|case sensitive]], for example, `\"Aa\"` is not ...",
         "Grammarly Work Note 2023-05-30": "## [[Case-Sensitivity]]",
         "Make Git Case Sensitive": "Make Git [[Case-Sensitivity|Case Sensitive]]"
+    },
+    "Copper": {
+        "2024-07-15": "[[Copper]]"
     },
     "Content Negotiation": {
         "IDOL Stack": "  - HTTP [[content negotiation]]",
@@ -7868,6 +7873,9 @@ export const backlinks = {
     "PDF OCR": {
         "2024-02-29": "- [[PDF OCR]]"
     },
+    "Firefox Compact Menu Bar": {
+        "2024-07-17": "- [[Firefox Compact Menu Bar]]"
+    },
     "P2P": {
         "Internetworking": "- [[P2P]]"
     },
@@ -9039,7 +9047,8 @@ export const backlinks = {
         "2022-08-04": "- [[Oneday]]",
         "2022-10-10": "- [[Oneday]]. Found tremor.",
         "2024-03-04": "- [[Oneday]]",
-        "2024-03-11": "- [[Oneday]]"
+        "2024-03-11": "- [[Oneday]]",
+        "Harding (Font)": "[[oneday]]"
     },
     "Substack is the new Medium": {
         "2022-10-24": "- [[Substack is the new Medium]]"
@@ -11723,6 +11732,11 @@ export const backlinks = {
         "Meta Meta Framework": "- Meta Meta Framework: [[Redwood.js]], [[Keystone.js]], [[Refine (Framework)]]",
         "i18n with Redwood": "... guide of implementing Internationalization with [[Redwood.js]]"
     },
+    "Python Tooling": {
+        "2024-06-20": "- [[Python Tooling]]",
+        "2024-06-25": "- [[Python Tooling]]",
+        "2024-07-12": "- [[Python Tooling]]"
+    },
     "Unified Korea": {
         "Born of this Land - The Founding Story of Hyundai": "... to create an advanced and [[Unified Korea]]. No matter what, he was ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 상황을 심각하게 인식하고 있으며 장기적으로 [[Unified Korea|통일]]에 대한 희망 또한 아직까지는 품고 ...",
@@ -12219,6 +12233,7 @@ export const backlinks = {
     },
     "Cross-Platform AirDrops": {
         "2022-10-13": "- Taildrop · Tailscale: [[Cross-Platform AirDrops]] [[Tailscale]]",
+        "2024-07-17": "... reliable file hosting – Horizon [[Cross-Platform AirDrops]]",
         "Tailscale": "- Taildrop · Tailscale: [[Cross-Platform AirDrops]]"
     },
     "Reimagining Emails": {
@@ -12322,6 +12337,9 @@ export const backlinks = {
         "Databricks AI Summit 2023 Definitive Healthcare Session": "### Databricks [[Datalake|Lakehouse]] as a Solution:",
         "Datahouse": "... as a control layer for [[Datalake]], allowing for centralized management of ...",
         "Grammarly Work Note 2023-06-02": "... use the concept of a [[Datalake]] for ingesting data and defining ..."
+    },
+    "Harding (Font)": {
+        "2024-07-17": "- [[Harding (Font)]]"
     },
     "Biden-Harris Administration National Security Strategy 2022": {
         "2023-02-15": "- [[Biden-Harris Administration National Security Strategy 2022]]"
@@ -13856,6 +13874,12 @@ export const backlinks = {
     },
     "67123E.png": {
         "洪兔雜記": "![[67123E.png]]"
+    },
+    "B97592.png": {
+        "Tools for AI in Production": "![[B97592.png]]"
+    },
+    "24A14D.png": {
+        "Tools for AI in Production": "![[24A14D.png]]"
     },
     "1C0B4E.png": {
         "AI Note Generators": "![[1C0B4E.png]]"
@@ -15483,6 +15507,9 @@ export const backlinks = {
     "3D775A.png": {
         "LAH Case Study": "![[3D775A.png]]"
     },
+    "8F83D2.png": {
+        "Python Tooling": "![[8F83D2.png]]"
+    },
     "BF2F47.png": {
         "Twitter Recommendation Algorithms": "![[BF2F47.png]]"
     },
@@ -15524,6 +15551,27 @@ export const backlinks = {
     },
     "D79772.png": {
         "Automation": "![[D79772.png]]"
+    },
+    "C189F6.png": {
+        "Harding (Font)": "![[C189F6.png]]"
+    },
+    "FEDD94.png": {
+        "Harding (Font)": "![[FEDD94.png]]"
+    },
+    "EE6778.png": {
+        "Harding (Font)": "![[EE6778.png]]"
+    },
+    "AC5D7F.png": {
+        "Harding (Font)": "![[AC5D7F.png]]"
+    },
+    "4C8076.png": {
+        "Harding (Font)": "![[4C8076.png]]"
+    },
+    "516A90.png": {
+        "Harding (Font)": "![[516A90.png]]"
+    },
+    "B54CE6.png": {
+        "Harding (Font)": "![[B54CE6.png]]"
     },
     "19F478.png": {
         "딱 봐도 조성현": "![[19F478.png]]"
