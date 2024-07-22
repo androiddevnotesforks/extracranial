@@ -1132,6 +1132,9 @@ export const backlinks = {
     "WidgetKit": {
         "WWDC23": "- [[WidgetKit]] → Interactivity. Also possible to ..."
     },
+    "Love Expo": {
+        "Love Software": "- [[Love Expo]]"
+    },
     "Aldehyde SaaS": {
         "2023-05-30": "- [[Aldehyde SaaS]]",
         "Project Sillok": "- [[Aldehyde SaaS]]."
@@ -3013,6 +3016,9 @@ export const backlinks = {
         "2023-04-19": "- [[일일일]]",
         "Project Heimdall Initial Planning": "... An AI-powered news portal? Reference: [[일일일]], [[News Minimalist]]. Would it eventually ..."
     },
+    "Tossface Firefox Bug Report": {
+        "2024-07-18": "- [[Tossface Firefox Bug Report]]"
+    },
     "벨로그": {
         "Classic Blogs": "- [[벨로그|Velog]]",
         "Person 9078DC": "[[벨로그]]의 초기 성장에는 [[벨로퍼트]]님의 글이 가장 ..."
@@ -3229,6 +3235,9 @@ export const backlinks = {
     "불가사리 재단": {
         "2023-08-13": "- [[불가사리 재단]]",
         "Person 960D1D": "- [[불가사리 재단]]?"
+    },
+    "Love Ghost": {
+        "Love Software": "- [[Love Ghost]]"
     },
     "Structs and Unions": {
         "2022-11-03": "- [[Structs and Unions]]",
@@ -3637,6 +3646,7 @@ export const backlinks = {
     },
     "Love Software": {
         "2023-02-26": "- [[Love Software]]",
+        "2024-07-19": "[[Love Software]]",
         "Digital Addiction": "Problem. I [[love software]], but I am sometimes too ..."
     },
     "Laplace Demon": {
@@ -6419,7 +6429,8 @@ export const backlinks = {
         "2023-04-10": "- [[글감]]",
         "2023-04-15": "- [[글감]]",
         "2024-04-20": "- [[글감]]",
-        "2024-07-09": "- [[글감]]"
+        "2024-07-09": "- [[글감]]",
+        "2024-07-22": "[[글감]]"
     },
     "국내 은행 서비스가 나쁜 이유": {
         "2023-02-20": "- [[국내 은행 서비스가 나쁜 이유]]",
@@ -6775,6 +6786,9 @@ export const backlinks = {
     },
     "Jasonette": {
         "2024-04-04": "- [[Jasonette]]"
+    },
+    "Love Elysia": {
+        "Love Software": "- [[Love Elysia]]"
     },
     "프로젝트 어덕행덕": {
         "2019-11-06": "- [[프로젝트 어덕행덕]]",
@@ -13013,6 +13027,9 @@ export const backlinks = {
     "B29592.png": {
         "RoughNotation": "![[B29592.png]]"
     },
+    "66B3B1.png": {
+        "Love Expo": "![[66B3B1.png]]"
+    },
     "123AA1.png": {
         "Aldehyde Outage (January 23誠鉉)": "![[123AA1.png]]"
     },
@@ -13496,6 +13513,9 @@ export const backlinks = {
     },
     "2718AD.png": {
         "일일일": "![[2718AD.png]]"
+    },
+    "B31F97.png": {
+        "Tossface Firefox Bug Report": "![[B31F97.png]]"
     },
     "2576C7.png": {
         "Spellbound": "![[2576C7.png]]"
@@ -14435,6 +14455,9 @@ export const backlinks = {
     },
     "77A21C.png": {
         "Change App Display Name on Xcode": "![[77A21C.png]]"
+    },
+    "AAEB82.png": {
+        "Love Elysia": "![[AAEB82.png]]"
     },
     "2A2DC6.png": {
         "프로젝트 어덕행덕": "![[2A2DC6.png]]"
