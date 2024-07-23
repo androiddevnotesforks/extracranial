@@ -255,6 +255,9 @@ export const backlinks = {
     "2023-06-21": {
         "Project Naroo": "## [[2023-06-21]]"
     },
+    "2022-06-15": {
+        "ScienceOps": "... 지구의 \"영양분의 바다\"처럼 맴돌고 떠돌다가, [[2022-06-15]]에 글을 읽고, 더 나아가서 직접 ..."
+    },
     "2022-08-16": {
         "이루다": "[[2022-08-16]] [[Los Angeles|LA]]로 오는 비행기에서 우연히 ..."
     },
@@ -4163,7 +4166,8 @@ export const backlinks = {
         "하늘땅사람 개발 기록": "[[Apple]] QuickType과 비슷한 자동완성 기능은 필수적인데, ..."
     },
     "Research Paper NPM System": {
-        "2023-05-30": "- [[Research Paper NPM System]]"
+        "2023-05-30": "- [[Research Paper NPM System]]",
+        "ScienceOps": "... 너무 구리다는 생각과 (ORCID도 마찬가지) [[Research Paper NPM System]]과 아이디어들이 유기적으로 연결되는 [[Tools for ..."
     },
     "Person 88B488": {
         "Project PEOPLE": "- [[Person 88B488]]"
@@ -5647,6 +5651,10 @@ export const backlinks = {
         "Nuclear Fusion Edible Capsule": "Can we embed a micro [[nuclear fusion]] reactor ([[nuclear fusion terrarium]]) into ...",
         "Nuclear Fusion Molecule 3D Printer": "... to 3D-print any molecules with [[nuclear fusion]]?",
         "Nuclear Fusion Terrarium": "... create a Terrarium with a [[nuclear fusion]] core inside to create an ...",
+        "ScienceOps": "어렸을 적부터 [[Nuclear Fusion|핵융합]]에 관심이 많았다. 초등학교 과학관 퀴즈 ...",
+        "The Techno-optimist Manifesto": "... silver bullet is coming – [[nuclear fusion]]. We should build that as ...",
+        "금동대융합로": "나중에 [[Nuclear Fusion|핵융합]]로를 만든다면 금동대향로의 모양대로 만들 것이다.",
+        "기술낙관론자 선언문": "우리는 두 번째 에너지의 묘약인 [[Nuclear Fusion|핵융합]]이 다가오고 있다고 믿는다. 우리도 그것을 ...",
         "불가사리": "[[Nuclear Fusion|핵융합]]"
     },
     "MAGI": {
@@ -5664,6 +5672,9 @@ export const backlinks = {
         "Grammarly Work Note 2023-06-02": "... GQL on top of the [[Metastore|meta store]] and Spark.",
         "Hive Metastore": "Apache Hive|Hive [[Metastore]] is the central repository for ...",
         "Meta": "- [[Metastore]]"
+    },
+    "Never reinvent the wheel. But if you end up doing it, let the whole world know why your wheel is better.": {
+        "2024-07-23": "- [[Never reinvent the wheel. But if you end up doing it, let the whole world know why your wheel is better.]]"
     },
     "Indirect Information Leakage": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Indirect Information Leakage]]"
@@ -6219,6 +6230,10 @@ export const backlinks = {
         "2022-06-10": "... a proof of concept, the [[Researcher|researchers]] demonstrated that the attack even ...",
         "2023-03-12": "... reference map\" that could help [[Researcher|researchers]] better understand how the brains ...",
         "Attention Settings": "### Give [[Researcher|Researchers]] Access to Screen Time Data",
+        "Backdrop Build Week 1 Update": "- Academic [[Researcher|Researchers]] and Students, especially those conducting ...",
+        "ChatGPT is a Blurry JPEG and We Need That": "... similar duration to what real-world [[Researcher|researchers]] may spend investigating, analyzing, and ...",
+        "ChatGPT는 흐릿한 이미지이지만 필요합니다": "... 시간은 92일에 달하는데, 이는 실제 [[Researcher|연구자들]]이 복잡한 주제나 개념을 조사, 분석, ...",
+        "Dear AIs, I have a question.": "... for a position as a [[researcher]]? Or are you looking for ...",
         "Homomorphic Encryption": "2. Privacy-Preserving Medical Research. [[Researcher|Researchers]] can perform computations on encrypted ...",
         "In-house and Free Market": "... dynamic and stimulating environment for [[Researcher|researchers]] and students. It's arguably the ...",
         "Mail": "... that drive research. They've helped [[Researcher|researchers]] connect with each other and ...",
@@ -6228,6 +6243,7 @@ export const backlinks = {
         "Person ED7526": "... there are distinct differences. A [[Researcher]] may have limited knowledge of ...",
         "Proposal of Research 2023-01-10": "... structures. However, in January 2018, [[Researcher|researchers]] disclosed a set of vulnerabilities ...",
         "Research Paper NPM System": "... It's an npm system for [[Researcher|Researchers]]. Citations are npm `install`s. Embedded ...",
+        "ScienceOps": "... ECL의 1,400평방미터 본사에서는 전 세계 [[Researcher|연구자들]]이 발행한 코드 라인에 의해 운영되는 ...",
         "Space Terraforming": "... of serious scientific inquiry. Some [[Researcher|researchers]] have proposed terraforming Mars, for ...",
         "Wael AbdAlmageed": "- [[Researcher]] at [[University of Southern California]]",
         "Wikiversity": "... We invite teachers, students, and [[Researcher|researchers]] to join us in creating ...",
@@ -8198,6 +8214,9 @@ export const backlinks = {
         "2022-10-17": "### [[Backlinking for Aldehyde]]",
         "Better Aldehyde": "- [[Backlinking for Aldehyde]]"
     },
+    "ScienceOps": {
+        "2024-07-24": "- [[ScienceOps]]"
+    },
     "Java": {
         "2022-07-20": "- [[Java]] → Kotlin",
         "Heap (Computer Systems)": "On the other hand, [[Java]], [[Python]], or other higher-level languages ...",
@@ -8745,6 +8764,7 @@ export const backlinks = {
         "Plateau of Latent Potential": "... of human intelligence with next-gen [[Tools for Thought]]?",
         "Powerfully Powerless Tools": "... a repeated paradigm in the [[Tools for Thought]] [[Software as a Service]] market.",
         "Rauno": "Interesting Extracranial [[Tools for Thought]] ([[Data Capturers]])",
+        "ScienceOps": "... NPM System과 아이디어들이 유기적으로 연결되는 [[Tools for Thought|사고 도구]]들에 대해서 생각하게 되면서 궁극적으로 ScienceOps라는 ...",
         "Spacial Cognition": "- Dozens of [[Tools for Thought]] use it. For example, [[Heptabase]].",
         "강력하게 미약한 도구들": "현 [[Tools for Thought]] [[Software as a Service|SaaS]] 시장에는 ...",
         "뉴턴의 서신": "Mail|편지이야말로 뉴턴의 [[Tools for Thought|사고 도구]]였다."
@@ -9421,6 +9441,7 @@ export const backlinks = {
         "MetroPunk": "[[성현적 발상]]",
         "Nuclear Fusion Molecule 3D Printer": "[[성현적 발상]]",
         "Programmable Vaccines": "[[성현적 발상]]",
+        "ScienceOps": "[[성현적 발상]]",
         "Super App is a Universal Chat App": "- [[성현적 발상]]",
         "誠鉉": "- [[성현적 발상]]",
         "건강한 한국 토착 신앙": "[[성현적 발상]]",
