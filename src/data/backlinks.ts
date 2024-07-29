@@ -1908,6 +1908,9 @@ export const backlinks = {
         "2023-01-23": "- [[Multiplication Theorem]]",
         "Probability": "- $P(A1 \\cap A2)$ → [[Multiplication Theorem]]"
     },
+    "UV": {
+        "2024-07-26": "- [[UV]]"
+    },
     "Node.js 앱을 AWS EB에서 Heroku로 옮기기": {
         "2022-11-19": "  - [[Node.js 앱을 AWS EB에서 Heroku로 옮기기]]",
         "Migrating Node.js apps from AWS EB to Heroku": "- [[Node.js 앱을 AWS EB에서 Heroku로 옮기기]]"
@@ -3003,6 +3006,9 @@ export const backlinks = {
         "WebNPU API를 상상하다": "... 이미 Apple|애플의 Neural Engine으로 On-Device|온디바이스 [[ML]] 기술의 시작을 관찰하고 있다. 여기에는 ...",
         "honest-but-curious": "... parties collaborate to build a [[ML|machine-learning]] model without sharing their raw ...",
         "우린 텍스트 틱톡을 평생 만들 수 있을까": "... Artifact|아티팩트라는 새로운 앱을 출시했다. Artifact|아티팩트는 [[ML|머신 러닝]]으로 관심사 기반 뉴스를 추천해주는 앱이다. ..."
+    },
+    "Slack Watcher App to Confluence": {
+        "2024-07-26": "- [[Slack Watcher App to Confluence]]"
     },
     "ACL 60-60": {
         "Neo ArXiv": "... can auto-translate to all locales? [[ACL 60-60]]",
@@ -4741,6 +4747,9 @@ export const backlinks = {
         "henrymakesapps": "1. [[Next.js]]. Used for both [[front-end]] and ...",
         "hn.cho.sh 개발 기록": "... a Service|SaaS starter template for [[Next.js]] and [[Supabase]] 살펴보기"
     },
+    "GitHub Blog Drop-in Newsletter": {
+        "2024-07-26": "- [[GitHub Blog Drop-in Newsletter]]"
+    },
     "Jupyter": {
         "Deepnote": "- [[Jupyter]] compatible"
     },
@@ -5266,6 +5275,7 @@ export const backlinks = {
         "Satori Widgets": "Someday [[Project]]",
         "Send Separately": "Someday [[Project]]. \"Send Separately\" for [[iMessage]].",
         "Show me your Laptop": "Someday [[Project]]. And embeddable [[SVG]] card that ...",
+        "Slack Watcher App to Confluence": "Oneday [[Project]]",
         "Snowpack으로 WASM 시작하기": "... 다음 문장을 통해 `create-snowpack-app`으로 gif-converter라는 [[Project|프로젝트]]를 생성한다.",
         "Sticker Party": "Someday [[Project]] GitHub README에 박을 수 있음. ...",
         "Stories Behind Satori": "... already done by an open-source [[project]] facebook/yoga.",
@@ -9082,7 +9092,8 @@ export const backlinks = {
         "2022-10-10": "- [[Oneday]]. Found tremor.",
         "2024-03-04": "- [[Oneday]]",
         "2024-03-11": "- [[Oneday]]",
-        "Harding (Font)": "[[oneday]]"
+        "Harding (Font)": "[[oneday]]",
+        "Slack Watcher App to Confluence": "[[Oneday]] [[Project]]"
     },
     "Substack is the new Medium": {
         "2022-10-24": "- [[Substack is the new Medium]]"
@@ -9121,6 +9132,9 @@ export const backlinks = {
     },
     "ScreenCaptureKit": {
         "WWDC23": "- Video Conferencing → [[ScreenCaptureKit]]"
+    },
+    "Biome": {
+        "2024-07-27": "- [[Biome]]"
     },
     "기숙사 생활과 방 배정": {
         "2016-11-11": "- [[기숙사 생활과 방 배정]]",
@@ -11770,7 +11784,9 @@ export const backlinks = {
     "Python Tooling": {
         "2024-06-20": "- [[Python Tooling]]",
         "2024-06-25": "- [[Python Tooling]]",
-        "2024-07-12": "- [[Python Tooling]]"
+        "2024-07-12": "- [[Python Tooling]]",
+        "2024-07-29": "- [[Python Tooling]]",
+        "UV": "[[Python Tooling]]"
     },
     "Unified Korea": {
         "Born of this Land - The Founding Story of Hyundai": "... to create an advanced and [[Unified Korea]]. No matter what, he was ...",
@@ -12030,6 +12046,9 @@ export const backlinks = {
         "Framer": "- Creator of [[Framer Motion]]",
         "dub.co": "  - [[Framer Motion|Framer Animation]]"
     },
+    "Conditional Dark Mode Image on GitHub README": {
+        "2024-07-29": "- [[Conditional Dark Mode Image on GitHub README]]"
+    },
     "Video to GIF": {
         "2023-11-09": "- [[Video to GIF]]"
     },
@@ -12285,6 +12304,9 @@ export const backlinks = {
     "Perceptual Hashing": {
         "2022-12-18": "- [[Perceptual Hashing]]",
         "Letter to Mr. Matt Rickard on 2022-11-28": "### [[Perceptual Hashing]]"
+    },
+    "Grammarly for CI CD Pipelines": {
+        "2024-07-26": "- [[Grammarly for CI CD Pipelines]]"
     },
     "기술 르네상스 (18誠鉉-20誠鉉)": {
         "2023-09-05": "- [[기술 르네상스 (18誠鉉-20誠鉉)]]",
@@ -15550,6 +15572,9 @@ export const backlinks = {
     },
     "3D775A.png": {
         "LAH Case Study": "![[3D775A.png]]"
+    },
+    "BDC66F.png": {
+        "Python Tooling": "![[BDC66F.png]]"
     },
     "8F83D2.png": {
         "Python Tooling": "![[8F83D2.png]]"
