@@ -3361,7 +3361,8 @@ export const backlinks = {
         "2023-03-12": "- [[Local ChatGPT]]"
     },
     "Feedforward Neural Network": {
-        "2023-09-27": "- [[Feedforward Neural Network]]"
+        "2023-09-27": "- [[Feedforward Neural Network]]",
+        "Universal Approximation Theorem": "Given a function, a [[feedforward neural network]] with just one hidden layer ..."
     },
     "A Massive Mystery": {
         "2023-02-07": "- [[A Massive Mystery]]",
