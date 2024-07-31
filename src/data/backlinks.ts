@@ -15,8 +15,8 @@ export const backlinks = {
         "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "[[2024-02-01]]에 받은 유승현 님의 [[Mail|편지]] 속 ..."
     },
     "2023-07-11": {
-        "Project Heimdall Table Structure": "[[2023-07-11]] Version",
-        "Project Naroo": "## [[2023-07-11]]"
+        "Project Heimdall": "## [[2023-07-11]]",
+        "Project Heimdall Table Structure": "[[2023-07-11]] Version"
     },
     "2022-07-11": {
         "2022-07-12": "On [[2022-07-11]], I analyzed that [[Brane]] is ...",
@@ -70,7 +70,7 @@ export const backlinks = {
         "Mapping keys to set different input languages on macOS": "[[2021-08-15]]"
     },
     "2023-07-15": {
-        "Project Naroo": "## [[2023-07-15]]"
+        "Project Heimdall": "## [[2023-07-15]]"
     },
     "2016-07-01": {
         "식영부원의 관점에서 바라본 치킨데이": "[[2016-07-01]]에 게재된 [[재학생일기]]이다."
@@ -89,7 +89,7 @@ export const backlinks = {
     },
     "2023-05-11": {
         "Project FFMpeg for iPad": "## [[2023-05-11]]",
-        "Project Naroo": "## [[2023-05-11]]"
+        "Project Heimdall": "## [[2023-05-11]]"
     },
     "2020-02-23": {
         "프로젝트 어덕행덕": "- [[2020-02-23]]"
@@ -110,7 +110,7 @@ export const backlinks = {
         "과거의 영광 (16誠鉉-18誠鉉)": "## [[2016-05-31|2016년 5월 31일]]"
     },
     "2023-08-08": {
-        "Project Naroo": "## [[2023-08-08]]"
+        "Project Heimdall": "## [[2023-08-08]]"
     },
     "2023-03-20": {
         "hn.cho.sh 개발 기록": "## [[2023-03-20]]"
@@ -154,7 +154,7 @@ export const backlinks = {
     },
     "2023-07-30": {
         "Heimdall Bogus Subscribers Attack Incident": "- Happened from [[2023-07-30]]-[[2023-08-01]], or something like that",
-        "Project Naroo": "## [[2023-07-30]]"
+        "Project Heimdall": "## [[2023-07-30]]"
     },
     "2023-05-10": {
         "hn.cho.sh 개발 기록": "## [[2023-05-10]]"
@@ -183,7 +183,7 @@ export const backlinks = {
         "Sending Notifications on Chrome Extension": "[[2020-05-29]]"
     },
     "2023-12-23": {
-        "Project Naroo": "## [[2023-12-23]]"
+        "Project Heimdall": "## [[2023-12-23]]"
     },
     "2024-06-25": {
         "Prject PIRI": "## [[2024-06-25]]"
@@ -227,7 +227,7 @@ export const backlinks = {
         "Project PIRI (Performant & Interoperable Rendering Infrastructure)": "## [[2024-02-24]]"
     },
     "2023-12-07": {
-        "Project Naroo": "## [[2023-12-07]]"
+        "Project Heimdall": "## [[2023-12-07]]"
     },
     "2023-10-13": {
         "Project Ganymede": "## [[2023-10-13]]"
@@ -253,7 +253,7 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- [[2020-03-07]]"
     },
     "2023-06-21": {
-        "Project Naroo": "## [[2023-06-21]]"
+        "Project Heimdall": "## [[2023-06-21]]"
     },
     "2022-06-15": {
         "ScienceOps": "... 지구의 \"영양분의 바다\"처럼 맴돌고 떠돌다가, [[2022-06-15]]에 글을 읽고, 더 나아가서 직접 ..."
@@ -269,7 +269,7 @@ export const backlinks = {
         "하늘땅사람 개발 기록": "## [[2022-12-28]]"
     },
     "2023-11-06": {
-        "Project Naroo": "## [[2023-11-06]]"
+        "Project Heimdall": "## [[2023-11-06]]"
     },
     "2024-07-04": {
         "성현적 발상": "## [[2024-07-04]]"
@@ -356,7 +356,7 @@ export const backlinks = {
         "바이올린 켜면 바이올레이션": "[[2016-04-01]]에 게재된 [[재학생일기]]이다."
     },
     "2023-08-02": {
-        "Project Naroo": "## [[2023-08-02]]"
+        "Project Heimdall": "## [[2023-08-02]]"
     },
     "2023-04-04": {
         "hn.cho.sh 개발 기록": "## [[2023-04-04]]"
@@ -373,7 +373,7 @@ export const backlinks = {
         "1448 Count Good Nodes in Binary Tree": "Solved at: [[2022-08-27]]"
     },
     "2023-11-03": {
-        "Project Naroo": "## [[2023-11-03]]"
+        "Project Heimdall": "## [[2023-11-03]]"
     },
     "2020-09-24": {
         "프로젝트 어덕행덕": "## [[2020-09-24]]의 메모"
@@ -400,7 +400,7 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "## [[2023-04-14]]"
     },
     "2023-06-20": {
-        "Project Naroo": "## [[2023-06-20]]"
+        "Project Heimdall": "## [[2023-06-20]]"
     },
     "2023-09-19": {
         "커피의 끝": "커피를 끊은지 한달 반이 넘었다. ([[2023-09-19]])."
@@ -435,7 +435,7 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "## [[2023-04-10]]"
     },
     "2023-08-07": {
-        "Project Naroo": "## [[2023-08-07]]"
+        "Project Heimdall": "## [[2023-08-07]]"
     },
     "2016-06-24": {
         "공강에서 보내는 공강 활용법": "[[2016-06-24]]에 게재된 [[재학생일기]]이다."
@@ -453,7 +453,7 @@ export const backlinks = {
     },
     "2023-06-27": {
         "Grammarly Work Note 2023-06-27": "- Grammarly Work Note [[2023-06-27]]",
-        "Project Naroo": "## [[2023-06-27]]",
+        "Project Heimdall": "## [[2023-06-27]]",
         "Truthiness of Empty Strings": "On [[2023-06-27]], our team at [[Grammarly]] found ..."
     },
     "2020-09-27": {
@@ -512,7 +512,7 @@ export const backlinks = {
         "Project Ganymede": "## [[2024-03-07]]"
     },
     "2023-06-17": {
-        "Project Naroo": "## [[2023-06-17]]"
+        "Project Heimdall": "## [[2023-06-17]]"
     },
     "2022-07-19": {
         "2022-07-21": "See [[2022-07-19]].",
@@ -609,7 +609,7 @@ export const backlinks = {
         "하늘땅사람 업데이트 기록": "## 1.0.9 [[2023-04-06]]"
     },
     "2023-06-26": {
-        "Project Naroo": "## [[2023-06-26]]"
+        "Project Heimdall": "## [[2023-06-26]]"
     },
     "2022-11-01": {
         "2022년 11월 한 달간 일기 쓰기": "- [[2022-11-01]] 실패. 과제가 너무 많았다."
@@ -641,7 +641,7 @@ export const backlinks = {
         "Jog 25 minutes (Jan-Feb 23誠鉉)": "- [[2023-02-13]]. 개인 사정"
     },
     "2023-05-18": {
-        "Project Naroo": "## [[2023-05-18]]"
+        "Project Heimdall": "## [[2023-05-18]]"
     },
     "2023-04-16": {
         "hn.cho.sh 개발 기록": "## [[2023-04-16]]"
@@ -649,7 +649,7 @@ export const backlinks = {
     "2023-08-01": {
         "Grammarly Internal Conference with Executives 2023-08-01": "Grammarly Internal Conference with Executives [[2023-08-01]]",
         "Heimdall Bogus Subscribers Attack Incident": "- Happened from 2023-07-30-[[2023-08-01]], or something like that",
-        "Project Naroo": "## [[2023-08-01]]"
+        "Project Heimdall": "## [[2023-08-01]]"
     },
     "2023-03-06": {
         "hn.cho.sh 개발 기록": "## [[2023-03-06]]"
@@ -686,7 +686,7 @@ export const backlinks = {
         "Person 431D6C": "- Interviewed on [[2024-02-07]]"
     },
     "2023-07-17": {
-        "Project Naroo": "## [[2023-07-17]]"
+        "Project Heimdall": "## [[2023-07-17]]"
     },
     "2023-07-23": {
         "J. Robert Oppenheimer": "[[2023-07-23]]"
@@ -742,8 +742,8 @@ export const backlinks = {
         "Project Ganymede": "## [[2024-06-12]]"
     },
     "2023-07-13": {
-        "Project Linguine": "## [[2023-07-13]]",
-        "Project Naroo": "## [[2023-07-13]]"
+        "Project Heimdall": "## [[2023-07-13]]",
+        "Project Linguine": "## [[2023-07-13]]"
     },
     "2022-07-13": {
         "0021 Merge Two Sorted Lists": "Solved at: [[2022-07-13]]",
@@ -756,8 +756,8 @@ export const backlinks = {
         "Snowpack으로 WASM 시작하기": "[[2020-11-27]]"
     },
     "2023-04-19": {
-        "Project Heimdall Initial Planning": "[[2023-04-19]]",
-        "Project Naroo": "## [[2023-04-19]]"
+        "Project Heimdall": "## [[2023-04-19]]",
+        "Project Heimdall Initial Planning": "[[2023-04-19]]"
     },
     "2023-07-03": {
         "Funeral Playlist": "... Thus, I have decided on [[2023-07-03]] that I want a set ..."
@@ -807,7 +807,7 @@ export const backlinks = {
         "Linux Permissions for Keys": "[[2022-04-18]]"
     },
     "2023-05-16": {
-        "Project Naroo": "## [[2023-05-16]]"
+        "Project Heimdall": "## [[2023-05-16]]"
     },
     "2022-10-11": {
         "Letter to the Heptabase Team on 2022-10-11": "... to the Heptabase Team on [[2022-10-11]]",
@@ -832,11 +832,11 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- [[2020-04-01]]"
     },
     "2023-07-16": {
-        "Project Naroo": "## [[2023-07-16]]"
+        "Project Heimdall": "## [[2023-07-16]]"
     },
     "2023-06-18": {
-        "Project Heimdall Table Structure": "[[2023-06-18]] Version",
-        "Project Naroo": "## [[2023-06-18]]"
+        "Project Heimdall": "## [[2023-06-18]]",
+        "Project Heimdall Table Structure": "[[2023-06-18]] Version"
     },
     "2020-11-06": {
         "프로젝트 어덕행덕": "- [[2020-11-06]]"
@@ -879,7 +879,7 @@ export const backlinks = {
     "Algorithmic Recommendation Engine for Texts": {
         "2023-02-02": "- [[Algorithmic Recommendation Engine for Texts]]",
         "2024-01-01": "[[Algorithmic Recommendation Engine for Texts]]",
-        "LavaLab Cohort of Spring 2023": "... to Project Naroo, by attempting [[Algorithmic Recommendation Engine for Texts]].",
+        "LavaLab Cohort of Spring 2023": "... to Project Heimdall, by attempting [[Algorithmic Recommendation Engine for Texts]].",
         "hn.cho.sh 개발 기록": "- [[Algorithmic Recommendation Engine for Texts]]"
     },
     "Tailscale": {
@@ -1054,7 +1054,7 @@ export const backlinks = {
         "Buttondown": "... small, elegant tool for producing [[Newsletter|newsletters]]. The minimalist interface makes it ...",
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... do not currently have a [[newsletter]]. I was looking for a ...",
         "Listmonk": "... that allows you to send [[Newsletter|newsletters]], promotional [[Mail|emails]], and transactional [[Mail|emails]]. ...",
-        "Project Naroo": "... value. People are spamming the [[newsletter]] mailing list by enrolling in ...",
+        "Project Heimdall": "... value. People are spamming the [[newsletter]] mailing list by enrolling in ...",
         "Reimagining Emails": "- [[Newsletter]]",
         "Substack": "Substack is a [[Newsletter]] network and a blogging service.",
         "Tailwind": "... like a blog or a [[newsletter]]"
@@ -1119,6 +1119,9 @@ export const backlinks = {
     },
     "RoughNotation": {
         "2023-12-23": "- [[RoughNotation]]"
+    },
+    "GANGNAM": {
+        "2024-07-31": "- [[GANGNAM]]"
     },
     "0206 Reverse Linked List": {
         "Coding Tests": "- [x] [[0206 Reverse Linked List]]"
@@ -1190,7 +1193,7 @@ export const backlinks = {
         "2022-12-04": "- [[Aldehyde]]",
         "2023-02-16": "On [[Aldehyde]], one user wrote, When you ...",
         "2023-03-28": "- [[Aldehyde]]",
-        "2023-10-31": "... Project Naroo|Heimdall updates OK, but [[Aldehyde]] gives some errors, most likely ...",
+        "2023-10-31": "... Project Heimdall|Heimdall updates OK, but [[Aldehyde]] gives some errors, most likely ...",
         "Aldehyde SaaS": "Someday Project. It's this [[Aldehyde]].",
         "Better Aldehyde": "- [[Aldehyde]]",
         "Developing Review Notes for Obsidian": "- [[Aldehyde]]의 기술적 발전으로 인해 옵시디언 내부보다 ...",
@@ -1483,8 +1486,8 @@ export const backlinks = {
     "Project Linguine": {
         "2023-06-15": "- [[Project Linguine]]",
         "2023-06-18": "- [[Project Linguine]]",
-        "Project Heimdall Locale Transition Strategy": "... on DeepL's 29 languages. On [[Project Linguine]], I decided to migrate to ...",
-        "Project Naroo": "- [[Project Linguine]]"
+        "Project Heimdall": "- [[Project Linguine]]",
+        "Project Heimdall Locale Transition Strategy": "... on DeepL's 29 languages. On [[Project Linguine]], I decided to migrate to ..."
     },
     "Palantir": {
         "2022-10-21": "- [[Palantir]]",
@@ -1971,7 +1974,7 @@ export const backlinks = {
         "2023-01-27": "... out to be it was [[Docusaurus]]'s recent bug: Using Tabs will ...",
         "2023-02-16": "... publishing workflow with Obsidian and [[Docusaurus]], please count me as one ...",
         "2023-04-19": "- [[Docusaurus]]",
-        "2023-10-31": "I tried to update [[Docusaurus]] to 3.0. [[Project Naroo|Heimdall]] updates ...",
+        "2023-10-31": "I tried to update [[Docusaurus]] to 3.0. [[Project Heimdall|Heimdall]] updates ...",
         "2023-11-12": "Updated this blog to [[Docusaurus]] v3! Had to fix a ...",
         "Aldehyde Outage (January 23誠鉉)": "## [[Docusaurus]] 2.3.0 `useSyncExternalStore` Bug",
         "Better Docusaurus": "... I currently don't like about [[Docusaurus]]",
@@ -1981,7 +1984,7 @@ export const backlinks = {
         "Letter to the Heptabase Team on 2022-10-11": "... also a contributor to GoogleChrome/web.dev, Facebook/[[docusaurus]], [[Vercel]]/[[Satori]], Logseq/Logseq, Etc. I came ...",
         "Migrating Project Aldehyde to FlightControl (February 24誠鉉)": "... As far as I know, [[docusaurus]] has its internal hash output ...",
         "Paracosm": "... Thought that aims to replace [[Docusaurus]] with [[Vercel]]'s tech stacks.",
-        "Project Naroo": "... switched to a more conventional [[Docusaurus]] with [[Listmonk]]. Consider [[Project]] [[Done]].",
+        "Project Heimdall": "... switched to a more conventional [[Docusaurus]] with [[Listmonk]]. Consider [[Project]] [[Done]].",
         "Redirect": "## Redirects in [[Docusaurus]]",
         "도메인 찾아 삼만리": "... 느꼈다. 나는 블로그를 WordPress에서 Ghost, [[Docusaurus]]로 마이그레이션하면서 여러 기여를 했고 프레임워크를 ..."
     },
@@ -2521,38 +2524,6 @@ export const backlinks = {
         "LocLog": "Google timeline but [[Project Horcrux|horcruxed]]",
         "Very Good Photo Backup Service": "[[Project Horcrux]]"
     },
-    "Project Naroo": {
-        "2023-04-19": "- [[Project Naroo]]",
-        "2023-05-10": "- [[Project Naroo]]",
-        "2023-05-16": "- [[Project Naroo]]",
-        "2023-05-18": "- [[Project Naroo]]",
-        "2023-06-17": "- [[Project Naroo]]",
-        "2023-06-18": "- [[Project Naroo]]",
-        "2023-06-20": "- [[Project Naroo]]",
-        "2023-06-21": "- [[Project Naroo]]",
-        "2023-06-26": "- [[Project Naroo]]",
-        "2023-06-27": "- [[Project Naroo]]",
-        "2023-07-11": "- [[Project Naroo]]",
-        "2023-07-13": "- [[Project Naroo]]",
-        "2023-07-15": "[[Project Naroo]]",
-        "2023-07-16": "- [[Project Naroo]]. Float UI - Free open ...",
-        "2023-07-17": "- [[Project Naroo]]",
-        "2023-08-08": "[[Project Naroo|Heimdall]]",
-        "2023-10-31": "... to update Docusaurus to 3.0. [[Project Naroo|Heimdall]] updates OK, but [[Aldehyde]] gives ...",
-        "2023-11-03": "- [[Project Naroo|Heimdall]]",
-        "2023-11-06": "- [[Project Naroo|Heimdall]]",
-        "2023-11-28": "- [[Project Naroo]]의 이름은 naroo.ai로 하기로 했다. 나루.",
-        "2023-12-23": "- [[Project Naroo]]",
-        "FireCrawl": "Crawler, potentially [[Project Naroo]]",
-        "HN Broadcast": "maybe [[Project Naroo]]",
-        "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Naroo]] migration, added new languages",
-        "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Naroo]], by attempting [[Algorithmic Recommendation Engine ...",
-        "METI Engine": "... plan to scale it to [[Project Naroo]].",
-        "Project Heimdall Locale Transition Strategy": "[[Project Naroo]]'s predecessor [[hn.cho.sh]] operated on DeepL's ...",
-        "hn.cho.sh 개발 기록": "[[Project Naroo]]",
-        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "> [[Project Naroo|Heimdall]]이나 [[Bing Chat for All Browsers]]과 ...",
-        "일일일": "NewsGPT Model. A competitor to [[Project Naroo]]."
-    },
     "ShadowRealm": {
         "2022-06-26": "- Let's not explore [[ShadowRealm]] and `iframe` [[Sandbox]] for now.",
         "Realm Shim": "... of the Realm API Proposal ([[ShadowRealm]])"
@@ -2659,7 +2630,7 @@ export const backlinks = {
         "Migrating Project Aldehyde to FlightControl (February 24誠鉉)": "... seemed slightly awkward; a full JavaScript|JS-[[CSS]] redownload happens whenever I deploy ...",
         "Mini App": "... using web-based technologies like HTML, [[CSS]], and [[JavaScript]] hosted by the ...",
         "Open Graph Image as a Service": "... library to convert HTML and [[CSS]] to [[SVG]]",
-        "Project Naroo": "... Scrape websites for text by [[CSS]] selector.",
+        "Project Heimdall": "... Scrape websites for text by [[CSS]] selector.",
         "Proposal of Research 2023-01-10": "... load and display its HTML, [[CSS]], and JavaScript. One everyday use ...",
         "Safari": "... of web technologies, including HTML5, [[CSS]], and [[JavaScript]]. It includes features ...",
         "Satori": "... new core library for converting HTML/[[CSS]] into SVGs.",
@@ -2680,7 +2651,7 @@ export const backlinks = {
         "Monolith": "...Server. opposite of [[Microservices Architecture|MSA]]",
         "OpenAI enthroned as the Levis of Tech": "- Rise of [[Microservices Architecture|MSA]] and [[Serverless]] — [[AWS]] made ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "... 실행하고 관리할 수 있도록 하여 [[Microservices Architecture|마이크로서비스 아키텍처]]의 등장으로 이어졌다. 이 아키텍처를 통해 ...",
-        "Project Naroo": "Created an [[Microservices Architecture|MSA]]-style micro worker that will continuously ..."
+        "Project Heimdall": "Created an [[Microservices Architecture|MSA]]-style micro worker that will continuously ..."
     },
     "LLaMA": {
         "Local ChatGPT": "- [[LLaMA]]",
@@ -2723,8 +2694,8 @@ export const backlinks = {
         "Deepnote": "- [[Data Science]] [[Collaboration-based Tools for Thought]]."
     },
     "Linguine Engine Test Drive Result 2023-07-13": {
-        "Project Linguine": "[[Linguine Engine Test Drive Result 2023-07-13]]",
-        "Project Naroo": "Completed the Project Linguine Engine. [[Linguine Engine Test Drive Result 2023-07-13]]"
+        "Project Heimdall": "Completed the Project Linguine Engine. [[Linguine Engine Test Drive Result 2023-07-13]]",
+        "Project Linguine": "[[Linguine Engine Test Drive Result 2023-07-13]]"
     },
     "우아한테크캠프": {
         "http 없는 http 서버 만들기": "[[우아한테크캠프]] 2일차 [[Project|프로젝트]] 중 http 모듈 ...",
@@ -2783,7 +2754,7 @@ export const backlinks = {
         "OpenAI": "OpenAI also provides an [[API]] for accessing new [[AI]] models ...",
         "OpenAI enthroned as the Levis of Tech": "OpenAI has launched its ChatGPT [[API]] service, powered by the GPT-3.5-turbo ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "... Transformer|GPT-3.5-터보 모델을 기반으로 한 ChatGPT [[API]] 서비스를 출시했다.",
-        "Project Naroo": "일단 [[API]] 비용은 한숨 덜겠다!",
+        "Project Heimdall": "일단 [[API]] 비용은 한숨 덜겠다!",
         "Proposal of Research 2023-01-10": "... JavaScript libraries or an HTTP [[API]] layer.",
         "Proposal of Research 2023-03-28": "... including those with retrieval and [[API]] calling capabilities, new attack vectors ...",
         "Providing DOM API to Worker Threads": "- Provide synchronous DOM [[API]] Access to [[Web Worker]] [[Threads]]",
@@ -3321,7 +3292,7 @@ export const backlinks = {
         "Mood.surf": "... Discover expert insights from tech [[Twitter]]",
         "Musk-Twitter Incident": "... share my motivation for acquiring [[Twitter]]. There has been much speculation ...",
         "Person 648442": "... about the fragmented nature of [[Twitter]].",
-        "Project Naroo": "... are Access Restricted SPAs like [[Twitter]].",
+        "Project Heimdall": "... are Access Restricted SPAs like [[Twitter]].",
         "Regulation of Fake News": "... of America|United States government pressured [[Twitter]] to elevate certain content and ...",
         "Social Coding": "... model compared to LinkedIn (or [[Twitter]]",
         "Super App is a Universal Chat App": "- [[Twitter]], [[Facebook]], [[Instagram]], and Snapchat cannot ...",
@@ -3367,7 +3338,7 @@ export const backlinks = {
         "Next.js": "... their content in the client-side [[Web Browser|browser]], Next.js extends this functionality to ...",
         "Pensieve": "... as the intermediary bridge between [[web browser]] data stream (ephemeral) and long-term ...",
         "Porting a Chrome Extension to Firefox Add-on": "... Firefox are two very different [[Web Browser|browsers]], Chrome [[WebExtension|Extension]] and Firefox Add-on ...",
-        "Project Naroo": "... to interact with a headless [[Web Browser|browser]] built in top of Puppeteer.",
+        "Project Heimdall": "... to interact with a headless [[Web Browser|browser]] built in top of Puppeteer.",
         "Project PIRI Initial Proposal": "... Editor|video editing and analysis in [[Web Browser|web browsers]] touches on aspects of multimodal ...",
         "Proposal of Research 2023-01-10": "... and is used if the [[Web Browser|browser]] cannot display the picture. Alt ...",
         "Ruffle": "... content running safely in modern [[Web Browser|web browsers]] via [[Rust]] and [[WebAssembly]]",
@@ -3440,7 +3411,7 @@ export const backlinks = {
         "2023-04-01": "- [[hn.cho.sh]]",
         "METI Engine": "The current generation is [[hn.cho.sh]] — and plan to scale ...",
         "Project Heimdall Initial Planning": "Where would [[hn.cho.sh]] lead us? An [[AI]]-powered news ...",
-        "Project Heimdall Locale Transition Strategy": "Project Naroo's predecessor [[hn.cho.sh]] operated on DeepL's 29 languages. ...",
+        "Project Heimdall Locale Transition Strategy": "Project Heimdall's predecessor [[hn.cho.sh]] operated on DeepL's 29 languages. ...",
         "Project Linguine": "... into the subscriber lists of [[hn.cho.sh]], I did notice that there ...",
         "Reddit-Apollo Mayhem": "## Summarizations from [[hn.cho.sh]]",
         "Vercel Incident Report (23誠鉉)": "... with two projects: lovearc.net and [[hn.cho.sh]].",
@@ -3488,10 +3459,10 @@ export const backlinks = {
         "Digital Addiction": "[[Problem]]. I [[love software]], but I ...",
         "Federated Transfer Learning": "To solve this [[problem]], transfer learning techniques can create ...",
         "Overfitting": "Overfitting is a common [[problem]] in [[ML|machine learning]] where a ...",
-        "Project Naroo": "... dealing with the Subscription Recurrence [[problem]]. Given a subscription table, how ..."
+        "Project Heimdall": "... dealing with the Subscription Recurrence [[problem]]. Given a subscription table, how ..."
     },
     "Project Heimdall Initial Planning": {
-        "Project Naroo": "- [[Project Heimdall Initial Planning]]"
+        "Project Heimdall": "- [[Project Heimdall Initial Planning]]"
     },
     "Painterly Illustration Design Trend (2024)": {
         "2024-05-11": "- [[Painterly Illustration Design Trend (2024)]]"
@@ -3710,7 +3681,7 @@ export const backlinks = {
         "Modern MacPaint": "- an [[UIUX]] experiment.",
         "Mr. Doob": "- an [[UIUX]] experiment.",
         "Person 1E6ABA": "... of a financial expert, engineer, [[UIUX|UX]] designer, PM, media expert, media ...",
-        "Project Naroo": "... That is, separating the linguistic [[UIUX|UI]] from the newsletter content. So ...",
+        "Project Heimdall": "... That is, separating the linguistic [[UIUX|UI]] from the newsletter content. So ...",
         "Proposal of Research 2023-01-10": "... time-consuming tasks without blocking the [[UIUX|UI]], which can lead to a ...",
         "Rauno": "## Miscellany related to [[UIUX|UI]]",
         "React": "... building user interfaces based on [[UIUX|UI]] components. It is maintained by ...",
@@ -3841,7 +3812,7 @@ export const backlinks = {
         "Letter to Mr. Matt Rickard on 2022-10-03": "... services as the omnipotent search [[engine]] for [[대한민국|Korea]] (bigger market cap ...",
         "Naver": "... develop and use its search [[engine]]. It was also the world's ...",
         "Person 648442": "... strategy — Twitter's Non-existent Search [[Engine]]. [[Geohot-Twitter Mayhem]]",
-        "Project Naroo": "Completed the Project Linguine [[Engine]]. [[Linguine Engine Test Drive Result ...",
+        "Project Heimdall": "Completed the Project Linguine [[Engine]]. [[Linguine Engine Test Drive Result ...",
         "Proposal of Research 2023-01-10": "... cause the Web Browser|browser's JavaScript [[engine]] to become unresponsive. As a ...",
         "Proposal of Research 2023-03-28": "... users and negatively impacts search [[engine]] optimization. This research proposal aims ...",
         "Satori": "### [[Engine]]",
@@ -3944,7 +3915,7 @@ export const backlinks = {
     "Go To Market": {
         "10x Technopreneurs": "... and have the knowledge for [[Go To Market|Go-To-Market]] [[Strategy|strategies]] and monetization. They can ...",
         "2023-06-26": "- [[Go To Market]]",
-        "Project Naroo": "- Honestly, the [[Go To Market|GTM]] [[strategy]] for Heimdall is a ...",
+        "Project Heimdall": "- Honestly, the [[Go To Market|GTM]] [[strategy]] for Heimdall is a ...",
         "hn.cho.sh 개발 기록": "- PMF보다 [[Go To Market]] [[Strategy|전략]]이 훨씬 더 중요하다 (진짜 ...",
         "서당개 3년이면 풍월을 읊는다": "... 엄청 많다. Economy|경제가 좋으면 슈퍼마켓에서도 [[Go To Market|시장 전략]]과 리텐션, 소비자 분석을 전부 돌려야 ..."
     },
@@ -4583,7 +4554,7 @@ export const backlinks = {
     },
     "Listmonk": {
         "Heimdall Bogus Subscribers Attack Incident": "... were the last list on [[Listmonk]].",
-        "Project Naroo": "... a more conventional Docusaurus with [[Listmonk]]. Consider [[Project]] [[Done]]."
+        "Project Heimdall": "... a more conventional Docusaurus with [[Listmonk]]. Consider [[Project]] [[Done]]."
     },
     "Protocol Wars": {
         "2022-11-16": "- [[Protocol Wars]]. [[Matt Rickard]]",
@@ -4636,7 +4607,7 @@ export const backlinks = {
         "Developing Review Notes for Obsidian": "... 작성하려다가 옵시디언 플러그인 개발 자료는 [[한국어]]로 거의 없어 그냥 한국어로 작성한다.",
         "Letter to the Heptabase Team on 2022-10-11": "... Anyways, if you need any [[한국어|Korean]] 🇰🇷 translation support or anything ...",
         "Mapping keys to set different input languages on macOS": "... set Mac's input method to [[한국어|Korean]].",
-        "Project Naroo": "... newsletter content. So in a [[한국어|Korean]] interface, you can go to ...",
+        "Project Heimdall": "... newsletter content. So in a [[한국어|Korean]] interface, you can go to ...",
         "Ridi": "> Ridi Corporation ([[한국어|Korean]]. 리디[[Stock|주식]]회사) is a content platform ...",
         "Seaflooding": "[[한국어]]로는 '큰물' '물마' 등의 [[Vocab|단어]]가 있다. ...",
         "Search AI와 인터넷의 한국어": "나는 [[한국어]] 자료가 인터넷에 부족한 탓이라고 생각하지 ...",
@@ -4880,7 +4851,7 @@ export const backlinks = {
         "AIs.txt": "... language and cannot provide granular [[Crawler|scraping]] permissions depending on the collector.",
         "CS572 Search Engines": "- [[Crawler]] (Spider): A program that traverses ...",
         "Data Preservation": "### Metadata [[Crawler|Scraping]]",
-        "FireCrawl": "[[Crawler]], potentially [[Project Naroo]]",
+        "FireCrawl": "[[Crawler]], potentially [[Project Heimdall]]",
         "Headless": "... for automated testing or web [[Crawler|scraping]], as it can access and ...",
         "Project Heimdall Initial Planning": "At Karrot, [[Crawler|scraping]] the news over the internet ...",
         "QA.json": "... and periodically updated. The AI [[crawler]] should be designed to interpret ...",
@@ -5032,7 +5003,7 @@ export const backlinks = {
     },
     "Heimdall Bogus Subscribers Attack Incident": {
         "2023-08-03": "- [[Heimdall Bogus Subscribers Attack Incident]]",
-        "Project Naroo": "[[Heimdall Bogus Subscribers Attack Incident]]"
+        "Project Heimdall": "[[Heimdall Bogus Subscribers Attack Incident]]"
     },
     "sitemap.xml": {
         "QA.json": "... to an RSS feed or [[sitemap.xml]]. Finally, the structured data format ..."
@@ -5257,10 +5228,10 @@ export const backlinks = {
         "Project FFMpeg for iPad": "- Someday [[Project]]. [[FFMpeg]] equivalent for iPads!",
         "Project Florence": "- [[Project]] Florence is a research [[project]] ...",
         "Project Ganymede": "- Therefore, we name it [[Project]] Ganymede. You can NEVER win ...",
+        "Project Heimdall": "... conventional Docusaurus with Listmonk. Consider [[Project]] [[Done]].",
         "Project Horcrux": "[[Project]] Horcrux aims to dismantle the ...",
         "Project Linguine": "[[Project]] Linguine is an initiative to ...",
         "Project MAGI": "Someday [[Project]]. Use Multiple Artificial Generative Intelligence ...",
-        "Project Naroo": "... conventional Docusaurus with Listmonk. Consider [[Project]] [[Done]].",
         "Project PEOPLE": "- [[Project]]",
         "Project PIRI Initial Proposal": "Potential [[Project]] of [[University of Southern California|USC]] ...",
         "Project Prepare for Grammarly": "[[Project]] to prepare for my [[Grammarly ...",
@@ -5704,7 +5675,7 @@ export const backlinks = {
     },
     "Boring Report": {
         "2023-05-16": "- [[Boring Report]]",
-        "Project Naroo": "- [[Boring Report]]"
+        "Project Heimdall": "- [[Boring Report]]"
     },
     "Synonym-based Fuzzy Search": {
         "2022-12-12": "- [[Synonym-based Fuzzy Search]]"
@@ -5761,6 +5732,9 @@ export const backlinks = {
     "Pretendard의 아쉬운 점": {
         "Toss Product Sans": "  - [[Pretendard의 아쉬운 점]]",
         "서울 프로": "- [[Pretendard의 아쉬운 점]]"
+    },
+    "NMD.cho.sh": {
+        "2024-07-31": "- [[NMD.cho.sh]]"
     },
     "Titanium Calculator": {
         "2024-01-28": "[[Titanium Calculator]]"
@@ -6054,7 +6028,7 @@ export const backlinks = {
     "Done": {
         "Better Aldehyde": "## [[Done]]",
         "Dynamic Island on the Web": "- [[Done]] [[Project]]",
-        "Project Naroo": "... Docusaurus with Listmonk. Consider Project [[Done]].",
+        "Project Heimdall": "... Docusaurus with Listmonk. Consider Project [[Done]].",
         "TossFace Playground": "- Project [[Done]]",
         "Watchings": "## [[Done]]",
         "lovearc.net": "A small [[done]] project I've done over the ...",
@@ -6209,7 +6183,7 @@ export const backlinks = {
         "Search AI": "- [[Bing Chat for All Browsers]]",
         "Unchained Bing": "A competitor to [[Bing Chat for All Browsers]].",
         "hn.cho.sh 개발 기록": "[[Bing Chat for All Browsers]]가 10만 주간 사용자를 돌파하기 직전이다. ...",
-        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "> Project Naroo|Heimdall이나 [[Bing Chat for All Browsers]]과 같은 아이디어를 서비스로 구현하실 때, ..."
+        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "> Project Heimdall|Heimdall이나 [[Bing Chat for All Browsers]]과 같은 아이디어를 서비스로 구현하실 때, ..."
     },
     "블록 기반 링킹": {
         "2024-02-21": "- [[블록 기반 링킹]]"
@@ -6322,7 +6296,7 @@ export const backlinks = {
         "NanoID": "... unique string ID generator for [[JavaScript]]. It's 130 bytes minified, has ...",
         "Node.js": "Node.js is an open-source, server-side [[JavaScript]] runtime environment allowing developers to ...",
         "Prisma": "... to manage a database like [[JavaScript]] objects, making interacting with the ...",
-        "Project Naroo": "... we scrape the web with [[JavaScript]] enabled? Problems are Access Restricted ...",
+        "Project Heimdall": "... we scrape the web with [[JavaScript]] enabled? Problems are Access Restricted ...",
         "React": "... a free and open-source Front-end|front-end [[JavaScript]] library for building user interfaces ...",
         "Redwood.js": "RedwoodJS is a full-stack, open-source [[JavaScript]] framework for building web applications. ...",
         "Safari": "... technologies, including HTML5, CSS, and [[JavaScript]]. It includes features such as ...",
@@ -6395,7 +6369,7 @@ export const backlinks = {
         "한국통사": "> 당시 나는 [[서울]]에 있다가 청국에 원병을 요청했다는 소식을 ..."
     },
     "Simple Analytics War Room": {
-        "Project Naroo": "- [[Simple Analytics War Room]] on [[Hacker News]]"
+        "Project Heimdall": "- [[Simple Analytics War Room]] on [[Hacker News]]"
     },
     "http 없는 http 서버 만들기": {
         "2022-11-19": "  - [[http 없는 http 서버 만들기]]"
@@ -8325,6 +8299,9 @@ export const backlinks = {
     "Wikiversity": {
         "2022-10-17": "- [[Wikiversity]]"
     },
+    "Next.js Upstream Image Response Failed": {
+        "2024-07-31": "- [[Next.js Upstream Image Response Failed]]"
+    },
     "Edge Browser": {
         "Edge": "- [[Edge Browser]]"
     },
@@ -8683,7 +8660,7 @@ export const backlinks = {
         "POP3 vs IMAP": "## Internet [[Mail]] Access Protocol",
         "Person A3BA1A": "... done through handwriting, fax, and [[Mail|email]].",
         "Port": "- [[mail]] server → 25",
-        "Project Naroo": "- Send [[Mail|Email]]",
+        "Project Heimdall": "- Send [[Mail|Email]]",
         "React Email": "Seems like instead of making [[Mail|emails]] interactive like [[AMP Email]]",
         "Regulation of Fake News": "... Covid-19 and the pandemic. Internal [[Mail|emails]] that I viewed on Twitter ...",
         "Reimagining Emails": "- [[Mail|Email]] is the the-most-successful-decentralized (to an ...",
@@ -8721,7 +8698,7 @@ export const backlinks = {
         "2022-11-19": "  - [[Finding out Ghost version with JS]]"
     },
     "Project Heimdall Locale Transition Strategy": {
-        "Project Naroo": "- [[Project Heimdall Locale Transition Strategy]]"
+        "Project Heimdall": "- [[Project Heimdall Locale Transition Strategy]]"
     },
     "0543 Diameter of Binary Tree": {
         "Coding Tests": "- [x] [[0543 Diameter of Binary Tree]]"
@@ -8741,7 +8718,7 @@ export const backlinks = {
         "honest-but-curious": "2. [[Homomorphic Encryption]]. Allows computation on encrypted data, ..."
     },
     "Project Heimdall Random Names": {
-        "Project Naroo": "- [[Project Heimdall Random Names]]"
+        "Project Heimdall": "- [[Project Heimdall Random Names]]"
     },
     "Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning": {
         "Project Florence Literature Review": "- [ ] [[Xinjian Luo et al. Feature Inference Attack on Model Predictions in Vertical Federated Learning]]"
@@ -8794,7 +8771,7 @@ export const backlinks = {
         "2023-08-04": "- [[일본어]]",
         "CJK": "... collective term for the 중국어|Chinese, [[일본어|Japanese]], and [[한국어|Korean]] languages, which include ...",
         "Haruki Murakami": "... January 12, 1949) is a [[일본어|Japanese]] writer. His novels, essays, and ...",
-        "Project Naroo": "... can go to Hacker News [[일본어|Japanese]] version and read the content ...",
+        "Project Heimdall": "... can go to Hacker News [[일본어|Japanese]] version and read the content ...",
         "Shortcuts": "... type English, inspired by the [[일본어|Japanese]] Apple keyboard's [[일본어|Kana]] ([[일본어|かな]]) and ...",
         "까리": "... 종종 있다. 예를 들어 Hono ([[일본어]]로 \"불\"이라는 뜻), Waku (일본어로 \"프레임\"이라는 ...",
         "이완용": "... 원한 것도 아니거니와 일제 치하 [[일본어]] 의무 교육을 도입한 것으로 미루어 ...",
@@ -8844,7 +8821,7 @@ export const backlinks = {
         "2023-04-19": "- [[Headless]]",
         "Ghost 테마를 자동 배포하는 방법": "... AWS에 호스팅하여 사용한다. Ghost CMS는 [[Headless|헤드리스]]하다. 말 그대로 머리가 없다는 뜻으로, ...",
         "Keystone.js": "## keystonejs/keystone: The most powerful [[headless]] [[CMS]] for Node.js — built ...",
-        "Project Naroo": "... way to interact with a [[headless]] [[Web Browser|browser]] built in top ...",
+        "Project Heimdall": "... way to interact with a [[headless]] [[Web Browser|browser]] built in top ...",
         "Refine (Framework)": "... Ant Design, Chakra UI, Mantine, [[Headless]])",
         "Satori": "- Easy: No [[headless]] [[Web Browser|browser]] is needed. Using ...",
         "hn.cho.sh 개발 기록": "[[Headless]] [[Chrome]]을 사용하도록 GitHub Actions를 개편했다."
@@ -9025,7 +9002,7 @@ export const backlinks = {
     },
     "Project Heimdall Table Structure": {
         "2023-06-17": "- [[Project Heimdall Table Structure]]",
-        "Project Naroo": "- [[Project Heimdall Table Structure]]"
+        "Project Heimdall": "- [[Project Heimdall Table Structure]]"
     },
     "이루다": {
         "GitHub Copilot Investigation": "- Very similar to [[이루다]] in terms that it collected ..."
@@ -9213,7 +9190,7 @@ export const backlinks = {
         "2023-05-24": "- [[Removing Last Login on Mac Terminal]]"
     },
     "Toss Payments": {
-        "Project Naroo": "... Impossible to create subscriptions with [[Toss Payments]] with international audience"
+        "Project Heimdall": "... Impossible to create subscriptions with [[Toss Payments]] with international audience"
     },
     "Gen Z does not know file directories": {
         "Project Ganymede": "... could be another programming pattern. [[Gen Z does not know file directories]]. The gist is that we ..."
@@ -9264,7 +9241,7 @@ export const backlinks = {
         "Jest": "... projects using Babel, TypeScript, Node.js, [[React]], Angular, Vue.js, and [[Svelte]]. Jest ...",
         "Letter to Mr. Stephan Ango on 2022-10-19": "... I have built a custom [[React]] application for presenting on the ...",
         "Next.js": "... framework created by Vercel enabling [[React]]-based web applications with [[server-side rendering]] ...",
-        "Project Naroo": "... was logged in and when [[React]] was unmounting the `<SignIn>` widget.",
+        "Project Heimdall": "... was logged in and when [[React]] was unmounting the `<SignIn>` widget.",
         "React App on GitHub Pages": "... the idea of publishing a [[React]] App on GitHub Pages. I ...",
         "React Native": "> [[React]] Native is an open-source [[UIUX|UI]] ...",
         "Real Exams": "- Get Job Done SQL, [[React]], [[Python]]",
@@ -9877,6 +9854,9 @@ export const backlinks = {
         "postcredit.info": "- Permalink for [[Search Engine Optimization|SEO]]",
         "sitemap.xml": "... crawl-ability, facilitates indexing, and enhances [[Search Engine Optimization|SEO]] by ensuring all pages are ..."
     },
+    "SignalKite": {
+        "2024-07-31": "- [[SignalKite]]"
+    },
     "LLM": {
         "2022-11-14": "... Generative Intelligence. LLMs for Code: [[LLM|LLMs]]",
         "2022-12-17": "... I see something made with [[LLM]] like [[Generative Pre-trained Transformer|GPT]] or ...",
@@ -10030,7 +10010,7 @@ export const backlinks = {
         "Person 9078DC": "... DEV.to와 경쟁 방안으로 Packt과 같은 [[Strategy|전략]]을 고려 중. 지적 자산의 보급과 ...",
         "Pivot": "... to a significant change in [[strategy]] or direction.",
         "Project Ganymede": "... How do you store different [[Strategy|strategies]] (After 5 seconds? 10 seconds? ...",
-        "Project Naroo": "... Honestly, the Go To Market|GTM [[strategy]] for Heimdall is a considerable ...",
+        "Project Heimdall": "... Honestly, the Go To Market|GTM [[strategy]] for Heimdall is a considerable ...",
         "Proposal of Research 2023-03-28": "... PI attack techniques and mitigation [[Strategy|strategies]] to identify gaps in existing ...",
         "Quoridor Game": "... as well as a previous [[strategy]] using a GA.",
         "Tian Li et al. Federated Learning Challenges, Methods, and Future Directions": "#### [[Strategy|Strategies]]",
@@ -10720,6 +10700,7 @@ export const backlinks = {
     },
     "Docker": {
         "2022-06-15": "... as code like Terraform or [[Docker]] images for science labs.",
+        "2024-07-30": "[[Docker]]",
         "CDN": "... will design uses: Nginx, Lua, [[docker]], docker-compose, Prometheus, grafana, and wrk.",
         "Cloud-Native": "... automation using tools like Kubernetes, [[Docker]], and Terraform.",
         "How to Build Software like an SRE": "- use [[Docker]]",
@@ -11293,7 +11274,7 @@ export const backlinks = {
         "Emails and Decentralized Protocols": "... from the original discussion on [[Hacker News]] was to use ImprovMX as ...",
         "Gumroad": "... died—something like that. Posting on [[Hacker News]], the reaction exceeded my grandest ...",
         "Jumpsite": "## [[Hacker News]]",
-        "Project Naroo": "... Simple Analytics War Room on [[Hacker News]]",
+        "Project Heimdall": "... Simple Analytics War Room on [[Hacker News]]",
         "Using an iPad as my Ebook": "... perfect ebook. Refer to this [[Hacker News]] thread"
     },
     "일본": {
@@ -11602,7 +11583,7 @@ export const backlinks = {
         "2023-02-02": "- [[Redirect]]",
         "HTTP": "- 301 Moved Permanently → [[Redirect]]",
         "Install Yarn Silently": "Use [[redirect]] operators",
-        "Project Naroo": "    - [[redirect]] within the `useEffect` hook (Warning: ...",
+        "Project Heimdall": "    - [[redirect]] within the `useEffect` hook (Warning: ...",
         "Space Terraforming": "... using mirrors or devices to [[redirect]] sunlight onto the planet's surface ..."
     },
     "이 땅에 태어나서": {
@@ -12032,6 +12013,38 @@ export const backlinks = {
         "Computer Systems": "- [[Inspecting Assembly]]",
         "GDB": "- [[Inspecting Assembly]]"
     },
+    "Project Heimdall": {
+        "2023-04-19": "- [[Project Heimdall]]",
+        "2023-05-10": "- [[Project Heimdall]]",
+        "2023-05-16": "- [[Project Heimdall]]",
+        "2023-05-18": "- [[Project Heimdall]]",
+        "2023-06-17": "- [[Project Heimdall]]",
+        "2023-06-18": "- [[Project Heimdall]]",
+        "2023-06-20": "- [[Project Heimdall]]",
+        "2023-06-21": "- [[Project Heimdall]]",
+        "2023-06-26": "- [[Project Heimdall]]",
+        "2023-06-27": "- [[Project Heimdall]]",
+        "2023-07-11": "- [[Project Heimdall]]",
+        "2023-07-13": "- [[Project Heimdall]]",
+        "2023-07-15": "[[Project Heimdall]]",
+        "2023-07-16": "- [[Project Heimdall]]. Float UI - Free open ...",
+        "2023-07-17": "- [[Project Heimdall]]",
+        "2023-08-08": "[[Project Heimdall|Heimdall]]",
+        "2023-10-31": "... to update Docusaurus to 3.0. [[Project Heimdall|Heimdall]] updates OK, but [[Aldehyde]] gives ...",
+        "2023-11-03": "- [[Project Heimdall|Heimdall]]",
+        "2023-11-06": "- [[Project Heimdall|Heimdall]]",
+        "2023-11-28": "- [[Project Heimdall]]의 이름은 naroo.ai로 하기로 했다. 나루.",
+        "2023-12-23": "- [[Project Heimdall]]",
+        "FireCrawl": "Crawler, potentially [[Project Heimdall]]",
+        "HN Broadcast": "maybe [[Project Heimdall]]",
+        "Heimdall Bogus Subscribers Attack Incident": "... I moved forward with the [[Project Heimdall]] migration, added new languages",
+        "LavaLab Cohort of Spring 2023": "... article. A similar approach to [[Project Heimdall]], by attempting [[Algorithmic Recommendation Engine ...",
+        "METI Engine": "... plan to scale it to [[Project Heimdall]].",
+        "Project Heimdall Locale Transition Strategy": "[[Project Heimdall]]'s predecessor [[hn.cho.sh]] operated on DeepL's ...",
+        "hn.cho.sh 개발 기록": "[[Project Heimdall]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "> [[Project Heimdall|Heimdall]]이나 [[Bing Chat for All Browsers]]과 ...",
+        "일일일": "NewsGPT Model. A competitor to [[Project Heimdall]]."
+    },
     "역사적 리셋": {
         "2023-09-26": "- [[역사적 리셋]]"
     },
@@ -12334,6 +12347,9 @@ export const backlinks = {
     "원하는 곳만 전자레인지": {
         "2023-07-25": "- [[원하는 곳만 전자레인지]]"
     },
+    "FE in Python": {
+        "2024-07-31": "- [[FE in Python]]"
+    },
     "Automation": {
         "2022-07-05": "... in iOS with Shortcuts and [[Automation]].",
         "2023-02-02": "- [[Automation]]",
@@ -12616,7 +12632,7 @@ export const backlinks = {
     },
     "5839D6.jpeg": {
         "2023-12-07": "![[5839D6.jpeg]]",
-        "Project Naroo": "![[5839D6.jpeg]]",
+        "Project Heimdall": "![[5839D6.jpeg]]",
         "Winning Backdrop Build v2 (23誠鉉)": "![[5839D6.jpeg]]"
     },
     "21691E.png": {
@@ -13461,33 +13477,6 @@ export const backlinks = {
     "26FE23.png": {
         "Project Malmantile": "![[26FE23.png]]"
     },
-    "F7BA33.png": {
-        "Project Naroo": "![[F7BA33.png]]"
-    },
-    "EBD79C.png": {
-        "Project Naroo": "![[EBD79C.png]]"
-    },
-    "AC5118.png": {
-        "Project Naroo": "![[AC5118.png]]"
-    },
-    "7BF55A.gif": {
-        "Project Naroo": "- ![[7BF55A.gif]]"
-    },
-    "11C976.png": {
-        "Project Naroo": "    - ![[11C976.png]]"
-    },
-    "3E60AC.gif": {
-        "Project Naroo": "![[3E60AC.gif]]"
-    },
-    "6D3186.png": {
-        "Project Naroo": "![[6D3186.png]]"
-    },
-    "AA6185.png": {
-        "Project Naroo": "![[AA6185.png]]"
-    },
-    "463895.png": {
-        "Project Naroo": "![[463895.png]]"
-    },
     "B9AA95.png": {
         "Web Graphics": "![[B9AA95.png]]"
     },
@@ -14294,6 +14283,12 @@ export const backlinks = {
     "EF6FE0.gif": {
         "Pretendard의 아쉬운 점": "![[EF6FE0.gif]]"
     },
+    "E18723.png": {
+        "NMD.cho.sh": "![[E18723.png]]"
+    },
+    "73146A.gif": {
+        "NMD.cho.sh": "![[73146A.gif]]"
+    },
     "Firefox                                                                            ": {
         "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": "... 5년 된 디펜더 버그 수정으로 [[Firefox                                                                            | 파이어폭스]] 관련 CPU 사용량 75% 감소 ..."
     },
@@ -15081,6 +15076,9 @@ export const backlinks = {
     "847E2D.png": {
         "Studio.Design": "![[847E2D.png]]"
     },
+    "C19543.png": {
+        "SignalKite": "![[C19543.png]]"
+    },
     "31D530.png": {
         "dub.co": "![[31D530.png]]"
     },
@@ -15605,6 +15603,33 @@ export const backlinks = {
     },
     "50E33A.png": {
         "Era.app": "![[50E33A.png]]"
+    },
+    "F7BA33.png": {
+        "Project Heimdall": "![[F7BA33.png]]"
+    },
+    "EBD79C.png": {
+        "Project Heimdall": "![[EBD79C.png]]"
+    },
+    "AC5118.png": {
+        "Project Heimdall": "![[AC5118.png]]"
+    },
+    "7BF55A.gif": {
+        "Project Heimdall": "- ![[7BF55A.gif]]"
+    },
+    "11C976.png": {
+        "Project Heimdall": "    - ![[11C976.png]]"
+    },
+    "3E60AC.gif": {
+        "Project Heimdall": "![[3E60AC.gif]]"
+    },
+    "6D3186.png": {
+        "Project Heimdall": "![[6D3186.png]]"
+    },
+    "AA6185.png": {
+        "Project Heimdall": "![[AA6185.png]]"
+    },
+    "463895.png": {
+        "Project Heimdall": "![[463895.png]]"
     },
     "371542.png": {
         "Database vs Datalake": "![[371542.png]]"
