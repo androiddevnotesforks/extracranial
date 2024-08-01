@@ -4146,6 +4146,9 @@ export const backlinks = {
         "2023-05-30": "- [[Research Paper NPM System]]",
         "ScienceOps": "... 너무 구리다는 생각과 (ORCID도 마찬가지) [[Research Paper NPM System]]과 아이디어들이 유기적으로 연결되는 [[Tools for ..."
     },
+    "rST": {
+        "2024-08-01": "- [[rST]]"
+    },
     "Person 88B488": {
         "Project PEOPLE": "- [[Person 88B488]]"
     },
@@ -11552,6 +11555,9 @@ export const backlinks = {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
         "Newtonian Correspondence": "| 03-31 | `EN` [[ChatGPT is a Blurry JPEG and We Need That]] <br/> `KO` [[ChatGPT는 흐릿한 이미지이지만 ..."
     },
+    "Run by a human": {
+        "SignalKite": "[[Run by a human]]"
+    },
     "Unicorn": {
         "Bootstrap": "Canva and Airbnb, both successful [[unicorn]] startups, initially bootstrapped their businesses ...",
         "Imoogi and Dragon Company": "The word [[Unicorn]] Company gives the company too ...",
@@ -13036,7 +13042,6 @@ export const backlinks = {
     },
     "411451.png": {
         "2022-10-25": "![[411451.png]]",
-        "Aldehyde Landing Page 2023": "![[411451.png]]",
         "Apple-like Block Interface": "![[411451.png]]"
     },
     "99EE18.png": {
@@ -13357,19 +13362,6 @@ export const backlinks = {
     "6C8C82.png": {
         "Aldehyde Landing Page 2023": "![[6C8C82.png]]",
         "Apple-like Block Interface": "![[6C8C82.png]]"
-    },
-    "B2A2B6.png": {
-        "Aldehyde Landing Page 2023": "![[B2A2B6.png]]",
-        "Apple-like Block Interface": "![[B2A2B6.png]]",
-        "Nextra": "![[B2A2B6.png]]"
-    },
-    "339CE9.png": {
-        "Aldehyde Landing Page 2023": "![[339CE9.png]]",
-        "Apple-like Block Interface": "![[339CE9.png]]"
-    },
-    "341F72.gif": {
-        "Aldehyde Landing Page 2023": "![[341F72.gif]]",
-        "Apple-like Block Interface": "![[341F72.gif]]"
     },
     "7EA246.gif": {
         "Delete All YouTube Watch Later and Liked Videos": "![[7EA246.gif]]"
@@ -15034,6 +15026,16 @@ export const backlinks = {
     "34F4C8.png": {
         "이역만리": "![[34F4C8.png]]"
     },
+    "B2A2B6.png": {
+        "Apple-like Block Interface": "![[B2A2B6.png]]",
+        "Nextra": "![[B2A2B6.png]]"
+    },
+    "339CE9.png": {
+        "Apple-like Block Interface": "![[339CE9.png]]"
+    },
+    "341F72.gif": {
+        "Apple-like Block Interface": "![[341F72.gif]]"
+    },
     "47A128.png": {
         "Apple-like Block Interface": "![[47A128.png]]"
     },
@@ -15450,6 +15452,12 @@ export const backlinks = {
     },
     "Zettelkasten": {
         "Tools Must Vanish": "... is junk. It's never the [[Zettelkasten]] of the next [[Vannevar Bush]]; ..."
+    },
+    "2E4CC0.png": {
+        "Run by a human": "![[2E4CC0.png]]"
+    },
+    "189315.png": {
+        "Run by a human": "![[189315.png]]"
     },
     "DA56B2.png": {
         "Cookies that Outlive Login Sessions": "![[DA56B2.png]]"
