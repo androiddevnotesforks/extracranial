@@ -768,6 +768,9 @@ export const backlinks = {
     "2020-11-13": {
         "프로젝트 어덕행덕": "- [[2020-11-13]]"
     },
+    "2024-08-01": {
+        "GANGNAM": "... to date. Last updated on [[2024-08-01]]."
+    },
     "2022-12-21": {
         "Letter to Mr. Matt Rickard on 2022-12-21": "## Reply on [[2022-12-21]]"
     },
@@ -1121,7 +1124,8 @@ export const backlinks = {
         "2023-12-23": "- [[RoughNotation]]"
     },
     "GANGNAM": {
-        "2024-07-31": "- [[GANGNAM]]"
+        "2024-07-31": "- [[GANGNAM]]",
+        "2024-08-02": "[[GANGNAM]]"
     },
     "0206 Reverse Linked List": {
         "Coding Tests": "- [x] [[0206 Reverse Linked List]]"
@@ -2048,6 +2052,7 @@ export const backlinks = {
         "2024-05-02": "... 엔젤 투자. 나는 그동안 항상 [[Open Core Models]]이 유일한 커뮤니티 상생법이라고 생각했는데 얘네처럼 ...",
         "2024-07-04": "- [[Open Core Models]]",
         "2024-07-10": "- [[Open Core Models]]",
+        "GANGNAM": "... OSS and GitHub-Sponsor them. See [[Open Core Models]].",
         "Newtonian Correspondence": "| 02-28 | `EN` [[Open Core Models]] | Tweet |"
     },
     "Tianyi Chen et al. VAFL a Method of Vertical Asynchronous Federated Learning": {
@@ -2230,6 +2235,9 @@ export const backlinks = {
         "Self-hosted SaaS Alternatives": "### Self-hosted [[Google Analytics]] [[Alternative|alternatives]]",
         "Simple Analytics": "> The privacy-first [[Google Analytics]] [[alternative]]. Simple Analytics",
         "YCLF 주간 사용자 1000명": "[[Google Analytics]] Referrals 추적 기능을 통해 어느 ..."
+    },
+    "Mudita": {
+        "2024-08-01": "[[Mudita]]"
     },
     "SaaS 외길인생": {
         "2024-07-07": "- [[SaaS 외길인생]]"
@@ -4584,6 +4592,7 @@ export const backlinks = {
         "Letter to Mr. Matt Rickard on 2022-11-28": "... this goal? Any ideas or [[meta]]-ideas that come to your mind?",
         "Meta Meta Framework": "- [[Meta]] Framework: Next.js, Blitz",
         "Metadata": "[[Meta]]",
+        "Mudita": "- [[Meta|메타]]행복",
         "QA.json": "... can work in tandem with [[meta]] tag descriptions to enhance the ...",
         "hreflang": "... link attribute is an HTML [[meta]] element described in RFC 8288. ...",
         "誠鉉": "그리하여 이름이 [[Meta|메타]]자아인 것이다.",
@@ -7340,6 +7349,7 @@ export const backlinks = {
         "Frivolous": "[[vocab]]",
         "In search of my domain": "- The [[vocab]] chosh was registered as a ...",
         "Limerence": "[[Vocab]]. 리머런스((누군가에게 사랑받고 호응받고 싶어하는 심리적 ...",
+        "Mudita": "- [[Vocab|단어]]",
         "Mundivagant": "[[Vocab]]. Wandering around the world.",
         "Nepotism": "[[vocab]]",
         "Nigh": "... nigh! > nigh - Wiktionary [[Vocab]]",
