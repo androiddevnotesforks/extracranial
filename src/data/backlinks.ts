@@ -769,7 +769,7 @@ export const backlinks = {
         "프로젝트 어덕행덕": "- [[2020-11-13]]"
     },
     "2024-08-01": {
-        "GANGNAM": "... to date. Last updated on [[2024-08-01]]."
+        "GANGNAM": "Last updated on [[2024-08-01]]."
     },
     "2022-12-21": {
         "Letter to Mr. Matt Rickard on 2022-12-21": "## Reply on [[2022-12-21]]"
@@ -1125,7 +1125,7 @@ export const backlinks = {
     },
     "GANGNAM": {
         "2024-07-31": "- [[GANGNAM]]",
-        "2024-08-02": "[[GANGNAM]]"
+        "2024-08-02": "- [[GANGNAM]]"
     },
     "0206 Reverse Linked List": {
         "Coding Tests": "- [x] [[0206 Reverse Linked List]]"
