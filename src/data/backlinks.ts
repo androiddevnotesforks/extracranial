@@ -2361,6 +2361,9 @@ export const backlinks = {
     "Discrete Mathematics": {
         "2023-12-01": "- [[Discrete Mathematics]]"
     },
+    "Weihu": {
+        "2024-08-02": "- [[Weihu]]"
+    },
     "Xcode Cloud": {
         "WWDC23": "- [[Xcode Cloud]]. 2x faster workflows. Share Tester ..."
     },
@@ -2841,6 +2844,9 @@ export const backlinks = {
     },
     "어둠의 앱스토어": {
         "2024-01-27": "- [[어둠의 앱스토어]]"
+    },
+    "AWS Edge Continuum": {
+        "2024-08-02": "- [[AWS Edge Continuum]]"
     },
     "Borrowing a Book from USC": {
         "2023-11-29": "- [[Borrowing a Book from USC]]"
@@ -7200,6 +7206,9 @@ export const backlinks = {
         "Use Apple GPU on PyTorch": "... Apple GPU Acceleration (Metal Performance [[Shader]]) on [[PyTorch]]",
         "WebGPU": "- It has a built-in [[shader]] [[Link (Computer Systems)|linker]] and binding ..."
     },
+    "Stripe Acquires Lemon Squeezy": {
+        "2024-08-02": "- [[Stripe Acquires Lemon Squeezy]]"
+    },
     "My Raycast Wrapped of 2023": {
         "2023-12-15": "- [[My Raycast Wrapped of 2023]]"
     },
@@ -7836,6 +7845,9 @@ export const backlinks = {
     },
     "Riffusion": {
         "2022-12-17": "- [[Riffusion]]. Mesmerizing. Whenever I see something ..."
+    },
+    "Heath Resume": {
+        "2024-08-02": "- [[Heath Resume]]"
     },
     "Grammarly Work Note 2023-06-01": {
         "2023-06-01": "[[Grammarly Work Note 2023-06-01]]"
@@ -11985,6 +11997,9 @@ export const backlinks = {
         "2022-10-13": "  - [x] [[Stories Behind Satori]]",
         "Satori": "- [[Stories Behind Satori]]"
     },
+    "Friend.com Mayhem": {
+        "2024-08-02": "- [[Friend.com Mayhem]]"
+    },
     "Copilot": {
         "2022-10-18": "- [[Copilot]]",
         "AI replaces expensive jobs first": "- Like GitHub [[Copilot]] but for medical and legal ...",
@@ -13379,6 +13394,9 @@ export const backlinks = {
     "EC7EEF.png": {
         "Python": "![[EC7EEF.png]]"
     },
+    "AE505D.png": {
+        "Weihu": "![[AE505D.png]]"
+    },
     "D65958.png": {
         "Beehiiv": "![[D65958.png]]",
         "hn.cho.sh 개발 기록": "![[D65958.png]]"
@@ -14677,6 +14695,9 @@ export const backlinks = {
     },
     "8F4764.png": {
         "Death Stranding": "![[8F4764.png]]"
+    },
+    "C35020.png": {
+        "Heath Resume": "![[C35020.png]]"
     },
     "901660.gif": {
         "Setting different images for Light & Dark mode": "![[901660.gif]]"
