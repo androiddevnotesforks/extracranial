@@ -319,8 +319,7 @@ export const backlinks = {
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "[[2020-04-08]]"
     },
     "2024-05-30": {
-        "Prject PIRI": "## [[2024-05-30]] — Subdomain or Subdirectory?",
-        "雅號": "## [[2024-05-30]]"
+        "Prject PIRI": "## [[2024-05-30]] — Subdomain or Subdirectory?"
     },
     "2023-02-24": {
         "Letter to Mr. Gustav Ekerot on 2023-02-24": "... to Mr. Gustav Ekerot on [[2023-02-24]]"
