@@ -1157,6 +1157,10 @@ export const backlinks = {
         "2023-01-30": "- [[Aldehyde Outage (January 23誠鉉)]]",
         "Migrating Project Aldehyde to FlightControl (February 24誠鉉)": "Before [[Aldehyde Outage (January 23誠鉉)]], the [[extracranial]] workflow was simple ..."
     },
+    "Landing Page for Developers": {
+        "2024-08-08": "[[Landing Page for Developers]]",
+        "SignalKite": "[[Landing Page for Developers]]"
+    },
     "Perverse Incentive": {
         "Martin Shkreli의 마약 문제를 E-ACC로 해결한다는 가설": "... 걸맞다. 과연 이대로 작동할까? 완벽하게 [[Perverse Incentive|코브라 효과]]에 들어맞는다."
     },
@@ -1945,6 +1949,9 @@ export const backlinks = {
         "2023-01-26": "- [[Project Core ML Foundation]]",
         "2023-01-27": "- [[Project Core ML Foundation]]",
         "2023-01-30": "- [[Project Core ML Foundation]]"
+    },
+    "조선보다는 고려, 고려보다는 고구려": {
+        "2024-08-09": "[[조선보다는 고려, 고려보다는 고구려]]"
     },
     "Medical AI": {
         "2023-12-23": "- [[Medical AI]]"
@@ -3597,6 +3604,9 @@ export const backlinks = {
     "HN Broadcast": {
         "2024-04-23": "- [[HN Broadcast]]"
     },
+    "Git Signing on Remote Server": {
+        "2024-08-07": "[[Git Signing on Remote Server]]"
+    },
     "Did Bondee Really Suddenly Rise": {
         "2023-02-12": "- [[Did Bondee Really Suddenly Rise]]",
         "2023-02-13": "- [[Did Bondee Really Suddenly Rise]]",
@@ -4246,6 +4256,7 @@ export const backlinks = {
         "이공계": "[[한민족의 멸종 방어]]",
         "이무기 기업, 청룡 기업": "[[한민족의 멸종 방어]]",
         "인공자궁": "... 디스토피아를 비평하겠지만 논란이 되건 말건, [[한민족의 멸종 방어|안 하면 멸종하는 문제이다.]]",
+        "조선보다는 고려, 고려보다는 고구려": "[[한민족의 멸종 방어|Neo Korea]]",
         "코리안 르네상스": "- [[한민족의 멸종 방어]]",
         "태백산맥 계획": "[[한민족의 멸종 방어]]",
         "학자 및 직계 가족의 의료보장제": "[[한민족의 멸종 방어]]",
@@ -7146,6 +7157,9 @@ export const backlinks = {
         "2022-10-17": "- [[Primary-Recency Effect]]",
         "2023-07-05": "- [[Primary-Recency Effect]]"
     },
+    "GraphQL Yoga vs Apollo": {
+        "2024-08-04": "- [[GraphQL Yoga vs Apollo]]"
+    },
     "Backdrop Build Week 1 Update": {
         "2023-11-11": "- [[Backdrop Build Week 1 Update]]"
     },
@@ -9867,7 +9881,8 @@ export const backlinks = {
         "ePub to PDF": "- epub to [[pdf]]"
     },
     "Contextify": {
-        "2024-06-26": "- [[Contextify]]"
+        "2024-06-26": "- [[Contextify]]",
+        "2024-08-06": "[[Contextify]]"
     },
     "Search Engine Optimization": {
         "FIRE": "... links; for those who aren't [[Search Engine Optimization|SEO]] experts, backlinks (pages that link ...",
@@ -9879,7 +9894,10 @@ export const backlinks = {
         "sitemap.xml": "... crawl-ability, facilitates indexing, and enhances [[Search Engine Optimization|SEO]] by ensuring all pages are ..."
     },
     "SignalKite": {
-        "2024-07-31": "- [[SignalKite]]"
+        "2024-07-31": "- [[SignalKite]]",
+        "2024-08-04": "- [[SignalKite]]",
+        "Landing Page for Developers": "[[SignalKite]]",
+        "Run by a human": "[[SignalKite]]"
     },
     "LLM": {
         "2022-11-14": "... Generative Intelligence. LLMs for Code: [[LLM|LLMs]]",
@@ -10774,6 +10792,9 @@ export const backlinks = {
     },
     "Sigma Alpha": {
         "Probability": "- [[Sigma Alpha]]"
+    },
+    "Images Missing Alt Tag": {
+        "2024-08-02": "- [[Images Missing Alt Tag]]"
     },
     "미국 이행 장치": {
         "2024-05-02": "- [[미국 이행 장치]]"
@@ -15107,9 +15128,6 @@ export const backlinks = {
     },
     "847E2D.png": {
         "Studio.Design": "![[847E2D.png]]"
-    },
-    "C19543.png": {
-        "SignalKite": "![[C19543.png]]"
     },
     "31D530.png": {
         "dub.co": "![[31D530.png]]"
