@@ -7351,6 +7351,9 @@ export const backlinks = {
     "Creating Observable Object in SwiftUI": {
         "2023-01-22": "- [[Creating Observable Object in SwiftUI]]"
     },
+    "Docusaurus 3.5.1 Import Error": {
+        "2024-08-10": "[[Docusaurus 3.5.1 Import Error]]"
+    },
     "Checksum": {
         "Internetworking": "- [[Checksum]]"
     },
@@ -11618,6 +11621,9 @@ export const backlinks = {
     },
     "Cookies that Outlive Login Sessions": {
         "2024-02-10": "- [[Cookies that Outlive Login Sessions]]"
+    },
+    "taintObjectReference": {
+        "2024-08-02": "- [[taintObjectReference]]"
     },
     "Accelerationism": {
         "효과적 가속주의": "- [[Accelerationism]]"
