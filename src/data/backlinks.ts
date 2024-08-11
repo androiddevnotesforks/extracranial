@@ -9070,6 +9070,9 @@ export const backlinks = {
         "Readings": "- [x] [[Building a Second Brain]]",
         "두 번째 뇌": "- [[Building a Second Brain]]"
     },
+    "Mohnish Pabrai Interview": {
+        "2024-08-11": "→ [[Mohnish Pabrai Interview]]"
+    },
     "Iron Law of Processor Performance": {
         "2022-11-03": "- [[Iron Law of Processor Performance]]",
         "Computer Systems": "- [[Iron Law of Processor Performance]]"
