@@ -5490,6 +5490,10 @@ export const backlinks = {
         "한민족의 동족상잔": "- 이것은 전쟁 포로나 다른 [[한민족|민족]]을 노예로 삼았던 사례와 많은 차이를 ...",
         "한민족의 문화": "[[한민족]]의 문화에 대해서 다룬다. 좋든 싫든."
     },
+    "Master Detail": {
+        "2024-08-15": "- [[Master Detail]]",
+        "Sliding Master Master Detail": "What if there is a [[Master Detail]] with [[Sliding Panes]]? I think ..."
+    },
     "Dynamic Import": {
         "2024-07-08": "[[Dynamic Import]]"
     },
@@ -9646,7 +9650,9 @@ export const backlinks = {
         "Tools for Thought": "- [[Handwriting Tools for Thoughts]]"
     },
     "Horizontally Stacked Interface": {
-        "2022-10-19": "- [[Horizontally Stacked Interface]]"
+        "2022-10-19": "- [[Horizontally Stacked Interface]]",
+        "Master Detail": "- [[Horizontally Stacked Interface]]",
+        "Sliding Master Master Detail": "... a lot of sense in [[Horizontally Stacked Interface]]"
     },
     "Adding a Verified Mark on Apple Mail and Gmail": {
         "2022-10-21": "- [[Adding a Verified Mark on Apple Mail and Gmail]]",
@@ -9827,6 +9833,7 @@ export const backlinks = {
         "2024-04-16": "- [[Watchings]]",
         "2024-04-24": "- [[Watchings]]",
         "2024-05-17": "- [[Watchings]]",
+        "2024-08-15": "- [[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]].",
         "앎의 그릇": "- [[Watchings]]"
     },
@@ -11402,6 +11409,7 @@ export const backlinks = {
         "Andy Matuschak": "Introduced novel concepts, such as [[Sliding Panes]], [[Backlink|links to this note]], and ...",
         "Horizontally Stacked Interface": "- [[Sliding Panes]]. Have multiple-scrollable columns.",
         "Second Brain": "- [[sliding panes]]",
+        "Sliding Master Master Detail": "... is a Master Detail with [[Sliding Panes]]? I think it'll make a ...",
         "Spacial Cognition": "- Three Column Design and [[Sliding Panes]] are a few ways of ..."
     },
     "의료 인공지능과 의대 쏠림": {
@@ -11797,6 +11805,9 @@ export const backlinks = {
     "Proebsting": {
         "2022-12-28": "- [[Proebsting]]"
     },
+    "Sliding Master Master Detail": {
+        "Master Detail": "- [[Sliding Master Master Detail]]"
+    },
     "Stock Option": {
         "Finance": "- [[Stock Option]]"
     },
@@ -11975,6 +11986,7 @@ export const backlinks = {
     },
     "Three Column Design": {
         "Horizontally Stacked Interface": "- [[Three Column Design]]. Discord-Like Interface.",
+        "Master Detail": "- [[Three Column Design]]",
         "Spacial Cognition": "- [[Three Column Design]] and [[Sliding Panes]] are a ..."
     },
     "Tome": {
@@ -14078,6 +14090,21 @@ export const backlinks = {
     },
     "9FA958.png": {
         "당근미니 케이스 스터디": "![[9FA958.png]]"
+    },
+    "91B7AF.gif": {
+        "Master Detail": "![[91B7AF.gif]]"
+    },
+    "BCD6C8.png": {
+        "Master Detail": "![[BCD6C8.png]]"
+    },
+    "114B61.png": {
+        "Master Detail": "![[114B61.png]]"
+    },
+    "666362.png": {
+        "Master Detail": "![[666362.png]]"
+    },
+    "8592D8.png": {
+        "Master Detail": "![[8592D8.png]]"
     },
     "1FA88B.png": {
         "Jumpsite": "![[1FA88B.png]]"
