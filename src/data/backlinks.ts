@@ -69,6 +69,9 @@ export const backlinks = {
     "2021-08-15": {
         "Mapping keys to set different input languages on macOS": "[[2021-08-15]]"
     },
+    "2024-08-23": {
+        "Adding a Verified Mark on Apple Mail and Gmail": "### [[2024-08-23]]"
+    },
     "2023-07-15": {
         "Project Heimdall": "## [[2023-07-15]]"
     },
