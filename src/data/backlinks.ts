@@ -277,6 +277,9 @@ export const backlinks = {
     "2023-11-16": {
         "Project Florence": "## [[2023-11-16]]"
     },
+    "2024-08-09": {
+        "Django Rest Framework Database Query Builder Does Not Stable Sort": "... 안 되는 버그|stupid bug on [[2024-08-09]] something that I expected so ..."
+    },
     "2023-02-20": {
         "기술 발전의 속도": "[[2023-02-20]]에 작성한 에세이"
     },
@@ -830,6 +833,9 @@ export const backlinks = {
     "2023-01-27": {
         "Jog 25 minutes (Jan-Feb 23誠鉉)": "- [[2023-01-27]]. 면접 보고 번아웃,,"
     },
+    "2024-08-20": {
+        "Sliding Master Master Detail": "## [[2024-08-20]]"
+    },
     "2020-04-01": {
         "프로젝트 어덕행덕": "- [[2020-04-01]]"
     },
@@ -1124,7 +1130,8 @@ export const backlinks = {
     },
     "GANGNAM": {
         "2024-07-31": "- [[GANGNAM]]",
-        "2024-08-02": "- [[GANGNAM]]"
+        "2024-08-02": "- [[GANGNAM]]",
+        "2024-08-20": "- [[GANGNAM]]"
     },
     "0206 Reverse Linked List": {
         "Coding Tests": "- [x] [[0206 Reverse Linked List]]"
@@ -1898,6 +1905,7 @@ export const backlinks = {
         "Andy Matuschak": "... behind the Atomic Notes|Zettelkasten technique. [[Andy Matuschak]] advanced ideas in Ahrens' book ...",
         "Evergreen notes": "## [[Andy Matuschak]]",
         "Second Brain": "### [[Andy Matuschak]]",
+        "Sliding Master Master Detail": "... Apple's Finder Column view and [[Andy Matuschak]]'s Sliding Panes, with Obsidian's.",
         "Sliding Panes": "... it was first introduced by [[Andy Matuschak]], at least his version made ..."
     },
     "Catastrophic Forgetting": {
@@ -2678,6 +2686,7 @@ export const backlinks = {
     "불가사리 (23誠鉉)": {
         "2023-06-14": "- [[불가사리 (23誠鉉)]]",
         "2023-07-05": "- [[불가사리 (23誠鉉)|Starfish]]. Signed an [[NDA]] with [[Apple]], ...",
+        "2024-08-17": "- [[불가사리 (23誠鉉)]]. Developers can soon offer in-app ...",
         "誠鉉": "- [[불가사리 (23誠鉉)]]"
     },
     "Prompt Injection": {
@@ -3685,44 +3694,6 @@ export const backlinks = {
         "2023-08-22": "- [[네오상평통보]]",
         "조선민족의 진로 재론": "[[네오상평통보]]와 관련."
     },
-    "UIUX": {
-        "2022-11-30": "... at some build tools, but [[UIUX|UI]] components or other libraries usually ...",
-        "2022-12-24": "### [[UIUX|UI]] Design Example By sulley (@svlleyy)",
-        "2023-02-02": "... Hermes uses Helios for its [[UIUX|UI]] components, which allows it to ...",
-        "2023-03-12": "... access to the ChatGPT web [[UIUX|UI]], but unless you are somehow ...",
-        "Andy Matuschak": "- ex-Apple [[UIUX|UI]]-Kit developer",
-        "Apple-like Block Interface": "[[UIUX]]",
-        "ChatGPT": "... out to be a chat [[UIUX|UI]] that got people to start ...",
-        "Confectionery": "... without the clutter of standard [[UIUX|UI]] elements. Focus on the beauty ...",
-        "Diagram Labs": "- [[UIUX]]",
-        "Docusaurus": "... 더 자연스러운 표현일겁니다. 그래서 해당 [[UIUX|UI]] 번역도 아래와 같이 사용할 수 ...",
-        "Downloading Any Recordings from Zoom": "... have reported. However, while this [[UIUX|UI]] does not expose the download ...",
-        "Dynamic Viewport Units": "... is throttled as the UA [[UIUX|UI]] expands or retracts. Some Web ...",
-        "Listmonk": "... is Vue with Buefy for [[UIUX|UI]]",
-        "Magician": "- an [[UIUX]] experiment.",
-        "Menu Hover Effects": "- Cool [[UIUX]] [[Lesser Known Trick]].",
-        "Modern MacPaint": "- an [[UIUX]] experiment.",
-        "Mr. Doob": "- an [[UIUX]] experiment.",
-        "Person 1E6ABA": "... of a financial expert, engineer, [[UIUX|UX]] designer, PM, media expert, media ...",
-        "Project Heimdall": "... That is, separating the linguistic [[UIUX|UI]] from the newsletter content. So ...",
-        "Proposal of Research 2023-01-10": "... time-consuming tasks without blocking the [[UIUX|UI]], which can lead to a ...",
-        "Rauno": "## Miscellany related to [[UIUX|UI]]",
-        "React": "... building user interfaces based on [[UIUX|UI]] components. It is maintained by ...",
-        "React Native": "... React Native is an open-source [[UIUX|UI]] software framework created by [[Meta ...",
-        "Simulated Annealing for Designs": "... shadows, and textures in our [[UIUX|UI]] designs. And now we are ...",
-        "Sudden Rise of Bondee": "... the Townhall. Sometimes, a single [[UIUX]] makes a huge difference.",
-        "Svelte": "... automatically recompute data and re-render [[UIUX|UI]] elements when the data they ...",
-        "Tailwind": "... a 1-to-1 match with the [[UIUX|UI]]. I can easily navigate through ...",
-        "Toss Product Sans": "... 쉼표, 더하기, 빼기, 화살표 등 [[UIUX|UI]] 요소로 활용되는 기호들의 가독성을 높여, ...",
-        "UI AI": "- an [[UIUX]] experiment.",
-        "Virtual DOM": "... the end being declarative, state-driven [[UIUX|UI]] development. Virtual DOM is valuable ...",
-        "Wayfinding with AI Pin": "... guidelines for positioning and scaling [[UIUX|UI]] elements.",
-        "날씨 요정": "[[UIUX]]",
-        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... Human Interface Guideline, 웹의 경우 shadcn/[[UIUX|ui]]). 디자인을 위탁했기 때문에 기획과 개발에만 ...",
-        "배달의민족 FE 개발자가 일하는 법 Q&A": "## Q. Front-end|프론트엔드 개발자가 [[UIUX|UI]]나 [[UIUX|UX]]에 대한 아이디어가 있다면 이를 ...",
-        "빙글": "## [[UIUX|UI]]의 변경",
-        "혜성처럼 나타난 본디": "... 찍어서 주고 받았다. 가끔 하나의 [[UIUX]]가 큰 차이를 만든다."
-    },
     "0235 LCA of a Binary Search Tree": {
         "2022-09-25": "- [[0235 LCA of a Binary Search Tree]]",
         "Coding Tests": "- [x] [[0235 LCA of a Binary Search Tree]]"
@@ -3856,7 +3827,7 @@ export const backlinks = {
         "Meta": "- [[Meta (Company)]]",
         "PyTorch": "... Torch library, primarily developed by [[Meta (Company)|Facebook]]'s [[AI]] Research lab (FAIR).",
         "React": "... components. It is maintained by [[Meta (Company)|Meta]] (formerly [[Facebook]]) and a community ...",
-        "React Native": "... UIUX|UI software framework created by [[Meta (Company)|Meta]] Platforms, Inc. It is used ...",
+        "React Native": "... UX|UI software framework created by [[Meta (Company)|Meta]] Platforms, Inc. It is used ...",
         "The Paradoxical Moon Philosophy": "... to that, Snapchat, Messenger, and [[Meta (Company)|Instagram]] are Mars, Mercury, or... any ...",
         "Threads (Service)": "... EU market with minimum regulations. [[Meta (Company)|FB]] will Meta (Company)|FB anyways, which ...",
         "Towards Ambient Computing": "... social media companies, such as [[Meta (Company)|Facebook]], employ teams to enhance the ...",
@@ -4103,7 +4074,7 @@ export const backlinks = {
         "Adding a Verified Mark on Apple Mail and Gmail": "... and install it. Go to [[Apple]] [[Mail]] settings and turn on ...",
         "Adobe Premiere Pro": "... works on both Windows and [[Apple]] computers. It's comparable to Apple's ...",
         "AirDrop": "... wirelessly share files between nearby [[Apple]] devices. AirDrop uses [[Bluetooth]] low ...",
-        "Andy Matuschak": "- ex-[[Apple]] [[UIUX|UI]]-Kit developer",
+        "Andy Matuschak": "- ex-[[Apple]] [[UI and UX|UI]]-Kit developer",
         "Apple Earth": "... Earth app but with Smoo-ooth [[Apple]] [[Cartography|Maps]] and [[iOS]] Widget Supports.",
         "Apple Easter Egg": "... here for the hard core [[Apple]] fans that",
         "Apple Newsroom 서체 따라하기": "가장 [[Apple|애플]]을 잘 모방한 서체이다.",
@@ -7632,6 +7603,7 @@ export const backlinks = {
     "말도 안 되는 버그": {
         "2024-01-19": "- [[말도 안 되는 버그]]",
         "2024-04-01": "- [[말도 안 되는 버그]]",
+        "Django Rest Framework Database Query Builder Does Not Stable Sort": "A [[말도 안 되는 버그|stupid bug]] on [[2024-08-09]] something that I ...",
         "화요일에는 인쇄 기능이 고장나는 오피스 프로그램": "- [[말도 안 되는 버그]]"
     },
     "BFCM": {
@@ -8486,7 +8458,7 @@ export const backlinks = {
         "Hacking SEOs": "[[Lesser Known Trick]] [[Someday]]",
         "Ignoring $ for copy-pasting online resources to terminal": "[[Lesser Known Trick]].",
         "Menu Bar Spacing": "[[Lesser Known Trick]]",
-        "Menu Hover Effects": "- Cool UIUX [[Lesser Known Trick]].",
+        "Menu Hover Effects": "- Cool UI and UX [[Lesser Known Trick]].",
         "Probe Confidential Documents": "[[Lesser Known Trick]]",
         "Probe Server Errors": "[[Lesser Known Trick]]",
         "Programmatically Scroll": "[[Lesser Known Trick]]",
@@ -8829,6 +8801,45 @@ export const backlinks = {
         "소셜 엔지니어링 금지": "... 멸종 방어를 위해 금지가 필수. [[Social Engineering]]은 마약성 상품을 개발하는 것과 다를 ...",
         "앰비언트 컴퓨팅을 향해": "현대 시대에 만연한 [[Social Engineering|소셜 엔지니어링]] 또한 가치 중립적이지 않은 영역이다. ..."
     },
+    "UI and UX": {
+        "2022-11-30": "... at some build tools, but [[UI and UX|UI]] components or other libraries usually ...",
+        "2022-12-24": "### [[UI and UX|UI]] Design Example By sulley (@svlleyy)",
+        "2023-02-02": "... Hermes uses Helios for its [[UI and UX|UI]] components, which allows it to ...",
+        "2023-03-12": "... access to the ChatGPT web [[UI and UX|UI]], but unless you are somehow ...",
+        "Andy Matuschak": "- ex-Apple [[UI and UX|UI]]-Kit developer",
+        "Apple-like Block Interface": "[[UI and UX]]",
+        "ChatGPT": "... out to be a chat [[UI and UX|UI]] that got people to start ...",
+        "Confectionery": "... without the clutter of standard [[UI and UX|UI]] elements. Focus on the beauty ...",
+        "Diagram Labs": "- [[UI and UX]]",
+        "Docusaurus": "... 더 자연스러운 표현일겁니다. 그래서 해당 [[UI and UX|UI]] 번역도 아래와 같이 사용할 수 ...",
+        "Downloading Any Recordings from Zoom": "... have reported. However, while this [[UI and UX|UI]] does not expose the download ...",
+        "Dynamic Viewport Units": "... is throttled as the UA [[UI and UX|UI]] expands or retracts. Some Web ...",
+        "Listmonk": "... is Vue with Buefy for [[UI and UX|UI]]",
+        "Magician": "- an [[UI and UX]] experiment.",
+        "Market 6": "... GOAT of user field interactions [[UI and UX|UI]]",
+        "Menu Hover Effects": "- Cool [[UI and UX]] [[Lesser Known Trick]].",
+        "Modern MacPaint": "- an [[UI and UX]] experiment.",
+        "Mr. Doob": "- an [[UI and UX]] experiment.",
+        "Person 1E6ABA": "... of a financial expert, engineer, [[UI and UX|UX]] designer, PM, media expert, media ...",
+        "Project Heimdall": "... That is, separating the linguistic [[UI and UX|UI]] from the newsletter content. So ...",
+        "Proposal of Research 2023-01-10": "... time-consuming tasks without blocking the [[UI and UX|UI]], which can lead to a ...",
+        "Rauno": "## Miscellany related to [[UI and UX|UI]]",
+        "React": "... building user interfaces based on [[UI and UX|UI]] components. It is maintained by ...",
+        "React Native": "... React Native is an open-source [[UI and UX|UI]] software framework created by [[Meta ...",
+        "Simulated Annealing for Designs": "... shadows, and textures in our [[UI and UX|UI]] designs. And now we are ...",
+        "Sudden Rise of Bondee": "... the Townhall. Sometimes, a single [[UI and UX]] makes a huge difference.",
+        "Svelte": "... automatically recompute data and re-render [[UI and UX|UI]] elements when the data they ...",
+        "Tailwind": "... a 1-to-1 match with the [[UI and UX|UI]]. I can easily navigate through ...",
+        "Toss Product Sans": "... 쉼표, 더하기, 빼기, 화살표 등 [[UI and UX|UI]] 요소로 활용되는 기호들의 가독성을 높여, ...",
+        "UI AI": "- an [[UI and UX]] experiment.",
+        "Virtual DOM": "... the end being declarative, state-driven [[UI and UX|UI]] development. Virtual DOM is valuable ...",
+        "Wayfinding with AI Pin": "... guidelines for positioning and scaling [[UI and UX|UI]] elements.",
+        "날씨 요정": "[[UI and UX]]",
+        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... Human Interface Guideline, 웹의 경우 shadcn/[[UI and UX|ui]]). 디자인을 위탁했기 때문에 기획과 개발에만 ...",
+        "배달의민족 FE 개발자가 일하는 법 Q&A": "## Q. Front-end|프론트엔드 개발자가 [[UI and UX|UI]]나 [[UI and UX|UX]]에 대한 아이디어가 ...",
+        "빙글": "## [[UI and UX|UI]]의 변경",
+        "혜성처럼 나타난 본디": "... 찍어서 주고 받았다. 가끔 하나의 [[UI and UX]]가 큰 차이를 만든다."
+    },
     "Grammarly AI-NLP Club": {
         "2023-03-23": "- Attended [[Grammarly AI-NLP Club]]."
     },
@@ -9019,7 +9030,7 @@ export const backlinks = {
         "Impact over Performance": "... too much of a technophile [[aesthete]]... so I have devised the ...",
         "Simian과 심미안": "[[Aesthete|심미안]] (審美眼) 은 아름다움을 살펴 볼 ...",
         "The Paradoxical Moon Philosophy": "... think Project Ganymede|Ganymede is more [[Aesthete|aesthetic]]. Maybe Remora was more straightforward ...",
-        "UIUX": "... and test results rather than [[Aesthete|aesthetic]] preferences and opinions. Unlike user ..."
+        "UI and UX": "... and test results rather than [[Aesthete|aesthetic]] preferences and opinions. Unlike user ..."
     },
     "무제한번역": {
         "2023-05-30": "- [[무제한번역]]",
@@ -9220,7 +9231,7 @@ export const backlinks = {
     },
     "shadcn": {
         "2024-02-01": "- [[shadcn]]",
-        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... Human Interface Guideline, 웹의 경우 [[shadcn]]/[[UIUX|ui]]). 디자인을 위탁했기 때문에 기획과 개발에만 ..."
+        "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... Human Interface Guideline, 웹의 경우 [[shadcn]]/[[UI and UX|ui]]). 디자인을 위탁했기 때문에 ..."
     },
     "Git": {
         "2022-11-28": "- [[Git]]. Git Notes: git's coolest, most ...",
@@ -9291,7 +9302,7 @@ export const backlinks = {
         "Next.js": "... framework created by Vercel enabling [[React]]-based web applications with [[server-side rendering]] ...",
         "Project Heimdall": "... was logged in and when [[React]] was unmounting the `<SignIn>` widget.",
         "React App on GitHub Pages": "... the idea of publishing a [[React]] App on GitHub Pages. I ...",
-        "React Native": "> [[React]] Native is an open-source [[UIUX|UI]] ...",
+        "React Native": "> [[React]] Native is an open-source [[UI ...",
         "Real Exams": "- Get Job Done SQL, [[React]], [[Python]]",
         "Redwood.js": "... The front-end is built with [[React]], a popular [[JavaScript]] library for ...",
         "Separation of Computer Scientists and Computer Technologists": "... can code a dang fantastic [[React]] shopping mall!",
@@ -11693,6 +11704,9 @@ export const backlinks = {
     "Tree Style": {
         "2022-11-20": "- [[Tree Style]]"
     },
+    "Market 6": {
+        "2024-08-20": "- [[Market 6]]"
+    },
     "Final Cut Pro": {
         "Adobe Premiere Pro": "... computers. It's comparable to Apple's [[Final Cut Pro]] [[Video Editor|video editing program]]. Many ...",
         "Cloud-native Video Editor": "- Adobe Premiere Pro → [[Final Cut Pro|Final Cut Pro X]] [[Sequence Film]]",
@@ -11806,6 +11820,7 @@ export const backlinks = {
         "2022-12-28": "- [[Proebsting]]"
     },
     "Sliding Master Master Detail": {
+        "2024-08-20": "- [[Sliding Master Master Detail]]",
         "Master Detail": "- [[Sliding Master Master Detail]]"
     },
     "Stock Option": {
@@ -11894,6 +11909,9 @@ export const backlinks = {
     "Automattic": {
         "2024-04-09": "- [[Automattic]]",
         "Project Day One Exodus": "... One has stalled since the [[Automattic]]'s acquisition."
+    },
+    "Django Rest Framework Database Query Builder Does Not Stable Sort": {
+        "2024-08-20": "- [[Django Rest Framework Database Query Builder Does Not Stable Sort]]"
     },
     "Twitter Recommendation Algorithms": {
         "2023-07-24": "... to look into Lombok and [[Twitter Recommendation Algorithms]]."
@@ -12542,7 +12560,7 @@ export const backlinks = {
         "Project Ganymede": "... makes three requests to the [[Database|DB]] per 1 request to the ...",
         "Proposal of Research 2023-01-10": "... the pixel combinations on the [[database]]. So, I explored clamping the ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### Federated [[Database]] Systems",
-        "React": "... functionality from UIUX|UI to the [[database]], with extra features such as ...",
+        "React": "... UI and UX|UI to the [[database]], with extra features such as ...",
         "Redwood.js": "... (ORM) solution to manage the [[database]] layer. Prisma helps developers build ...",
         "Render.com": "... Back-end|backend-intensive tasks such as migrating [[database]] data in bulk.",
         "Supabase": "... utilizes PostgreSQL as its core [[database]] [[engine]], providing developers with a ...",
@@ -12661,6 +12679,10 @@ export const backlinks = {
     },
     "B5F9BB.png": {
         "2022-11-08": "![[B5F9BB.png]]"
+    },
+    "BD8935.gif": {
+        "2024-08-23": "![[BD8935.gif]]",
+        "Sliding Master Master Detail": "![[BD8935.gif]]"
     },
     "A3435F.png": {
         "2022-07-21": "![[A3435F.png]]"
@@ -13118,6 +13140,9 @@ export const backlinks = {
     },
     "ACE17A.png": {
         "2024-06-23": "![[ACE17A.png]]"
+    },
+    "5B76CA.png": {
+        "2024-08-20": "... 테크 블로그 | Aug, 2024: ![[5B76CA.png]] 선수 뺏겼다. Next.js って App ..."
     },
     "13766B.jpeg": {
         "2023-12-25": "![[13766B.jpeg]]"
@@ -15546,6 +15571,9 @@ export const backlinks = {
     "DA56B2.png": {
         "Cookies that Outlive Login Sessions": "![[DA56B2.png]]"
     },
+    "6443AE.gif": {
+        "Market 6": "![[6443AE.gif]]"
+    },
     "3F7B3C.jpg": {
         "Apple Music Color Washout": "![[3F7B3C.jpg]]"
     },
@@ -15668,6 +15696,12 @@ export const backlinks = {
     },
     "8F83D2.png": {
         "Python Tooling": "![[8F83D2.png]]"
+    },
+    "209AF0.png": {
+        "Django Rest Framework Database Query Builder Does Not Stable Sort": "![[209AF0.png]]"
+    },
+    "C782E0.png": {
+        "Django Rest Framework Database Query Builder Does Not Stable Sort": "![[C782E0.png]]"
     },
     "BF2F47.png": {
         "Twitter Recommendation Algorithms": "![[BF2F47.png]]"
