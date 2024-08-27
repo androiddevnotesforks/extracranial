@@ -4294,6 +4294,10 @@ export const backlinks = {
         "Real Exams": "... minimum element after $k$ decrements. [[Optimized Simulations]]",
         "Simulations": "... are time-space restrictions, look into [[Optimized Simulations]]s."
     },
+    "BD8935.gif": {
+        "2024-08-23": "![[BD8935.gif]]",
+        "Sliding Master Master Detail": "![[BD8935.gif]]"
+    },
     "Obsidian Ava": {
         "2022-10-19": "- [[Obsidian Ava]]",
         "Photoshop for Text": "... to see community efforts like [[Obsidian Ava]] driving in this direction."
@@ -4822,6 +4826,9 @@ export const backlinks = {
     "Timed Terminal Commands": {
         "2023-07-14": "[[Timed Terminal Commands]]",
         "2024-04-19": "[[Timed Terminal Commands]]"
+    },
+    "에밀레 성장 모델": {
+        "2024-08-27": "- [[에밀레 성장 모델]]"
     },
     "ActivityPub": {
         "2022-10-10": "- [[ActivityPub]]",
@@ -6707,6 +6714,9 @@ export const backlinks = {
         "Page Size and Address Translations": "... `555-123-4567` to three levels of [[hash map]] `[555] → [123] → [4567]`",
         "Python": "- Python Dictionary is a [[hash map]].",
         "개성은 쟁취하는 것": "... 답이 나올 수 있도록 암기하는 [[Hash Map|해시맵]] 형태였습니다."
+    },
+    "Dalimagination": {
+        "2024-08-27": "- [[Dalimagination]]"
     },
     "HTMX": {
         "2022-10-18": "- [[HTMX]]",
@@ -12658,6 +12668,9 @@ export const backlinks = {
         "Person 1E6ABA": "... at a Financial Technology|FinTech + [[Educational Technology|EduTech]] Startup. Worked at [[Google]] as ...",
         "Person 431D6C": "- Currently looking into [[Educational Technology|EduTech]] Startup"
     },
+    "6A7C32.gif": {
+        "2024-08-27": "![[6A7C32.gif]]"
+    },
     "AB57BB.png": {
         "2022-07-11": "![[AB57BB.png]]"
     },
@@ -12682,10 +12695,6 @@ export const backlinks = {
     },
     "B5F9BB.png": {
         "2022-11-08": "![[B5F9BB.png]]"
-    },
-    "BD8935.gif": {
-        "2024-08-23": "![[BD8935.gif]]",
-        "Sliding Master Master Detail": "![[BD8935.gif]]"
     },
     "A3435F.png": {
         "2022-07-21": "![[A3435F.png]]"
