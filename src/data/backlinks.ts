@@ -5739,6 +5739,9 @@ export const backlinks = {
         "Search in a Latent Space": "- Related to Synthography and [[Stable Diffusion]]",
         "Synthography": "- [[Stable Diffusion]]"
     },
+    "Intl.DurationFormat": {
+        "2024-09-02": "- [[Intl.DurationFormat]]"
+    },
     "Quarrelsome": {
         "2023-05-03": "- [[Quarrelsome]]"
     },
@@ -6131,6 +6134,9 @@ export const backlinks = {
         "OpenAI enthroned as the Levis of Tech": "- Fewer expensive [[On-Premise]] Engineers — Gone are the ...",
         "OpenAI가 새로운 테크 리바이스로 등극하다": "- 값비싼 [[On-Premise|온프레미스]] 엔지니어 감소 — 서버를 구성하고 ...",
         "Person A3BA1A": "Some customers require [[on-premise]] hardware, requiring us to adapt ..."
+    },
+    "Tailwind File Moving Incident Report": {
+        "2024-09-02": "- [[Tailwind File Moving Incident Report]]"
     },
     "Yang Liu et al. Asymmetrical Vertical Federated Learning": {
         "Project Florence Literature Review": "- [ ] [[Yang Liu et al. Asymmetrical Vertical Federated Learning]]"
@@ -7805,6 +7811,9 @@ export const backlinks = {
     },
     "Height (App)": {
         "Linear (Software)": "... An issue tracking service, like [[Height (App)]], or [[Jira]]"
+    },
+    "macOS Disable Diacritics": {
+        "2024-09-02": "- [[macOS Disable Diacritics]]"
     },
     "Jog 25 minutes (Jan-Feb 23誠鉉)": {
         "2023-01-10": "- [x] [[Jog 25 minutes (Jan-Feb 23誠鉉)]]",
@@ -14390,6 +14399,9 @@ export const backlinks = {
     "B92798.gif": {
         "Boring Report": "![[B92798.gif]]"
     },
+    "783741.png": {
+        "Intl.DurationFormat": "![[783741.png]]"
+    },
     "BD6DAB.png": {
         "Pretendard의 아쉬운 점": "![[BD6DAB.png]]"
     },
@@ -14458,6 +14470,9 @@ export const backlinks = {
     "13B6F7.png": {
         "Sudden Rise of Bondee": "![[13B6F7.png]]",
         "혜성처럼 나타난 본디": "![[13B6F7.png]]"
+    },
+    "D348B9.png": {
+        "Tailwind File Moving Incident Report": "![[D348B9.png]]"
     },
     "A14F68.png": {
         "Updating Listmonk": "![[A14F68.png]]"
@@ -14788,6 +14803,9 @@ export const backlinks = {
     },
     "8F4764.png": {
         "Death Stranding": "![[8F4764.png]]"
+    },
+    "31E22A.png": {
+        "macOS Disable Diacritics": "![[31E22A.png]]"
     },
     "C35020.png": {
         "Heath Resume": "![[C35020.png]]"
