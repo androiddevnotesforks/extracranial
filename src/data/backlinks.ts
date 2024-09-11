@@ -1699,6 +1699,9 @@ export const backlinks = {
         "Intellisense for Knowledge Management": "- Like Copilot or [[IntelliJ]]",
         "LavaLab Cohort of Spring 2023": "... and function calls. Similar to [[IntelliJ]] Flow."
     },
+    "The Dropbox Comment on Hacker News": {
+        "2024-09-09": "- [[The Dropbox Comment on Hacker News]]"
+    },
     "Providing DOM API to Worker Threads": {
         "2022-07-28": "- [[Providing DOM API to Worker Threads]]",
         "2022-07-29": "- [[Providing DOM API to Worker Threads]] Complete"
@@ -2563,6 +2566,9 @@ export const backlinks = {
         "Readings": "- [x] [[Atomic Habits]]",
         "水適穿石": "- [[Atomic Habits]]"
     },
+    "WslRegisterDistribution Failed": {
+        "2024-09-04": "[[WslRegisterDistribution Failed]]"
+    },
     "까리": {
         "2023-12-13": "- [[까리]]",
         "2023-12-17": "[[까리]]",
@@ -3115,6 +3121,7 @@ export const backlinks = {
         "2022-11-23": "- Rive Use Cases: [[Animation]]",
         "2022-12-24": "- Add easing to your [[Animation]] to help add a responsive ...",
         "2023-09-30": "... macOS Sonoma is the changed [[animation]] curve of the notification banner...",
+        "2024-09-11": "- [[Animation]]",
         "Adobe After Effects": "... for keying, tracking, compositing, and [[animation]]. [[Cloud-native Video Editor]]",
         "Are Computers Psychotropic Substances": "Vibrant colors, popping vibrations, smooth [[Animation]], and constant notifications relentlessly demand ...",
         "Dynamic Island on the Web": "- Optimize [[Animation|Animations]] (css `will-change`)",
@@ -5859,6 +5866,7 @@ export const backlinks = {
         "2024-03-10": "- [[네오 코리안 르네상스]]",
         "2024-03-21": "[[네오 코리안 르네상스|Neokorean Renaissance]]",
         "2024-04-30": "- [[네오 코리안 르네상스]]",
+        "2024-09-11": "... 보았다. 자개가 참 예쁘다고 생각했다. [[네오 코리안 르네상스|Neokorean Renaissance]]",
         "건강한 한국 토착 신앙": "## [[네오 코리안 르네상스]]의 예시로서의 무교",
         "국기 색동저고리": "한민족의 문화 [[네오 코리안 르네상스]] [[성현적 발상]]",
         "김치, 엽전, 선비 등 한국적 문화유산에 대한 부정적 의미 제거 작업": "[[네오 코리안 르네상스]]로 나아가기 위해선 김치, 엽전, 선비 ...",
@@ -6206,6 +6214,9 @@ export const backlinks = {
     },
     "블록 기반 링킹": {
         "2024-02-21": "- [[블록 기반 링킹]]"
+    },
+    "demure": {
+        "2024-09-11": "- [[demure]]"
     },
     "의대 쏠림": {
         "2023-02-15": "- [[의대 쏠림]]",
@@ -6734,7 +6745,8 @@ export const backlinks = {
     "Ticket Bounty Model": {
         "2022-08-11": "- [[Ticket Bounty Model]]",
         "2022-09-12": "- [[Ticket Bounty Model]]",
-        "Polar.sh": "Polar is an implementation of [[Ticket Bounty Model]]. You can pledge some money ..."
+        "Polar.sh": "Polar is an implementation of [[Ticket Bounty Model]]. You can pledge some money ...",
+        "ossacc": "- [[Ticket Bounty Model]]"
     },
     "심리역사학": {
         "2023-02-19": "- [[심리역사학]]",
@@ -7004,7 +7016,8 @@ export const backlinks = {
         "2024-04-23": "- [[Probe Server Errors]]"
     },
     "ossacc": {
-        "2024-04-16": "- [[ossacc]]"
+        "2024-04-16": "- [[ossacc]]",
+        "2024-09-11": "- [[ossacc]]"
     },
     "Substack": {
         "Letter to Mr. Alexander Obenauer on 2022-10-12": "... for a developer-friendly mailing platform ([[Substack]] knocks off here).",
@@ -7128,6 +7141,9 @@ export const backlinks = {
         "AMP": "Uses [[WorkerDOM]] under the hood.",
         "Treehouse": "... a Web Worker. Later affected [[WorkerDOM]] and [[Brane]].",
         "iiframe": "- Does not extend [[WorkerDOM]]."
+    },
+    "Cannot Command Click to File with Next App Router Segments": {
+        "2024-09-05": "[[Cannot Command Click to File with Next App Router Segments]]"
     },
     "한국의 식민지 근대성": {
         "2023-10-21": "- [[한국의 식민지 근대성]]",
@@ -7380,6 +7396,7 @@ export const backlinks = {
         "Swift String 조작은 왜 그 모양인가": "... 서기소 묶음(Extended grapheme clusters)\"이 있는 [[Vocab|단어]]가 포함된다. Integer를 사용하면 각 문자열의 ...",
         "Vicarious": "[[Vocab]]",
         "armada": "[[Vocab]]",
+        "demure": "[[Vocab]]",
         "pun": "[[Vocab]]",
         "強力反權": "... 기간 나의 지향 기조를 정의하는 [[Vocab|단어]]를 찾아왔다.",
         "과거의 영광 (16誠鉉-18誠鉉)": "... 있는 것일지도 모른다. 민사고에는 '내미'라는 [[Vocab|단어]]가 있다. '내신에 미친 사람'이라는 뜻이다. ...",
@@ -7504,6 +7521,9 @@ export const backlinks = {
         "Dear AIs, I have a question.": "... many different studies like the [[polymath]] Newton. Do not say you're ...",
         "On National Crises and the Intellectuals — Focused on GB and KR": "... the realm of polymaths. A [[polymath]] is a person who has ...",
         "국가적 위기와 지식인에 대해 — 영국과 한국을 중심으로": "... 것을 종합할 수 있다면 우리는 [[Polymath|박식가]]<sub>[[Polymath]]</sub>의 영역에 속합니다. Polymath|박식가는 과학, 공학, ..."
+    },
+    "QUIC": {
+        "2024-09-11": "- [[QUIC]]"
     },
     "Person 9078DC": {
         "2023-04-20": "[[Person 9078DC]]",
@@ -10263,6 +10283,9 @@ export const backlinks = {
         "Page Size and Address Translations": "... potential solution: cache this! called [[translation look-aside buffers]].",
         "Virtual Memory": "- [[Translation Look-aside Buffers]]"
     },
+    "Padding Start vs Padding Left": {
+        "2024-09-05": "[[Padding Start vs Padding Left]]"
+    },
     "DOM Reflow": {
         "2022-07-11": "... could only be found after [[DOM Reflow]]."
     },
@@ -11445,6 +11468,11 @@ export const backlinks = {
         "Sliding Master Master Detail": "... is a Master Detail with [[Sliding Panes]]? I think it'll make a ...",
         "Spacial Cognition": "- Three Column Design and [[Sliding Panes]] are a few ways of ..."
     },
+    "App Router": {
+        "2024-08-20": "... !5B76CA.png 선수 뺏겼다. Next.js って [[App Router]] が出てきて平和じゃなくなったよね Next.js って App Router ...",
+        "Cannot Command Click to File with Next App Router Segments": "... be my biggest gripe with [[App Router]]",
+        "NMD.cho.sh": "- Acceptable Code Structure (Next.js [[App Router]] Nested Layout)"
+    },
     "의료 인공지능과 의대 쏠림": {
         "2023-02-15": "- [[의료 인공지능과 의대 쏠림]]"
     },
@@ -11478,6 +11506,9 @@ export const backlinks = {
     },
     "Stripe Press": {
         "2024-03-28": "- [[Stripe Press]]"
+    },
+    "Semantic Web": {
+        "2024-09-11": "- [[Semantic Web]]"
     },
     "Letter to Mr. Matt Rickard on 2022-10-03": {
         "2022-10-04": "- [[Letter to Mr. Matt Rickard on 2022-10-03]]",
@@ -11643,6 +11674,10 @@ export const backlinks = {
     "ChatGPT is a Blurry JPEG and We Need That": {
         "2023-03-31": "- [[ChatGPT is a Blurry JPEG and We Need That]]",
         "Newtonian Correspondence": "| 03-31 | `EN` [[ChatGPT is a Blurry JPEG and We Need That]] <br/> `KO` [[ChatGPT는 흐릿한 이미지이지만 ..."
+    },
+    "Vimium": {
+        "2024-09-05": "[[Vimium]]",
+        "2024-09-11": "- [[vimium]]"
     },
     "Run by a human": {
         "SignalKite": "[[Run by a human]]"
@@ -12914,6 +12949,9 @@ export const backlinks = {
     "B22093.png": {
         "2022-06-27": "![[B22093.png]]"
     },
+    "1B4D96.png": {
+        "2024-09-11": "![[1B4D96.png]]"
+    },
     "5A3846.gif": {
         "2022-11-10": "![[5A3846.gif]]",
         "Dynamic Island on the Web": "![[5A3846.gif]]"
@@ -13163,7 +13201,7 @@ export const backlinks = {
         "2024-06-23": "![[ACE17A.png]]"
     },
     "5B76CA.png": {
-        "2024-08-20": "... 테크 블로그 | Aug, 2024: ![[5B76CA.png]] 선수 뺏겼다. Next.js って App ..."
+        "2024-08-20": "... 테크 블로그 | Aug, 2024: ![[5B76CA.png]] 선수 뺏겼다. Next.js って [[App ..."
     },
     "13766B.jpeg": {
         "2023-12-25": "![[13766B.jpeg]]"
@@ -14562,6 +14600,12 @@ export const backlinks = {
     "5E92AA.gif": {
         "Detroit Become Human": "![[5E92AA.gif]]"
     },
+    "7BA114.png": {
+        "Ticket Bounty Model": "![[7BA114.png]]"
+    },
+    "3E3837.png": {
+        "Ticket Bounty Model": "![[3E3837.png]]"
+    },
     "115932.png": {
         "Linkflags": "![[115932.png]]"
     },
@@ -14658,6 +14702,9 @@ export const backlinks = {
     },
     "553DCB.png": {
         "Bad Interview Experience with Replo": "![[553DCB.png]]"
+    },
+    "E1FD96.png": {
+        "Cannot Command Click to File with Next App Router Segments": "![[E1FD96.png]]"
     },
     "B2578E.png": {
         "Greater Northeast Corridor": "![[B2578E.png]]"
