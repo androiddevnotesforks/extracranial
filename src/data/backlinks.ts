@@ -11842,6 +11842,9 @@ export const backlinks = {
     "App Intents": {
         "WWDC23": "- [[App Intents]] → Can be used as ..."
     },
+    "HackSeoul 2024": {
+        "2024-09-11": "- [[HackSeoul 2024]]"
+    },
     "Screenplay": {
         "2022-10-18": "- Screenplays [[Screenplay]]"
     },
@@ -12949,8 +12952,14 @@ export const backlinks = {
     "B22093.png": {
         "2022-06-27": "![[B22093.png]]"
     },
-    "1B4D96.png": {
-        "2024-09-11": "![[1B4D96.png]]"
+    "93532B.png": {
+        "2024-09-11": "![[93532B.png]]"
+    },
+    "9D1876.gif": {
+        "2024-09-11": "![[9D1876.gif]]"
+    },
+    "E813B2.png": {
+        "2024-09-11": "![[E813B2.png]]"
     },
     "5A3846.gif": {
         "2022-11-10": "![[5A3846.gif]]",
@@ -15758,6 +15767,57 @@ export const backlinks = {
     },
     "392747.png": {
         "솟대": "![[392747.png]]"
+    },
+    "7A88FD.png": {
+        "HackSeoul 2024": "![[7A88FD.png]]"
+    },
+    "F5B2E9.png": {
+        "HackSeoul 2024": "![[F5B2E9.png]]"
+    },
+    "948B25.png": {
+        "HackSeoul 2024": "![[948B25.png]]"
+    },
+    "E2BF17.png": {
+        "HackSeoul 2024": "![[E2BF17.png]]"
+    },
+    "2AF1DB.png": {
+        "HackSeoul 2024": "![[2AF1DB.png]]"
+    },
+    "69FD21.png": {
+        "HackSeoul 2024": "![[69FD21.png]]"
+    },
+    "976A59.png": {
+        "HackSeoul 2024": "![[976A59.png]]"
+    },
+    "436846.png": {
+        "HackSeoul 2024": "![[436846.png]]"
+    },
+    "DA92C6.png": {
+        "HackSeoul 2024": "![[DA92C6.png]]"
+    },
+    "A1D642.png": {
+        "HackSeoul 2024": "![[A1D642.png]]"
+    },
+    "6AF593.png": {
+        "HackSeoul 2024": "![[6AF593.png]]"
+    },
+    "239BCF.png": {
+        "HackSeoul 2024": "![[239BCF.png]]"
+    },
+    "926B9E.png": {
+        "HackSeoul 2024": "![[926B9E.png]]"
+    },
+    "772539.png": {
+        "HackSeoul 2024": "![[772539.png]]"
+    },
+    "254696.png": {
+        "HackSeoul 2024": "![[254696.png]]"
+    },
+    "9FB1B6.png": {
+        "HackSeoul 2024": "![[9FB1B6.png]]"
+    },
+    "C6A468.png": {
+        "HackSeoul 2024": "![[C6A468.png]]"
     },
     "784BE1.png": {
         "LAH Case Study": "![[784BE1.png]]"
