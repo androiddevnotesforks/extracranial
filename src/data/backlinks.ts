@@ -6517,6 +6517,9 @@ export const backlinks = {
         "2022-09-05": "- [[0733 Flood Fill]]",
         "Coding Tests": "- [x] [[0733 Flood Fill]]"
     },
+    "GitHub PR Message Prompt": {
+        "2024-09-26": "- [[GitHub PR Message Prompt]]"
+    },
     "한국통사": {
         "2023-08-31": "- [[한국통사]]",
         "Readings": "- [x] [[한국통사]]"
@@ -8058,6 +8061,7 @@ export const backlinks = {
     "Supabase": {
         "2022-12-28": "- Back-end|Backend as a Service: [[Supabase]] (past: Firebase)",
         "2023-05-04": "- [[Supabase]]",
+        "2024-09-16": "[[Supabase]]",
         "IDOL Stack": "- Next.js, [[Supabase]] [[Database|DB]], Supabase Auth, Supabase Storage, ...",
         "henrymakesapps": "4. [[Supabase]]. Offers an easy-to-use [[database]] with ...",
         "hn.cho.sh 개발 기록": "... starter template for Next.js and [[Supabase]] 살펴보기"
@@ -9273,6 +9277,7 @@ export const backlinks = {
     },
     "shadcn": {
         "2024-02-01": "- [[shadcn]]",
+        "2024-09-16": "[[shadcn]]",
         "디지털 브레인과 개발에 대한 질문 편지 (24誠鉉 2월)": "... Human Interface Guideline, 웹의 경우 [[shadcn]]/[[UI and UX|ui]]). 디자인을 위탁했기 때문에 ..."
     },
     "Git": {
@@ -9887,6 +9892,7 @@ export const backlinks = {
         "2024-04-24": "- [[Watchings]]",
         "2024-05-17": "- [[Watchings]]",
         "2024-08-15": "- [[Watchings]]",
+        "2024-09-25": "[[Watchings]]",
         "Playings": "... 2023. Just like Readings and [[Watchings]].",
         "앎의 그릇": "- [[Watchings]]"
     },
