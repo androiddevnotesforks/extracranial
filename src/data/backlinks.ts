@@ -1836,6 +1836,9 @@ export const backlinks = {
         "Uniform Distributions (Discrete)": "In [[Probability]],",
         "XUID": "... the next 100 years, the [[probability]] of creating just one duplicate ..."
     },
+    "VoidZero": {
+        "2024-10-02": "- [[VoidZero]]"
+    },
     "Complete Reconsideration of Project Ganymede": {
         "2024-06-12": "- [[Complete Reconsideration of Project Ganymede]]",
         "Project Ganymede": "- [[Complete Reconsideration of Project Ganymede]]"
@@ -2065,6 +2068,9 @@ export const backlinks = {
         "Rewind": "- Rewind is a [[Search Engine Indexing Your Life]].",
         "Search-based Tools for Thought": "- [[Search Engine Indexing Your Life]]",
         "Thesephist Work Case Study": "### Monocle: [[Search Engine Indexing Your Life]]"
+    },
+    "SaaS for Auth": {
+        "2024-10-02": "- [[SaaS for Auth]]"
     },
     "Open Core Models": {
         "2024-02-28": "- [[Open Core Models]]",
@@ -3582,6 +3588,9 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "og.cho.sh로 OG 생성을 옮기면서 [[Pretendard]]를 적용하려고 했는데.",
         "서울 프로": "본 목적은 [[Pretendard]]와 비슷하게 [[Apple]]의 [[San Francisco]] 폰트와 ..."
     },
+    "Casu Marzu": {
+        "2024-10-03": "- [[Casu Marzu]]"
+    },
     "Use Your Mac as your Bluetooth Speaker": {
         "2023-01-26": "- [[Use Your Mac as your Bluetooth Speaker]]"
     },
@@ -4905,6 +4914,9 @@ export const backlinks = {
         "How is WebAssembly cross-platform when Assembly is not": "... WebAssembly|WASM to ASM targeting x86, [[ARM Architecture|ARM]], and RISC-V, is comparably easy, ...",
         "Meltdown": "... IBM POWER processors, and some [[ARM Architecture|ARM]]-based microprocessors. It allows a rogue ..."
     },
+    "Disable iPhone from automatically connecting to carrier Wi-Fis": {
+        "2024-10-04": "[[Disable iPhone from automatically connecting to carrier Wi-Fis]]"
+    },
     "800km 밖에 못 가는 이메일": {
         "2024-01-19": "- [[800km 밖에 못 가는 이메일]]",
         "말도 안 되는 버그": "- [[800km 밖에 못 가는 이메일]]"
@@ -6174,6 +6186,7 @@ export const backlinks = {
     },
     "Notion AI": {
         "2022-11-16": "- [[Notion AI]]. [[Notion]]'s [[Generative Intelligence]]",
+        "2024-10-03": "- [[Notion AI]]",
         "Intellisense for Knowledge Management": "- More like [[Notion AI]]? What if [[Notion]] [[AI]] got ..."
     },
     "NavigationSplitView": {
@@ -7018,6 +7031,9 @@ export const backlinks = {
     "Probe Server Errors": {
         "2024-04-23": "- [[Probe Server Errors]]"
     },
+    "es-toolkit": {
+        "2024-10-02": "- [[es-toolkit]]"
+    },
     "ossacc": {
         "2024-04-16": "- [[ossacc]]",
         "2024-09-11": "- [[ossacc]]"
@@ -7647,6 +7663,9 @@ export const backlinks = {
         "2024-04-01": "- [[말도 안 되는 버그]]",
         "Django Rest Framework Database Query Builder Does Not Stable Sort": "A [[말도 안 되는 버그|stupid bug]] on [[2024-08-09]] something that I ...",
         "화요일에는 인쇄 기능이 고장나는 오피스 프로그램": "- [[말도 안 되는 버그]]"
+    },
+    "NIST Password Recommendations": {
+        "2024-09-26": "- [[NIST Password Recommendations]]"
     },
     "BFCM": {
         "2023-11-24": "- [[BFCM]]"
@@ -10923,6 +10942,7 @@ export const backlinks = {
     },
     "Font": {
         "2022-08-01": "... Just realized that this enables [[Font]] [[Font Features|Ligature]] Settings.",
+        "2024-10-06": "- [[Font]]",
         "Akzidenz": "- A type of Grotesque [[font]].",
         "Almost Monospaced": "... the readability of a proportional [[font]] with the rough draft feel ...",
         "Apple Newsroom 서체 따라하기": "... may not make the Apple [[Font]] available over a network where ...",
@@ -11470,6 +11490,7 @@ export const backlinks = {
     "Sliding Panes": {
         "Andy Matuschak": "Introduced novel concepts, such as [[Sliding Panes]], [[Backlink|links to this note]], and ...",
         "Horizontally Stacked Interface": "- [[Sliding Panes]]. Have multiple-scrollable columns.",
+        "Miller Columns": "I haved called it [[Sliding Panes]] for a long time",
         "Second Brain": "- [[sliding panes]]",
         "Sliding Master Master Detail": "... is a Master Detail with [[Sliding Panes]]? I think it'll make a ...",
         "Spacial Cognition": "- Three Column Design and [[Sliding Panes]] are a few ways of ..."
@@ -11885,9 +11906,13 @@ export const backlinks = {
     "Proebsting": {
         "2022-12-28": "- [[Proebsting]]"
     },
+    "Miller Columns": {
+        "2024-10-05": "[[Miller Columns]]"
+    },
     "Sliding Master Master Detail": {
         "2024-08-20": "- [[Sliding Master Master Detail]]",
-        "Master Detail": "- [[Sliding Master Master Detail]]"
+        "Master Detail": "- [[Sliding Master Master Detail]]",
+        "Miller Columns": "[[Sliding Master Master Detail]]"
     },
     "Stock Option": {
         "Finance": "- [[Stock Option]]"
@@ -12282,6 +12307,10 @@ export const backlinks = {
     "역사의 종말 오류 (에세이)": {
         "2023-03-16": "- [[역사의 종말 오류 (에세이)]]",
         "Newtonian Correspondence": "... of History Fallacy <br/> `KO` [[역사의 종말 오류 (에세이)]]      ..."
+    },
+    "Discord": {
+        "2024-10-03": "- [[Discord]]",
+        "2024-10-06": "- [[Discord]]"
     },
     "Sample Ratio Mismatch": {
         "Grammarly Work Note 2023-06-23": "- [[Sample Ratio Mismatch]]"
@@ -13401,6 +13430,9 @@ export const backlinks = {
     },
     "107B49.png": {
         "Embeddable GitHub Repo Card But It Looks Great": "![[107B49.png]]"
+    },
+    "4ACA3E.png": {
+        "VoidZero": "![[4ACA3E.png]]"
     },
     "2B3162.png": {
         "AI Note Generators": "![[2B3162.png]]",
@@ -14541,6 +14573,9 @@ export const backlinks = {
     },
     "6DFC4D.png": {
         "Notion AI": "![[6DFC4D.png]]"
+    },
+    "CC2DAC.png": {
+        "Notion AI": "![[CC2DAC.png]]"
     },
     "094016.png": {
         "Android equivalent of div": "![[094016.png]]"
