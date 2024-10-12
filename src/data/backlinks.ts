@@ -4674,6 +4674,9 @@ export const backlinks = {
         "WebGPU": "- It's a stand-alone TypeScript+[[Rust]]/[[WebAssembly|WASM]] library with its own [[React]]-like ...",
         "Write Once Run Everywhere": "- [[Rust]]"
     },
+    "In HTML, button cannot be a descendant of button": {
+        "2024-10-07": "- [[In HTML, button cannot be a descendant of button]]"
+    },
     "ChatGPT는 흐릿한 이미지이지만 필요합니다": {
         "2023-03-31": "- [[ChatGPT는 흐릿한 이미지이지만 필요합니다]]",
         "Newtonian Correspondence": "... We Need That <br/> `KO` [[ChatGPT는 흐릿한 이미지이지만 필요합니다]] | Tweet <br/> Linkedin  ..."
@@ -6416,6 +6419,9 @@ export const backlinks = {
     },
     "http 없는 http 서버 만들기": {
         "2022-11-19": "  - [[http 없는 http 서버 만들기]]"
+    },
+    "Copy Latest SHA": {
+        "2024-10-07": "- [[Copy Latest SHA]]"
     },
     "나락 탐지": {
         "2024-04-07": "- [[나락 탐지]]"
@@ -8490,6 +8496,9 @@ export const backlinks = {
     },
     "Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection": {
         "Project Florence Literature Review": "- [ ] [[Qinbin Li et al. Federated Learning Systems. Vision, Hype, and Reality for Data Privacy and Protection]]"
+    },
+    "Auto-remove Unused Imports": {
+        "2024-10-07": "- [[Auto-remove Unused Imports]]"
     },
     "Cohere Rerank": {
         "2024-01-16 Search Engine": "## [[Cohere Rerank]]"
