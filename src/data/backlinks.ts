@@ -1148,6 +1148,9 @@ export const backlinks = {
     "Universal Approximation Theorem": {
         "2023-09-27": "- [[Universal Approximation Theorem]]"
     },
+    "String Template Managing Tools": {
+        "2024-10-14": "- [[String Template Managing Tools]]"
+    },
     "WidgetKit": {
         "WWDC23": "- [[WidgetKit]] → Interactivity. Also possible to ..."
     },
@@ -6537,7 +6540,8 @@ export const backlinks = {
         "Coding Tests": "- [x] [[0733 Flood Fill]]"
     },
     "GitHub PR Message Prompt": {
-        "2024-09-26": "- [[GitHub PR Message Prompt]]"
+        "2024-09-26": "- [[GitHub PR Message Prompt]]",
+        "2024-11-15": "[[GitHub PR Message Prompt]]"
     },
     "한국통사": {
         "2023-08-31": "- [[한국통사]]",
@@ -9743,6 +9747,7 @@ export const backlinks = {
     "Adding a Verified Mark on Apple Mail and Gmail": {
         "2022-10-21": "- [[Adding a Verified Mark on Apple Mail and Gmail]]",
         "2023-08-03": "- [[Adding a Verified Mark on Apple Mail and Gmail]]",
+        "2024-11-14": "[[Adding a Verified Mark on Apple Mail and Gmail]]",
         "Getting Verified on Gmail": "While we have previously discussed [[Adding a Verified Mark on Apple Mail and Gmail]], getting a [[checkmark]] on Gmail ..."
     },
     "Super App is a Universal Chat App": {
@@ -10309,6 +10314,9 @@ export const backlinks = {
     },
     "CS585 Final": {
         "2024-04-30": "- [[CS585 Final]]"
+    },
+    "Shadcn Skeleton Random Delay": {
+        "2024-10-14": "- [[Shadcn Skeleton Random Delay]]"
     },
     "Translation Look-aside Buffers": {
         "2022-11-04": "- [[Translation Look-aside Buffers]]",
