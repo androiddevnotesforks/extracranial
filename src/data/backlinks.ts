@@ -1159,6 +1159,7 @@ export const backlinks = {
     },
     "Aldehyde SaaS": {
         "2023-05-30": "- [[Aldehyde SaaS]]",
+        "Extracranial.com": "[[Aldehyde SaaS|The time has come.]]",
         "Project Sillok": "- [[Aldehyde SaaS]]."
     },
     "기술 유출": {
@@ -6541,7 +6542,8 @@ export const backlinks = {
     },
     "GitHub PR Message Prompt": {
         "2024-09-26": "- [[GitHub PR Message Prompt]]",
-        "2024-11-15": "[[GitHub PR Message Prompt]]"
+        "2024-11-15": "[[GitHub PR Message Prompt]]",
+        "2024-12-06": "[[GitHub PR Message Prompt]]"
     },
     "한국통사": {
         "2023-08-31": "- [[한국통사]]",
@@ -7506,6 +7508,9 @@ export const backlinks = {
         "2023-08-24": "- [[Doheny East Asian Book Stacks]]",
         "이완용": "... 전 University of Southern California|학교 [[Doheny East Asian Book Stacks|도서관 동아시아관]]을 거닐던 중 우연히 발견한 책의 ...",
         "한국통사": "[[Doheny East Asian Book Stacks|동헤니]]에서 1917년 순한글 출판본을 찾았다."
+    },
+    "Next.js 15 Font Hydration Error": {
+        "2024-12-02": "[[Next.js 15 Font Hydration Error]]"
     },
     "Brunch violates SF terms of use": {
         "San Francisco": "- Although [[Brunch violates SF terms of use]]"
@@ -9915,6 +9920,9 @@ export const backlinks = {
     },
     "CoreMotion API": {
         "WWDC23": "- [[CoreMotion API]] → higher fidelity data"
+    },
+    "Extracranial.com": {
+        "2024-12-05": "- [[Extracranial.com]]"
     },
     "Passkey": {
         "2022-06-20": "... that this is not Apple [[Passkey]]. This is the Privacy Pass ...",
@@ -14839,6 +14847,9 @@ export const backlinks = {
     },
     "9C3CA9.jpeg": {
         "Doheny East Asian Book Stacks": "![[9C3CA9.jpeg]]"
+    },
+    "37C899.png": {
+        "Next.js 15 Font Hydration Error": "![[37C899.png]]"
     },
     "317954.png": {
         "Repeated Designs": "![[317954.png]]"
