@@ -5017,6 +5017,8 @@ export const backlinks = {
     "Raycast": {
         "2023-04-05": "[[Raycast]]는 이모지 피커는 참 좋은데 검색이 ...",
         "Love Software": "... (Fiercely Overpriced|paywalled) alfred (now using [[raycast]])",
+        "My Raycast Wrapped of 2022": "[[Raycast]]",
+        "My Raycast Wrapped of 2023": "[[Raycast]]",
         "Neo Apps": "... Search. Spotlight → Alfred → [[Raycast]]"
     },
     "Research Paper Hub": {
@@ -6682,6 +6684,10 @@ export const backlinks = {
         "2023-04-15": "- [[Detroit Become Human]]",
         "Playings": "- [[Detroit Become Human]] (Steam Deck)"
     },
+    "My Raycast Wrapped of 2024": {
+        "2024-12-18": "[[My Raycast Wrapped of 2024]]",
+        "My Raycast Wrapped of 2024": "[[My Raycast Wrapped of 2024]]"
+    },
     "Building Habit": {
         "2023-01-15": "## [[Building Habit]]",
         "2023-01-16": "## [[Building Habit]]",
@@ -7267,7 +7273,8 @@ export const backlinks = {
         "2024-08-02": "- [[Stripe Acquires Lemon Squeezy]]"
     },
     "My Raycast Wrapped of 2023": {
-        "2023-12-15": "- [[My Raycast Wrapped of 2023]]"
+        "2023-12-15": "- [[My Raycast Wrapped of 2023]]",
+        "My Raycast Wrapped of 2024": "[[My Raycast Wrapped of 2023]]"
     },
     "Search in a Latent Space": {
         "2022-12-04": "- [[Search in a Latent Space]]",
@@ -14680,6 +14687,21 @@ export const backlinks = {
     },
     "5E92AA.gif": {
         "Detroit Become Human": "![[5E92AA.gif]]"
+    },
+    "41D7C4.png": {
+        "My Raycast Wrapped of 2024": "![[41D7C4.png]]"
+    },
+    "5348E2.png": {
+        "My Raycast Wrapped of 2024": "![[5348E2.png]]"
+    },
+    "D21992.png": {
+        "My Raycast Wrapped of 2024": "![[D21992.png]]"
+    },
+    "BE23D8.png": {
+        "My Raycast Wrapped of 2024": "![[BE23D8.png]]"
+    },
+    "163772.png": {
+        "My Raycast Wrapped of 2024": "![[163772.png]]"
     },
     "7BA114.png": {
         "Ticket Bounty Model": "![[7BA114.png]]"
