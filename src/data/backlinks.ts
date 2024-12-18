@@ -6545,7 +6545,8 @@ export const backlinks = {
     "GitHub PR Message Prompt": {
         "2024-09-26": "- [[GitHub PR Message Prompt]]",
         "2024-11-15": "[[GitHub PR Message Prompt]]",
-        "2024-12-06": "[[GitHub PR Message Prompt]]"
+        "2024-12-06": "[[GitHub PR Message Prompt]]",
+        "2024-12-18": "[[GitHub PR Message Prompt]]"
     },
     "한국통사": {
         "2023-08-31": "- [[한국통사]]",
@@ -11742,7 +11743,8 @@ export const backlinks = {
     },
     "Vimium": {
         "2024-09-05": "[[Vimium]]",
-        "2024-09-11": "- [[vimium]]"
+        "2024-09-11": "- [[vimium]]",
+        "2024-12-18": "[[Vimium]]"
     },
     "Run by a human": {
         "SignalKite": "[[Run by a human]]"
