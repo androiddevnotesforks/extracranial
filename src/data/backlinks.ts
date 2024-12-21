@@ -1028,6 +1028,9 @@ export const backlinks = {
     "Datahouse": {
         "Grammarly Work Note 2023-06-02": "... query the data in our [[Datahouse]] and index [[metadata]]. Our system ..."
     },
+    "Do not Disturb for Set Duration": {
+        "2024-12-20": "[[Do not Disturb for Set Duration]]"
+    },
     "기술낙관론자 선언문": {
         "2023-10-17": "- [[기술낙관론자 선언문]]",
         "The Techno-optimist Manifesto": "[[기술낙관론자 선언문|한국어 🇰🇷]]",
@@ -6546,7 +6549,8 @@ export const backlinks = {
         "2024-09-26": "- [[GitHub PR Message Prompt]]",
         "2024-11-15": "[[GitHub PR Message Prompt]]",
         "2024-12-06": "[[GitHub PR Message Prompt]]",
-        "2024-12-18": "[[GitHub PR Message Prompt]]"
+        "2024-12-18": "[[GitHub PR Message Prompt]]",
+        "2024-12-19": "[[GitHub PR Message Prompt]]"
     },
     "한국통사": {
         "2023-08-31": "- [[한국통사]]",
@@ -13312,6 +13316,9 @@ export const backlinks = {
     "301024.png": {
         "Paracosm": "![[301024.png]]",
         "Text-based Tools for Thought": "![[301024.png]]"
+    },
+    "F26E4A.png": {
+        "Do not Disturb for Set Duration": "![[F26E4A.png]]"
     },
     "D0AE71.png": {
         "Sequence Film": "![[D0AE71.png]]"
