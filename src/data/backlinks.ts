@@ -13109,7 +13109,7 @@ export const backlinks = {
     },
     "61B2A4.gif": {
         "2023-11-20": "- ![[61B2A4.gif]]",
-        "Apple-like Block Interface": "[[61B2A4.gif]]"
+        "Apple-like Block Interface": "![[61B2A4.gif]]"
     },
     "EC9948.png": {
         "2023-04-13": "![[EC9948.png]]",
