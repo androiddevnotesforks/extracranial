@@ -7614,7 +7614,7 @@ export const backlinks = {
         "Monte Carlo Algorithm": "... Used in varied fields like [[finance]], physics, game theory, and [[graphics]], ...",
         "Nuclear Fission": "... directed the Economy, Environment, and [[Finance]] Ministries to develop a legal ...",
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "### [[Finance]]",
-        "Supergravity Products": "... 아이디어는 보통 <br/>- 작은 아이디어 ([[Finance|금융]]수퍼앱x 친구에게 송금쉬운 앱o)",
+        "Supergravity Products": "- 작은 아이디어 ([[Finance|금융]]수퍼앱x 친구에게 송금쉬운 앱o)",
         "Tech Now Pay Later": "... we learn a thing in [[Finance]].",
         "Web3": "... \"invest\" into the \"future of [[finance]]\", the \"future of the web\", ...",
         "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "벌금을 확대하되, 특히 [[Finance|금융]]사기와 강력범죄에 대해 범죄 수익 전체 ...",
