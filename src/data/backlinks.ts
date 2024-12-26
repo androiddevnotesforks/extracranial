@@ -6732,7 +6732,7 @@ export const backlinks = {
         "2024-04-14": "- [[誠鉉]]",
         "2024-04-20": "- [[誠鉉]]",
         "Letter to the Heptabase Team on 2022-10-11": "趙[[誠鉉]] 敬上",
-        "Time-Space Continuum (19誠鉉)": "# Time-Space Continuum (19[[誠鉉]]?)",
+        "Time-Space Continuum (19誠鉉)": "title: 'Time-Space Continuum (19[[誠鉉]]?)'",
         "내가 만든": "- [[誠鉉]]",
         "시간 횡령 (12誠鉉)": "지금으로부터 꽤 오래 전, 그러니까 12[[誠鉉]] 시절부터 고안한 사고 프레임워크가 하나 ..."
     },
