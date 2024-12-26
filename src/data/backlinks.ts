@@ -4317,10 +4317,6 @@ export const backlinks = {
         "Real Exams": "... minimum element after $k$ decrements. [[Optimized Simulations]]",
         "Simulations": "... are time-space restrictions, look into [[Optimized Simulations]]s."
     },
-    "BD8935.gif": {
-        "2024-08-23": "![[BD8935.gif]]",
-        "Sliding Master Master Detail": "![[BD8935.gif]]"
-    },
     "Obsidian Ava": {
         "2022-10-19": "- [[Obsidian Ava]]",
         "Photoshop for Text": "... to see community efforts like [[Obsidian Ava]] driving in this direction."
@@ -12821,6 +12817,10 @@ export const backlinks = {
     },
     "B5F9BB.png": {
         "2022-11-08": "![[B5F9BB.png]]"
+    },
+    "BD8935.gif": {
+        "2024-08-23": "![[BD8935.gif]]",
+        "Sliding Master Master Detail": "![[BD8935.gif]]"
     },
     "A3435F.png": {
         "2022-07-21": "![[A3435F.png]]"
