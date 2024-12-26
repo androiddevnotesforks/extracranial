@@ -12706,7 +12706,7 @@ export const backlinks = {
         "Tech Now Pay Later": "... used TXT files as its \"[[database]]\".",
         "Tools Must Vanish": "... across your filesystem, Dropbox, and [[database]] rows in six different proprietary ...",
         "UUID": "... rows of data within a [[database]] table, where each row is ...",
-        "Vector DB": "Google killing all vector [[Database|db]] startups lmao <a href=\"https://t.co/CR0kD3eekD\">pic.twitter.com/CR0kD3eekD</a>",
+        "Vector DB": "Google killing all vector [[Database|db]] startups lmao",
         "Vitess": "Vitess is an open-source [[database]] [[clustering]] system for horizontal scaling ...",
         "dub.co": "  - upstash [[database]]",
         "henrymakesapps": "4. Supabase. Offers an easy-to-use [[database]] with PostgreSQL and type-injected clients.",
