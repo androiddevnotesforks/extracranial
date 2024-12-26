@@ -6414,7 +6414,7 @@ export const backlinks = {
         "Letter to the Heptabase Team on 2022-10-11": "... based in Los Angeles|LA and [[서울|Seoul]]. I am also a contributor ...",
         "MetroPunk": "... 않는다. 반면 메트로펑크 스토리에는 도쿄나 [[서울]]과 같은 아시아 대도시를 연상시키는 첨단 ...",
         "Spirits do not Inherit": "... wasn't built in a day, [[서울|Seoul]] wasn't in a day, and ...",
-        "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "... United States of America|미국의 기업들을 [[서울]]로 유치하기 위해 적극 투자\b한다.",
+        "감세와 벌금 강화를 통한 국가 신경영 모델의 독자 연구": "... United States of America|미국의 기업들을 [[서울]]로 유치하기 위해 적극 투자한다.",
         "개성은 쟁취하는 것": "[[서울]]도 하루아침에 이루어지지 않았습니다.",
         "공기 청정 비행선": "[[서울]]의 공기는 최악이다.",
         "데이터베이스권": "- [[서울]]중앙지법 민사합의62부(부장 이영광)는 \"방픽은 [[Crawler|크롤링]]으로 얻은 ...",
