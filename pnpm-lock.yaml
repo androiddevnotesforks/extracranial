@@ -40,12 +40,6 @@ importers:
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
-      dracula:
-        specifier: link:prism-react-renderer/themes/dracula
-        version: link:prism-react-renderer/themes/dracula
-      github:
-        specifier: link:prism-react-renderer/themes/github
-        version: link:prism-react-renderer/themes/github
       react:
         specifier: ^19.0.0
         version: 19.0.0
