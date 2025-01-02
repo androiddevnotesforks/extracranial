@@ -2499,6 +2499,10 @@ export const backlinks = {
     "Now Runs On": {
         "2022-11-20": "- [[Now Runs On]]"
     },
+    "Composer 9 Examples of Established Algorithmic Trading Strategies": {
+        "2025-01-02": "- [[Composer 9 Examples of Established Algorithmic Trading Strategies]]",
+        "frenzy.money": "- [[Composer 9 Examples of Established Algorithmic Trading Strategies]]"
+    },
     "Project Fiesole": {
         "2023-10-03": "- [[Project Fiesole]]",
         "2023-10-04": "- [[Project Fiesole]]",
@@ -5107,7 +5111,6 @@ export const backlinks = {
         "AWS Fargate": "... is a compute engine for [[Amazon]] ECS (Elastic Container Service) and ...",
         "DNS": "... Hey .com Server! Where is [[Amazon|amazon.com]]? Oh, OK, thanks.",
         "EC2": "[[Amazon]] Elastic Compute Cloud",
-        "Fast": "- Amazon Prime — [[Amazon]] announced the first version of ...",
         "Google": "... American information technology companies, alongside [[Amazon]], [[Apple]], [[Meta (Company)|Meta]], and [[Microsoft]]. ...",
         "Grammarly Internal Conference with Executives 2023-08-01": "... off with an internship at [[Amazon]] during the company's early phase, ...",
         "Jeff Bezos": "... former president and CEO of [[Amazon]], the world's largest [[e-commerce]] and ...",
@@ -6337,7 +6340,6 @@ export const backlinks = {
         "Cloudflare Worker": "... users to create and deploy [[JavaScript]] or [[WebAssembly]] code at the ...",
         "Deno Deploy": "- Deploy [[JavaScript]] Globally",
         "ESLint": "ESLint is an open-source [[JavaScript]] linting utility. The primary objective ...",
-        "Fast": "... created the first prototype of [[JavaScript]] in just 10 days and ...",
         "Ghost에서 외부 링크를 새로운 창에서 여는 방법": "물론 이렇게 매번 [[JavaScript]]를 통해 링크를 조작하는 방법은 웹 ...",
         "HTML": "... and scripting languages such as [[JavaScript]]. HTML",
         "HTMX": "- Implementation itself is [[JavaScript]]",
@@ -6523,7 +6525,6 @@ export const backlinks = {
         "2022-06-05": "... PDF/EPUBs with one command on [[Linux]] (and [[macOS]] very soon). This ...",
         "Chrome": "... mobile devices, including Windows, macOS, [[Linux]], [[Android]], and [[iOS]].",
         "ELF": "... and Linked Format, used in [[Linux]]",
-        "Fast": "... Git was publicly released with [[Linux]] 2.6.12-rc3 after only 17 days ...",
         "Heap (Computer Systems)": "In [[Linux]], the `brk` pointer will be ...",
         "Linux Permissions for Keys": "Note that [[Linux]] SSH manual says:",
         "Project FFMpeg for iPad": "... applications. Supports Android, Flutter, iOS, [[Linux]], [[macOS]], [[React Native]] and tvOS. ...",
@@ -8054,6 +8055,10 @@ export const backlinks = {
         "WorkerDOM": "... on providing DOM access to [[Web Worker]] [[Threads]].",
         "iiframe": "... containerizes an embedded web inside [[Web Worker]]."
     },
+    "Composer Stock Trading Bots to Consider in 2024": {
+        "2025-01-02": "- [[Composer Stock Trading Bots to Consider in 2024]]",
+        "frenzy.money": "- [[Composer Stock Trading Bots to Consider in 2024]]"
+    },
     "물총싸움 (14誠鉉)": {
         "2023-09-05": "- [[물총싸움 (14誠鉉)]]",
         "誠鉉": "- [[물총싸움 (14誠鉉)]]",
@@ -8159,6 +8164,9 @@ export const backlinks = {
     },
     "Link Preview for Arc": {
         "2022-12-06": "- [[Link Preview for Arc]]"
+    },
+    "frenzy.money": {
+        "2025-01-02": "- [[frenzy.money]]"
     },
     "HYBE": {
         "Apache Hive": "Not to be confused with [[HYBE]]",
@@ -9334,7 +9342,6 @@ export const backlinks = {
     "Git": {
         "2022-11-28": "- [[Git]]. Git Notes: git's coolest, most ...",
         "2023-02-08": "... Search across a half million [[git]] repos",
-        "Fast": "... Git — Linus Torvalds created [[Git]] in April 2005 and self-hosted ...",
         "How to Build Software like an SRE": "- use [[Git]]",
         "Make Git Case Sensitive": "Make [[Git]] [[Case-Sensitivity|Case Sensitive]]",
         "Migrating Project Aldehyde to FlightControl (February 24誠鉉)": "... extracranial workflow was simple — [[git]] push, wait for 10 minutes ...",
@@ -9691,7 +9698,8 @@ export const backlinks = {
         "2023-09-26": "- [[Project DOGO]]",
         "2023-09-29": "[[Project DOGO]]",
         "2024-06-12": "- [[Project DOGO]]",
-        "Project": "- [[Project DOGO]]?"
+        "Project": "- [[Project DOGO]]?",
+        "frenzy.money": "Spiritual Successor to [[Project DOGO]]"
     },
     "Useful ChatGPT Prompts": {
         "2023-04-10": "- [[Useful ChatGPT Prompts]]",
