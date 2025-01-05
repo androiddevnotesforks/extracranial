@@ -4992,7 +4992,8 @@ export const backlinks = {
         "hn.cho.sh 개발 기록": "- [[Can we ever build TikTok for Text]]"
     },
     "CSS Inject": {
-        "2023-03-17": "- [[CSS Inject]]"
+        "2023-03-17": "- [[CSS Inject]]",
+        "2025-01-04": "[[CSS Inject]]"
     },
     "Korean Discount": {
         "Born of this Land - The Founding Story of Hyundai": "... of the causes of the [[Korean Discount]]. That is, [[한민족|Korean]] companies do ...",
