@@ -4390,6 +4390,9 @@ export const backlinks = {
     "R=VD and Generative AIs": {
         "글감": "- [[R=VD and Generative AIs]]"
     },
+    "GitHub What should I work on": {
+        "2025-01-12": "- [[GitHub What should I work on]]"
+    },
     "Mr. Doob": {
         "2022-12-16": "- [[Mr. Doob]]"
     },
@@ -6894,6 +6897,9 @@ export const backlinks = {
         "2020-11-20": "- [[프로젝트 어덕행덕]]",
         "2021-02-26": "- [[프로젝트 어덕행덕]]",
         "2022-11-25": "- [[프로젝트 어덕행덕]]"
+    },
+    "GitHub What should I review": {
+        "2025-01-12": "- [[GitHub What should I review]]"
     },
     "Dither": {
         "One Bit Display": "- [[Dither]]"
