@@ -6563,6 +6563,9 @@ export const backlinks = {
     "0217 Contains Duplicate": {
         "Coding Tests": "- [x] [[0217 Contains Duplicate]]"
     },
+    "Drag and Drop": {
+        "2025-01-14": "- [[Drag and Drop]]"
+    },
     "Starlink": {
         "2022-10-19": "- [[Starlink]]"
     },
