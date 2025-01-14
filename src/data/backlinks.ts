@@ -8179,7 +8179,8 @@ export const backlinks = {
         "2022-12-06": "- [[Link Preview for Arc]]"
     },
     "frenzy.money": {
-        "2025-01-02": "- [[frenzy.money]]"
+        "2025-01-02": "- [[frenzy.money]]",
+        "2025-01-14": "- [[frenzy.money]]"
     },
     "HYBE": {
         "Apache Hive": "Not to be confused with [[HYBE]]",
