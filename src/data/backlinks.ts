@@ -1240,6 +1240,9 @@ export const backlinks = {
         "2023-02-15": "- [[One and Only (Social App)]]",
         "Z-Fellows": "... an interview with Z-Fellows with [[One and Only (Social App)]] on [[2023-03-19]]"
     },
+    "Explode and Off the Record": {
+        "2025-01-15": "- [[Explode and Off the Record]]"
+    },
     "Book Metadata as a Service": {
         "Fiercely Overpriced": "[[Book Metadata as a Service]] could also be one example."
     },
@@ -2582,6 +2585,9 @@ export const backlinks = {
     "Atomic Habits": {
         "Readings": "- [x] [[Atomic Habits]]",
         "水適穿石": "- [[Atomic Habits]]"
+    },
+    "Frontend Fundamentals": {
+        "2025-01-15": "- [[Frontend Fundamentals]]"
     },
     "WslRegisterDistribution Failed": {
         "2024-09-04": "[[WslRegisterDistribution Failed]]"
@@ -5086,6 +5092,9 @@ export const backlinks = {
         "2023-09-26": "- [[Nuclear Fusion Terrarium]]",
         "Nuclear Fusion Edible Capsule": "... a micro nuclear fusion reactor ([[nuclear fusion terrarium]]) into our body, emitting a ..."
     },
+    "ULID": {
+        "2025-01-16": "- [[ULID]]"
+    },
     "Imagining WebNPU API": {
         "2023-02-14": "- [[Imagining WebNPU API]]",
         "2023-02-18": "- [[Imagining WebNPU API]]",
@@ -6665,6 +6674,10 @@ export const backlinks = {
         "WorkerDOM": "[[Brane]] will follow WorkerDOM's core model.",
         "iiframe": "- Successor to [[Brane]]."
     },
+    "Base32": {
+        "2025-01-16": "- [[Base32]]",
+        "ULID": "... randomness component into a 26-character, [[base32]] string. Its design ensures both ..."
+    },
     "Lazy": {
         "2022-11-11": "- [[Lazy]]. [[Tools for Thought]]",
         "Data Capturers": "### [[Lazy]]"
@@ -7068,7 +7081,8 @@ export const backlinks = {
         "2024-04-23": "- [[Probe Server Errors]]"
     },
     "es-toolkit": {
-        "2024-10-02": "- [[es-toolkit]]"
+        "2024-10-02": "- [[es-toolkit]]",
+        "2025-01-16": "- [[es-toolkit]]"
     },
     "ossacc": {
         "2024-04-16": "- [[ossacc]]",
@@ -11364,6 +11378,9 @@ export const backlinks = {
         "2024-01-16": "- [[CS572 Search Engines]]",
         "2024-02-26": "- [[CS572 Search Engines]]",
         "2024-02-28": "- [[CS572 Search Engines]]"
+    },
+    "history.push vs history.replace": {
+        "2025-01-15": "- [[history.push vs history.replace]]"
     },
     "Create React App": {
         "Grammarly Work Note 2023-05-26": "... runs on Node.js 16 with [[Create React App]]. Node.js 16 sunsets on September ...",
