@@ -311,6 +311,9 @@ export const backlinks = {
     "2023-04-05": {
         "hn.cho.sh 개발 기록": "## [[2023-04-05]]"
     },
+    "2025-01-15": {
+        "Explode": "On [[2025-01-15]], Nikita Bier released his newest ..."
+    },
     "2023-09-28": {
         "빚 무서우면 장사를 어떻게 하지": "[[2023-09-28]]의 생각."
     },
@@ -1226,7 +1229,8 @@ export const backlinks = {
         "Neo Aldehyde": "What would the future of [[Aldehyde]] look like?"
     },
     "Block Screenshots in iOS": {
-        "2024-03-07": "- [[Block Screenshots in iOS]]"
+        "2024-03-07": "- [[Block Screenshots in iOS]]",
+        "Explode": "... as utilizing App Clips or [[Block Screenshots in iOS]]. iOS MessageKit was severely underutilized ..."
     },
     "Prehistoric": {
         "2023-05-10": "- [[Prehistoric]]",
@@ -1239,9 +1243,6 @@ export const backlinks = {
     "One and Only (Social App)": {
         "2023-02-15": "- [[One and Only (Social App)]]",
         "Z-Fellows": "... an interview with Z-Fellows with [[One and Only (Social App)]] on [[2023-03-19]]"
-    },
-    "Explode and Off the Record": {
-        "2025-01-15": "- [[Explode and Off the Record]]"
     },
     "Book Metadata as a Service": {
         "Fiercely Overpriced": "[[Book Metadata as a Service]] could also be one example."
@@ -2231,6 +2232,10 @@ export const backlinks = {
     },
     "Bloomberg Terminal": {
         "2023-03-06": "- [[Bloomberg Terminal]]"
+    },
+    "Explode": {
+        "2025-01-15": "- [[Explode]]",
+        "2025-01-16": "- [[Explode]]"
     },
     "Squircled App Icon Generator": {
         "2023-10-26": "- [[Squircled App Icon Generator]]"
@@ -5806,6 +5811,7 @@ export const backlinks = {
         "2022-10-15": "- [[Guestbook]]"
     },
     "The Paradoxical Moon Philosophy": {
+        "Explode": "... day, and these were small [[The Paradoxical Moon Philosophy|remora]] products that sometimes the idea ...",
         "Project Ganymede": "- [[The Paradoxical Moon Philosophy]]"
     },
     "2010년 테크 블로그 여행": {
@@ -9846,6 +9852,9 @@ export const backlinks = {
     "Project Florence Literature Review": {
         "Project Florence": "- [[Project Florence Literature Review]]"
     },
+    "Bershire Hathaway Annual Meeting 2025": {
+        "2025-01-16": "- [[Bershire Hathaway Annual Meeting 2025]]"
+    },
     "이역만리": {
         "한타 vs 케이타운": "[[이역만리]] 먼 길 건너와서 한국인들 사이에만 ..."
     },
@@ -10173,6 +10182,7 @@ export const backlinks = {
     },
     "Ideas are worthless": {
         "2022-10-03": "- [[Ideas are worthless]]",
+        "Explode": "As much as I feel [[ideas are worthless]]; in this very specific example, ...",
         "Supergravity Products": "- [[Ideas are worthless]]",
         "개성은 쟁취하는 것": "하지만 이제는 [[Ideas are worthless|정보의 존재보다 실체의 발현]]이 중요한 세상입니다.",
         "프로젝트 어덕행덕": "어차피 [[Ideas are worthless|아이디어는 가치가 없다]]."
@@ -12262,6 +12272,9 @@ export const backlinks = {
     "Era.app": {
         "2023-10-27": "- [[Era.app]]"
     },
+    "App Clips": {
+        "Explode": "- [[App Clips]] integration so that the receiver ..."
+    },
     "Maximum Likelihood Estimation": {
         "2023-03-27": "[[Maximum Likelihood Estimation]]",
         "Maximum A Posteriori": "... be thought of as \"regularized\" [[Maximum Likelihood Estimation|MLE]] (?)",
@@ -13390,6 +13403,7 @@ export const backlinks = {
     },
     "E13EA3.gif": {
         "Block Screenshots in iOS": "![[E13EA3.gif]]",
+        "Explode": "![[E13EA3.gif]]",
         "Project Ganymede": "![[E13EA3.gif]]"
     },
     "971BA5.png": {
@@ -13610,6 +13624,33 @@ export const backlinks = {
     },
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
+    },
+    "EAE392.png": {
+        "Explode": "![[EAE392.png]]"
+    },
+    "CFC7AF.png": {
+        "Explode": "![[CFC7AF.png]]"
+    },
+    "7FBBE3.gif": {
+        "Explode": "![[7FBBE3.gif]]"
+    },
+    "4FBA41.png": {
+        "Explode": "![[4FBA41.png]]"
+    },
+    "53A5CE.png": {
+        "Explode": "![[53A5CE.png]]"
+    },
+    "738EF9.png": {
+        "Explode": "![[738EF9.png]]"
+    },
+    "574079.png": {
+        "Explode": "![[574079.png]]"
+    },
+    "246C13.png": {
+        "Explode": "![[246C13.png]]"
+    },
+    "9E72D2.png": {
+        "Explode": "![[9E72D2.png]]"
     },
     "762D4A.png": {
         "Skeumorphism": "![[762D4A.png]]"
