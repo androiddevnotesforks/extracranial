@@ -3163,6 +3163,9 @@ export const backlinks = {
         "glTF": "... appearance, scene graph hierarchy, and [[animation]]. It is intended to be ...",
         "jQuery": "... and manipulation, event handling, and [[animation]] much simpler with an easy-to-use ..."
     },
+    "SignalKite DB Schema": {
+        "2025-01-18": "[[SignalKite DB Schema]]"
+    },
     "Django Rest Framework": {
         "2024-06-20": "- [[Django Rest Framework]]",
         "2024-06-24": "- [[Django Rest Framework]]"
@@ -4813,7 +4816,6 @@ export const backlinks = {
     },
     "Squircle": {
         "2022-11-11": "- Applied [[Squircle]]",
-        "2023-08-26": "[[Squircle]]",
         "Dynamic Island on the Web": "- Applied [[Squircle]]"
     },
     "함대결전": {
