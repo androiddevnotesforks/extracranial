@@ -13632,9 +13632,6 @@ export const backlinks = {
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
     },
-    "6DDK8vCkasBE0QHU 2.gif": {
-        "Explode": "![[6DDK8vCkasBE0QHU 2.gif]]"
-    },
     "EAE392.png": {
         "Explode": "![[EAE392.png]]"
     },
