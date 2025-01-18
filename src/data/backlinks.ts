@@ -6682,6 +6682,7 @@ export const backlinks = {
     },
     "Base32": {
         "2025-01-16": "- [[Base32]]",
+        "2025-01-17": "[[Base32]]",
         "ULID": "... randomness component into a 26-character, [[base32]] string. Its design ensures both ..."
     },
     "Lazy": {
@@ -12893,9 +12894,9 @@ export const backlinks = {
         "2022-10-16": "![[AA04D0.gif]]",
         "Dynamic Island on the Web": "![[AA04D0.gif]]"
     },
-    "885554.png": {
-        "2023-10-16": "![[885554.png]]",
-        "Project Ganymede": "![[885554.png]]"
+    "3185EF.png": {
+        "2023-10-16": "![[3185EF.png]]",
+        "Project Ganymede": "![[3185EF.png]]"
     },
     "BE2951.png": {
         "2023-09-07": "![[BE2951.png]]"
@@ -13081,6 +13082,12 @@ export const backlinks = {
         "2023-04-10": "> ![[FD02CB.png]]",
         "Vercel Incident Report (23誠鉉)": "> ![[FD02CB.png]]"
     },
+    "A359CE.png": {
+        "2025-01-17": "![[A359CE.png]]"
+    },
+    "743C98.png": {
+        "2025-01-17": "![[743C98.png]]"
+    },
     "B22093.png": {
         "2022-06-27": "![[B22093.png]]"
     },
@@ -13221,13 +13228,13 @@ export const backlinks = {
     "E8341D.png": {
         "2023-02-08": "![[E8341D.png]]"
     },
-    "8CE3E2.png": {
-        "2023-12-24": "![[8CE3E2.png]]",
-        "Project Ganymede": "![[8CE3E2.png]]"
+    "9A391C.png": {
+        "2023-12-24": "![[9A391C.png]]",
+        "Project Ganymede": "![[9A391C.png]]"
     },
-    "2AEC71.png": {
-        "2023-12-24": "![[2AEC71.png]]",
-        "Project Ganymede": "![[2AEC71.png]]"
+    "485E0B.png": {
+        "2023-12-24": "![[485E0B.png]]",
+        "Project Ganymede": "![[485E0B.png]]"
     },
     "902071.png": {
         "2022-12-24": "> ![[902071.png]]"
@@ -13300,9 +13307,9 @@ export const backlinks = {
     "184D2B.png": {
         "2023-01-23": "![[184D2B.png]]"
     },
-    "EEDDA7.gif": {
-        "2023-12-15": "![[EEDDA7.gif]]",
-        "Project Ganymede": "![[EEDDA7.gif]]"
+    "F47E19.gif": {
+        "2023-12-15": "![[F47E19.gif]]",
+        "Project Ganymede": "![[F47E19.gif]]"
     },
     "2BC3E2.jpg": {
         "2023-06-28": "![[2BC3E2.jpg]]"
@@ -13401,10 +13408,10 @@ export const backlinks = {
         "Aldehyde Landing Page 2023": "![[339420.gif]]",
         "날씨 요정": "![[339420.gif]]"
     },
-    "E13EA3.gif": {
-        "Block Screenshots in iOS": "![[E13EA3.gif]]",
-        "Explode": "![[E13EA3.gif]]",
-        "Project Ganymede": "![[E13EA3.gif]]"
+    "7681FE.gif": {
+        "Block Screenshots in iOS": "![[7681FE.gif]]",
+        "Explode": "![[7681FE.gif]]",
+        "Project Ganymede": "![[7681FE.gif]]"
     },
     "971BA5.png": {
         "Bing Chat for All Browsers in Japan": "![[971BA5.png]]"
@@ -13625,14 +13632,20 @@ export const backlinks = {
     "58A088.jpeg": {
         "Macroeconomics": "![[58A088.jpeg]]"
     },
+    "6DDK8vCkasBE0QHU 2.gif": {
+        "Explode": "![[6DDK8vCkasBE0QHU 2.gif]]"
+    },
     "EAE392.png": {
         "Explode": "![[EAE392.png]]"
     },
     "CFC7AF.png": {
         "Explode": "![[CFC7AF.png]]"
     },
-    "7FBBE3.gif": {
-        "Explode": "![[7FBBE3.gif]]"
+    "AE6FB5.gif": {
+        "Explode": "![[AE6FB5.gif]]"
+    },
+    "6A9632.gif": {
+        "Explode": "![[6A9632.gif]]"
     },
     "4FBA41.png": {
         "Explode": "![[4FBA41.png]]"
@@ -14142,59 +14155,59 @@ export const backlinks = {
     "7EF8EE.png": {
         "Everyprompt": "![[7EF8EE.png]]"
     },
-    "25F68A.jpeg": {
-        "Project Ganymede": "![[25F68A.jpeg]]"
+    "287818.jpeg": {
+        "Project Ganymede": "![[287818.jpeg]]"
     },
-    "D7D1B8.gif": {
-        "Project Ganymede": "![[D7D1B8.gif]]"
+    "5D373F.gif": {
+        "Project Ganymede": "![[5D373F.gif]]"
     },
-    "61B318.jpg": {
-        "Project Ganymede": "![[61B318.jpg]]"
+    "CD9A62.jpg": {
+        "Project Ganymede": "![[CD9A62.jpg]]"
     },
     "2023-11-13": {
         "Project Ganymede": "## [[2023-11-13]]"
     },
-    "FCAC15.png": {
-        "Project Ganymede": "![[FCAC15.png]]"
+    "B9D4E6.png": {
+        "Project Ganymede": "![[B9D4E6.png]]"
     },
-    "656236.png": {
-        "Project Ganymede": "![[656236.png]]"
+    "661CA2.png": {
+        "Project Ganymede": "![[661CA2.png]]"
     },
-    "C53193.png": {
-        "Project Ganymede": "![[C53193.png]]"
+    "92533C.png": {
+        "Project Ganymede": "![[92533C.png]]"
     },
-    "7A1B12.png": {
-        "Project Ganymede": "![[7A1B12.png]]"
+    "677F5A.png": {
+        "Project Ganymede": "![[677F5A.png]]"
     },
-    "E2FC5B.png": {
-        "Project Ganymede": "![[E2FC5B.png]]"
+    "3C6D29.png": {
+        "Project Ganymede": "![[3C6D29.png]]"
     },
-    "111134.png": {
-        "Project Ganymede": "![[111134.png]]"
+    "10F013.png": {
+        "Project Ganymede": "![[10F013.png]]"
     },
-    "40A9E9.png": {
-        "Project Ganymede": "![[40A9E9.png]]"
+    "8CB950.png": {
+        "Project Ganymede": "![[8CB950.png]]"
     },
-    "14FF06.png": {
-        "Project Ganymede": "![[14FF06.png]]"
+    "A08F59.png": {
+        "Project Ganymede": "![[A08F59.png]]"
     },
-    "A9C91C.png": {
-        "Project Ganymede": "![[A9C91C.png]]"
+    "D54DB2.png": {
+        "Project Ganymede": "![[D54DB2.png]]"
     },
-    "2229DC.gif": {
-        "Project Ganymede": "![[2229DC.gif]]"
+    "DF7DE6.gif": {
+        "Project Ganymede": "![[DF7DE6.gif]]"
     },
-    "8A52BA.png": {
-        "Project Ganymede": "![[8A52BA.png]]"
+    "A6A88D.png": {
+        "Project Ganymede": "![[A6A88D.png]]"
     },
-    "E19673.png": {
-        "Project Ganymede": "![[E19673.png]]"
+    "4A19CD.png": {
+        "Project Ganymede": "![[4A19CD.png]]"
     },
-    "A09B56.png": {
-        "Project Ganymede": "![[A09B56.png]]"
+    "7637E1.png": {
+        "Project Ganymede": "![[7637E1.png]]"
     },
-    "B89B94.gif": {
-        "Project Ganymede": "![[B89B94.gif]]"
+    "4425A0.gif": {
+        "Project Ganymede": "![[4425A0.gif]]"
     },
     "60F80D.png": {
         "Collaboration-based Tools for Thought": "![[60F80D.png]]",
