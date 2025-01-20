@@ -4532,6 +4532,9 @@ export const backlinks = {
         "Sending Notifications on Chrome Extension": "... Updates of a given Chrome [[WebExtension|Extension]] (with different content, of course)",
         "YCLF 주간 사용자 1000명": "## 1. Chrome|크롬 [[WebExtension|익스텐션]] 스토어의 집계"
     },
+    "useIsClient vs useIsMounted": {
+        "2025-01-20": "- [[useIsClient vs useIsMounted]]"
+    },
     "Frames Per Second": {
         "2022-10-10": "... AC's & DIT's - Cinematography.com. [[Frames Per Second]].",
         "Graphics Engine Process": "... to 16ms, which yields 60 [[Frames Per Second]]."
@@ -5430,6 +5433,9 @@ export const backlinks = {
     },
     "동아일보 1926년 2월 13일 이완용 사망 기사 검열 처리에 대한 사건": {
         "2023-04-24": "- [[동아일보 1926년 2월 13일 이완용 사망 기사 검열 처리에 대한 사건]]"
+    },
+    "Navigator Copy as Rich Text": {
+        "2025-01-20": "- [[Navigator Copy as Rich Text]]"
     },
     "Cloud Computing": {
         "AI-native": "... of cloud-native development. It uses [[cloud computing]] infrastructure, services, and tools to ...",
@@ -8495,6 +8501,9 @@ export const backlinks = {
         "2022-10-12": "- [[Better Hacker News]]",
         "Handwriting Tools for Thoughts": "- [[Better Hacker News]]",
         "Horizontally Stacked Interface": "  - [[Better Hacker News]]?"
+    },
+    "Risk & Responsibility": {
+        "2025-01-20": "- [[Risk & Responsibility]]"
     },
     "Graphics": {
         "2023-02-10": "... and effort by auto-generating quality [[graphics]] from ordinary screenshots",
@@ -11628,6 +11637,9 @@ export const backlinks = {
     },
     "Semantic Web": {
         "2024-09-11": "- [[Semantic Web]]"
+    },
+    "My UI Framework": {
+        "2025-01-20": "- [[My UI Framework]]"
     },
     "Letter to Mr. Matt Rickard on 2022-10-03": {
         "2022-10-04": "- [[Letter to Mr. Matt Rickard on 2022-10-03]]",
