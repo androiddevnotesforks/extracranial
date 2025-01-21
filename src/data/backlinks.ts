@@ -1334,6 +1334,9 @@ export const backlinks = {
     "Vitess": {
         "PlanetScale": "... on the open-source MySQL compatible [[Vitess]] framework, designed to handle the ..."
     },
+    "already.dev": {
+        "2025-01-21": "- [[already.dev]]"
+    },
     "0067 Add Binary": {
         "Coding Tests": "- [x] [[0067 Add Binary]]"
     },
@@ -4594,7 +4597,6 @@ export const backlinks = {
         "2024-03-19": "- [[Project Ganymede]]",
         "2024-04-14": "- [[Project Ganymede|Ganymede]]",
         "Person 4460DA": "... about a new messaging app ([[Project Ganymede]])",
-        "Project": "- [[Project Ganymede]]",
         "The Paradoxical Moon Philosophy": "I am building [[Project Ganymede]]. It's a social app, but ..."
     },
     "서당개 3년이면 풍월을 읊는다": {
@@ -5328,7 +5330,9 @@ export const backlinks = {
         "Wikiversity": "... Wikiversity is a Wikimedia Foundation [[project]] devoted to learning resources, learning ...",
         "Zenly Playbook": "... efficiency from a 3-year research [[project]] for a child safety app ...",
         "aaaa.coffee": "Someday [[Project]]. \"Buy me a coffee\" but ...",
+        "already.dev": "Someday [[Project]]",
         "elevatorpitch.com": "Someday [[Project]]. Simple Demo website Creator to ...",
+        "gimme": "Someday [[Project]]",
         "http 없는 http 서버 만들기": "우아한테크캠프 2일차 [[Project|프로젝트]] 중 http 모듈 (당연히 `express` ...",
         "iiframe": "Someday [[Project]]. Improved `iframe` that containerizes an ...",
         "latexify.cho.sh": "Someday [[Project]]. Drop an image to convert ...",
@@ -7523,6 +7527,9 @@ export const backlinks = {
     },
     "Diagram Labs": {
         "2022-12-16": "- [[Diagram Labs]]"
+    },
+    "gimme": {
+        "2025-01-21": "- [[gimme]]"
     },
     "Discuss on Social Media Button": {
         "2023-02-21": "- [[Discuss on Social Media Button]]"
@@ -9745,7 +9752,6 @@ export const backlinks = {
         "2023-09-26": "- [[Project DOGO]]",
         "2023-09-29": "[[Project DOGO]]",
         "2024-06-12": "- [[Project DOGO]]",
-        "Project": "- [[Project DOGO]]?",
         "frenzy.money": "Spiritual Successor to [[Project DOGO]]"
     },
     "Useful ChatGPT Prompts": {
@@ -11179,7 +11185,9 @@ export const backlinks = {
         "Very Good Photo Backup Service": "[[Someday]] [[Project]].",
         "WebNPU API를 상상하다": "[[Someday|언젠가]] [[AI]] 네이티브(우리 [[Cloud Computing|클라우드]] 네이티브처럼)가 ...",
         "aaaa.coffee": "[[Someday]] [[Project]]. \"Buy me a coffee\" ...",
+        "already.dev": "[[Someday]] [[Project]]",
         "elevatorpitch.com": "[[Someday]] [[Project]]. Simple Demo website Creator ...",
+        "gimme": "[[Someday]] [[Project]]",
         "iiframe": "[[Someday]] [[Project]]. Improved `iframe` that containerizes ...",
         "latexify.cho.sh": "[[Someday]] [[Project]]. Drop an image to ...",
         "linkflags.crx": "Packing Linkflags as Chrome Extensions [[Someday]] [[Project]]",
@@ -11283,8 +11291,7 @@ export const backlinks = {
         "2024-05-19": "- [[Prject PIRI]]",
         "2024-05-30": "- [[Prject PIRI]]",
         "2024-06-03": "- [[Prject PIRI]]",
-        "2024-06-25": "- [[Prject PIRI]]",
-        "Project": "- [[Prject PIRI]]"
+        "2024-06-25": "- [[Prject PIRI]]"
     },
     "Real Interviews": {
         "2022-09-22": "- [[Real Interviews]]",
@@ -11639,7 +11646,8 @@ export const backlinks = {
         "2024-09-11": "- [[Semantic Web]]"
     },
     "My UI Framework": {
-        "2025-01-20": "- [[My UI Framework]]"
+        "2025-01-20": "- [[My UI Framework]]",
+        "2025-01-21": "- [[My UI Framework]]"
     },
     "Letter to Mr. Matt Rickard on 2022-10-03": {
         "2022-10-04": "- [[Letter to Mr. Matt Rickard on 2022-10-03]]",
