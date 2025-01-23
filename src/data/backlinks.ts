@@ -1952,6 +1952,9 @@ export const backlinks = {
     "UV": {
         "2024-07-26": "- [[UV]]"
     },
+    "audiobook.ing": {
+        "2025-01-23": "[[audiobook.ing]]"
+    },
     "Node.js 앱을 AWS EB에서 Heroku로 옮기기": {
         "2022-11-19": "  - [[Node.js 앱을 AWS EB에서 Heroku로 옮기기]]",
         "Migrating Node.js apps from AWS EB to Heroku": "- [[Node.js 앱을 AWS EB에서 Heroku로 옮기기]]"
