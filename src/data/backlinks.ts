@@ -8748,7 +8748,7 @@ export const backlinks = {
     },
     "Open Source vs Source Available": {
         "2024-03-02": "- [[Open Source vs Source Available]]",
-        "Open Core Models": "[[Open Source vs Source Available]]"
+        "Open Core Models": "- [[Open Source vs Source Available]]"
     },
     "Better Aldehyde": {
         "2022-07-12": "- [[Better Aldehyde]]",
