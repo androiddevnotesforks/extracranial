@@ -2913,6 +2913,9 @@ export const backlinks = {
         "2023-03-03": "- [[Person 960D1D]]",
         "Project PEOPLE": "- [[Person 960D1D]]"
     },
+    "KSAT Benchmark": {
+        "Benchmarking LLMs": "- [[KSAT Benchmark]]"
+    },
     "Text Message": {
         "2022-07-05": "... Clever workaround for sending delayed [[Text Message|messages]] in iOS with [[Shortcuts]] and ...",
         "Believer Plan": "... 전달할 수 있는 간단한 감사 [[Text Message|메시지]]를 작성할 수 있는 기회가 주어집니다.",
@@ -3185,9 +3188,6 @@ export const backlinks = {
     "Tana": {
         "2023-01-30": "- Got invited to [[Tana]].",
         "Text-based Tools for Thought": "### [[Tana]]"
-    },
-    "The DB Cron Test": {
-        "2025-01-22": "- [[The DB Cron Test]]"
     },
     "WeChat": {
         "Did Bondee Really Suddenly Rise": "... for Gen-Z. It even surpassed [[WeChat]] in downloads for a while, ...",
@@ -6216,6 +6216,10 @@ export const backlinks = {
     "Partition Problem": {
         "2023-01-23": "- [[Partition Problem]]"
     },
+    "DB Cron Benchmark": {
+        "2025-01-22": "- [[DB Cron Benchmark]]",
+        "Benchmarking LLMs": "- [[DB Cron Benchmark]]"
+    },
     "Hugging Face": {
         "Stable Alternative": "... → text`. AWS SageMaker? Or [[Hugging Face]] as an [[API]] server?"
     },
@@ -7154,6 +7158,7 @@ export const backlinks = {
     "Firefox": {
         "2022-10-10": "... - the Web developer blog [[Firefox]]",
         "2023-03-05": "- [[Firefox]]",
+        "2025-01-24": "[[Firefox]]",
         "Apple Newsroom 서체 따라하기": "... 있어도 산돌고딕 네오를 불러오는 반면 [[Firefox]] 계열은 그러지 못한다. 때문에 Firefox에서 ...",
         "Bing Chat for All Browsers Widespread Unavailability Incident (April 23誠鉉)": "... While some reported that the Chrome/[[Firefox]] version did not work and ...",
         "DeepL vs. GPT 3.5 vs. GPT 4 벤치마크": "... fixes 5-year-old Defender bug, reducing [[Firefox]]-related CPU use by 75%  ...",
@@ -10001,6 +10006,9 @@ export const backlinks = {
     },
     "Extracranial.com": {
         "2024-12-05": "- [[Extracranial.com]]"
+    },
+    "Benchmarking LLMs": {
+        "2025-01-28": "- [[Benchmarking LLMs]]"
     },
     "Passkey": {
         "2022-06-20": "... that this is not Apple [[Passkey]]. This is the Privacy Pass ...",
