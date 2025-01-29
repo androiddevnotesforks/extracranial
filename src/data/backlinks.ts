@@ -8747,8 +8747,7 @@ export const backlinks = {
         "2024-04-14": "- [[망 사용료]]"
     },
     "Open Source vs Source Available": {
-        "2024-03-02": "- [[Open Source vs Source Available]]",
-        "Open Core Models": "[[Open Source vs Source Available]]"
+        "2024-03-02": "- [[Open Source vs Source Available]]"
     },
     "Better Aldehyde": {
         "2022-07-12": "- [[Better Aldehyde]]",
@@ -8912,6 +8911,9 @@ export const backlinks = {
     "Apple vs Spotify": {
         "2022-10-27": "### [[Apple vs Spotify]]",
         "2024-03-05": "- [[Apple vs Spotify]]"
+    },
+    "MLX vs GGUF": {
+        "2025-01-30": "[[MLX vs GGUF]]"
     },
     "Computational Theory": {
         "Las Vegas Algorithm": "... accurate results—another exciting property in [[Computational Theory]].",
