@@ -6595,7 +6595,7 @@ export const backlinks = {
         "2024-12-06": "[[GitHub PR Message Prompt]]",
         "2024-12-18": "[[GitHub PR Message Prompt]]",
         "2024-12-19": "[[GitHub PR Message Prompt]]",
-        "2025-02-04": "[[GitHub PR Message Prompt]]",
+        "2025-02-04": "- [[GitHub PR Message Prompt]]",
         "Useful ChatGPT Prompt": "[[GitHub PR Message Prompt]]"
     },
     "한국통사": {
@@ -11249,6 +11249,9 @@ export const backlinks = {
     "커피의 끝": {
         "2023-09-19": "- [[커피의 끝]]"
     },
+    "Web Scheduler": {
+        "2025-02-04": "- [[Web Scheduler]]"
+    },
     "Standard Cauchy": {
         "2023-03-07": "- [[Standard Cauchy]]"
     },
@@ -12014,7 +12017,7 @@ export const backlinks = {
         "2023-04-10": "- [[Useful ChatGPT Prompt]]",
         "2023-09-20": "- [[Useful ChatGPT Prompt]]",
         "2023-09-27": "- [[Useful ChatGPT Prompt]]",
-        "2025-02-04": "[[Useful ChatGPT Prompt]]",
+        "2025-02-04": "- [[Useful ChatGPT Prompt]]",
         "Do not Hallucinate": "[[Useful ChatGPT Prompt]]",
         "Make GPT Print LaTeX": "[[Useful ChatGPT Prompt]]"
     },
