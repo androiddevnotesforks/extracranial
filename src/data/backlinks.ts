@@ -3130,6 +3130,9 @@ export const backlinks = {
     "Federated Transfer Learning": {
         "Qiang Yang et al. Federated Machine Learning Concept and Applications": "- [[Federated Transfer Learning]]"
     },
+    "Do not Hallucinate": {
+        "Useful ChatGPT Prompt": "[[Do not Hallucinate]]"
+    },
     "Slow Down Your Clock Cycle Speed": {
         "2022-10-12": "- [[Slow Down Your Clock Cycle Speed]]",
         "2022-10-13": "- [[Slow Down Your Clock Cycle Speed]]",
@@ -6253,7 +6256,7 @@ export const backlinks = {
         "2023-09-30": "[[LaTeX]]",
         "Make GPT Print LaTeX": "... succinct and accurate explanation. Use [[LaTex]] wherever possible with two dollar ...",
         "Space in LaTeX": "Space in [[LaTeX]]",
-        "Useful ChatGPT Prompts": "## Use [[LaTeX]]",
+        "Useful ChatGPT Prompt": "## Use [[LaTeX]]",
         "latexify.cho.sh": "... convert the equation into $\\TeX$ [[LaTeX]]"
     },
     "StoreKit": {
@@ -6591,7 +6594,9 @@ export const backlinks = {
         "2024-11-15": "[[GitHub PR Message Prompt]]",
         "2024-12-06": "[[GitHub PR Message Prompt]]",
         "2024-12-18": "[[GitHub PR Message Prompt]]",
-        "2024-12-19": "[[GitHub PR Message Prompt]]"
+        "2024-12-19": "[[GitHub PR Message Prompt]]",
+        "2025-02-04": "[[GitHub PR Message Prompt]]",
+        "Useful ChatGPT Prompt": "[[GitHub PR Message Prompt]]"
     },
     "한국통사": {
         "2023-08-31": "- [[한국통사]]",
@@ -8479,6 +8484,9 @@ export const backlinks = {
     "Next.js Upstream Image Response Failed": {
         "2024-07-31": "- [[Next.js Upstream Image Response Failed]]"
     },
+    "React God": {
+        "Useful ChatGPT Prompt": "[[React God]]"
+    },
     "Edge Browser": {
         "Edge": "- [[Edge Browser]]"
     },
@@ -9766,12 +9774,6 @@ export const backlinks = {
         "2023-09-29": "[[Project DOGO]]",
         "2024-06-12": "- [[Project DOGO]]",
         "frenzy.money": "Spiritual Successor to [[Project DOGO]]"
-    },
-    "Useful ChatGPT Prompts": {
-        "2023-04-10": "- [[Useful ChatGPT Prompts]]",
-        "2023-09-20": "- [[Useful ChatGPT Prompts]]",
-        "2023-09-27": "- [[Useful ChatGPT Prompts]]",
-        "Make GPT Print LaTeX": "[[Useful ChatGPT Prompts]]"
     },
     "P-series Test": {
         "2023-01-31": "- [[P-series Test]]"
@@ -12007,6 +12009,14 @@ export const backlinks = {
     "컴퓨터는 향정신성 약물인가": {
         "2023-02-09": "- [[컴퓨터는 향정신성 약물인가]]",
         "30-Day Tweet Test (Harry Stebbings)": "... Computers Psychotropic Substances <br/> 🇰🇷 [[컴퓨터는 향정신성 약물인가]]      ..."
+    },
+    "Useful ChatGPT Prompt": {
+        "2023-04-10": "- [[Useful ChatGPT Prompt]]",
+        "2023-09-20": "- [[Useful ChatGPT Prompt]]",
+        "2023-09-27": "- [[Useful ChatGPT Prompt]]",
+        "2025-02-04": "[[Useful ChatGPT Prompt]]",
+        "Do not Hallucinate": "[[Useful ChatGPT Prompt]]",
+        "Make GPT Print LaTeX": "[[Useful ChatGPT Prompt]]"
     },
     "LAH Case Study": {
         "2023-07-17": "- [[LAH Case Study]]"
