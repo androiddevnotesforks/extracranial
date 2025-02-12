@@ -820,6 +820,9 @@ export const backlinks = {
     "2023-05-16": {
         "Project Heimdall": "## [[2023-05-16]]"
     },
+    "2025-02-12": {
+        "every.news": "## [[2025-02-12]]"
+    },
     "2022-10-11": {
         "Letter to the Heptabase Team on 2022-10-11": "... to the Heptabase Team on [[2022-10-11]]",
         "Open Graph Image as a Service": "- [[2022-10-11]]"
@@ -6064,6 +6067,9 @@ export const backlinks = {
         "30-Day Tweet Test (Harry Stebbings)": "... Rise of Bondee <br/> 🇰🇷 [[혜성처럼 나타난 본디]]      ...",
         "본디는 사실 혜성이 아니다": "어제 [[혜성처럼 나타난 본디]] 글에서 [[Bondee|본디]]에 대해서 알아보았다. 하지만 ..."
     },
+    "Cline Prompts": {
+        "2025-02-10": "[[Cline Prompts]]"
+    },
     "Statistics": {
         "2023-03-07": "- [[Statistics]]",
         "AI replaces expensive jobs first": "... can appear depending on how [[statistics]] are captured. If you maliciously ...",
@@ -10476,6 +10482,9 @@ export const backlinks = {
         "라즈베리 파이로 스마트 오디오 시스템 만들기": "... Device 버튼을 누르면 다음과 같이 [[OS]]를 다운로드할 수 있는 창이 나타난다.",
         "앰비언트 컴퓨팅을 향해": "... 결론은 전용 기기를 만들거나, 스마트폰 [[OS]]에 네이티브하게 통합되는 일 밖에 없었다."
     },
+    "Tailwind Break All": {
+        "2025-02-11": "- [[Tailwind Break All]]"
+    },
     "Curve Fitting for Charts": {
         "2022-10-21": "- [[Curve Fitting for Charts]]"
     },
@@ -11790,6 +11799,10 @@ export const backlinks = {
     "Gumroad": {
         "2022-12-09": "- [[Gumroad]]",
         "Survivorship Biased": "- [[Gumroad]]"
+    },
+    "every.news": {
+        "2025-02-12": "[[every.news]]",
+        "2025-02-13": "- [[every.news]]"
     },
     "Apache": {
         "Apache Kafka": "[[Apache]] Kafka is an open-source distributed ...",
