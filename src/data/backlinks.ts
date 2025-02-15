@@ -7902,6 +7902,9 @@ export const backlinks = {
         "Grammarly Work Note 2023-05-30": "Today [[Grammarly Experimentations Team]] discussed [[Strategy|strategies]] to reduce cost ...",
         "Project Prepare for Grammarly": "Project to prepare for my [[Grammarly Experimentations Team]] team employment."
     },
+    "INCL CLI Setup": {
+        "2025-02-13": "- [[INCL CLI Setup]]"
+    },
     "자아는 발굴되는 것이다": {
         "2023-03-08": "- [[자아는 발굴되는 것이다]]",
         "anaclumos": "- A good example of [[자아는 발굴되는 것이다|Excavating Egos]]."
@@ -9387,6 +9390,9 @@ export const backlinks = {
     },
     "Queueing in Internetworking and Congestions": {
         "Internetworking": "- [[Queueing in Internetworking and Congestions]]"
+    },
+    "Labor Illusion": {
+        "2025-02-14": "[[Labor Illusion]]"
     },
     "DjVu": {
         "Screenshot as an API": "... texts. For generic use cases, [[DjVu]]."
@@ -11668,6 +11674,9 @@ export const backlinks = {
     },
     "Social Network Service": {
         "Jumpsite": "... a collective term for a [[Social Network Service]] mainly consisting of links to ..."
+    },
+    "kill3000": {
+        "2025-02-13": "- [[kill3000]]"
     },
     "Stripe Press": {
         "2024-03-28": "- [[Stripe Press]]"
