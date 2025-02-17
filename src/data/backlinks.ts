@@ -4654,6 +4654,9 @@ export const backlinks = {
         "Deepnote": "- Data Science [[Collaboration-based Tools for Thought]].",
         "Tools for Thought": "- [[Collaboration-based Tools for Thought]]. for teams."
     },
+    "OneStack.dev": {
+        "2025-02-17": "- [[OneStack.dev]]"
+    },
     "Cache Average Access Time": {
         "2022-11-04": "- [[Cache Average Access Time]]",
         "Translation Look-aside Buffers": "- Similar to [[Cache Average Access Time]],"
@@ -11102,6 +11105,9 @@ export const backlinks = {
     },
     "Icon Provider": {
         "2024-06-21": "- [[Icon Provider]]"
+    },
+    "Zero": {
+        "2025-02-17": "- [[Zero]]"
     },
     "시간-돈": {
         "2023-11-23": "- [[시간-돈]]"
